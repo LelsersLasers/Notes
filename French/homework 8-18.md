@@ -22,12 +22,23 @@
 
 ## IR
 
+### Type 1 (ex: finir)
+
 - Je    chois**is**
 - Tu    chois**is**
 - Il    chois**it**
 - Nous  chois**issons**
 - Vous  chois**issez**
 - Ils   chois**issent**
+
+### Type 2 (ex: mentir)
+
+- Je    dor**s**
+- Tu    dor**s**
+- Il    dor**t**
+- Nous  dorm**ons**
+- Vous  dorm**ez**
+- Ils   dorm**ent**
 
 ## RE
 

@@ -1,10 +1,10 @@
-# Zedalis - Honors Biology - Period 6 + X (AE)
+Zedalis - Honors Biology - Period 6 + X (AE)
 
-## The chemistry of life
+# Unit 1: The chemistry of life
 
-### The study of life
+## Chapter 1: The study of life
 
-#### The process of science
+### The process of science
 
 - Inductive reasoning:
     - Particular results to produce general scientific principles
@@ -39,7 +39,7 @@
     - Abstract: concise summary
     - Results section does not contain any interpertion
 
-#### Properties of life
+### Properties of life
 
 - Order
     - Organized and structured
@@ -55,7 +55,7 @@
 - Evolution
     - Diversity from mutations (random changes over time)
 
-#### Levels of order
+### Levels of order
 
 - Atom:
     - Smallest unit that is an element
@@ -82,7 +82,7 @@
 - Ecosystem: all the living things in an area with the abiotic, non-living parts of that environment (ex: nitrogen in the soil or rain water)
 - Biosphere: collection of all ecosystems (and represents the zones of life on Earth including land, water, and atmosphere)
 
-#### The diversity of life
+### The diversity of life
 
 - Evolution:
     - The source of diversity
@@ -92,17 +92,25 @@
     - Based on similarities and differences in genetic or physical traits or both
     - Nodes and branches
 
-#### Key terms
+### Key terms
 
 Link: https://openstax.org/books/biology-ap-courses/pages/1-key-terms
 
+### 8/18 homework questions
 
-### The chemical foundation of life
+TODO:
+
+1. Create a diagram to describe the hierarchical organization of the biological world.
+2. Describe the characteristics that define life.
+3. How do viruses fit into our definitions of living systems?
 
 
-## Big Ideas
+## The chemical foundation of life
 
-### Evolution
+
+# Big Ideas
+
+## Evolution
 
 - The process of evolution drives the diversity and unity of life
 - Organisms are linked by lines of descent from common ancestry
@@ -111,6 +119,6 @@ Link: https://openstax.org/books/biology-ap-courses/pages/1-key-terms
 
 
 
-### Energy and Homeostasis
-### Information and Communication
-### Systems and Interactions
+## Energy and Homeostasis
+## Information and Communication
+## Systems and Interactions
