@@ -1,7 +1,5 @@
 - Textbooks:
     - French
-        - Online
-            - GET CLASS INVITE CODE
         - Workbook (in class?)
         - Novel (in class?)
 
