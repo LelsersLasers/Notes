@@ -43,15 +43,15 @@
 - Organized and structured
 #### Response to Stimuli
 #### Reproduction
-    - Pass DNA/genes
+- Pass DNA/genes
 #### Adaptation
-    - Consquence of natural selection
+- Consquence of natural selection
 #### Growth and development
 #### Regulation/Homeostasis
-    - Retain a "steady state"
+- Retain a "steady state"
 #### Energy Processing
 #### Evolution
-    - Diversity from mutations (random changes over time)
+- Diversity from mutations (random changes over time)
 
 ### Levels of order
 
