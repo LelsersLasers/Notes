@@ -2,7 +2,9 @@
 
 ## The chemistry of life
 
-### The process of science
+### The study of life
+
+#### The process of science
 
 - Inductive reasoning:
     - Particular results to produce general scientific principles
@@ -37,23 +39,23 @@
     - Abstract: concise summary
     - Results section does not contain any interpertion
 
-### Properties of life
+#### Properties of life
 
-#### Order
+##### Order
 - Organized and structured
-#### Response to Stimuli
-#### Reproduction
+##### Response to Stimuli
+##### Reproduction
 - Pass DNA/genes
-#### Adaptation
+##### Adaptation
 - Consquence of natural selection
-#### Growth and development
-#### Regulation/Homeostasis
+##### Growth and development
+##### Regulation/Homeostasis
 - Retain a "steady state"
-#### Energy Processing
-#### Evolution
+##### Energy Processing
+##### Evolution
 - Diversity from mutations (random changes over time)
 
-### Levels of order
+#### Levels of order
 
 - Atom:
     - Smallest unit that is an element
@@ -80,7 +82,7 @@
 - Ecosystem: all the living things in an area with the abiotic, non-living parts of that environment (ex: nitrogen in the soil or rain water)
 - Biosphere: collection of all ecosystems (and represents the zones of life on Earth including land, water, and atmosphere)
 
-### The diversity of life
+#### The diversity of life
 
 - Evolution:
     - The source of diversity
@@ -90,9 +92,13 @@
     - Based on similarities and differences in genetic or physical traits or both
     - Nodes and branches
 
-### Key terms
+#### Key terms
 
 Link: https://openstax.org/books/biology-ap-courses/pages/1-key-terms
+
+
+### The chemical foundation of life
+
 
 ## Big Ideas
 
