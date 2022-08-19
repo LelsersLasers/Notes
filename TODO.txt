@@ -1,0 +1,39 @@
+- Textbooks:
+    - French
+        - Online (see syllabus)
+        - Workbook (bookstore)
+        - Novel (bookstore)
+    - History
+        - Give me liberty (bookstore)
+    - Stats
+        - Advanced High School Statistics, 2nd Edition (bookstore)
+    - Jacket (bookstore)
+
+
+- NVIM:
+    - Multi cursor
+    - Learn keybinds
+
+- gsconnect
+- set up xmonad
+- smaller titlebars in gnome
+
+
+- DONE: set up school wifi
+    Wireless Name (SSID):
+    Bishops Student
+    Security Type:
+    WPA2-Enterprise
+    Encryption Type:
+    AES (CCMP)
+    EAP Method:
+    EAP-TLS (or TLS)
+    Root CA Certificate(s):
+    The Bishop's School Root CA I
+    Server Name:
+    na1.cloudpath.net
+    Client Certificate:
+    <Download Above>
+    Username:
+    <Download Above>
+
