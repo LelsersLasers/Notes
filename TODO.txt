@@ -1,6 +1,7 @@
 - Textbooks:
     - French
-        - Online (see syllabus)
+        - Online
+            - GET CLASS INVITE CODE
         - Workbook (bookstore)
         - Novel (bookstore)
     - History
