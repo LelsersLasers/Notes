@@ -2,13 +2,8 @@
     - French
         - Online
             - GET CLASS INVITE CODE
-        - Workbook (bookstore)
-        - Novel (bookstore)
-    - History
-        - Give me liberty (bookstore)
-    - Stats
-        - Advanced High School Statistics, 2nd Edition (bookstore)
-    - Jacket (bookstore)
+        - Workbook (in class?)
+        - Novel (in class?)
 
 
 - NVIM:
