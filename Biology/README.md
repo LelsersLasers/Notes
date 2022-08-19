@@ -41,19 +41,19 @@
 
 #### Properties of life
 
-##### Order
-- Organized and structured
-##### Response to Stimuli
-##### Reproduction
-- Pass DNA/genes
-##### Adaptation
-- Consquence of natural selection
-##### Growth and development
-##### Regulation/Homeostasis
-- Retain a "steady state"
-##### Energy Processing
-##### Evolution
-- Diversity from mutations (random changes over time)
+- Order
+    - Organized and structured
+- Response to Stimuli
+- Reproduction
+    - Pass DNA/genes
+- Adaptation
+    - Consquence of natural selection
+- Growth and development
+- Regulation/Homeostasis
+    - Retain a "steady state"
+- Energy Processing
+- Evolution
+    - Diversity from mutations (random changes over time)
 
 #### Levels of order
 
