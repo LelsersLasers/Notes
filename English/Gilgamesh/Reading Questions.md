@@ -83,7 +83,7 @@
 23. What action of Gilgamesh first drew Humbaba's attention and enraged him? What happened to Gilgamesh after this?
 *Cut down a ceder tree, overcome by weakness and fell asleep*
 24. With what was Humbaba armed when Gilgamesh and Enkidu first encountered him (and they wanted to attack him before he armed with the other six)?
-*Splendors*
+*Splendors?*
 25. When Gilgamesh reached Humbaba, what offer did Humbaba make to Gilgamesh? What did Enkidu advise that Gilgamesh should do about this offer?
 *If Gilgamesh lets Humbaba go free, Humbaba will be his servant,
 Enkidu thinks Gilgamesh should reject the offer and kill Humbaba*
@@ -95,4 +95,10 @@ Enkidu thinks Gilgamesh should reject the offer and kill Humbaba*
 What about the text would you describe as "epic" (using your own definition of "epic")?
 Find at least three passages to bring to the discussion that you think exemplify the epic nature of the text.
 
-
+This text is epic in many ways.
+There has already been many encounters with supernatural beings (gods, giants, the main character is 2/3 god, etc).
+There has also been cases of supernatural feats (such as the battle agains Humbaba).
+In addition there are a set of morals the characters have.
+For example, the dream at the start of the second chapter says that Gilgamesh must act justly and not abuse his power.
+What is intresting is Gilgamesh's refusal of Humbaba's offer.
+It would seem to go against the the idea that Gilgamesh would be a peacekeeper, but it also shows he trusts Enkidu's judgement over Humbaba's word.
