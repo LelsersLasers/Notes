@@ -1,3 +1,7 @@
+- Notes
+    - Fix tabing with bio notes
+
+
 - Textbooks:
     - French
         - Workbook (in class?)
