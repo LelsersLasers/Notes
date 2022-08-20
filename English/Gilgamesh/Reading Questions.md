@@ -141,7 +141,7 @@ It would seem to go against the the idea that Gilgamesh would be a peacekeeper, 
 12. What is Gilgamesh's motivation for seeking Utnapishtim?
 *He is afraid of death*
 13. Who guards the gate to the mountain of Mashu?
-*the Scorpions*
+*The Scorpions*
 14. What is so hard about passing through the mountain of Mashu?
 *12 leagues of darkness*
 15. When Gilgamesh has explained to Siduri what he is looking for, what does she advise him to do instead (p. 102)?
@@ -165,7 +165,7 @@ It would seem to go against the the idea that Gilgamesh would be a peacekeeper, 
 ## 6 - The return
 
 22. What test does Utnapishtim propose to Gilgamesh to see if he is ready?
-*prevail against sleep for 6 days and 7 nights*
+*Prevail against sleep for 6 days and 7 nights*
 23. How does Utnapishtim measure the days that Gilgamesh sleeps?
 *Makes one loaf of bread a day and mark the wall*
 24. What secret of the gods does Utnapishtim reveal to Gilgamesh as he is leaving?
@@ -176,7 +176,7 @@ It would seem to go against the the idea that Gilgamesh would be a peacekeeper, 
 ## 7 - The death of Gilgamesh
 
 26. What seems to be the author's final assessment of Gilgamesh in the last paragraph?
-*He praise's him*
+*He praises him*
 27. (Bonus question) What is Gilgamesh's face like (according to numerous people with whom he interacts in this half of the epic)?
 *Starved cheeks, face drawn, burned with heat and cold*
 
