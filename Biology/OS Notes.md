@@ -223,7 +223,7 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
 - `Covalent bonds`:
     - Stronger than ionic bonds
     - 1, 2, or 3 pairs of electrons shared between atoms (3 strongest)
-    - INSERT IMAGE
+    - ![H2O covalent bond](https://github.com/Lord-Lelsers/Notes/blob/main/Biology/OS%20Notes%20Photos/2-9.PNG)
 
 ##### Polar covalent bonds
 
