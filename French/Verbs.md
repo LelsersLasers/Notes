@@ -1,8 +1,6 @@
-# Studying for 8/19 verb quiz
+Verb congugations
 
-## Need to know
-
-- er (+ orthographic changes), ir, re in present
+# Regular
 
 ## ER
 
@@ -15,10 +13,15 @@
 
 ### Orthographiques
 
-#### Commencer, nager, manger
+#### Nager, manger
 
 - Same for all but `nous`
 - Nous  nag**e**ons
+
+#### Commencer
+
+- Same for all but `nous`
+- Nous  commen**ç**ons (C cedilla)
 
 ## IR
 
@@ -48,3 +51,17 @@
 - Nous  vend**ons**
 - Vous  vend**ez**
 - Ils   vend**ent**
+
+
+# Iregular
+
+## Peindre, éteindre, craindre
+
+- Je    pein**s**
+- Tu    pein**s**
+- Il    pein**t*
+- Nous  pei**gnons**
+- Vous  pei**gnez**
+- Ils   pei**gnent**
+
+
