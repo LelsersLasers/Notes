@@ -4,12 +4,6 @@ Zedalis - Honors Biology - Period 6 + X (AE)
 
 ## Chapter 1: The study of life
 
-### Ideas
-
-- Big idea: The process of evolution drives the diversity and unity of life.
-- Enduring understanding: Organisms are linked by lines of descent from common ancestry.
-- Essential knowledge: Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.
-
 ### The process of science
 
 - `Inductive reasoning`:
@@ -128,12 +122,6 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
 ```
 
 ## Chapter 2: The chemical foundation of life
-
-### Ideas
-
-- Big idea: Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.
-- Enduring understanding: Growth, reproduction and maintenance of living systems require free energy and matter.
-- Essential knowledge: Organisms must exchange matter with the environment to grow, reproduce and maintain organization.
 
 ### Atoms, isotopes, ions, and molecules: the building blocks
 
@@ -431,17 +419,76 @@ Nonpolar:
 2. Macromolecule vs organic molecule?
 3. Functional groups??
 
+## Chapter 3: Biological macromolecules
+
+### Synthesis of biological macromolecules
+
+#### Intro
+
+- SPONCH: Sulfur, Phosphorus, Oxygen, Nitrogen, Carbon, Hydrogen
+    - 6 most common elements in biological macromolecules
+- Polymers are built from monomers by dehydration synthesis
+    - `Dehydration synthesis`: chemical reaction where a molecule of water is removed between two monomers
+    - `Hydrolysis`: break down polymers by adding water
+
+### Carbohydrates
+
+### Lipids
+
+### Proteins
+
+### Nucleic Acids
+
+
+
+### Key terms
+
+Link: https://openstax.org/books/biology-ap-courses/pages/3-key-terms
+
+### Homework questions
+
+1. **Describe** the relationship between organic functional groups and macromolecules. 
+2. What is the relationship between dehydration synthesis and hydrolysis? 
+3. Relate the structure of polysaccharides to their functions. 
+4. **Describe** the relationship between amino acid sequence and the three-dimensional structure of the tertiary level of protein structure. 
+5. **Identify** two environmental conditions that can alter protein structure. 
+6. Why do phospholipids form membranes while triglycerides for insoluble droplets?
+
 
 
 
 # Big Ideas
 
-## Evolution
+## Big idea 1
 
-- The process of evolution drives the diversity and unity of life
-- Organisms are linked by lines of descent from common ancestry
-- Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today
-- Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today
+The process of evolution drives the diversity and unity of life.
+
+### Enduring understanding
+
+- Organisms are linked by lines of descent from common ancestry.
+- The origin of living systems is explained by natural processes.
+
+### Essential knowledge
+
+- Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.
+- There are several hypotheses about the natural origin of life on Earth, each with supporting scientific evidence.
+
+## Big idea 2
+
+Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.
+
+### Enduring understanding
+
+- Growth, reproduction and maintenance of living systems require free energy and matter.
+
+### Essential knowledge
+
+- Organisms must exchange matter with the environment to grow, reproduce and maintain organization.
+
+
+# AP topics?
+
+## Evolution
 
 ## Energy and Homeostasis
 

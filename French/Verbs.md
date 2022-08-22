@@ -59,7 +59,7 @@ Verb congugations
 
 - Je    pein**s**
 - Tu    pein**s**
-- Il    pein**t*
+- Il    pein**t**
 - Nous  pei**gnons**
 - Vous  pei**gnez**
 - Ils   pei**gnent**
