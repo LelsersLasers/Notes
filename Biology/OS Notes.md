@@ -429,6 +429,7 @@ Nonpolar:
     - 6 most common elements in biological macromolecules
 - Polymers are built from monomers by dehydration synthesis
     - `Dehydration synthesis`: chemical reaction where a molecule of water is removed between two monomers
+        - 
     - `Hydrolysis`: break down polymers by adding water
 
 ### Carbohydrates
