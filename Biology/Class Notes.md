@@ -62,6 +62,14 @@
         - Represented by a dotted line in diagrams
         - Ice less dense than water
     - Solid &rarr; liquid &rarr; gas = breaking hydrogen bonds
+- Acid:
+    - Chemical compound that **dontes** H+ to solutions
+    - More acidic &rarr; higher [H+] &rarr; lower pH
+- Base:
+    - Chemical compound that **accepts** H+ from solutions
+    - More basic &rarr; lower [H+] &rarr; higher pH
+- `pH = 1/[H+]`
+    - `pH 4 = 0.00001 = 10^-4 mol/l`
 
 ### Capillary action
 
