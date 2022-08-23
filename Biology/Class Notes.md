@@ -49,3 +49,26 @@
         - Polar colavent bonds: not shared equally
             - Example: H2O
                 - O has more electro negativity, shared more towards O
+
+## 8/23
+
+- Intra: within
+- Inter: between
+- Water:
+    - Polar covalent bonds
+    - O: slightly negative (δ-)
+    - H: slightly positive (δ+)
+    - Hydrogen bonds between O of one molecule and H of another molecule
+        - Represented by a dotted line in diagrams
+        - Ice less dense than water
+    - Solid &rarr; liquid &rarr; gas = breaking hydrogen bonds
+
+### Capillary action
+
+- Water moves "shoots to roots"
+- TACT:
+    - **T**ranspiration: relase of water through **stomata** in leaves
+    - **A**dhesion: water molecules "stick" to the cells of **xylem**
+    - **C**ohesion: water molecules "stick" to each other via **hydrogen bonds**
+    - **T**ension: force created on a **pulling** object
+- **Osmosis** moves water from soil &rarr; roots &rarr; xylem

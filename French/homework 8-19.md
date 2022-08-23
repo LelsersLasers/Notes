@@ -10,9 +10,8 @@ En ligne, trouvez un article récent et pas trop long en français sur le Québe
 ## Notes
 
 Le titre de mon article est *Loi 96 : comprendre la loi sur la langue française au Québec*
-et et il a été publié le 12 cette année.
+et il a été publié le 12 juillet de cette année.
 
 Le article parle de loi 96 qui a changé la *Charte de la langue française*.
 
-Désormais, toutes les entreprises doivent utiliser le français dans plus de cas.
-Toutes les entreprises doivent utiliser le français dans plus de cas. Ces cas comprennent : les offres d'emploi et les entretiens et lorsque les entreprises informent et servent leurs clients.
+Désormais, toutes les entreprises doivent utiliser le français dans plus de cas. Ces cas comprennent : les offres d'emploi et les entretiens et lorsque les entreprises informent et servent leurs clients.

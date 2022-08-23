@@ -1,10 +1,10 @@
 Zedalis - Honors Biology - Period 6 + X (AE)
 
-# Unit 1: The chemistry of life
+# Unit 1: The Chemistry of Life
 
-## Chapter 1: The study of life
+## Chapter 1: The Study of Life
 
-### The process of science
+### The Process of Science
 
 - `Inductive reasoning`:
   - Particular results to produce general scientific principles
@@ -39,7 +39,7 @@ Zedalis - Honors Biology - Period 6 + X (AE)
   - `Abstract`: concise summary
   - `Results` section does not contain any interpertion
 
-### Properties of life
+### Properties of Life
 
 - Order
   - Organized and structured
@@ -55,7 +55,7 @@ Zedalis - Honors Biology - Period 6 + X (AE)
 - Evolution
   - Diversity from mutations (random changes over time)
 
-### Levels of order
+### Levels of Order
 
 - `Atom`:
   - Smallest unit that is an element
@@ -82,7 +82,7 @@ Zedalis - Honors Biology - Period 6 + X (AE)
 - `Ecosystem`: all the living things in an area with the abiotic, non-living parts of that environment (ex: nitrogen in the soil or rain water)
 - `Biosphere`: collection of all ecosystems (and represents the zones of life on Earth including land, water, and atmosphere)
 
-### The diversity of life
+### The Diversity of Life
 
 - `Evolution`:
   - The source of diversity
@@ -92,11 +92,11 @@ Zedalis - Honors Biology - Period 6 + X (AE)
   - Based on similarities and differences in genetic or physical traits or both
   - Nodes and branches
 
-### Key terms
+### Key Terms
 
 Link: https://openstax.org/books/biology-ap-courses/pages/1-key-terms
 
-### Homework questions - 8/18
+### Homework Questions - 8/18
 
 1. Create a diagram to **describe** the hierarchical organization of the biological world.
 ```
@@ -121,9 +121,9 @@ All living things are made of cells, viruses are not.
 Virsuses have to invade and hijack to obtain the materials needed for them to reproduce.
 ```
 
-## Chapter 2: The chemical foundation of life
+## Chapter 2: The Chemical Foundation of Life
 
-### Atoms, isotopes, ions, and molecules: the building blocks
+### Atoms, Isotopes, Ions, and Molecules: The Building Blocks
 
 - Atoms:
     - Made up of protons, neutrons, electrons
@@ -133,7 +133,7 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
     - Unique forms of matter that can not be broken down further easily
     - 98 naturally occuring, 118+ total
 
-#### The structure of the atom
+#### The Structure of the Atom
 
 - `Nucleus`
     - Center of atom
@@ -142,7 +142,7 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
     - 1 amu (atomic mass unit)
 - In neutral atoms, electrons = protons
 
-#### Atomic number and mass
+#### Atomic Number and Mass
 
 - `Atomic number` = protons
 - `Atomic mass`
@@ -160,11 +160,11 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
     - `Radioactive decaay`: energy loss when an unstable atom's nuclean releases radiation
         - C-14 &rarr; N-14
 
-#### The Periodic table
+#### The Periodic Table
 
 - `Chemical reactivity`: the ability to combine and chemically bond
 
-#### Electron shells and the Bohr Model
+#### Electron Shells and the Bohr Model
 
 - Electrons in `shells` or `orbits`
     - Based on specific energy levels
@@ -184,7 +184,7 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
 - Each orbit/shell has subshells (s, p, d, f)
 - See `aufbau` diagram for order in which subshells fill
 
-#### Chemical reactions and molecules
+#### Chemical Reactions and Molecules
 
 - Chemical bonds allow atoms to fill their valence orbits
 - `Chemical reactions`: occur when 2+ atoms bond or when bonded atoms are broken apart
@@ -197,7 +197,7 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
     - `Equilibrium`: forward rate = backwards rate
 - `Law of mass action`: the rate of a reaction is directly proportional to the product of the concentrations of the reactants
 
-#### Ions and ionic bonds
+#### Ions and Ionic Bonds
 
 - `Ions`: charged atoms (Na+, Cl-)
     - `Cations`: positive ions (lost electrons)
@@ -206,14 +206,14 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
 - `Ionic bonds`: formed between ions of opposite charges (Na+ + Cl- &rarr; NaCl)
 - `Eletrolyte`: ion necessary for nerve impulse conduction, water balance, etc
 
-#### Covalent bonds and other bonds and Interactions
+#### Covalent Bonds and Other Bonds and Interactions
 
 - `Covalent bonds`:
     - Stronger than ionic bonds
     - 1, 2, or 3 pairs of electrons shared between atoms (3 strongest)
-    - ![H2O covalent bond](https://github.com/Lord-Lelsers/Notes/blob/main/Biology/OS%20Notes%20Photos/2-9.PNG)
+    - ![H2O covalent bond](https://openstax.org/apps/archive/20220509.174553/resources/22cad60bc77afdc0017cf9a68b3fa0c8540b863f)
 
-##### Polar covalent bonds
+##### Polar Covalent Bonds
 
 - `Polar covalent bond`: electrons shared unequally
     - More attracted to one nucleus over the other
@@ -223,15 +223,15 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
     - H2O: nucleus of O is more `electronegative` than H
         - Shared electrons will spend more time closer to the O
 
-##### Nonpolar covalent bonds
+##### Nonpolar Covalent Bonds
 
 - `Nonpolar covalent bond`: electrons shared equally
     - No partial charge
 
-##### Hydrogen bonds and Van Der Waals interactions
+##### Hydrogen Bonds and Van Der Waals Interactions
 
 - `Hydrogen bond`: weak attraction between a hydrogen atom (δ+) and another atom (δ-)
-- 'van der Waals interactions': weak attractions between molecules
+- `van der Waals interactions`: weak attractions between molecules
     - Result from temporary and induced dipoles
 - Bond strength:
     - Hydrogen bonds < ionic bonds < covalent bonds
@@ -249,7 +249,7 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
             - Rises inside capillary tubes or travels up a large tree from roots to leaves
     - Hydrogen ion concentration (pH) of a solution is highly regulated (helps organisms maintain homeostasis)
 
-#### Water's polarity
+#### Water's Polarity
 
 - `Hydrophilic`: water loving (`philic` = loving)
     - Polar molecules
@@ -258,7 +258,7 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
     - Nonpolar molecules (oils, fats)
     - Does not interact with water, seperates rather than dissolves
 
-#### Water's states: gas, liquid, and solid
+#### Water's States: Gas, Liquid, and Solid
 
 - Liquid: hydrogen bonds constantly formed and broken
     - Broken by motion (kinetic energy)
@@ -266,13 +266,13 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
 - When cooled: crystalline structure maintained by hydrogen bonds (not enough kinetic energy to break them)
     - Less dense than water/liquid form
 
-#### Water's high heat capacity
+#### Water's High Heat Capacity
 
 - `Specific heat capacity`: amount of energy 1g must absorb or lose to change its temperature by 1C
     - For water: 1 `calorie`
         - Pretty high, used as a cooling system
 
-#### Water's heat of vaporization
+#### Water's Heat of Vaporization
 
 - `Heat of vaporization`: amount of energy required to change 1g of a liquid to a gas
     - For water: 586 cal
@@ -290,7 +290,7 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
     - Example: NaCl &rarr; Na+ + Cl-
 
 
-#### Water's cohesive and adhesive properties
+#### Water's Cohesive and Adhesive Properties
 
 - `Cohesion`: attraction between molecules of the same substance
     - Water molecules stick to each other (hydrogen bonds)
@@ -335,7 +335,7 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
     - Many covalent bonds &rarr; a lot of energy released when burned/oxidized (good fuel)
 - Many common structures: linear carbon chains, carbon rings, or combinations of both
 
-#### Hydrocarbon chains
+#### Hydrocarbon Chains
 
 - `Hydrocarbon chains`:
     - Successive bonds of carbon atoms
@@ -348,7 +348,7 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
 - "Prop-" = 3 carbons
 - "But-" = 4 carbons
 
-#### Hydrocarbon rings
+#### Hydrocarbon Rings
 
 - `Aliphatic hydrocarbons`: linear chains of carbon atoms
     - Can still form rings with all single bonds
@@ -372,7 +372,7 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
 
 - `Enantiomers`: molecules that share the same chemical structure and chemical bonds but differ in the three-dimensional placement of atoms so that they are mirror images.
 
-#### Functional groups
+#### Functional Groups
 
 - `Functional groups`: groups of atoms that give specific properties to hydrocarbon chains or rings
 - Found on the "carbon backbone" of macromolecules
@@ -380,11 +380,11 @@ Virsuses have to invade and hijack to obtain the materials needed for them to re
 - `Substituted hydrocarbons`: molecules with other elements in their carbon backbone
 
 
-### Key terms
+### Key Terms
 
 Link: https://openstax.org/books/biology-ap-courses/pages/2-key-terms
 
-### Homework questions - 8/19
+### Homework Questions - 8/19
 
 1. **Explain** how molecules can be built from atoms by covalent bonds.
 ```
@@ -419,18 +419,35 @@ Nonpolar:
 2. Macromolecule vs organic molecule?
 3. Functional groups??
 
-## Chapter 3: Biological macromolecules
+## Chapter 3: Biological Macromolecules
 
-### Synthesis of biological macromolecules
+### Synthesis of Biological Macromolecules
 
 #### Intro
 
 - SPONCH: Sulfur, Phosphorus, Oxygen, Nitrogen, Carbon, Hydrogen
     - 6 most common elements in biological macromolecules
 - Polymers are built from monomers by dehydration synthesis
-    - `Dehydration synthesis`: chemical reaction where a molecule of water is removed between two monomers
-        - 
-    - `Hydrolysis`: break down polymers by adding water
+
+#### Dehydration Synthesis
+
+- Carbohydrates, lipids, proteins, and nucleic acids make up majority of a cell's dry mass
+    - (Water makes up most of complete mass)
+- `Organic`: contains carbon
+- `Monomers` combine using covalent bonds to form `polymers` 
+- `Dehydration synthesis`: chemical reaction where a molecule of water is removed between two monomers
+    - "To put together while losing water"
+    - Creating bonds &rarr; takes in energy
+    - ![Dehydration synthesis](https://openstax.org/apps/archive/20220509.174553/resources/17215ad494549d74bf598ac85103e23b09c4f627)
+
+#### Hydrolysis
+
+- `Hydrolysis`: break down polymers by adding water
+    - "To split with water"
+    - Breaks bonds &rarr; releases energy
+    - ![Hydrolysis](https://openstax.org/apps/archive/20220509.174553/resources/bac340d3e94099ab5cf86f612177b6bc4c941ebd)
+- Dehydration and hydrolysis can be `catalyzed` ("sped up") with specific enzymes
+
 
 ### Carbohydrates
 
@@ -442,11 +459,11 @@ Nonpolar:
 
 
 
-### Key terms
+### Key Terms
 
 Link: https://openstax.org/books/biology-ap-courses/pages/3-key-terms
 
-### Homework questions
+### Homework Questions - 8/30
 
 1. **Describe** the relationship between organic functional groups and macromolecules. 
 2. What is the relationship between dehydration synthesis and hydrolysis? 

@@ -9,7 +9,7 @@ Honors US History - Period 3 - Valji
 - First arrived by crossing Bering Strait land bridge 15,000 to 60,000 years ago
 - Spread to South America 11,000
 - Climate warmed -> food crisis as hunted animals became extinct
-    - ~9,000 agriculture develops simultaneously in Near East and Mexico and Andes
+    - 9,000 agriculture develops simultaneously in Near East and Mexico and Andes
     - Settled civilizations possible
 
 ### Indian Societies of the Americas
