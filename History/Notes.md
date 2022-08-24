@@ -204,7 +204,7 @@ For example it can provide insight on things like the end of the dinosaurs or th
 1. According to this article, what are some of the reasons why Columbus might be considered a hero? A villain?
 
 | Hero | Villain |
-:-:-:
+| :-: | :-: |
 | - United the people of the world (trade of ideas, goods, etc) | - Brought slavery with him (and disease) |
 | - Started the process of the creation of the US (and the good that came from it) | - Partially responsable for the things that came after him |
 
@@ -219,7 +219,10 @@ In the US, 4 of the first 5 presidents owned slaves, but they were still good pe
 3. What does the author mean when he says for some “moral indignation with Columbus is too precious to discard” and for others “kinship with a culture hero is too profound a part of America’s sense of identity to be easily excised”?
 Being transparent about our own biases, which of these categories do you feel you are more likely to fall into?
 
-- 
+The author means that people want to believe a partial version of a truth that fits their view of the world.
+I think I fall somewhere inbetween.
+I would be slightly biased towards "Columbus the villain" because I think it's easier to see the negative consquences than the benefits.
+(Killing 1 person carries more weight than saving 1 person.)
 
 4. So was Columbus a hero or a villain? Related to this, should we or should we not commemorate Columbus Day?
 
