@@ -198,3 +198,31 @@ For example it can provide insight on things like the end of the dinosaurs or th
 - Art and architecture
 - Biological evidence
 - Websites
+
+## Homework Question - 8/24
+
+1. According to this article, what are some of the reasons why Columbus might be considered a hero? A villain?
+
+| Hero | Villain |
+:-:-:
+| - United the people of the world (trade of ideas, goods, etc) | - Brought slavery with him (and disease) |
+| - Started the process of the creation of the US (and the good that came from it) | - Partially responsable for the things that came after him |
+
+2. Dr. Fernández-Armesto lists several principles that should control our evaluation of historical people and events.
+Which of these is the most interesting, intriguing or significant to you?
+Do you disagree with any or would you add any?
+
+I think the idea that contextalization is important is important, especally when looking at good and evil.
+It would be unfair to say Columbus was a villain because he believed in slavery.
+In the US, 4 of the first 5 presidents owned slaves, but they were still good people that helped many people.
+
+3. What does the author mean when he says for some “moral indignation with Columbus is too precious to discard” and for others “kinship with a culture hero is too profound a part of America’s sense of identity to be easily excised”?
+Being transparent about our own biases, which of these categories do you feel you are more likely to fall into?
+
+- 
+
+4. So was Columbus a hero or a villain? Related to this, should we or should we not commemorate Columbus Day?
+
+Life does not work in black and white.
+He should not be be seen as a hero or a villain, but somewhere inbetween.
+I think we should not celebrate "Columbus Day" as "Columbus" Day, but something that focuses more about both the new world wide connection and the downsides/consquences. (Celebrated as a day marking the beginning of change.)
