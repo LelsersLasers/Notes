@@ -204,7 +204,7 @@ For example it can provide insight on things like the end of the dinosaurs or th
 1. According to this article, what are some of the reasons why Columbus might be considered a hero? A villain?
 
 | Hero | Villain |
-| :-: | :-: |
+| :- | :- |
 | - United the people of the world (trade of ideas, goods, etc) | - Brought slavery with him (and disease) |
 | - Started the process of the creation of the US (and the good that came from it) | - Partially responsable for the things that came after him |
 
