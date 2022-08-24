@@ -140,7 +140,7 @@ Honors US History - Period 3 - Valji
     - Granted by contract, royal decree, or purchase
     - No criticism of authority
 
-## Homework question - 8/22
+## Homework Question - 8/22
 
 How can scienctific analysis help us understand history?
 Please draw examples from the article and any other examples which come to mind.
@@ -151,3 +151,50 @@ Without scienctific analysis we would not have the ability to track the split an
 This would make it impossible to estimate the the amount of lives lost due to European contact, which is an import part of history.
 Scienctific analysis also can help us look much further into the past.
 For example it can provide insight on things like the end of the dinosaurs or the formation of universe.
+
+## Class Notes - 8/24
+
+- Most information from early colonial times
+    - French/Spanish/British would take notes on encounters
+    - Native Americans were inspired by European written language
+
+### San Diego's First People - Kumeyaay Native Americans
+
+- Lived here from 10,000 years ago
+- Diverse land
+    - Coast, desert, mountains
+    - Moved with the seasons
+    - Ate from everwhere (fishing, farming, gathering, hunting)
+        - Lived from the land, everything was used (either food, medicine, etc)
+    - Shaped the land
+        - Couldn't leave it to nature
+        - Planted trees, guarenteed they would be okay
+- Not all 1 tribe
+    - Advanced trade between them with estabilished trails
+    - Make up a nation
+- Pushed out of traditional lands
+    - Private properties for countries, pioneers
+    - Could not longer live they way they did
+        - Had to adapt
+- High importance on history
+    - Cerimonies and connection to past as important as the actual food
+- The people themselves did not know
+    - Learned in school that they were "savages"
+
+### Evidence from NA civilizations
+
+- Archaeology
+    - Materials, bones, etc (carbon dating)
+- DNA evidence
+- Oral tradition
+    - Songs, stories, etc
+    - Survivors
+- Physical evidence
+    - Differences in geography (trees)
+    - Trails, rocks, etc
+- Written documents
+    - From natives
+    - Or from Europeans
+- Art and architecture
+- Biological evidence
+- Websites
