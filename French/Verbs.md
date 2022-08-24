@@ -64,4 +64,40 @@ Verb congugations
 - Vous  pei**gnez**
 - Ils   pei**gnent**
 
+être, avoir, aller, faire
 
+## Être
+
+- Je    suis
+- Tu    es
+- Il    est
+- Nous  sommes
+- Vous  êtes
+- Ils   sont
+
+## Avoir
+
+- J     'ai
+- Tu    as
+- Il    a
+- Nous  avons
+- Vous  avez
+- Ils   ont
+
+## Aller
+
+- Je    vais
+- Tu    vas
+- Il    va
+- Nous  allons
+- Vous  allez
+- Ils   vont
+
+## Faire
+
+- Je    fais
+- Tu    fais
+- Il    fait
+- Nous  faisons
+- Vous  faites
+- Ils   font
