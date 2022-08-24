@@ -80,3 +80,43 @@
     - **C**ohesion: water molecules "stick" to each other via **hydrogen bonds**
     - **T**ension: force created on a **pulling** object
 - **Osmosis** moves water from soil &rarr; roots &rarr; xylem
+
+## 8/24
+
+- Isomers
+    - Big, complex
+    - Made from SPONCH
+- Organic:
+    - Carbon based
+- From SPONCH
+    - Carbohydrates (sugars, strarches)
+    - Lipids and phospholipids (fats, oils, waxes, some steroids)
+    - Proteins (enzymes and some steroids)
+    - Nucleic acids (DNA, RNA)
+        - MRNA: message RNA
+        - DNA: the boss, sends info to RNA
+        - RNA: makes the proteins
+- Carbon
+    - Tetravalent: 4 valence electrons
+        - Compatible with many elements (especially SPONCH)
+        - **Must form 4 covalent bonds**
+    - Forms single of double bonds
+ 
+ ### Diagramming
+
+ - Single line: covalent bond
+ - Double line: 2 covalent bonds
+
+ ### Functional groups
+
+- Replace an H on the the carbon skeleton
+
+```
+Hydroxyl group (alcohol) "-OH"
+Carbonyl group (aldehyde or ketone) "C=O"
+Carboxyl group (carboxylic acid) "-COOH"
+    (H+ can break off - weak acid)
+Amino group (amines) "-NH2"
+Sulfhydryl group (thiols) "-SH"
+Phosphate group "H3PO4"
+```
