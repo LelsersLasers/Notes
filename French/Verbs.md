@@ -18,10 +18,18 @@ Verb congugations
 - Same for all but `nous`
 - Nous  nag**e**ons
 
-#### Commencer
+#### Commencer, lancer
 
 - Same for all but `nous`
 - Nous  commen**ç**ons (C cedilla)
+
+#### Espérer, préférer, répéter
+
+- Boot pattern:
+    - Same accent as infinitive for `nous, vous`
+        - "Rain"
+    - Accent grave for `je, tu, il/elle/on, ils/elles`
+        - "House"
 
 ## IR
 
@@ -34,6 +42,10 @@ Verb congugations
 - Vous  chois**issez**
 - Ils   chois**issent**
 
+#### Examples
+
+- Choisir, finir, grandir, obéir, réfléchir, réussir
+
 ### Type 2 (ex: mentir)
 
 - Je    dor**s**
@@ -42,6 +54,10 @@ Verb congugations
 - Nous  dorm**ons**
 - Vous  dorm**ez**
 - Ils   dorm**ent**
+
+#### Examples
+
+- Dormir, mentir, partir, sentir, servir, sortir
 
 ## RE
 
@@ -52,6 +68,9 @@ Verb congugations
 - Vous  vend**ez**
 - Ils   vend**ent**
 
+#### Examples
+
+- Attendre, descendre, entendre, répondre, vendre
 
 # Iregular
 

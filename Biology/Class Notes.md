@@ -75,7 +75,7 @@
 
 - Water moves "shoots to roots"
 - TACT:
-    - **T**ranspiration: relase of water through **stomata** in leaves
+    - **T**ranspiration: release of water through **stomata** in leaves
     - **A**dhesion: water molecules "stick" to the cells of **xylem**
     - **C**ohesion: water molecules "stick" to each other via **hydrogen bonds**
     - **T**ension: force created on a **pulling** object
