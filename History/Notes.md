@@ -229,3 +229,135 @@ I would be slightly biased towards "Columbus the villain" because I think it's e
 Life does not work in black and white.
 He should not be be seen as a hero or a villain, but somewhere inbetween.
 I think we should not celebrate "Columbus Day" as "Columbus" Day, but something that focuses more about both the new world wide connection and the downsides/consquences. (Celebrated as a day marking the beginning of change.)
+
+## The Expansion of Europe
+
+- Europeans wanted a direct sea route to Asia area
+    - Wanted to eliminate the middlemen of the land trade
+
+### Chinese and Portuguese Navigation
+
+- In 15th century China (Admiral Zheng He) was exploring East Africa
+    - China did not feel the need to expand overseas and stopped long distance sea voyages in 1433
+- Portugal used new technologly such as **caravels** (ships), compasses, and quadrants
+    - Sailed past the Sahara in 1434
+    - They expanded and set up trading posts on the coast of Africa
+
+### Freedom and Slavery in Africa
+
+- Before Europeans intervened, Africa already had slaves
+    - Usally criminals, debtors, or captives of war
+    - Had basic rights like possessing proptery and marrying and could become free again
+- Europeans increased the rate of buying/selling slaves turning into an economic thing
+- Bartholomeu Dias had reached the Cape of Good Hope in 1487
+- In 1498 Vasco da Gama sailed to India
+
+### The Voyages of Columbus
+
+- Columbus was a seasoned sailer
+    - Knew the Earth was round, but thought it was a lot smaller (never knew of the Americas)
+    - Got his info from the Bible and from Macro Polo's accounts
+- Religous and commerical reasons
+    - Spread Christianity (and take back Jerusalem from Muslim control)
+    - Wanted a trade route to the East
+- Sought various backers for his trip until Spain agreed
+    - King Ferdinand and Queen Isabella's marriage in 1469 united Castile and Aragon into Spain
+    - In 1492 they completed the **reconquista**
+        - The "reconquest" of Spain from the Moors (African Muslims)
+
+## Contact
+
+### Columbus in the New World
+
+- 1492: Columbus lands in Bahamas
+    - Abandons 38 of his men, but takes back 10 natives for conversion to Christianity
+- 1493: Returned and tried to set up a settlement on the island of Hispaniola
+    - Fails, but in 1502 Nicola/s de Ovando succeeds
+    - Thought he had found Asia/India
+        - Name ("Indians") remains
+- Amerigo Vespucci's discoveries in 1499-1502 proved that it was a new contient
+
+### Exploration and Conquest
+
+- Invention of printing press caused news to spread quickly
+- Spanish lead based on a search for wealth, glory, and spread of Catholicism
+    - Spanish **conquistadores**
+- 1519-1522: Ferdinand Megellan led first trip around the world
+- 1519: Herna/n Corte/s lands in Tenochtitla/n (center of Aztec empire)
+    - Aztecs were violent warriors who had mass ritual sacrifices (alienated Europeans)
+    - Corte/s conquered Aztecs with superior weapons, diesase, and enlisted the aid of certain groups of Aztecs
+- Franciso Pizarro conquered Inca kingdom in a similar way
+- Gold and silver were traveling to Spain rapidly
+
+### The Demographic Disaster
+
+- **Columbian Exchange**
+    - Plants, animals, diseases, cultures, ideas now flowed between the worlds
+- Because of lack of previous contact, the natives were not imunne to many of the diseases
+    - In addition to military conquest and enslavement
+
+## The Spanish Empire
+
+- Rich, large, powerful
+- Urban civilzation
+
+### Governing Spanish America
+
+- In theory the the Spanish America government reflected the Absolutism of Spain
+- Royal officals were appointed from Spain rather than **creoles** (Europeans born in the New World)
+- When Spain's power declined, the local elite took more power
+
+### Colonists and Indians in Spanish America
+
+- For the most part, they used natives (not imported slave labor) for large scale farms (**baciendas**)
+- People moved to New World for better life
+    - Chance to have your own labors
+    - Could live like the upper classes in homeland
+- The natives outnumered the Spanish
+    - By 1600, **mestizos** (people of mixed origin) made up a large part of the population
+    - Evolved into a hybrid culture
+
+### Justifications for Conquest
+
+- Europeans thought they and their religion were superior
+    - The fact that the natives did not abandon their belifs further convinced the Europeans that they were uncivilized
+- Relgious zeal refreshed by Protestant Reformation
+    - Sway them to Christianity over Protestantism
+- 1537: Pope Paul III outlawed Indian enslavement
+    - Did not apply to Africans
+    - Bartolome/ de Las Casas wrote about the unfair treatments
+
+### Reforming the Empire
+
+- 1542: New Laws
+    - Indians can no longer be enslaved 
+- 1550: The **encomienda** system is removed
+    - **Repartimiento** system: Indians were free and could have wages, but had to do a fixed amount of labor per year
+        - Still allowed for abuses and it wasn't quite true freedom
+- The **Black Legend**: image of Spain as a brutal colonizer
+    - Spanish treatment did improve, and they did bring European medicine and education
+
+### Exploring North America
+
+- 1508: Spanish set up first permenent colony in US
+    - In Puerto Rico, a US "commonwealth"
+    - It had much gold
+- 1513: Juan Ponce de Leo/n tried to explore Florida
+    - Wanted wealth, slaves, and the fountain of youth
+    - Was repelled by local Indians
+- 1530s-1540s: Juan Rodriguez Cabrillo explored Pacific coast
+- Many other expeditions to look for a 2nd Mexico
+- Brought disease and death with them
+
+### Spain in Florida and the Southwest
+
+- Wanted a base in Florida to protect gold shipments from pirates
+- Also wanted to stop French possessions in New World
+    - Pedro Mene/bdez de Avile/s destoryed a Huguenot outpost
+- 1598: Juan de On~ate explores North from Mexico
+
+### The Pueblo Revolt
+
+- 1680: New Mexico colonists and Indians had bad relations
+    - Under Pope/'s leadership, the Indians united and attacked the colonists
+    - The unity soon ended and Spain reconquered New Mexico
