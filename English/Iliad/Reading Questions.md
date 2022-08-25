@@ -8,6 +8,7 @@
     - Choice of Achilles:
         1. Glory but violent death in Trojan War
         2. Happy long life, but no glory
+    - Mother: `Thetis`
 - `Helen` (princess, daughter of Zeus) got kidnapped by Troy
     - Married to a Greek king `Menelaus`
     - Very beautiful
@@ -30,7 +31,7 @@
 - 2 week slice of the 9th year of the war
 
 
-# Iliad 1 - reading questions 8/24
+# Iliad 01 - reading questions 8/24
 
 ## Book One: The Rage of Achilles (pg. 77-98)
 
@@ -91,3 +92,80 @@ or make a sacrifice to increase their chances of getting a good response.
 The rules for the relationships between gods seems similar to relationships between mortals.
 There is a power structure and disagreement, and they act of their own free will (can lie, etc),
 but they are also mangaged by eachother (like Hephaestus calming everyone down).
+
+# Iliad 02-03 - reading questions 8/26
+
+## Book Two: SOMETHING
+
+1. What does Zeus send to Agamemnon at the beginning of book 2? As whom or what does the this visitor disguise itself?
+**
+2. WHY does Agamemnon form a plan to tell his troops that he has given up hope, even though the dream told him that he would sack Troy that very day?
+**
+3. To what are the rank and file soldiers coming into assembly compared in the first epic simile of the Iliad (there will be a lot of these)?
+Who "whips them on"?
+**
+4. Who made Agamemnon's scepter, which is the symbol of his right to rule?
+**
+5. What is the response of the assembled soldiers when Agamemnon tells them to go to the ships and head for home?
+How is this not what Agamemnon intended to happen?
+**
+6. What does Odysseus take from Agamemnon before approaching the men and convincing them to stop trying to leave?
+Which goddess(es) inspire him?
+**
+7. What is special about Thersites?
+Who despised him most?
+**
+8. How does Odysseus stop Thersites from abusing Agamemnon?
+**
+9. Of what portent does Odysseus remind the men, a portent that originally appeared to them at Aulis on their way to Troy?
+How did Calchas interpret the portent?
+**
+10. When the men return to their own ships to eat, each sacrifices to "one or another deathless god"; what do they pray for? 
+By contrast, to whom does Agamemnon sacrifice and what does he pray for?
+**
+
+## Book Three: SOMETHING
+
+1. Which Trojan issues a challenge to fight an Achaean in single combat? Which Achaean agrees to fight him? What will the prize for the victor be?
+**
+2. From which god does Paris have his special gifts (the "long flowing locks and striking good looks")?
+**
+3. Which god is associated with Menelaus in line 84 (by Paris), again in line 164, and several other times in book 3?
+**
+4. Why does Menelaus want Priam himself to come out and seal the truce?
+**
+5. Who summons Helen from her room to view the Achaeans from the walls of Troy? What was Helen doing in her room before she was summoned?
+**
+6. For whom and what does the goddess Iris fill Helen's heart with yearning (3 things)?
+**
+7. To which insect are the Trojan elders compared? What do they say about Helen when she appears?
+**
+8. Priam says to Helen that he does not blame her for the war. Whom does he blame?
+**
+9. As they look out from the walls of Troy, what does Priam asks Helen to describe for him?
+**
+10. Antenor describes Menelaus as a skilled speaker who was brief and got right to the point. By contrast, what did he think of Odysseus before he opened his mouth and began to speak? What about after he opened his mouth and spoke?
+**
+11. In Agamemnon's formal oath on p. 138, give an example of a couple of divine beings (besides Zeus) to whom he prays to witness the oath.
+**
+12. How well does Paris fare in the battle with Menelaus? How does he escape?
+**
+13. Who takes Helen to see Paris after he has been rescued? What does Helen think about this?
+**
+14. What does Paris want to do once Helen arrives? What is Menelaus doing while they do this?
+**
+
+## Longer question - 1
+
+What is the relationship between the commanders and the common soldiers like, especially as it relates to Agamemnon's order to leave in book 2 and Thersites' treatment by Odysseus?
+Does this seem like a relationship of mutual respect?
+With which group do you most identify?
+
+SOMETHING
+
+## Longer question - 2
+
+What role do the gods play in these two books?
+Does it seem positive or negative on the whole to you?
+
+SOMETHING

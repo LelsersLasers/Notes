@@ -413,13 +413,17 @@ Nonpolar:
 - Example - O2: both nuclei have the same electronegativity
 ```
 
-### Questions
-
-1. Carbon backbone????
-2. Macromolecule vs organic molecule?
-3. Functional groups??
-
 ## Chapter 3: Biological Macromolecules
+
+```
+Hydroxyl group (alcohol) "-OH"
+Carbonyl group (aldehyde or ketone) "C=O"
+Carboxyl group (carboxylic acid) "-COOH"
+    (H+ can break off - weak acid)
+Amino group (amines) "-NH2"
+Sulfhydryl group (thiols) "-SH"
+Phosphate group "H3PO4"
+```
 
 ### Synthesis of Biological Macromolecules
 
@@ -447,11 +451,100 @@ Nonpolar:
     - Breaks bonds &rarr; releases energy
     - ![Hydrolysis](https://openstax.org/apps/archive/20220509.174553/resources/bac340d3e94099ab5cf86f612177b6bc4c941ebd)
 - Dehydration and hydrolysis can be `catalyzed` ("sped up") with specific enzymes
-
+- Each monomer/polymer reaction is different
+    - Example: food is hydrolyzed into smaller molecules for easier absorption of nutrients
+- Each macromolecule is broken down by a specific enzyme
+    - Carbohydrates: broken down by amylase, sucrase, lactase, maltase
+    - Proteins: broken down by pepsin and peptidae, hydrochloric acid
+    - Lipids: broken down by lipases
 
 ### Carbohydrates
 
+#### Intro
+
+- Provide energy for the cell
+- Provide structural support to plants, fungi, and arthropods
+- Classified as monosaccharides, disaccharides, polysaccharides
+    - Depends on number of monomers in the molecule
+    - Monosaccharides: linked by glycosidic bonds as a result of dehydration synthesis
+        - Glucose, galactose, fructose
+    - Disacharides: sucrose, table sugar
+    - Polysaccharides: cellulose, starch in plants, glycogen in animals
+- Made of carbon, hydrogen, oxygen in the ratio of CH2O
+
+#### Molecular Structures
+
+-  Represented by the stoichiometric forumla "(CH20)n"
+
+##### Monosaccharides
+
+- Mono = "one"
+- sacchar = "sweet"
+- Mostly end with suffix "-ose" (glucose)
+- Simple sugars
+- Number of carbon 3-7 (usually)
+    - Trioses: 3 carbons, pentoses: 5 carbons, hexoses: 6 carbon
+- If it has an `aldehyde` group (functional group with "R-CHO"), it is an aldose
+- If it has a `ketone` group (functional group with "RC(=O)R'"), it is a ketose
+- Glucose: "C6H12O6"
+    - Energy released from glucose used to make adenosine triphosphate
+- Exist as a linear chain or ring-shaped molecules
+    - In aqueous solutions they are usually in ring forms
+
+##### Disacharides
+
+- Di = "two"
+- Form when two monosaccharides undergo dehydration synthesis
+    - The hydroxyl group of one monosaccharide combines with the H of another releasing an H2O and forming a covalent bond
+    - `Glycosidic bond`: covalent bond between a carbohydrate and another molecule
+- Lactose: from monomers glucose and galactose
+- Maltose: from two glucose
+- Sucrose: from glucose and fructose
+
+##### Polysaccharides
+
+- Poly = "many"
+- Long chain of monosaccharides linked by glycosidic bond
+- Starch: from amylose and amylopectin (both polymers of glucose)
+    - Plants are able to synthesize glucose, the extra is stored as starch
+- `Glycogen`: storage form of glucose
+    - Made from monomers og glucose
+    - Animal equivelent of starch
+    - When glocuse levels drop, glycogen is broken down to release glucose (`glycogenolysis`)
+- `Celluose`: makes up most of the cell wall of plants
+    - Made from glucose linked by β 1-4 glycosidic bonds
+    - Rigid and has high tensile strength
+
+#### Benefits of Carbohydrates
+
+- Server various functions
+    - Athropods have an exoskeleton made from `chitin` (a polysaccharides)
+- Part of a healthy diet
+    - Used for energy
+    - Fiber = good
+
 ### Lipids
+
+#### Intro
+
+- Lipids are mostly carbons, hydrogen, oxygen
+- Mostly nonpolar (hydrophobic)
+- Most fats are three fatty acids bonded to one glycerol
+- Phospholipids mostly have a glycerol or sphingosine backbone 
+
+#### Fats and Oils
+
+##### Trans Fats
+
+##### Omega Fatty Acids
+
+#### Waxes
+
+#### Phospholipids
+
+#### Steroids
+
+
 
 ### Proteins
 
@@ -462,6 +555,10 @@ Nonpolar:
 ### Key Terms
 
 Link: https://openstax.org/books/biology-ap-courses/pages/3-key-terms
+
+### Questions
+
+1. alpha vs beta shapes/bonds??
 
 ### Homework Questions - 8/30
 
@@ -481,12 +578,12 @@ Link: https://openstax.org/books/biology-ap-courses/pages/3-key-terms
 
 The process of evolution drives the diversity and unity of life.
 
-### Enduring understanding
+### Enduring Understanding
 
 - Organisms are linked by lines of descent from common ancestry.
 - The origin of living systems is explained by natural processes.
 
-### Essential knowledge
+### Essential Knowledge
 
 - Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.
 - There are several hypotheses about the natural origin of life on Earth, each with supporting scientific evidence.
@@ -495,14 +592,25 @@ The process of evolution drives the diversity and unity of life.
 
 Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.
 
-### Enduring understanding
+### Enduring Understanding
 
 - Growth, reproduction and maintenance of living systems require free energy and matter.
 
-### Essential knowledge
+### Essential Knowledge
 
 - Organisms must exchange matter with the environment to grow, reproduce and maintain organization.
 
+## Big Idea 4
+
+Biological systems interact, and these systems and their interactions possess complex properties.
+
+### Enduring Understanding
+
+- Interactions within biological systems lead to complex properties.
+
+### Essential Knowledge
+
+- The subcomponents of biological molecules and their sequence determine the properties of that molecule.
 
 # AP topics?
 

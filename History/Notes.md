@@ -199,37 +199,6 @@ For example it can provide insight on things like the end of the dinosaurs or th
 - Biological evidence
 - Websites
 
-## Homework Question - 8/24
-
-1. According to this article, what are some of the reasons why Columbus might be considered a hero? A villain?
-
-| Hero | Villain |
-| :- | :- |
-| - United the people of the world (trade of ideas, goods, etc) | - Brought slavery with him (and disease) |
-| - Started the process of the creation of the US (and the good that came from it) | - Partially responsable for the things that came after him |
-
-2. Dr. Fernández-Armesto lists several principles that should control our evaluation of historical people and events.
-Which of these is the most interesting, intriguing or significant to you?
-Do you disagree with any or would you add any?
-
-I think the idea that contextalization is important is important, especally when looking at good and evil.
-It would be unfair to say Columbus was a villain because he believed in slavery.
-In the US, 4 of the first 5 presidents owned slaves, but they were still good people that helped many people.
-
-3. What does the author mean when he says for some “moral indignation with Columbus is too precious to discard” and for others “kinship with a culture hero is too profound a part of America’s sense of identity to be easily excised”?
-Being transparent about our own biases, which of these categories do you feel you are more likely to fall into?
-
-The author means that people want to believe a partial version of a truth that fits their view of the world.
-I think I fall somewhere inbetween.
-I would be slightly biased towards "Columbus the villain" because I think it's easier to see the negative consquences than the benefits.
-(Killing 1 person carries more weight than saving 1 person.)
-
-4. So was Columbus a hero or a villain? Related to this, should we or should we not commemorate Columbus Day?
-
-Life does not work in black and white.
-He should not be be seen as a hero or a villain, but somewhere inbetween.
-I think we should not celebrate "Columbus Day" as "Columbus" Day, but something that focuses more about both the new world wide connection and the downsides/consquences. (Celebrated as a day marking the beginning of change.)
-
 ## The Expansion of Europe
 
 - Europeans wanted a direct sea route to Asia area
@@ -361,3 +330,59 @@ I think we should not celebrate "Columbus Day" as "Columbus" Day, but something 
 - 1680: New Mexico colonists and Indians had bad relations
     - Under Pope/'s leadership, the Indians united and attacked the colonists
     - The unity soon ended and Spain reconquered New Mexico
+
+## Homework Question - 8/24
+
+1. According to this article, what are some of the reasons why Columbus might be considered a hero? A villain?
+
+| Hero | Villain |
+| :- | :- |
+| - United the people of the world (trade of ideas, goods, etc) | - Brought slavery with him (and disease) |
+| - Started the process of the creation of the US (and the good that came from it) | - Partially responsable for the things that came after him |
+
+2. Dr. Fernández-Armesto lists several principles that should control our evaluation of historical people and events.
+Which of these is the most interesting, intriguing or significant to you?
+Do you disagree with any or would you add any?
+
+I think the idea that contextalization is important is important, especally when looking at good and evil.
+It would be unfair to say Columbus was a villain because he believed in slavery.
+In the US, 4 of the first 5 presidents owned slaves, but they were still good people that helped many people.
+
+3. What does the author mean when he says for some “moral indignation with Columbus is too precious to discard” and for others “kinship with a culture hero is too profound a part of America’s sense of identity to be easily excised”?
+Being transparent about our own biases, which of these categories do you feel you are more likely to fall into?
+
+The author means that people want to believe a partial version of a truth that fits their view of the world.
+I think I fall somewhere inbetween.
+I would be slightly biased towards "Columbus the villain" because I think it's easier to see the negative consquences than the benefits.
+(Killing 1 person carries more weight than saving 1 person.)
+
+4. So was Columbus a hero or a villain? Related to this, should we or should we not commemorate Columbus Day?
+
+Life does not work in black and white.
+He should not be be seen as a hero or a villain, but somewhere inbetween.
+I think we should not celebrate "Columbus Day" as "Columbus" Day, but something that focuses more about both the new world wide connection and the downsides/consquences. (Celebrated as a day marking the beginning of change.)
+
+## Class Notes - 8/25
+
+### Political violence
+
+- Prolitical is violence which is perpetrated in order to achieve political goals.
+- Violence which is used by
+    - A state against other states
+    - A state against civilians and non-state actors
+    - Violent non-state actors against states and civilians
+
+### Pueblo Revolt
+
+- The Pueblo's willing accepted some of the Spanish ideas/tech/religion
+    - Add Spanish saints to their current "arsenal"
+- Drought + being raided by enemy tribes
+    - Popé concluded the spirits were displaced &rarr; wanted to kick invaders out
+- Spanish crackdown
+- Popé conviced the individual tribes to work together
+    - Attacked all on the same day
+- Killed settlers, priests, burned churches
+    - Drove them out, but did not chase them
+- Spanish returned and reconquered
+    - But were less strict
+    - Merge of Spanish and native cultures
