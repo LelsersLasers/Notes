@@ -1,6 +1,8 @@
 
 # Vocab
 
+- Greeks, Achaeans
+- Dardanians, Trojans, Tucrains
 
 # People
 
@@ -8,11 +10,13 @@
     - Choice of Achilles:
         1. Glory but violent death in Trojan War
         2. Happy long life, but no glory
-    - Mother: `Thetis`
+    - Favored by many gods
+- `Thetis`:
+    - Mother of Achilles
 - `Helen` (princess, daughter of Zeus) got kidnapped by Troy
     - Married to a Greek king `Menelaus`
     - Very beautiful
-- `Paris`
+- `Paris` (Alexander?)
     - Very beautiful Trojan who met with Menelaus for buisness
     - Meets Helen and somehow Helen ends up in Troy
 - `Agamemnon`
@@ -30,6 +34,20 @@
     - Based on true facts
 - 2 week slice of the 9th year of the war
 
+- Prophecy: son of Thetis will be greater than the father
+    - Not a problem for mortal fathers &rarr; gods married Thetis to `Peleus` (a mortal king)
+    - All the gods but one (Strife) are invited to wedding
+    - She wanted revenge:
+        - Gave out an apple to Zeus to give out the most beautiful god
+        - Zeus chooses gives it to Paris (over on of the gods directly)
+        - Gods offer him different bribes:
+            - Hera: you will be a king of kings
+            - Athena: greatest military/wisedom
+            - Aphrodite: you will have love (beautiful, and beautiful girl)
+        - Paris chooses Aphrodite
+            - Athena and Hera and very anti-Troy
+- Troy: Ares, Apollo, Aphrodite, (Zeus)
+- Greeks: Athena, Hera, others
 
 # Iliad 01 - reading questions 8/24
 

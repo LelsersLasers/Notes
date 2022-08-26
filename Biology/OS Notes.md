@@ -528,25 +528,114 @@ Phosphate group "H3PO4"
 #### Intro
 
 - Lipids are mostly carbons, hydrogen, oxygen
-- Mostly nonpolar (hydrophobic)
+    - Mostly nonpolar (hydrophobic)
 - Most fats are three fatty acids bonded to one glycerol
 - Phospholipids mostly have a glycerol or sphingosine backbone 
+- Phospholipids are considered `amphipathic` because they have hydrophobic and hydrophilic components
+- Steroids considered lipids based on hydrophobic properties
+- Cholesterol is a steroid in animal cells' plasma membrane
 
 #### Fats and Oils
 
+- `Lipids`
+    - Include hydrocarbons with nonpolar carbon-carbon or carbon-hydrogen bonds
+    - Provide insulation from the environment
+    - Building blocks of hormones
+- Fats are stored energy
+    - A fat is made from glycerol and fatty acids
+        - Glycerol: organic compound (alcohol) with 3 carbons, 5 hydrogens, 3 hydroxyl (OH) groups
+        - Fatty acids: long chain of hydrocarbons with a carboxyl (COOH) group
+- `Saturated`: if there are only single bonds between carbons
+    - No more hydrogen can be added to the carbon chain
+    - ![Saturated fatty acid](https://openstax.org/apps/archive/20220801.182716/resources/9520ab8a0da57a171daf9467aa05200c418fc01a)
+- Otherwise it is `unsaturated`
+    - Usually liquid at room temperature (called an oil)
+    - One double bond: monounsaturated fat (olive oil)
+    - More than one double bond: polyunsaturated fat (canola oil)
+    - `Cis` and `trans` describe the configuration of the molecule around the double bond
+        - If hydrogens are present on one plane: `cis fat`
+            - Forms a "kink"/bend that spaces things out (liquid at room temp)
+        - If hydrogens are present on two different planes: `trans fat`
+    - ![Unsaturated fatty acid](https://openstax.org/apps/archive/20220801.182716/resources/a3a248d1458641049a62759bb8fad3abeee99fa5)
+    - `Triacylglycerols` or `triglycerides` because of their chemical structure
+    - `Arachidic acid`: from groundnuts or peants (*Arachis hypogea*)
+
 ##### Trans Fats
+
+- For food, oils are hydrogenated to give them the correct consistency
+    - Changes from cis configuration to trans
+- Increase in trans fat in the diet can leed to low-density lipoproteins (LDL)
+    - "Bad cholesterol"
 
 ##### Omega Fatty Acids
 
+- Essential fatty acids: fatty acids required by not synthesized by the human body
+- Omega-3 fatty acids and omega-6 fatty acid are essential fatty acids
+    - Polyunsaturated fatty acids
+    - Called Omega-**3** because of 3rd carbon from the end of the hydrocarbon chain is connected to the next carbon by a double bond
+    - The farthest carbon away from the carboxyl group is called the omega (ω) carbon
+        - If the double bond is between the 3rd and 4th carbon from the ω carbon: omega-3
+    - ![Omega-3](https://openstax.org/apps/archive/20220801.182716/resources/cb9e66cbc0d76627342742207a6329abc548a40d)
+
 #### Waxes
+
+- Made from long fatty acid chains `esterified` to long chain alcohols
+    - `Ester`: chemical compound derived from an oxoacid where at least one hydroxyl group is replaced by an –O– alkyl (alkoxy) group
+- Prevent water from sticking to a surface
 
 #### Phospholipids
 
+- Major constituents of `plasma membrane` (the outermost layer of all living cells)
+    - Phosphatidylcholine, phosphatidylserine
+    - Responable for its dynamic nature
+        - If If a drop of phospholipids is placed in water, it forms a `micelee`
+            - Where the hydrophilic phosphate heads face the outside
+            - And the fatty acids face the interior of this structure
+- Made from fatty acid chains and a glycerol or shingosine backbone
+    - Two fatty acids forms diacylglycerol
+    - Third carbon is attached to a modified phosphate group
+        - Has to be a phosphatidate (diacylglycerol 3-phosphate)
+- Amphipathic (has a hydrophobic and a hydrophilic parts)
+    - Phosphate containing group is hydrophilic (head)
+    - Fatty acid chains are hydrophobic (tail)
+
 #### Steroids
 
-
+- Fused ring strucure
+    - 4 linked carbon rings
+    - Often have a tail
+- Hydrophobic
+- Often have -OH functional group (uses alcohol classification - sterols)
+- Choolesterol is synthesized in the liver
+    - Precursor to steroid hormones like testosterone and estradiol, Vitamin D, and bile salts
+- Plasma membrane: responsible for the transport of materials and cellular recognition
+    - Involved in cell-to-cell communication
 
 ### Proteins
+
+#### Intro
+
+- Proteins are sequences of the 20 amino acids that each contain an amino group ("NH2"), a carboxyl group ("COOH"), and a variable group
+- Each amino acid is connected to its neighbors by a peptide bond formed by a dehydration reaction
+- A long chain of amino acids is called a `polypeptide`
+- 
+
+#### Types and Functions of Proteins
+
+#### Amino Acids
+
+#### Protein Structure
+
+##### Primary Structure
+
+##### Secondary Structure
+
+##### Tertiary Structure
+
+##### Quaternary Structure
+
+#### Denaturation and Protein Folding
+
 
 ### Nucleic Acids
 
