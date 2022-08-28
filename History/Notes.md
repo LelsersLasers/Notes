@@ -387,6 +387,220 @@ I think we should not celebrate "Columbus Day" as "Columbus" Day, but something 
     - But were less strict
     - Merge of Spanish and native cultures
 
+# Chapter 2 - Beginnings of English America
+
+- 1607: 3 ships of colonists from England land in Chesapeake Bay
+    - Move inland (James River) to avoid Spanish warships
+    - Establish Jamestown (named for King) in the colony of Virginia (named for last queen)
+    - Sponored by the **Virginia Company**
+        - Private buisness of merchants, aristocrats, and members of Parliment
+        - Queen gave her blessing (before dying in 1603)
+    - 104 people returned, rest stayed
+        - All men, searching for gold/wealth not functioning society
+- English North America was a place of opportunity
+    - Chance of fortune
+        - Escape of deprivation and inequality
+    - Religious minorities could be more free
+    - The settlers had more freedoms and rights
+        - But not all were equal (slaves, etc)
+
+## England and the New World
+
+### Unifying the English Nation
+
+- In 16th century, England was a second rate power
+- Internal disunity
+- Henry VIII established the **Anglican Church** when the pope did not annul his marriage
+- Strife followed and English rulers switched between Catholicism and Anglicanism
+
+### England and Ireland
+
+- England attempt to control Ireland cost money/energy/time
+    - Could have been used in the New World
+- Ireland was viewed as a Catholic threat to Protestant rule in England
+- Did not want to aborb Ireland/Irish people
+    - Foreshadowed England policy in New World
+
+### England and North American
+
+- Queen Elizabeth I was first to focus on New World
+- She granted Sir Humphrey Gilbert and Sir Walter Raleigh charters for colonies in the New World
+    - At their own expense
+- 1582: Gilber established a settlement in Newfoundland 1582
+    - Failed quickly
+- 1585: Raleigh sent up a base on Roanoke Island
+    - The settlers abandon it the next year
+    - 1586: Tried again, but its fate was never known
+
+### Spreading Protestantism
+
+- Spain was motivated by glory, gold, and relgion
+    - Reformation put Spain as an enemy of England
+        - And a failed Spanish armada in 1588
+- England wanted to save the New World from Spanish terror/Catholicism
+    - And of course glory and gold
+    - And stimulate trade to benefit motherland
+
+### The Social Crisis
+
+- Enconomic growth < pop. growth
+- **Enclosure movement** pushed many people into overcrowed cities
+- Could use New World land/space/resources for the overflow of people
+
+### Masterless Men
+
+- The wandering/employed men were seen as dangerous
+- However, many thought that the only want to be free was to control their own labor
+    - Could get that in the New World
+
+## The Coming of the English
+
+### English Emigrants
+
+- Diseases devasted locals and settlers
+    - Required constant stream of immigrants
+    - People still went because it was better than the homeland
+- 1607-1700: > 500k people left England
+    - Went to West Indies, Ireland, and North America
+- Pop. of English colonies grew
+    - All types of people came
+    - Mostly young men who had nothing to lose (bottom of ladder in England)
+
+### Indentured Servants
+
+- Settlers who could pay for their voyage landed in the New World as free people
+    - The rest traded voyage for time (usually 5-7 years) as an **indentured Servant**
+- Very similar to slaves, but had a garenteed time of freedom
+    - Many still died as servants
+
+### Land and Liberty
+
+- The English belived land was the basis of Liberty
+    - Owning land gave right to vote
+- The promise (chance) of owning land movivated all people to move to New World
+- Land was also given as a reward from the King
+- No one wanted to work the land of others, they all wanted to own land
+    - Led to rise of slaves
+
+### Englishmen and Indians
+
+- Compared to Spanish, the English wanted to displace the natives and take their land
+    - Rather than intermarry/mix and making them a part of the Spanish empire
+- Some trade between English and natives, and some did marry
+    - But most remained seperate
+- The natives did not have a "real claim" for the land
+    - Did not cultivate did, less permenent settlements
+    - To avoid some conflict, some local colonial governments declared areas offlimits
+        - Overall ineffective
+- Constant conflict/warring between natives and English
+    - Further drove them apart
+
+### The Transformation of Indian Life
+
+- Welcomed the newcomers' goods
+    - Some had practical advantages (cloth, kettles, iron tools, guns, etc)
+    - Some were decrorative/relgious (glass beads, copper, etc)
+- Changed the way they lived/hunted/farmed/cooked
+    - Both sides traded what they had in execess of what they had little of
+        - Unequal though because English had military superiority
+- The settlers also changed the land with new crops/animals
+    - And cutting down trees, building fences, unsustainable hunting
+
+## Settling the Chespeake
+
+### The Jamsestown Colony
+
+- High death rates and leadership turnovers
+- The Virginia Company wanted profit
+    - Often set underwheleming supplies
+    - Set few farmers/workers, mostly people looking for gold
+- Dispite more settlers coming from England, diease, lack of food, and winter killed many
+    - Tried to abandon, but were intercepted by next shipment of people
+- **John Smith** imposed military displine and forced labor
+    - Held the colony together
+    - Not liked by the colonists, but next leaders kept his iron fist policies
+- 1618: the Virginia Company realized its gold plan wasn't working
+    - Needed to trade and to grow food (as well as get more people)
+    - **Headright system** gave land to those who paid for someone else to come to Jamestown
+        - Rather than the company keeping the land for itself
+    - **House of Burgesses** replaced autocratic government
+
+### Powhatan and Pocahontas
+
+- Powhatan was local and powerful leader of natives of area
+    - He saw the benefits of trade with the newcommers
+- For first two years, trade and relations between the England and natives where good/equal
+    - Story of Smith being captured and then saved by Pocahontas (likely ceremony)
+- Pocahontas became intermediary
+    - Brought food and messages between the people
+- 1614: Pocahontas marries John Rolfe (Englishman)
+- 1616: She went to England and became a sign of harmony and sucess between the people
+- 1617: Pocahontas dies
+    - 1618: Powhatan dies
+
+### The Uprising of 1622
+
+- Became clear the English meant to stay
+- 1622: Opechancanough (Powhatan's brother/sucessor) sprise attacks killing 1/4 of Virginia's pop.
+    - Colonists strike back, massacring natives and destorying villages
+- Governor Francis Wyatt saw this as a sign that the natives had no right/claim to any land
+    - Wanted to push them out of Virginia
+- 1644: Another failed attack led by Opechancanough
+- Failed uprising shifted power into colonists' hands
+    - Forced natives to move designated lands
+- Virginia Company surrendered its charter and Virginia become a royal colony
+    - The English government mostly ingored it at the start and the elite controlled it
+
+### A Tobacco Colony
+
+- King James I warned against tobacco
+    - People thought it had health benefits (also people just liked it)
+- Tobacco became Virginia's substitute for gold
+- A new class of tobacco farmers emerged
+    - Scramble for land
+    - The powerful assigned good land to themselves (and become more powerful)
+- The English crown benefited from custom dutes (taxes on incoming tobacco)
+- Lead to a demand for field laborers
+    - Temporarly filled by indentured servants
+        - High death rate, yet people still came hoping to live long enough to get their own land
+- Virginia society mirrored England's
+    - Wealthy land owners at top
+    - Small farmers/freed indentured servants in the middle
+    - Large pop. of labors
+
+### Women and the Family
+
+- Colony family life was not stable
+- Mostly men
+    - Men:women = 4ish:1
+    - Because most women came as indentured servants, they could not marry for a while
+    - Low natural pop. growth
+- Women in England had a claim to **dower rights**
+    - Could claim 1/3 of husband's property if he died
+- However, women in the colonies could have more rights
+    - *Feme sole*: "women alone" who had indepenant legal identity
+        - Could conduct buisness/contracts
+        - Could not be married (and thus would have have children/family)
+
+### The Marryland Experiment
+
+- The second Chesapeake colony was similar to Virginia
+    - Tobacco dominated
+- 1632: Marryland estabilished as a proprietary colony
+    - The land grant was to a single person, Cecilius Calvert
+        - Who was the son of recently dead King Charles I
+    - The charter gave him full, free, absolute power over everything (including government)
+        - But the colonists were garenteed the rights of an Englishman
+            - Including right to government (which caused conflict with Calvert)
+
+### Relgion in Marryland
+
+- Calvert was Catholic and he wanted Marryland to be a refuge for them
+    - Wanted Protestants and Catholics to live in harmony
+    - Caused instability
+- High death rates
+- Freedom dues included access to land
+    - But most of the good land was already taken
 
 ## Homework Question - 8/28
 
