@@ -92,7 +92,7 @@
     - Carbohydrates (sugars, strarches)
     - Lipids and phospholipids (fats, oils, waxes, some steroids)
     - Proteins (enzymes and some steroids)
-    - Nucleic acids (DNA, RNA)
+     - Nucleic acids (DNA, RNA)
         - MRNA: message RNA
         - DNA: the boss, sends info to RNA
         - RNA: makes the proteins
@@ -120,3 +120,55 @@ Amino group (amines) "-NH2"
 Sulfhydryl group (thiols) "-SH"
 Phosphate group "H3PO4"
 ```
+
+## 8/26
+
+- Four groups of macromolecules
+    1. Carbohydrates
+    2. Lipids
+    3. Proteins
+    4. Nucleic aicds
+- Monomer
+    - Relativly small molecule
+    - Combine to make a polymer
+    - Cellulose (a polymer) is made from 100s of glucose (monomer)
+- Dehydration synthesis
+    - "Building by losing water"
+    - Monomer1 + Monomer2 &rarr; H2O + Polymer
+    - Monomer1 loses OH (from OH), Monomer2 loses an H (from OH)
+    - Monomer1 has covelant bond to O which has a covalent bond to Monomer2
+- Hydrolysis
+    - "Breaking apart by adding water"
+    - Reverse of dehydration synthesis
+
+### Carbohydrates
+
+- CH2O (C and H2O)
+    - Glucose 6(CH2O) &rarr; C6 H12 O6
+- Monosaccharides
+    - Monomers of carbohydrates
+    - Glucose, ribose
+- Disacharides
+    - Di = two
+    - Maltose, sucrose
+- Polysaccharides
+    - Poly = many (>2 = many)
+    - Glycogen, cellulose, starch
+- Glycosidic linkage
+    - Bond between monosaccharides
+    - `1-4 glycosidic linkage`: OH from carbon 1, H from carbon 4
+- Two forms (sometimes): Alpha and Beta
+
+### Lipids
+
+- Fats, oils, phospholipids, steroids, waxes
+- Two compoents that make up lipids
+    1. One molecule of glycerol
+    2. Up to 3 fatty acid tails
+        - 3 tails: triacylglycerols
+    - Connected by dehydration synthesis
+- Nonpolar, hydrophobic
+- Saturated vs unsaturated fats
+    - Saturated: only single bonds
+    - Unsaturated: at least one carbon-carbon double bond
+        - Causes a "kink" or bend
