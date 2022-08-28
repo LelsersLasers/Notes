@@ -386,3 +386,36 @@ I think we should not celebrate "Columbus Day" as "Columbus" Day, but something 
 - Spanish returned and reconquered
     - But were less strict
     - Merge of Spanish and native cultures
+
+
+## Homework Question - 8/28
+
+### John Smith's Letter to Queen Anne
+
+1. What are John Smith’s motives in writing this letter to Queen Anne?
+
+He was concerned that Pocahontas might not be given the reception he felt she deserved,
+so he wrote a letter Queen Anne to personally vouch for the integrity and faithfulness of Pocahontas. 
+
+2. How does John Smith portray Pocahontas?
+
+He portrays her as young women who is more than worthy of everyone's respect
+with a compassionate pitiful heart.
+
+### Pocahontas
+
+1. What position does this article take on Pocahontas saving Smith from execution?
+
+There is a significant chance that it was a mock execution and salvation ceremony
+and her actions were part of a ritual.
+
+2. How is Pocahontas portrayed in this article?
+
+She is portrayed as a playful, frolicsome little girl who cares for all,
+including the colonists.
+She did not seem too bothered by her captivity or coversion to Christianity.
+
+3. What new information did you learn from this article?
+
+There were a lot more specific details and it suggests/says that parts of
+Smith's accound was wrong or made up.
