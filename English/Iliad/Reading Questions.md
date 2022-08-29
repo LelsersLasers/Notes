@@ -143,7 +143,7 @@ How did Calchas interpret the portent?
 By contrast, to whom does Agamemnon sacrifice and what does he pray for?
 *Flee death and grind of war; Zeus, don't let night come until Troy and Hector are destoryed*
 
-## Book Three: SOMETHING
+## Book Three: Helen Reviews the Champions
 
 1. Which Trojan issues a challenge to fight an Achaean in single combat? Which Achaean agrees to fight him?
 What will the prize for the victor be?

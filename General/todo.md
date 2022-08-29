@@ -14,7 +14,6 @@
 
 - gsconnect
 - set up xmonad
-- smaller titlebars in gnome
 
 
 - DONE: set up school wifi

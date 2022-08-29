@@ -616,9 +616,25 @@ Phosphate group "H3PO4"
 #### Intro
 
 - Proteins are sequences of the 20 amino acids that each contain an amino group ("NH2"), a carboxyl group ("COOH"), and a variable group
-- Each amino acid is connected to its neighbors by a peptide bond formed by a dehydration reaction
+- Each amino acid is connected to its neighbors by a `peptide bond` formed by a dehydration reaction
 - A long chain of amino acids is called a `polypeptide`
-- 
+- Proteins serve many purposes:
+    - Enzymes and catalyzes
+    - Structural support
+    - Relgulate the passage of substances across the cell membrane
+    - Protect against disease
+    - Coordinate cell signaling pathways
+- Structed in four levels:
+    - Primary: unique sequence of amino acids
+        - One change can change structure and function
+    - Secondary: local folding of polypeptide bonds by hydrogen bonds
+        - Leads to alpha helix and beta pleated sheet conformations
+    - Tertiary: hydrogen bonds, ionic bonds, disulfide linkages, and hydrophobic interactions between R groups, contribute to the folding of the polypeptide
+        - Different three-dimensional configurations
+        - Most enzymes are tertiary configuration
+- If a protein is denatured and loses its three-dimensional shape, it may lose function
+    - Conditions like temperature and pH can denature proteins
+
 
 #### Types and Functions of Proteins
 
