@@ -758,21 +758,75 @@ Phosphate group "H3PO4"
 
 #### Intro
 
+- Made from phosphorus (P) in addition to C, H, O, and N
+- Nucleic acids store and transmit hereditary information
+- DNA contains the instruction for the creation of proteins
+    - Transcription and translation: dictate the amino acids in polypeptides
+- Nucleic acids are made from `nucleotides`
+- DNA carries genetic blueprints passed from parent to offspring
+- DNA has double helix structure
+    - Antiparallel connected by hydrogen bonds
+    - In pairs
+- RNA is single-stranded
+- `Central Dogma of Life`: DNA &rarr; RNA &rarr; protein
+
 #### DNA and RNA
+
+- `Nucleic Acids` carry genetic blueprint and instructions for a cell
+- 2 main types of nucleic acid:
+    1. Deoxyribonucleic acid (DNA)
+    2. Ribonucleic acid (RNA)
+- `Genome`: entire genetic conect of a cell
+- DNA controls cellular activities by turning genes "on"/"off"
+- RNA is mostly protein synthesis
+    - `mRNA` (messenger RNA): DNA use them as ab ubtermeduary to communicate without leaving the nucleus
+- Nucleotides combine to form `polynucleotides`, DNA, or DNA
+ Nucleotides are made from:
+    - A pentaose sugar
+        - Deoxyribose in DNA and ribose in RNA
+    - A nitrogenous base
+        - In DNA: one of adenine (A), guanine (G) cytosine (C), and thymine (T)
+        - In RNA: one of A, U (uracil), G, C
+    - A phosphate group
+- Adenine and guanine are `purines`
+    - 2 carbon-nitrogen rings
+- Cytosine, thymine, and uracil are `pyrimidines`
+    - Single carbon-nitrogen ring
+- 5'-3' `phosphodiester` linkage
+    - Formed by the removal of two phosphate groups
+        - Not dehydration synthesis
 
 #### DNA Double-Helix Structure
 
+- Sugar and phosphate on the outside
+    - Form backbone
+- Nitrogenous based stacked like stairs on the inside
+    - In pairs bound by hydrogen bonds
+- Antiparallel: strands of the helix run in opposite directions
+    - 5' carbon of one will face the 3i of the other
+- Complementary rule: only certain pyrimidines and pair with certain purines
+    - A-T and C-G
+
 #### RNA
 
-
+- Protein synthesis as directed by DNA
+- Made from ribonucleotides linked by phosphodiester bonds
+- 4 types of RNA:
+    1. mRNA (messenger RNA)
+        - Carried messgages from DNA
+        - Read in sets of 3 bases (codons)
+    2. rRNA (ribosomal RNA)
+        - Ensures proper alignment of mRNA and ribosomes
+        - Enzymatic activity (peptidyltransferease)
+            - Catalyzes the formation of peptide bonds
+    3. tRNA (transfer RNA)
+        - Carries correct amino acid to the protein synthesis
+    4. miRNA (microRNA)
+        - Gene expression
 
 ### Key Terms
 
 Link: https://openstax.org/books/biology-ap-courses/pages/3-key-terms
-
-### Questions
-
-1. alpha vs beta shapes/bonds??
 
 ### Homework Questions - 8/30
 
@@ -799,14 +853,14 @@ Polysaccharides are long chains of monosaccharides linked by glycosidic bonds.
 ```
 4. **Describe** the relationship between amino acid sequence and the three-dimensional structure of the tertiary level of protein structure.
 ```
-F
+The tertiary structure is formed by folding.
+Folding occurs because of interactions between amino acids.
+These interactions mostly hydrophobic interactions, hydrogen bonds, ionic bonds, disulfide bridges
 ```
 5. **Identify** two environmental conditions that can alter protein structure.
 ```
-Temperature:
-    - High temperature
-pH:
-    - Low pH (acidic)
+Temperature (high)
+pH (low - acidic)
 ```
 6. Why do phospholipids form membranes while triglycerides for insoluble droplets?
 ```
