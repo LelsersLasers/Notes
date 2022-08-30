@@ -792,19 +792,36 @@ It is the reverse of dehydration synthesis,
 3. Relate the structure of polysaccharides to their functions.
 ```
 Polysaccharides are long chains of monosaccharides linked by glycosidic bonds.
-- Starch: from amylose and amylopectin (both polymers of glucose)
-    - Plants are able to synthesize glucose, the extra is stored as starch
-- `Glycogen`: storage form of glucose
-    - Made from monomers og glucose
-    - Animal equivelent of starch
-    - When glocuse levels drop, glycogen is broken down to release glucose (`glycogenolysis`)
-- `Celluose`: makes up most of the cell wall of plants
-    - Made from glucose linked by β 1-4 glycosidic bonds
-    - Rigid and has high tensile strength
+- Starch and glycogen
+    - Branched -> allows cells to grab parts of it -> good for energy storage
+- Celluose
+    - Long fibers, not branched -> rigid and high tensile strength -> good for cell walls
 ```
-4. **Describe** the relationship between amino acid sequence and the three-dimensional structure of the tertiary level of protein structure. 
-5. **Identify** two environmental conditions that can alter protein structure. 
+4. **Describe** the relationship between amino acid sequence and the three-dimensional structure of the tertiary level of protein structure.
+```
+F
+```
+5. **Identify** two environmental conditions that can alter protein structure.
+```
+Temperature:
+    - High temperature
+pH:
+    - Low pH (acidic)
+```
 6. Why do phospholipids form membranes while triglycerides for insoluble droplets?
+```
+Phospholipids:
+    - Head which is hydrophilic
+    - 2 tails (hydrophobic):
+        - 1 saturated
+        - 1 unsaturated
+    - The nonpolar tails attract to each other (hydrophobic interactions)
+    - Forms a membrane that divides the inside of the cell from the outside
+Triglycerides:
+    - Nonpolar/hydrophobic
+    - Similar to oil
+    - Attract each other and water will leave them alone
+```
 
 
 
