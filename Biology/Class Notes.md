@@ -121,7 +121,7 @@ Hydroxyl group (alcohol) "-OH"
 Carbonyl group (aldehyde or ketone) "C=O"
 Carboxyl group (carboxylic acid) "-COOH"
     (H+ can break off - weak acid)
-Amino group (amines) "-NH2"
+Amine group (amines) "-NH2"
 Sulfhydryl group (thiols) "-SH"
 Phosphate group "H3PO4"
 ```
@@ -223,3 +223,14 @@ Phosphate group "H3PO4"
     - Quaternary protein
     - Donut shaped
 - Folding can affect function
+
+## 8/30
+
+### Nucleic acids
+
+- Examples:
+    - DNA
+    - RNA
+- Nucleotides: monomers
+
+### Test study

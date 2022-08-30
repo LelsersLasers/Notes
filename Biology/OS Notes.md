@@ -420,7 +420,7 @@ Hydroxyl group (alcohol) "-OH"
 Carbonyl group (aldehyde or ketone) "C=O"
 Carboxyl group (carboxylic acid) "-COOH"
     (H+ can break off - weak acid)
-Amino group (amines) "-NH2"
+Amine group (amines) "-NH2"
 Sulfhydryl group (thiols) "-SH"
 Phosphate group "H3PO4"
 ```
@@ -658,24 +658,111 @@ Phosphate group "H3PO4"
 - `Hormones`: chemical-sgnaliing molecules
     - Usually small proteins or steroids secreted by endocrine cells
     - Act to: control/regulate
-
+        - Growth, development, metabolism, and reproduction
+- Main types/functions:
+    - Digestive enzymes: help in digestion of food by catabolizing nutrients into monomeric units
+    - Transport: carry substances in the blood or lymph throughout the body
+    - Structural: construct different structures, like the cytoskeleton
+    - Hormones: coordinate the activity of different body systems
+    - Defense: protect the body from foreign pathogens
+    - Contractile: effect muscle contraction
+    - Storage: provide nourishment in early development of the embryo and the seedling
+- Different shapes and molecular weights
+    - Globular (hemoglobin) or fibrous (collagen)
+    - Shape affects function
 
 #### Amino Acids
 
+- `Amino Acids` are the monomers that make up proteins
+- Same base structure:
+    - Central (alpha) carbon connected to
+        - An amino group ("NH2")
+        - A caroboxyl group ("COOH")
+        - A hydrogen atom
+        - And another group of atoms (R group/side group)
+    - ![Amino acid structure](https://openstax.org/apps/archive/20220801.182716/resources/09b7fe1e9665b335eff812d6bafc9c8302126779)
+- "Amino acid": amino group and caroboxyl acts like an acid
+- 20 amino acids
+    - Like 20 letters
+    - 9 essential amino acids
+    - Same structure, different R groups
+        - Determines if it is acidic, basic, polar, nonpolar
+- Abbeviated to either 3 letters or 1 uppercase letter
+    - Often end in "-ine"
+- Sequence ("word") determines the protein's shape/size/function
+    - Each amino acid is connected to another by a `peptide` bond
+        - Covalent bond formed by dehydration synthesis
+    - ![Peptide bond](https://openstax.org/apps/archive/20220801.182716/resources/e3a11ffdd00b8aa60b1e19c6fe12da879a237feb)
+    - The resulting chain is called a `polypeptide`
+        - `N terminal`: always will have a free amino group ("NH2") at one end
+        - `C terminal`: always will have a free carboxyl group ("COOH") at the other end
+- Polypeptide vs protein
+    - `Polypeptide`: polymer of amino acid
+    - `Protein`: polypeptide(s) combined together and sometimes bond to to non-peptide prosthetic groups
+        - Porteins are modified during `protein synthesis` (translation)
+            - Called `post-translation` modifications
+        - Can undergo `clevage` or `phosphorylation`
+            - May require addition chemical groups
+
 #### Protein Structure
+
+- An enzymes can bind to a specific substrate at a site
+    - Known as an active site
+    - If the active site is changed, the enzyme might not be able to bind to the substrate
+- ![Protein structure](https://openstax.org/apps/archive/20220801.182716/resources/be389460373b6ab7b1f229e88ab84a9ea599357e)
+
 
 ##### Primary Structure
 
+- Unique sequence ("word") of amino acids in a polypeptide chain
+- Can have multiple chains
+
 ##### Secondary Structure
+
+- Alpha helix
+    - Hydrogen bonds between one amino acid and another than is four further down the chain
+    - R groups stick out from the helix
+- Beta pleated sheet
+    - "Pleats" formed by hydrogen bonds between atoms on the backbone of the polypeptide chain
+    - R group extend above/below the folds of the pleat
+    - Align parrallel or antiparallel
+    - Hydrogen bonds form btween H of amino group and O of carbonyl group
 
 ##### Tertiary Structure
 
+- Interactions between R groups
+    - Different parts of a polypeptide chain will attract/repel
+- Folds/bends ("knots") the chain
+- Hydrophobic in the center
+- Hydrophilic on the outside
+- Interactions between cysteine side chains forms disulfide linkages
+    - Only covalent bond forming during protein folding
+
 ##### Quaternary Structure
+
+- `Subunits` are formed from multiple polypeptides
+- Interactions between subunits form quaternary structure
 
 #### Denaturation and Protein Folding
 
+- Proteins have specific conditions they need
+- Changes in temperature, pH, or exposure to chemicals can `denature` a protein
+    - Don't like: high temperature and low pH (acid)
+- `Denature`: loses its shape
+    - If the structure of the polypeptide is retained, it can undenatured (reversed)
+    - But is it no always reversible
+        - Egg fried
+- `Chaperons` (or `chaperonins`) help fold proteins
 
 ### Nucleic Acids
+
+#### Intro
+
+#### DNA and RNA
+
+#### DNA Double-Helix Structure
+
+#### RNA
 
 
 
@@ -689,9 +776,32 @@ Link: https://openstax.org/books/biology-ap-courses/pages/3-key-terms
 
 ### Homework Questions - 8/30
 
-1. **Describe** the relationship between organic functional groups and macromolecules. 
-2. What is the relationship between dehydration synthesis and hydrolysis? 
-3. Relate the structure of polysaccharides to their functions. 
+1. **Describe** the relationship between organic functional groups and macromolecules.
+```
+Functional groups can be found on the carbon backbone of macromolecules.
+They help form monomers that make up the macromolecules.
+```
+2. What is the relationship between dehydration synthesis and hydrolysis?
+```
+Dehydration synthesis is building by releasing water.
+Dehydration works by taking an H from hydroxyl of one molecule and the entire hydroxyl group of another.
+
+Hydrolysis is breaking by adding water.
+It is the reverse of dehydration synthesis,
+``` 
+3. Relate the structure of polysaccharides to their functions.
+```
+Polysaccharides are long chains of monosaccharides linked by glycosidic bonds.
+- Starch: from amylose and amylopectin (both polymers of glucose)
+    - Plants are able to synthesize glucose, the extra is stored as starch
+- `Glycogen`: storage form of glucose
+    - Made from monomers og glucose
+    - Animal equivelent of starch
+    - When glocuse levels drop, glycogen is broken down to release glucose (`glycogenolysis`)
+- `Celluose`: makes up most of the cell wall of plants
+    - Made from glucose linked by β 1-4 glycosidic bonds
+    - Rigid and has high tensile strength
+```
 4. **Describe** the relationship between amino acid sequence and the three-dimensional structure of the tertiary level of protein structure. 
 5. **Identify** two environmental conditions that can alter protein structure. 
 6. Why do phospholipids form membranes while triglycerides for insoluble droplets?
@@ -701,7 +811,7 @@ Link: https://openstax.org/books/biology-ap-courses/pages/3-key-terms
 
 # Big Ideas
 
-## Big idea 1
+## Big Idea 1
 
 The process of evolution drives the diversity and unity of life.
 
@@ -715,7 +825,7 @@ The process of evolution drives the diversity and unity of life.
 - Organisms share many conserved core processes and features that evolved and are widely distributed among organisms today.
 - There are several hypotheses about the natural origin of life on Earth, each with supporting scientific evidence.
 
-## Big idea 2
+## Big Idea 2
 
 Biological systems utilize free energy and molecular building blocks to grow, to reproduce, and to maintain dynamic homeostasis.
 
@@ -726,6 +836,18 @@ Biological systems utilize free energy and molecular building blocks to grow, to
 ### Essential Knowledge
 
 - Organisms must exchange matter with the environment to grow, reproduce and maintain organization.
+
+## Big Idea 3
+
+Living systems store, retrieve, transmit and respond to information essential to life processes.
+
+### Enduring Knowledge
+
+- Heritable information provides for continuity of life.
+
+### Essential Knowledge
+
+- DNA, and in some cases RNA, is the primary source of heritable information.
 
 ## Big Idea 4
 
