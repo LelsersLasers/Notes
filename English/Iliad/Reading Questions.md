@@ -202,3 +202,91 @@ So what if Zeus grants Thetis' wish and has the Greeks lose?
 It's just some human lives.
 Overall, I think the gods are just making all the problems the humans have worse
 by exagrating them and making smaller actions/problems into big ones.
+
+# Iliad 04-05 - reading questions 8/29
+
+## Book Four: The Truce Erupts in War 
+
+1. Why does Hera not like the plan to establish peace between the Trojans and Greeks by returning Helen to Menelaus?
+*She wants the Greeks to win (truce makes all of her work useless)*
+2. How much does Zeus like or dislike the Trojans?
+*He seems to like them*
+3. In negotiating with Hera, what concession does Zeus want in exchange for him letting Hera vent her wrath on the Trojans?
+How does Hera respond?
+*If he wants to destory a city, Hera shouldn't stop him; She can't stop him anyways, and us fighting here/now doesn't help*
+4. Which god convinces Pandarus to break the truce?
+What skill does Pandarus have that makes him a good choice?
+*Athena; very good archer*
+5. Which god deflects Pandarus' arrow from killing Menelaus ("as quick as a mother flicks a fly from her baby sleeping softly")?
+Where does the arrow hit him?
+*Athena; his belt*
+6. Why, on pp. 150-151, does Agamemnon now think that "the day will come when sacred Troy must die, Priam must die and all his people with him"?
+*Thinks Zeus will get revenge for them*
+7. What does Machaon do for Menelaus (i.e. who is Machaon in the Greek army)?
+**
+8. Read lines 257-424 quickly:
+Agamemnon exhorts his troops to prepare for the coming battle, which allows Homer to introduce several of the primary Greek leaders and their individual habits and styles;
+then focus on 425-488 (his exhortation of Diomedes & Sthenelus) and 489-630 (the first full battle description).
+Then answer: What does Agamemnon find was so admirable about Tydeus, the father of Diomedes?
+*He would never shy behind the lines (had no equal, led the charge)*
+9. How does Agamemnon say that Diomedes compares to his father?
+How does Diomedes respond to this assessment?
+What opinion does Sthenelus express about how he and Diomedes compare to their fathers?
+*Why are you not fighting on the front lines like you father did; No reply; He says we all claim we are greater than our fathers*
+10. In the midst of the fighting at the end of book 4, which god encourages the Trojans (even though he is far away in Pergamus)?
+Which goddess encourages the Greeks?
+*Ares; Athena*
+
+## Book Five: Diomedes Fights the Gods
+
+1. Who granted Tydeus' son Diomedes great strength and daring at the begiining of book 5?
+Why did she do this?
+*Athena; so he could win himself glory*
+2. Lines 9-92 are a series of small battlefield killings—read through quickly,
+but notice Homer's tendency to give at least some backstory to each of the victims as he describes their deaths.
+Then continue reading and answer: To what is Diomedes compared as he causes panic among the Trojans, before Pandarus hits him in the right shoulder with an arrow?
+*A flood*
+3. After Sthenelus removes the arrow from Diomedes' shoulder, to whom does Diomedes  pray?
+When she goes on to lift the mist from his eyes, what does this allow Diomedes to do?
+*Athena; see if someone is a god or human*
+4. In the catalog of Diomedes' first kills once returning to battle (lines 148-185), to what animal is Diomedes compared twice?
+*A lion*
+5. What is Pandarus's explanation for why Diomedes did not die when he hit him with an arrow?
+*Gods are interfering*
+6. Anchises is Aeneas's father, but who is his mother (as Sthenelus informs Diomedes)?
+*Aphrodite*
+7. Aeneas's horses came from those that were given to Tros by Zeus himself.
+(A) As compensation for what did Zeus do this?
+(B) How did Anchises gain access to these horses?
+*Payment for stealing Ganymede*
+8. When Diomedes, after killing Pandarus, confronts Aeneas, what "tremendous feat," such as "no two men … weak as men are now" could do, does Diomedes perform?
+**
+9. After Aeneas is knocked down by Diomedes, who tries to save Aeneas and fails?
+Why does she fail?
+Who eventually does save Aeneas by shrouding him in mist?
+**
+10. When Aphrodite's mother explains to Aphrodite that immortals sometimes need to endure abuse from mortals, she uses Ares, Hera, and Hades as examples.
+Which mortal hero was the perpetrator of two of these incidents?
+**
+11. Lines 540-815 are a long section of diverse fighting—read quickly, but noting the following couple of details:
+(A) What does Aeneas do when faced with the Achaean heroes Menelaus and Antilochus (lines 656 ff.)?
+(B) What did Heracles do with only 6 ships of men, according to his son Tlepolemus (lines 727-742)?
+**
+12. Which two goddesses depart the battlefield to ask Zeus if they can intervene in the chaos that Ares is causing?
+What mode of transportation do they use to travel to and from the battlefield?
+**
+13. When Athena tries to shame Diomedes by comparing him unfavorably to his father Tydeus, what does Diomedes give as his excuse for not engaging in battle?
+**
+14. Besides encouraging him with words, what else does Athena do for Diomedes as he goes into battle with Ares?
+Why can't Ares see Athena?
+**
+15. After he is wounded,
+(A) how loudly does Ares shriek?
+(B) What comfort does Zeus offer to him after he has retreated to Olympus and complained about Athena?
+**
+
+## Longer question - pick one of the questions
+
+1. What does the deal that Hera and Zeus make concerning the destruction of cities (book 4, lines 35-84) say about the relationship between the gods and mortal life going on down on earth? What can people reasonably expect from their worship of the gods? Similarly, what are the relationships like between gods and other gods (e.g. Ares and Athena certainly don't seem to get along)?
+2. In books 4-5, violence on a widespread scale breaks out in the Iliad. What are some of the characteristics of Homer's descriptions of violence, and what effects do you as a reader feel from these descriptions?
+3. What are the ethics of the destruction of the truce between the Trojans and the Greeks -- the humans certainly seem to have come to a workable solution before the gods mess it up? What motivates the gods to destroy the truce?

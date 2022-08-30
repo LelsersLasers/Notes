@@ -633,10 +633,32 @@ Phosphate group "H3PO4"
         - Different three-dimensional configurations
         - Most enzymes are tertiary configuration
 - If a protein is denatured and loses its three-dimensional shape, it may lose function
-    - Conditions like temperature and pH can denature proteins
-
+    - Conditions like high temperature and low pH can `denature` proteins
 
 #### Types and Functions of Proteins
+
+- `Proteins` can be be:
+    - Structural, regulatory, contractile, protective
+    - Transport, storage, membranes
+    - Toxins or enzymes
+- Every cell can have thousands of proteins
+- All proteins are polymers of amino acids
+    - And arranged in a linear sequence
+- `Enzymes`: catalysts in reactions
+    - Usually complex/conjugated proteins
+    - Produced by living cells
+- Every enzyme is specific for the substrate it acts on
+    - `Substrate`: a reactant that binds to an enzyme
+- Enzymes help in breakdown, rearrangement, or sythesis reactions
+    - Breakdown their substrates: catabolic enzymes
+    - Build more complex molecules from their substrates: anabolic enzymes
+    - Affect the rate of reaction: catalytic enzymes
+- All enzymes increase the reate of reaction
+    - Called organic catalysts
+- `Hormones`: chemical-sgnaliing molecules
+    - Usually small proteins or steroids secreted by endocrine cells
+    - Act to: control/regulate
+
 
 #### Amino Acids
 

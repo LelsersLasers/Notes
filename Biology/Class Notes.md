@@ -102,14 +102,19 @@
         - **Must form 4 covalent bonds**
     - Forms single of double bonds
  
- ### Diagramming
+### Diagramming
 
  - Single line: covalent bond
  - Double line: 2 covalent bonds
+ - Red: oxygen
+ - Black: carbon
+ - White/grey: hydrogen
+ - Blue: phosphate
 
- ### Functional groups
+### Functional groups
 
 - Replace an H on the the carbon skeleton
+- Can be polar or non polar
 
 ```
 Hydroxyl group (alcohol) "-OH"
@@ -171,4 +176,50 @@ Phosphate group "H3PO4"
 - Saturated vs unsaturated fats
     - Saturated: only single bonds
     - Unsaturated: at least one carbon-carbon double bond
-        - Causes a "kink" or bend
+        - Causes a "kink" or bend (not straight)
+
+## 8/29
+
+- Ester linkage
+    - Bond between gylcerol and fatty acids (of lipids)
+    - Bond formed by dehydration synthesis
+- Phospholipid
+    - Mixed: part hydrophobic, part hydrophilic
+        - Polar 'heads' will always face the water
+    - Replaced one fatty acid tail with a phosphate functional group
+- Lumen of cell
+    - Water outside of cell
+    - Caused phospholipids to form two layers
+        - Tails all point inward
+
+### Proteins
+
+- Amino acids: monomers of proteins
+    - 20 total, differ in R groups
+    - 20 'letters'
+    - Polar/nonpolar/charged based on R groups
+        - "-ine": usually nonpolar 
+        - Carboxyl group can make something an acid (it can lose and H+)
+- 4 levels of structure:
+    - Primary: polypeptide chain
+        - Sequence ('word') of amino acids (string of pearls)
+            - Linked by dehydration synthesis
+        - Peptide bond: between N of an amino acid and the carbonyl carbon of the other
+    - Secondary
+        - Alpha Helix
+        - Beta pleated sheet
+        - R groups of primary structures interacting 
+    - Tertiary
+        - Knotted slinky
+        - Pulls the structure into knots
+        - Most enzymes
+    - Quaternary
+        - More than one tertiary put together
+- Can be denatured
+    - Don't like high temperatures or low pH
+    - Can't really be undenatured
+    - Interput the shape and function
+- Hemoglobin
+    - Quaternary protein
+    - Donut shaped
+- Folding can affect function
