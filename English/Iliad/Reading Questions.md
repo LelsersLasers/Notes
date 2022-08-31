@@ -298,3 +298,79 @@ It makes each action feel very important.
 It also makes it seem personal, as we often get details about the people.
 It is never "and then some random guy over there died",
 everyone has a backstory, people that care about them, and people they can about.
+
+# Iliad 06-08 - reading questions 8/31
+
+## Book Six: SOMETHING
+
+1. When Diomedes kills Axylus, Homer gives him a brief backstory;
+what did Axylus do for the the people of rock-built Arisbe when he was there?
+*Sort of inn, let people come into his house*
+2. When Menelaus considers whether to spare Adrestus or not, what convinces him to show no mercy?
+*Agamemnon*
+3. Who of the Trojans is "best of seers" and why does he advise that Hector return to Troy?
+*Helenus (son of Priam); to give instructions to his mother*
+4. Diomedes tells Glaucus the story of Lycurgus, "who tried to fight the deathless gods."
+Which god did this man terrify so much that the god fled beneath the sea?
+*Rushed at Dionysus (and his maenads)*
+5. To what does Glaucus compare "the lives of mortal men"?
+*Generations of leaves*
+6. In the story of Glaucus' ancestry, when king Proetus sent Bellerophon to Lycia, what did Proetus give him to show to Antea's father?
+*Tokens (murderous signs)*
+7. How does the encounter between Diomedes and Glaucus turn out?
+Who got the better of the deal?
+*They are friends and they trade armor; Diomedes (traded bronze for gold)*
+8. To whose shrine does Hector send his mother Hecuba?
+*Athena's*
+9. Before meeting his wife, which hero does Hector find lingering with Helen?
+Why is he there and not out fighting?
+*Paris; He was plunging himself in grief*
+10. Where does Hector meet his wife Andromache and son Astyanax?
+Why was Andromache there?
+*Gate-tower of Troy; she heard the Trojan fighters were struggling*
+11. Who killed Andromache's father and her seven brothers?
+*Achilles*
+12. Up to this point (and throughout the rest of the Iliad), Hector's most distinguishing characteristic is his flashing helmet.
+What is his son's reaction to the helmet?
+*Terrified*
+13. As he holds his son, what is Hector's prayer for him?
+*Have him be greater than his father*
+14. As Hector (in a very famous speech) refuses Andromache's plea for him to defend Troy from the ramparts,
+what does Hector say that he knows well in his heart and soul?
+*Troy will fall*
+
+
+## Book Seven: Ajax duels with Hector
+
+Book 7 tells the end of the first day of fighting. Apollo and Athena jointly convince Hector to challenge any one of the Achaeans to a dual. The Achaeans eventually choose big Ajax by lot to face Hector. The dual ends in a draw, and Hector and Ajax exchange gifts with one another and depart on friendly terms. At night the Trojans debate whether or not to give Helen back (Antenor says they should, Paris says no). The next day a temporary truce is called so that each side can gather its dead for burial and the Achaeans built a large wall and trench to help them defend their ships.
+
+## Book Eight: The Tide of Battle Turns
+
+Book 8 begins with Zeus boasting about how much more powerful he is than the rest of the gods. He forbids any god from intervening in the fighting and departs for Mount Ida to watch. Both sides fight with varying success until the Trojans (in accord with a favorable decree from Zeus' golden scales) begin to get the upper hand and drive the Achaeans back. At this point Hera and Athena become alarmed and try to intervene, until Zeus finds out and threatens them. The Trojans have been so successful that they are able to make camp on the plain near the Achaean wall.
+
+## Longer question 1
+
+In Andromache's speech (6.482-520), she makes a rare statement about the effects of the fighting on the non-combatants.
+What does she choose to emphasize in her speech, and what effect does the speech have on you, the reader?
+
+She emphasizes the loss she already has suffered and the loss their son could suffer.
+It makes it feel like Hector is making the "wrong" choice by risking himself fighting.
+It also takes the focus on Hector (who has been a very important player for Troy)
+and on to the people around him.
+In addition, it makes the Greeks look a little excessive in their attack of Troy
+and the amount of suffering that has been the result of it.
+
+
+## Longer question 2
+
+In Hector's speech to Andromache (lines 6.521-555), what heroic ideals does he express?
+Do you find these admirable or not admirable?
+
+Hector expresses many heroic ideals.
+The largest ideal present is a dedication to the fight.
+This is admirable because he is not willing to abandon his people.
+He is also doing it to win glory
+(which is a heroic ideal, just not nessissarly an admirable one).
+He also wants to defend his wife, and not have her taken as a prize.
+I think it is admirable that he does not talk about his wife in terms of beauty
+compared to how Agamemnon does.
