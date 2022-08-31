@@ -223,7 +223,7 @@ Where does the arrow hit him?
 6. Why, on pp. 150-151, does Agamemnon now think that "the day will come when sacred Troy must die, Priam must die and all his people with him"?
 *Thinks Zeus will get revenge for them*
 7. What does Machaon do for Menelaus (i.e. who is Machaon in the Greek army)?
-**
+*Healer*
 8. Read lines 257-424 quickly:
 Agamemnon exhorts his troops to prepare for the coming battle, which allows Homer to introduce several of the primary Greek leaders and their individual habits and styles;
 then focus on 425-488 (his exhortation of Diomedes & Sthenelus) and 489-630 (the first full battle description).
@@ -258,35 +258,43 @@ When she goes on to lift the mist from his eyes, what does this allow Diomedes t
 7. Aeneas's horses came from those that were given to Tros by Zeus himself.
 (A) As compensation for what did Zeus do this?
 (B) How did Anchises gain access to these horses?
-*Payment for stealing Ganymede*
+*Payment for stealing Ganymede; Stole from the stock*
 8. When Diomedes, after killing Pandarus, confronts Aeneas, what "tremendous feat," such as "no two men … weak as men are now" could do, does Diomedes perform?
-**
+*Picked up a boulder*
 9. After Aeneas is knocked down by Diomedes, who tries to save Aeneas and fails?
 Why does she fail?
 Who eventually does save Aeneas by shrouding him in mist?
-**
+*Aphrodite; he can see gods (gift from Athena); Apollo*
 10. When Aphrodite's mother explains to Aphrodite that immortals sometimes need to endure abuse from mortals, she uses Ares, Hera, and Hades as examples.
 Which mortal hero was the perpetrator of two of these incidents?
-**
+*Heracles*
 11. Lines 540-815 are a long section of diverse fighting—read quickly, but noting the following couple of details:
 (A) What does Aeneas do when faced with the Achaean heroes Menelaus and Antilochus (lines 656 ff.)?
 (B) What did Heracles do with only 6 ships of men, according to his son Tlepolemus (lines 727-742)?
-**
+*Does not fight them; razed the walls of Troy*
 12. Which two goddesses depart the battlefield to ask Zeus if they can intervene in the chaos that Ares is causing?
 What mode of transportation do they use to travel to and from the battlefield?
-**
+*Hera, Athena; Chariot*
 13. When Athena tries to shame Diomedes by comparing him unfavorably to his father Tydeus, what does Diomedes give as his excuse for not engaging in battle?
-**
+*Athena told him he can fight Aphrodite but not any other god (and Ares leads the charge)*
 14. Besides encouraging him with words, what else does Athena do for Diomedes as he goes into battle with Ares?
 Why can't Ares see Athena?
-**
+*She takes Sthenelus' spot; she has the helmet of Death*
 15. After he is wounded,
 (A) how loudly does Ares shriek?
 (B) What comfort does Zeus offer to him after he has retreated to Olympus and complained about Athena?
-**
+*As loud as 10,000 soldiers; Healing*
 
 ## Longer question - pick one of the questions
 
 1. What does the deal that Hera and Zeus make concerning the destruction of cities (book 4, lines 35-84) say about the relationship between the gods and mortal life going on down on earth? What can people reasonably expect from their worship of the gods? Similarly, what are the relationships like between gods and other gods (e.g. Ares and Athena certainly don't seem to get along)?
-2. In books 4-5, violence on a widespread scale breaks out in the Iliad. What are some of the characteristics of Homer's descriptions of violence, and what effects do you as a reader feel from these descriptions?
+2. **In books 4-5, violence on a widespread scale breaks out in the Iliad. What are some of the characteristics of Homer's descriptions of violence, and what effects do you as a reader feel from these descriptions?**
 3. What are the ethics of the destruction of the truce between the Trojans and the Greeks -- the humans certainly seem to have come to a workable solution before the gods mess it up? What motivates the gods to destroy the truce?
+
+The descriptions of violence are very epic.
+They are often long worded, detailed, and dramatic
+(much more so than in Gilgamesh).
+It makes each action feel very important.
+It also makes it seem personal, as we often get details about the people.
+It is never "and then some random guy over there died",
+everyone has a backstory, people that care about them, and people they can about.
