@@ -766,3 +766,25 @@ It further detaches Harvard from its past.
 3. How does this discussion relate to other questions of historical legacy and memory in America?
 
 People will forget about this change, and the updated song will sort of overwrite the original in history.
+
+## Homework Questions - 8/31
+
+1. What is the Flushing Remonstrance?
+Who drafted it, why, and what is its basic message?
+
+Settlers drafted it in 1657 in Flushing.
+They wanted to petition the Dutch colonial government uphold freedom of conscience and permit religious pluralism.
+
+2. Why do you think Governor Stuyvesant rejected the Remonstrance?
+Are there any understandable or justifiable reasons for him to deny religious or ideological diversity in this new colony?
+
+He rejected it because he would only tolerate his Dutch Reformed Church (and the Remonstrance went against that idea).
+
+3. What has been the legacy of the Remonstrance?
+
+It was the first document in America to argue for religious freedom.
+Also the people did not just argue/petition to solve their own problems, they argued for everyone's right to choose.
+It lead to Queens being one of the most divese country in the US.
+However, there is no proof that later advocators for rights
+(like those who wrote the Bill of Rights, Virginia Statute for Religious Freedom, or the Declaration of Independence)
+were influenced by the Remonstrance.

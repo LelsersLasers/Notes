@@ -301,7 +301,7 @@ everyone has a backstory, people that care about them, and people they can about
 
 # Iliad 06-08 - reading questions 8/31
 
-## Book Six: SOMETHING
+## Book Six: Hector Returns to Troy
 
 1. When Diomedes kills Axylus, Homer gives him a brief backstory;
 what did Axylus do for the the people of rock-built Arisbe when he was there?
