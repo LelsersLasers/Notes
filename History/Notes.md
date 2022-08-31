@@ -637,7 +637,22 @@ Smith's accound was wrong or made up.
 ## Homework Questions - 8/30
 
 1. According to William Bradford, what was the impetus behind writing the Mayflower Compact?
-2. What form of government does the Mayflower Compact seek to establish? Describe this government with
-reference to specific concepts and terms in the text.
-3. In what ways might this document be viewed as a “precursor” to the Declaration of Independence and the
-Constitution? In what ways is it different from these documents?
+
+Some people aboard *The Mayflower* were not completely on the same level of unity as others.
+The Mayflower Compact would be an agreement to organize a government that would operate to benefit everyone.
+
+2. What form of government does the Mayflower Compact seek to establish?
+Describe this government with reference to specific concepts and terms in the text.
+
+The Mayflower Compact calls the government a "Civil Body Politic".
+The government will meet repeatly with the purpse of creating
+equal laws, ordiances, acts, constitions, and offices.
+
+3. In what ways might this document be viewed as a “precursor” to the Declaration of
+Independence and the Constitution?
+In what ways is it different from these documents?
+
+The government is made from multiple people and it will create equal laws.
+A main complaint leading to the Declaration of Independence was unequal taxing
+(and without input from the people).
+It is different in the way that the people "promise all due submission and obedience".
