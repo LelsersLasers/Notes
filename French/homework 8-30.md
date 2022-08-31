@@ -15,5 +15,8 @@
 - Il abaisse l'âge du droit de vote de 21 à 18 ans
 - Le rôle de l'Église catholique dans la société diminue drastiquement
 - Baby-boom
+    - Menacent un système scolaire public par ailleurs déficien
+- Modifie le statut légal de la femme mariée
+- La création d'un régime de retraite.
 
 2. Pourquoi la nationalisation des compagnies privées d'électricité est-elle eu importante?

@@ -213,7 +213,7 @@ by exagrating them and making smaller actions/problems into big ones.
 *He seems to like them*
 3. In negotiating with Hera, what concession does Zeus want in exchange for him letting Hera vent her wrath on the Trojans?
 How does Hera respond?
-*If he wants to destory a city, Hera shouldn't stop him; She can't stop him anyways, and us fighting here/now doesn't help*
+*Zeus can destroy 3 of Hera's favorite cities if he wants; She can't stop him anyways, and us fighting here/now doesn't help*
 4. Which god convinces Pandarus to break the truce?
 What skill does Pandarus have that makes him a good choice?
 *Athena; very good archer*
