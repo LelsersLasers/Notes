@@ -120,3 +120,57 @@ Verb congugations
 - Nous  faisons
 - Vous  faites
 - Ils   font
+
+## Connaître
+
+- Je    connais
+- Tu    connais
+- Il    connaît
+- Nous  connaissons
+- Vous  connaissez
+- Ils   connaissent
+
+## Devoir
+
+- Je    dois
+- Tu    dois
+- Il    doit
+- Nous  devons
+- Vous  devez
+- Ils   doivent
+
+## Pouvoir
+
+- Je    peux
+- Tu    peux
+- Il    peut
+- Nous  pouvons
+- Vous  pouvez
+- Ils   peuvent
+
+## Prendre
+
+- Je    prends
+- Tu    prends
+- Il    prend
+- Nous  prenons
+- Vous  prenez
+- Ils   prennent
+
+## Venir/tenir
+
+- Je    viens
+- Tu    viens
+- Il    vient
+- Nous  venons
+- Vous  venez
+- Ils   viennent
+
+## Vouloir
+
+- Je    veux
+- Tu    veux
+- Il    veut
+- Nous  voulons
+- Vous  voulez
+- Ils   veulent

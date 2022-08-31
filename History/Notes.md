@@ -634,6 +634,74 @@ She did not seem too bothered by her captivity or coversion to Christianity.
 There were a lot more specific details and it suggests/says that parts of
 Smith's accound was wrong or made up.
 
+
+## The New England Way
+
+### The Rise of Puritanism
+
+- **Puritans** were English who thought the Church of England contained too many of the problems of the Catholic Church
+- Saw church ceremonies and other random rules as "popery"
+- Rejected religous power structure
+    - "Congregationalists"
+- Calvinism: predesination for hell/heaven
+
+### Moral Liberty
+
+- 1620s-1630s: King Charles I was sort of restoring Catholicism
+    - Puritans emigrated to New England
+        - Wanted to set up there and influence England
+- Puritans hoping for right to worship and govern themselves freely in a Christian manner
+    - Set up a "city upon a hill"
+- John Winthrop, 1645 speech
+    - "Natural liberty": acting without restraint
+        - "Liberty to do evil"
+        - Irish, Indians, bad Christians
+    - "Moral liberty": liberty to do good
+        - "Subjection to authority"
+
+### The Pilgrams at Plymouth
+
+- Pilgrams
+    - Puritans
+    - 1608: fled to Netherlands
+    - 1620: came on Mayflower
+- **Mayflower Compact**
+    - Male adults of Mayflower all agreed to obey equal/just laws set by representives
+- Natives already cleared by smallpox
+- Most died to winter (rest saved by natives)
+    - 1621: first Thanksgiving
+- Principle of consent
+    - More people could vote
+
+### The Great Migration
+
+- 1629: charter for Massachusetts Bay Company
+- Group of London merchants (Puritans)
+- 1629-1642: the **Great Migration** 21,000 Puritans move from England to Massachusetts
+    - Base for stable society
+- Most came in families
+    - Compared to young single men
+
+### The Puritan Family
+
+- Male authority in house
+- Adherence to the common-law tradition of limiting women's power/legal status
+- Spirital equals (men and women)
+- Women had about equal possible power in church
+- Women spent more time doing kid stuff
+    - Especially in New England where it was a better/stabler environment
+
+### Government and Societ in Massachusetts
+
+- Puritans feared individualism and lack of social unity
+    - Massachusetts organized into self governing towns
+- Settlers received land grants from the colony's government
+    - Plenty of common land
+- Each town had a Congregational Church
+    - 1647: each had to have a school (to learn to read the Bible)
+- 
+
+
 ## Homework Questions - 8/30
 
 1. According to William Bradford, what was the impetus behind writing the Mayflower Compact?
