@@ -331,7 +331,7 @@ For example it can provide insight on things like the end of the dinosaurs or th
     - Under Pope/'s leadership, the Indians united and attacked the colonists
     - The unity soon ended and Spain reconquered New Mexico
 
-## Homework Question - 8/24
+## Homework Questions - 8/24
 
 1. According to this article, what are some of the reasons why Columbus might be considered a hero? A villain?
 
@@ -602,7 +602,7 @@ I think we should not celebrate "Columbus Day" as "Columbus" Day, but something 
 - Freedom dues included access to land
     - But most of the good land was already taken
 
-## Homework Question - 8/28
+## Homework Questions - 8/28
 
 ### John Smith's Letter to Queen Anne
 
@@ -633,3 +633,11 @@ She did not seem too bothered by her captivity or coversion to Christianity.
 
 There were a lot more specific details and it suggests/says that parts of
 Smith's accound was wrong or made up.
+
+## Homework Questions - 8/30
+
+1. According to William Bradford, what was the impetus behind writing the Mayflower Compact?
+2. What form of government does the Mayflower Compact seek to establish? Describe this government with
+reference to specific concepts and terms in the text.
+3. In what ways might this document be viewed as a “precursor” to the Declaration of Independence and the
+Constitution? In what ways is it different from these documents?
