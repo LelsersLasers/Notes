@@ -582,20 +582,20 @@ I think we should not celebrate "Columbus Day" as "Columbus" Day, but something 
         - Could conduct buisness/contracts
         - Could not be married (and thus would have have children/family)
 
-### The Marryland Experiment
+### The Maryland Experiment
 
 - The second Chesapeake colony was similar to Virginia
     - Tobacco dominated
-- 1632: Marryland estabilished as a proprietary colony
+- 1632: Maryland estabilished as a proprietary colony
     - The land grant was to a single person, Cecilius Calvert
         - Who was the son of recently dead King Charles I
     - The charter gave him full, free, absolute power over everything (including government)
         - But the colonists were garenteed the rights of an Englishman
             - Including right to government (which caused conflict with Calvert)
 
-### Relgion in Marryland
+### Relgion in Maryland
 
-- Calvert was Catholic and he wanted Marryland to be a refuge for them
+- Calvert was Catholic and he wanted Maryland to be a refuge for them
     - Wanted Protestants and Catholics to live in harmony
     - Caused instability
 - High death rates
@@ -724,3 +724,45 @@ The government is made from multiple people and it will create equal laws.
 A main complaint leading to the Declaration of Independence was unequal taxing
 (and without input from the people).
 It is different in the way that the people "promise all due submission and obedience".
+
+## Class Notes - 8/31
+
+
+### Crash Course
+
+- First English to Virginia
+    - Looking for gold
+- 1619: First African slaves to Virginia
+- King James didn't like Tobacco, but wanted the tax revenues from it
+- Pilgrams fled to Netherlands
+    - Puritans
+    - Thought Netherlands was not better &rarr; set up New World
+- Pilgrams blew off course
+    - Virginia &rarr; Massachusetts
+- Common good > individual needs in Massachusetts
+    - Based on Puritan values
+    - John Winthrop
+        - Inequality was expression of God's will
+- 1640: first Massachusetts slaves
+
+### Harvard Alma Mater Song
+
+1. Should Harvard change the lyrics to its Alma Mater Song?
+
+Yes.
+I think that it should be updated to match the current ideas of inclusion.
+It is different than changing the words of a textbook or document.
+It is not hiding the past.
+The song serves a different purpose, it is supposed to be a welcoming song,
+not a historical document.
+
+2. Why is it important whether or not Harvard made the change?
+
+It does sort of change history.
+All the new students will hear the new version and have a different idea of what Harvard
+is compared to those before.
+It further detaches Harvard from its past.
+
+3. How does this discussion relate to other questions of historical legacy and memory in America?
+
+People will forget about this change, and the updated song will sort of overwrite the original in history.
