@@ -699,7 +699,44 @@ Smith's accound was wrong or made up.
     - Plenty of common land
 - Each town had a Congregational Church
     - 1647: each had to have a school (to learn to read the Bible)
-- 
+- 1636: Harvard founded to train educated ministry
+- Massachusetts Bay Company moved to Americas
+    - Wanted to avoid otherside/non-Puritans influence
+- People of Massachusetts elected their governors
+
+### Church and State in Puritan Massachusetts
+
+- Puritans | Relgious unity good for social order
+    - No religous toleration (one truth)
+- 17th century New England society was hierachical
+    - Better families had better land (etc)
+    - Liberties are privilages based on place on social ladder
+    - Allowed for slavery
+    - Worse for women
+
+## New England Divided
+
+- Puritans | idea of "self" = bad
+    - No modern individialism, privacy, personal freedom
+    - Can't critize gov. or church
+
+### Roger Williams
+
+- Puritans | individual interpration of Bible
+    - Clashed with idea of unity
+- Roger Williams | seperate church and state, religous toleration
+
+### Rhode Island and Connecticut
+
+- William and followers banished from Massachusetts &rarr; founded Rhode Island
+    - Eventuallly got a charter from London
+- Rhode Island became beacon of religous freedom
+    - And for **dissenters** (people who did not belong to the main established church)
+- More democratic gov.
+- More colonies appeared as results of people leaving Massachusetts
+
+### The Trail of Anne Hutchin
+
 
 
 ## Homework Questions - 8/30
@@ -726,7 +763,6 @@ A main complaint leading to the Declaration of Independence was unequal taxing
 It is different in the way that the people "promise all due submission and obedience".
 
 ## Class Notes - 8/31
-
 
 ### Crash Course
 
