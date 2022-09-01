@@ -3,8 +3,7 @@
 ## Questions
 
 1. Pourquoi l'Église catholique a-t-elle décliné à cette époque?
-2. 
-
+2. Pourquoi la nationalisation des compagnies privées d'électricité est-elle eu importante?
 
 ## Changements à la société québécoise
 
@@ -14,9 +13,9 @@
 - La fondation de la Société générale de financement (1962)
 - Il abaisse l'âge du droit de vote de 21 à 18 ans
 - Le rôle de l'Église catholique dans la société diminue drastiquement
+    - L'Église catholique perd son influence sur l'éducation
 - Baby-boom
     - Menacent un système scolaire public par ailleurs déficien
 - Modifie le statut légal de la femme mariée
-- La création d'un régime de retraite.
-
-2. Pourquoi la nationalisation des compagnies privées d'électricité est-elle eu importante?
+- La création d'un régime de retraite
+- La nationalisation de l'électricité
