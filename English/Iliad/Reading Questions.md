@@ -339,7 +339,6 @@ What is his son's reaction to the helmet?
 what does Hector say that he knows well in his heart and soul?
 *Troy will fall*
 
-
 ## Book Seven: Ajax duels with Hector
 
 Book 7 tells the end of the first day of fighting. Apollo and Athena jointly convince Hector to challenge any one of the Achaeans to a dual. The Achaeans eventually choose big Ajax by lot to face Hector. The dual ends in a draw, and Hector and Ajax exchange gifts with one another and depart on friendly terms. At night the Trojans debate whether or not to give Helen back (Antenor says they should, Paris says no). The next day a temporary truce is called so that each side can gather its dead for burial and the Achaeans built a large wall and trench to help them defend their ships.
@@ -359,7 +358,6 @@ It also takes the focus on Hector (who has been a very important player for Troy
 and on to the people around him.
 In addition, it makes the Greeks look a little excessive in their attack of Troy
 and the amount of suffering that has been the result of it.
-
 
 ## Longer question 2
 
