@@ -372,3 +372,66 @@ He is also doing it to win glory
 He also wants to defend his wife, and not have her taken as a prize.
 I think it is admirable that he does not talk about his wife in terms of beauty
 compared to how Agamemnon does.
+
+# Iliad 09-10 - reading questions 9/2
+
+## Book 9: The Embassy to Achilles
+
+1. What does Agamemnon order his troops to do in his first speech of the book?
+*Cut and run (leave)*
+2. Which (young) Achaean first opposes Agamemnon's order?
+*Diomedes*
+3. Nestor suggests that Agamemnon call a committee of his senior chiefs.
+In this committee, who first suggests that Agamemnon make an apology to Achilles?
+*Nestor*
+4. Roughly how generous is Agamemnon's proposed set of gifts to be given to Achilles in return for his submission?
+*Very nice*
+5. Which three Achaeans form the embassy to Achilles?
+*Phoenix, Ajax, Odysseus*
+6. What is Achilles doing when the embassy arrives at his camp?
+*Playing the lyre*
+7. What do Achilles and the embassy do before they have any long conversations?
+*Feast*
+8. Who speaks first for the embassy and states what Agamemnon's offer is?
+*Odysseus*
+9. What kind of person does Achilles "hate like the very Gates of Death"?
+*Says one thing but hides another in his heart*
+10. What feelings does Achilles express about Briseis?
+*Loves her (even though she was "won")*
+11. Where does Achilles say that he plans to go the next morning?
+*Phthia*
+12. Where in the world do "the houses overflow with the greatest troves of treasure" (p. 264)?
+*Egyptian Thebes*
+13. What "two fates" does Achilles say that his mother has told him "bear me on to the day of death"?
+*Eternal glory but death, or no glory and long life*
+14. What relationship did Phoenix have to the young Achilles?
+*In charge of Achilles upbringing*
+15. What did Phoenix do to make his father so angry that Phoenix was forced to leave the house at a young age?
+*Engage in actives with his father's mistress*
+16. According to Phoenix's myth in lines 609-624, behind what do Prayers go limping along?
+*Ruin?*
+17. In Phoenix's rambling story of Meleager, whom does Oeneus anger by failing to sacrifice to her?
+*Artemis*
+
+## Book 10: Marauding Through the Night
+
+1. Which two Achaeans go on a night raid of the Trojan camp?
+*Odysseus and Diomedes*
+2. Who is Rhesus?
+What possession does he have that is so attractive to Diomedes and Odysseus?
+*Thracian king; chariot and horses*
+
+## Longer question
+
+Which decision do you think Achilles should have made and why?
+Consider from multiple points of view:
+How does his decision impact himself, his Myrmidons, the other kings, the Trojans, and the common troops?
+
+I think for Achilles made the wrong choice.
+He priorities his own anger over the well being of his people.
+It also seems like his decision is to protect his own pride.
+If he "conceeded" by submitting to Agamemnon, it would make his earlier rage look foolish.
+However, it is very unfair to everyone.
+I think at this point in the war, after participating for 9 years,
+the Greeks take him being there into their calculations.
+(Though it also is unfair that he has to fight, as he owes nothing to Agamemnon.)
