@@ -824,3 +824,67 @@ It lead to Queens being one of the most divese country in the US.
 However, there is no proof that later advocators for rights
 (like those who wrote the Bill of Rights, Virginia Statute for Religious Freedom, or the Declaration of Independence)
 were influenced by the Remonstrance.
+
+## Class Notes - 9/2
+
+### Race is a social construct
+
+- Constellation of features
+    - Group a set of features (skin color, hair, facial structure) into a racial category
+- Police boundries
+    - Not nessissarly based on ancestry
+        - More based on visual features
+- Assign meaning/value
+    - Man made (doesn't make it false)
+    - We give value to the assumed "race"
+    - Paper money based on the fact that other people think it has value/meaning
+- **Essentialization**
+    - Ascribing one trait to another trait
+    - Renforces/strengthens social construct
+        - Leads to stereotypes
+    - She is good at math because she is Asian
+
+### Power of an Illusion: Race
+
+- "All men are created equal"
+    - Had slaves
+- How people assign meaning to how they look
+- Notes on the State of Virginia (Thomas Jefferson)
+    - Africans might be different from time/circumstance but they are inferior
+- Not all are "men"
+    - Justified slavery
+- In early America: economic status and religion > race/skin color
+    - Slow shift
+- Replaced indured servants with African slave trades
+    - Europeans weren't willing to come to America anymore
+    - Became: "black (slaves)" and "white European (masters)"
+        - Became more accepted/"natural"
+
+### Inventing Black and White
+
+- Fearful of African + indentured servant force
+- Gave lowest "whites" more rights to distinguise them from the African slaves
+    - Less likely they would unite again
+
+1. Why was Bacon's Rebellion a turning point for the status and rights of people of African descent in Virginia?
+    - Associated them with perpetral slavery
+    - Worse rights
+    - Now more sperated from the "whites" 
+2. What motivated Virginia's lawmakers to make legal distinctions between white and black inhabitants?
+What effect did those distinctions have on Virginia's universe of obligation?
+Can laws influence the way peopel think about who belongs and does not?
+    - They were worried about another combined force of Africans and indentured servants (Europeans)
+    - Sought to make them seperate so they could not join again
+    - Not obligated towards the slaves
+    - Yes, they do influence the way people think about who belongs because they are the formal written guide
+        - Carries different weight
+3. What does Ira Berlin mean hwne he says that freedom and slavery were created at the same moment?
+How does creating an "out" group strengthen the identity and status of the "in" group?
+    - Your identity is "not the out group" &rarr; desire to be in the in group
+4. Not going to type question
+    - Rich people could get richer
+    - Easy to say:
+        - Relative to me, Africans are all slaves, so Africans are meant to slaves
+    - The poor whites could now say:
+        - I am different that the slaves
+        - Part of the group that has rich people
