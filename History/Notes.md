@@ -921,9 +921,21 @@ to educate people before the imported slaves arrive that those people are still 
 
 1. What about Benjamin Franklin’s life do you find most interesting or intriguing?
 
+I found the fact that Benjamin created a fire department interesting.
+I would not have thought that it was something that was important/needed,
+but it was mentioned multiple times in the article.
+I think it woul be intresting to learn more about when/how/why he created it.
 
 2. Is there anything about his life that surprised you, perhaps even scandalized you?
 
+I did not know he had a large family.
+It surprised me that his family was not super "close".
+For example when his brother would not publish his writings
+and got mad when he found out how Benjamin had tricked him,
+Benjamin left and moved to Philadelphia.
 
 3. Of his many achievements, which do you consider Benjamin Franklin’s greatest and why?
 
+I think his greatest achievement was his particpation in the creation of the Declaration of Independence.
+I think it his greatest achievement because it was a very important moment for the
+creation of the United States of America.
