@@ -888,3 +888,42 @@ How does creating an "out" group strengthen the identity and status of the "in" 
     - The poor whites could now say:
         - I am different that the slaves
         - Part of the group that has rich people
+
+## Homework Questions - 9/3
+
+1. What makes 1619 such a momentous year both for Jamestown and for American history?
+
+In 1619, the first Africans arrived in Virginia.
+They came as unwilling slaves who were stolen from their homes.
+It marked the start of imported slavery that still has impact today.
+Also in that year, the General Assembly (the House of Burgesses)
+met for the first time, marking the beginnings of representative
+government in the colonies.
+(And the first women arrived in Jamestown in 1619.)
+
+2. What, according to this article, makes American slavery unique from its global counterparts?
+
+Slavery was permanent and hereditary.
+Childern inherited their parents status so they were enslaved at birth.
+
+3. Knowing what you know now about the history of slavery in America – from the
+horrendous cruelty of slavery itself to the horrors of the Civil War to the continued civil
+rights abuses and racism it spawned even after its abolition – what would you have done as
+a member of Jamestown to try to avert this history from coming to fruition?
+
+I think it would have been hard to change things.
+Looking back on it, we now know much more than the people at the time.
+Also, the people at that time were looking for profits and did not care about the well being of "other" (as in not their people) people.
+I think the best chance for changing the course of history would be
+to educate people before the imported slaves arrive that those people are still people.
+
+## Homework Questions - 9/4
+
+1. What about Benjamin Franklin’s life do you find most interesting or intriguing?
+
+
+2. Is there anything about his life that surprised you, perhaps even scandalized you?
+
+
+3. Of his many achievements, which do you consider Benjamin Franklin’s greatest and why?
+
