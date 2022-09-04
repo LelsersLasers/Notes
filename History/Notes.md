@@ -1085,7 +1085,136 @@ How does creating an "out" group strengthen the identity and status of the "in" 
 
 # Chapter 4 - Slavery, Freedom, and the Struggle for Empire
 
+- Olaudah Equiano (Gustavus Vassa)
+    - Kidnapped into slavery from Africa
+    - Long chain of being passed around before he bought his freedom and published a autobiography
+- Sustained development for British North America
+- Act of Union of 1707: united England and Scotland
+    - Colonies grow more rapidly
+- Colonies populations become more diverse
+    - However, become more integrated into British empire
+        - Reflected British values
+        - Laws/political institutions extensions of British ones
+        - Economy designed to serve British empire
 
+## Slaver and Empire
+
+- Mostly everyone (Europeans) particpated in the slave trade
+    - With expections that they would all gain profit
+    - Very few wage workers, mostly slaves
+- Rising demand for goods like sugar, rice, tobacco, coffee increased demand for slaves
+
+### Atlantic Trade
+
+- 18th century: British focused on Caribbean
+    - Large center of profit for most people
+- Became seen that part of freedom was the ability to enslave others
+- British colonies particpated in slave trade
+    - Ships between them and Caribbean
+
+### Africa and the Slave Trade
+
+- Most African societies took part in the slave trade
+- For the most part, they retained control of the capture and sale of slaves
+- At this time, Europeans did not venture into Africa
+- Got the Africans wealth, but they lost a significant portion of their population
+
+### The Middle Passage
+
+- Voyage from Africa to the Americas
+- Many did not survive the journey
+    - Terrible conditions
+- Only ~5% of slaves when to NA
+
+### Chesapeake Slavery
+
+- 3 main slave systems in NA:
+    1. Tobacco based plantations in Chesapeake
+    2. Rice based plantations in South Carolina and Georgia
+    3. Nonplantation slavery in New England and Middle Colonies
+- As colonies expanded/moves/changed focus, so did slavery
+- Hierarchy of degrees of freedom
+    1. Large plantation owners
+    2. Lesser farmers and lander owners
+    3. Indentured servants, tenant farmers
+    4. African slaves
+- Violence as form of control was common
+- Increasing divide between whites and blacks
+    - Blacks became associated with danger and undesirable
+
+### The Rice Kingdom
+
+- Grown and mantained by slaves
+- Large source of income
+    - Most efficent to focus on it
+- Rice required lots of land and workers
+    - Slaves were the best option
+        - Were also partially immune to malaria, more common where rice is grown
+- Task system
+    - Slaves worked in groups
+    - Each group had a task
+    - If they did not complete their task, they were punished
+
+### The Georgia Experiment
+
+- Founded in 1732 by James Oglethorpe
+    - Wanted to abolish slavery
+- Wanted Georgia to a refugue for the "worthy poor"
+- Approved as a buffer between South Carolina and Spanish forces in Florida
+- Settlers unhappy with banned slavery (and liquor)
+- 1751: Gave colony to the British crown
+- Settlers got the right for elected assembly (can create their own laws)
+    - Introduced slavery
+    - Become South Carolina "0.8"
+
+### Slavery in the North
+
+- Slavery less important to nonplantation areas of New England and Middle Colonies
+    - Still important, but less than for plantation areas
+- Laws against slaves were less harsh in North than in South
+    - Less of a threat (because there was less total slaves)
+- As New Yorks role in the slave trade expanded, so did its slave count
+
+## Slave Cultures and Slave Resistance
+
+### Becoming Afircan-American
+
+- The imported slaves were not one people
+    - Different cultures, languages, religions
+    - Connected by slavery (not "race")
+    - Described by their African origin
+- By 19th century, the Africans in the Americas were closer to one people
+    - Fusion of their traditions, European cultures, and new conditions in Americas
+
+### African Religion in Colonial America
+
+- Believed there was not quite a hard line between spirtual and secular worlds
+    - Spirits in nature, dead could influence the living
+- Merged Christianity with African religions
+
+### African-American Culture
+
+- In Chesapeake, slave populations began to reproduce
+    - Better climate
+    - Smaller plantations, large number of white **yeoman** (small) farmers
+        - Africans were exposed to white culture
+- In South Carolina and Georgia, slave conditions were much harsher
+    - Less reproduction
+    - Need for continuous supply of imported slaves
+    - Low white and African mixing/contact
+        - Africans lived seperatly
+- In Charleston and Savannah some slaves were able to assimilate
+    - Sexual liaisons between white owners and slaves &rarr; first free mulattos
+
+### Resistance to Slavery
+
+- Slaves had common link of desire for freedom
+- Risked death to escape
+    - Either to uninhabited areas to to Charleston and Savannah
+- 1712: Slaves burn houses and killed 9 white New Yorkers
+- Tried to use European/Indian conflicts to rebel
+- *Stono Rebellion**
+    - the largest slave rebellion in the Southern Colonies
 
 ## Homework Questions - 9/3
 
