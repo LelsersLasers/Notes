@@ -737,7 +737,45 @@ Smith's accound was wrong or made up.
 
 ### The Trail of Anne Hutchin
 
+- She held influencial meetings that critized the ministers of Massachusetts for fauly preaching
+- Antinomianism: putting one's own judgement of faith above both human law and teaching of the church
+- Well educated but went against Puritan beliefs (no chance)
+    - Banished
 
+### Puritans and Indians
+
+- Roger Williams | King had no right to give land that was someone elses
+- John Winthrop | Unculivated land is free to take
+    - Worried Indian freedom (wrong kind of freedomn) would temp settlers
+        - Punished those who left
+        - Encourged **capitivity narratives** (stories of how they were capurated by Indians)
+            - And how they wanted to return
+- Europeans outnumbered Indians
+
+### The Pequot War
+
+- New England Indians had lower numbers and no leader
+    - Wanted peace/alliance
+- 1637: Pequot War
+    - Pequots killed a fur trader
+    - Europeans retaliated
+    - Pequot name to be erased from books
+
+### The New England Economy
+
+- Not slave/tobacco based
+- Fishing, wood, trade 
+- Puritans came from middle class (not indentured servants)
+
+### The Merchant Elite
+
+- New England wealth was better distributed than in Chesapeake
+    - Lower per capita wealth
+- Still inequality
+    - Indentured servants often did not get full rights at the end
+- New England became a significant point of trade
+    - Led to Puritans being overtaken by merchants
+        - 1662: **Half-way covenant**, half baptism for grandchildren of the first migration
 
 ## Homework Questions - 8/30
 
@@ -802,6 +840,162 @@ It further detaches Harvard from its past.
 3. How does this discussion relate to other questions of historical legacy and memory in America?
 
 People will forget about this change, and the updated song will sort of overwrite the original in history.
+
+# Chapter 3 - Creating Anglo-America
+
+- Last quarter of 17th century was chaos
+- 1675: Indian alliances attack farms
+    - Largest conflict of 17th century
+    - Indians had early success
+        - Supposedly lead by mastermind **Metacom (King Philip)**
+    - But were pushed back and stopped
+        - Iroquois allianced with New England
+        - More freedom for Europeans
+
+## Global Competition and the Expansion of England's Empire
+
+### The Mercantilist System
+
+- Mercantilism: economic system that sought to increase the wealth of a nation
+    - Government controlled
+    - Increasing exports and decreasing imports
+- Used colonies for this purpose
+- 1651: **Navigation Act**, promote the self-sufficiency of the British Empire
+    - Restricting colonial trade to England and decreasing dependence on foreign imported goods
+    - Goods had to flow to/from colonies on British ships through England
+
+### The Conquest of New Netherland
+
+- 1664: England took over New Netherland from Anglo-Dutch war
+- Transformed into New York
+    - Charles II gave it to his brother (the duke of York)
+    - Transformed into imperial outpost, trade port
+- Relgious toleration (because there was Dutch already living there)
+    - But limited womens rights and black people's rights
+- Duke of York gave huge benefits to his friends
+
+### New York and the Indians
+
+- **Covenant Chain** ambitions of Indians (Iroquois Confederacy) and New York aligned
+- Iroquois later transistion to policy of neutrallity
+
+### The Charter of Liberties
+
+- People of New York did not like the dukes all powerful ruling
+    - Especially over taxation
+        - Wanted the "rights of an Englishman"
+- 1683: assembly meets and creates a Charter of Liberties and Privilages
+    - Reaffirmed basic English rights
+    - Elections every 3 years
+
+### The Founding of Carolina
+
+- 1663: Carolina Charter
+    - 8 Lords Proprietors granted by Charles II
+- Used as extra land for Barbados, the richest plantation in the Caribbean
+- 1715: **Yamasee uprising**, Yamasee and Creek Indians rebelled, but were crushed
+- 1669: Fundamental Constitutions of Carolina, feudal society, hereditary nobility, serfs, slaves
+    - But needed more immigrants: elected assembly and relgious freedom + headright system
+    - Large power to slave owners
+- Traded and raised cattle until rise farming was discovered
+
+### The Holy Experiment
+
+- 1681: Pennsylvania established
+- William Penn
+    - **Society of Friends (Quaker)**
+        - Equality for all
+            - No slaves, women had rights
+        - Pacifists
+    - Wanted to create a utopia, spiritual freedom, Indian/European peace
+        - Religous freedom
+- Wanted to create a refuge for those facing persecution
+
+### Land in Pennsylvania
+
+- Large number of immigrants
+    - (See above, Pennsylvania was a looking like a pretty good place to be)
+    - Led to other colonies being starved for indentured servants
+        - Had to use slave labor
+    - Led to conflict with Indians
+- Elected government
+
+## Origins of American Slavery
+
+- Need for workers
+    - Indentured servants weren't cutting it &rarr; slave trade
+- Slaves were prefect labor source
+    - Knew what they were doing
+    - Already exposed to European diseases
+    - Slavers forever
+        - Children would be slaves
+    - Did not have basic Englishman's rights
+    - Hard time escaping
+        - Visually different
+        - Did not know the land
+
+### Englishmen and Africans
+
+- English did not like foreigners
+    - Africans, Irish, Native Americans
+    - Savage
+- Race/Racism not fully devolped at this time
+    - But similar ideas of "us" and "them" were present
+
+### Slavery in History
+
+- Was always a thing
+    - Prisoners of war, etc
+- In Americas, slavery was based around the plantation
+    - Economic/agricultural enterprise
+    - Hard demanding labor
+    - High death rates
+    - Became associated with race/skin color
+
+### Slavery in the West Indies
+
+- Officals/top of the ladder convinced African slaves would get them the most money
+- Slave trade/number of imported slaves grew as colonies/plantations grew
+    - Based around a mass marked crop (sugar, rice, tobaco, etc)
+- Not as popular in North America at the start
+    - Expensive compared to indentured servants (they often died before they could get their worth)
+
+### Slavery and the Law
+
+- Spain's laws were transfered to its American colonies
+    - Often ignored, but slaves had some rights
+- English laws became much worse
+    - In some places, there wasn't a clear line between black and slave
+        - However, it was far from equal
+
+### The Rise of Chesapeake Slavery
+
+- Officals wanted to improve status of all white people to make it more appealing to migrate there
+    - As a result, it got worse for blacks
+        - You were either white or other (no inbetween)
+- 1662: Virginia law where child takes mother's status
+    - Better for abusing slaves so the kids would also be slaves
+- 1667: relgious conversion does not release a slave
+- No more interracial relationships
+
+### Bacon's Rebellion: Land and Labor in Virginia
+
+- 1676: **Bacon's Rebellion**
+- Governor (William Berkeley) was ruling corruptly for 30 years
+- People wanted Berkeley to expand and take over Indian land so they could have some
+    - Berkeley was keeping all the good land for him/his friends
+- He refuses
+- Nathaniel Bacon used a combined force of blacks and whites
+    - Wanted to reduce power/wealth of the elites and give it back to the rest
+    - Did not like that Berkeley was protecting the Indians
+
+### A Slave Society
+
+- Death rates fall &rarr; more worth purchasing life long labor
+- Bacon's Rebellion showed power of Africans
+- New slave laws
+    - They are property
+    - Completely sperate from whites
 
 ## Homework Questions - 8/31
 
@@ -888,6 +1082,10 @@ How does creating an "out" group strengthen the identity and status of the "in" 
     - The poor whites could now say:
         - I am different that the slaves
         - Part of the group that has rich people
+
+# Chapter 4 - Slavery, Freedom, and the Struggle for Empire
+
+
 
 ## Homework Questions - 9/3
 
