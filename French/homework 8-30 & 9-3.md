@@ -12,7 +12,7 @@
 - La mise sur pied d'un système d'hôpitaux publics (1961)
 - La création des ministères des Affaires culturelles et des Affaires fédérales-provinciales (1961)
 - La fondation de la Société générale de financement (1962)
-- Il abaisse l'âge du droit de vote de 21 à 18 ans
+-L'âge du droit de vote de 21 à 18 ans
 - Le rôle de l'Église catholique dans la société diminue drastiquement
     - L'Église catholique perd son influence sur l'éducation
 - Baby-boom
@@ -27,3 +27,6 @@
 - Fulton-Favreau
     - Permettrait au gouvernement d'apporter des amendements à la Constitution avec l'appui de deux tiers des provinces
 - Liens diplomatiques à l'étranger
+
+- L'importance du nationalisme québécois et francophone
+- La revendication de l'identité québécoise et francophone sur la scène nationale fédérale
