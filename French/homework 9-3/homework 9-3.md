@@ -10,13 +10,14 @@
 8. Que
 9. Que
 10. Que
-11. Que
-12. Que
-13. Que
-14. Que
-15. Que, Qui
-16. Que
-17. Que
+11. Qui
+12. Qui
+13. Qui
+14. Lequel
+15. Lequel, Qui
+16. Qui
+17. Laquelle
 18. Qui
-19. Que
-20. Que
+19. De laquelle
+    - A phrase: Au centre **de**
+20. Qui
