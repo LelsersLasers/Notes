@@ -1214,7 +1214,7 @@ How does creating an "out" group strengthen the identity and status of the "in" 
 - 1712: Slaves burn houses and killed 9 white New Yorkers
 - Tried to use European/Indian conflicts to rebel
 - *Stono Rebellion**
-    - the largest slave rebellion in the Southern Colonies
+    - The largest slave rebellion in the Southern Colonies
 
 ## Homework Questions - 9/3
 
@@ -1244,7 +1244,62 @@ Also, the people at that time were looking for profits and did not care about th
 I think the best chance for changing the course of history would be
 to educate people before the imported slaves arrive that those people are still people.
 
-## Homework Questions - 9/4
+## Class Notes - 9/6
+
+### Crash Course - Transatlantic Slave Trade
+
+- More than 4 centuries
+- Middle passage
+    - 2nd of 3 parts of the trianglular trade
+- Most slaves did not go to United States areas
+    - Only 5%
+- No Africans returned from slavery &rarr; no knowelege of what would happens
+- The African kingdoms sold the slaves
+    - They mostly weren't "stolen"
+- Chattle slavery
+    - Hereditary slavery
+- Packed into ships
+    - Terrible conditions &rarr; many died
+- Slaves did resist
+    - Revolts
+    - Suicide (causing owners to lose money)
+        - Control over one's own life
+- 18th century: 2/3 of the slave trade
+- Only 20-30% of the slaves lasted more than a couple years in the colonies
+    - Assuming they made it there
+- Free trade: 1675-1725
+- South Carolina banned slave trade, then reinstanted it briefly
+- Transatlantic slave trade ended long before the slave trade within countries
+    - Shows it was just political/economic, not moral
+
+### The Interesting Narrative of the Life of Olaudah Equiano, or Gustavus Vassa, The African
+
+1. At the end of the first sentence, the author writes that the slave ship was “waiting for its cargo.”
+To what cargo is he referring?
+
+The slaves
+
+2. Describe the conditions on board the boat, specifically those under deck.
+
+Terrible.
+Terrible smell, very compact, hot, unsanitary.
+
+3. Why did the narrator get beaten for not eating?
+
+So he would survive (and the owners would not lose money).
+
+4. What does the author mean when he writes,
+“Surely this is a new refinement in cruelty, which, while it has no advantage.”
+
+The slaves already suffered so much, so why would they add on to the suffering by seperating the people.
+
+5. Describe the tone of the narration.
+Then, choose words and/or phrases from the text that help to create this tone.
+
+Matter of fact, statements.
+He seemed a bit confused.
+
+## Homework Questions - 9/6
 
 1. What about Benjamin Franklin’s life do you find most interesting or intriguing?
 
