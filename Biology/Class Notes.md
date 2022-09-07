@@ -233,4 +233,64 @@ Phosphate group "H3PO4"
     - RNA
 - Nucleotides: monomers
 
-### Test study
+## 9/7
+
+### Introduction to Cells and Membranes
+
+- Cells
+    - Organized
+    - Seperated (phospholipid bilayer, etc)
+    - Usally small: efficient
+        - Surface area to volume ratio (bigger better)
+- If it ain't broke, don't fix it
+    - Evolve to keep working "mechanics"
+
+### Domains of life
+
+- Bacteria
+    - Cyanobacteria, Heterotrophic bacteria
+    - No nucleus
+    - Ubiquitous (everywhere)
+    - Symbotic relationships
+- Archaea
+    - Halophiles, Thermophiles
+    - No nucleus
+    - Ancient group of cells
+        - First cells from here (likely)
+        - Halophiles: salt loving
+        - Thermophiles: heat loving
+- Eukarya
+    - Plants, Animals, Fungi, Chromists, Alveolates, Rhodophytes, Flagellates, Basal protists
+    - Has nucleus
+
+### Major cell types
+
+- All cules:
+    - Cell membrane
+    - Ribosomes
+        - Synthesize proteins
+    - DNA
+- Eukaryote
+    - DNA in nucleus (chromosomes)
+- Prokaryote
+    - DNA in cytoplasm (losely coiled in cell)
+    - No membrane bound organelles (no phosolipid bilayer)
+    - Cell wall outside of cell membrane
+        - Extra protection from environment
+    - Flagellum
+        - Used to move around
+- Cloroplast and mitochondria
+    - Chloroplast: photosynthesis
+    - Mitochondria: cellular respiration
+    - Own DNA seperate, cells within cells
+
+### Microscopy
+
+- Dissecting microscope
+    - Lowest magnification
+- Light microscope
+    - 450x magnification
+    - Needs to be plugged in
+- Electron microscope
+    - Best magnification
+    - Emit radiation
