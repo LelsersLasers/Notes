@@ -21,3 +21,14 @@
 19. De laquelle
     - A phrase: Au centre **de**
 20. Qui
+
+21. Qui
+22. Ce qui
+23. Dont
+24. Que
+25. Que
+26. Dont
+27. Que
+28. Dont
+29. lesquelles
+30. Où

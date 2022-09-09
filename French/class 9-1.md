@@ -37,7 +37,7 @@ ou quand il n'y a pas d'antécédent
     - Avoir besoin *de*
 - Example:
     - Le livre **dont** tu *as besoin* se trouve dans la bibliothèque.
-    - **Ce dont** tu as besoin est une voiture.
+    - **Ce dont** tu *as besoin* est une voiture.
 
 ## Lequel (lesquels) / laquelle (lesquelles)
 
