@@ -1299,6 +1299,100 @@ Then, choose words and/or phrases from the text that help to create this tone.
 Matter of fact, statements.
 He seemed a bit confused.
 
+## 122-125 & 129-136
+
+- **Enlightenment**
+    - 18th century movement
+    - Spread from France &rarr; Britain (&rarr; America)
+    - Use reason and science to understand the world and to govern people
+        - Not religion
+- **John Peter Zenger**
+    - Proved freedom of press in trial of him vs corrupt Governor William Cosby
+- **Benjamin Franklin**
+    - Enlightenment
+    - Estabilished newspaper, debating, library, lightning is a form of electricity
+- **Poor Richard’s Almanack**
+    - Written by Benjamin Franklin
+- **Deism**
+    - God but he doesn't do anything (just created the world and left)
+    - World functions according to scientific laws (no divine intervention)
+        - Followed Newton's laws
+    - Study nature instead of worship in church
+- **The Great Awakening**
+    - Response to Enlightenment's emphasis on church = bad
+    - Wanted to keep religion at the forefront of life
+    - Less organized, more personal and emotional Christianity than the existing churches
+        - Enlarged the boundries of liberty
+- **Jonathan Edwards**
+    - Intensely emotional style of preaching
+    - Only acknowledging one's sins and pleading for divine grace could save you from eternal dammnation
+- **George Whitefield**
+    - English minister
+    - Emotional preaching
+    - From Georgia to New England
+    - God was merciful
+    - No predesination
+        - Could save yourself by repenting sins
+    - Was often in the press
+        - Had followers ("evangelists")
+- **Old Lights**
+    - Old lights: traditionalists
+- **New Lights**
+    - Revivalists
+    - Created new churches
+    - Criticized taxes for established churches
+    - Defended religious freedom
+    - Seek salvation over profit
+    - Some were anti-slavery
+    - Trust own views rather than than estabilished elites
+- **French and Indian War/Seven Years’ War**
+    - 1756–1763
+    - Virginia gives 1/2 million acres of West land to the Ohio company
+    - In respone France increases presence there
+    - Ohio Company demanded that the French recogonize that it was their land
+    - 1754: George Washington sent to negotiate with the French
+        - Could not get them to leave the land
+        - Returned with men, failed to attack
+    - General Braddock tries to attack Fort Duquesne
+        - Ambushed by French and Indian forces
+    - Led to two years of fighting
+        - Both sides cruel
+    - Secretary of State William Pitt raised huge money to fight
+    - 1759: British forces (with colonial and Indian aid) had captured many forts
+    - Britain seized control of French Caribbean islands and India
+    - Peace of Paris: 1763
+        - Frances gives control of Canada to Britain
+        - France gets sugar islands of Guadeloupe and Martinique (from British)
+        - Spain gives Florida to Britain
+        - Spain gets Philippines and Cube (from Britain)
+        - Spain gets Louisiana (from France)
+    - Win for Protestant Britain
+        - Americans happy to be British at this time
+    - Very expensive for all involved
+        - Britain increased taxes on American colonies
+    - Lead to an increased nationhood between all Indians rather than just between their kins
+        - Not fully agreed apon, wanted to protect their independence from Britain/Spain/France/etc
+- **Pontiac’s Rebellion**
+    - Frances departure from Americas from the war meant that Indian French lands became British
+    - Lead by Indians of the Ohio River Vally and Great Lakes
+    - Named for Ottawa war leader
+    - Also sparked by Neolin (religious prophet) who saw that they must reject Europeans and retake their land
+        - Regain lost independence
+        - Used new ideas of pan-Indian identity
+- **Proclamation of 1763**
+    - By London
+    - No further settlement West than the Appalachian Mountains
+        - Reserved for Indians
+    - Main goal to stabilize colonies and avoid further conflicts
+    - Ineffective: ignored by colonists
+        - Wanted to take the land "left" by the French
+        - Settlers not happy
+- **Albany Congress/Albany Plan of Union**
+    - 1754 by Benjamin Franklin at the outbreak of the Seven Years' War
+    - Creation of Grand Council to unite colonies
+        - The colonies were all very isolated from eachother
+    - Could levy taxes, create forces, etc
+
 ## Homework Questions - 9/6
 
 1. What about Benjamin Franklin’s life do you find most interesting or intriguing?
