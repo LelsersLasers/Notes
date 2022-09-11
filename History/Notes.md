@@ -1392,6 +1392,7 @@ He seemed a bit confused.
     - Creation of Grand Council to unite colonies
         - The colonies were all very isolated from eachother
     - Could levy taxes, create forces, etc
+    - Rejected
 
 ## Homework Questions - 9/6
 
