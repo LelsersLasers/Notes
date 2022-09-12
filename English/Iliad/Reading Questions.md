@@ -435,3 +435,79 @@ However, it is very unfair to everyone.
 I think at this point in the war, after participating for 9 years,
 the Greeks take him being there into their calculations.
 (Though it also is unfair that he has to fight, as he owes nothing to Agamemnon.)
+
+# Iliad 11-13 - reading questions 9/12
+
+## Book 11: Agamemnon's Day of Glory
+
+1. Whom does Achilles send to Nestor's tent to inquire about the wounded Machaon?
+*Patroclus*
+2. What is the one thing that Nestor can "hoist up with ease" that "an average man would strain to lift"?
+*A glowing cup*
+3. Of the 12 sons of Neleus, only Nestor is left.
+Who killed his 11 brothers?
+*Heracles*
+4. As opposed to Peleus, who advised his son Achilles "always be the best, my boy, the bravest,"
+what advice did Patroclus' father Menoetius give to his son?
+*Achilles may be better, but you need to guide him, he will listen to you.*
+5. Achilles taught Patroclus the use of healing drugs.
+Who taught Achilles?
+*Chiron*
+6. What is Machaon's job in the Acaean army?
+*Healer*
+
+## Book 12: The Trojans Storm the Rampart
+
+1. What did the Achaeans neglect to do when they built their wall?
+*Did not sacrifice to the gods*
+2. What two gods will destroy the wall after the fall of Troy, and by what method will they wash it away?
+*Poseidon and Apollo; something*
+3. (The following questions concern the three sections of book 12 listed above).
+In the "fatal bird-sign" described at lines 231 ff., what do each of the eagle and the serpent do to one another?
+**
+4. How does Polydamas (remember the name) interpret the omen? What does Hector think they should trust in instead?
+**
+5. From what country is Sarpedon?
+Who is his father?
+**
+6. To what does Sarpedon attribute the many material advantages he and Glaucus have among the Lycians?
+**
+7. Under what conditions would Sarpedon "never fight on the front lines again"?
+**
+8. Since Sarpedon, is not actually immortal, what does he seek by fighting?
+**
+9. At line 489, the Trojans and Achaeans are battling on top of the wall.
+To what does Homer compare them?
+**
+10. At line 502, the Trojans cannot quite force the Achaeans to retreat; the Achaeans "held tight" to their position.
+To what does Homer compare the tightness of the Achaean grip?
+
+11. Who makes it so easy for Hector to lift a huge rock?
+To what does Homer compare Hector's lifting of the rock?
+**
+12. Who first breaks through the gate of the Achaean wall?
+**
+
+## Book 13: SOMETHING
+
+1. Who is the "god of earthquakes" who defies Zeus and comes to rally the Achaean troops?
+Why doesn't Zeus stop him?
+**
+2. What does Poseidon do to bug and little Ajax that "fills their hearts with strength and striking force, puts spring in their limbs, their feet and fighting hands"?
+**
+3. After speaking to big and little Ajax, Poseidon rallies another group of Achaeans.
+In Poseidon's speech, he rebukes the men for cowardice, but he also blames one particular person for the bad state of affairs.
+Whom does he blame?
+**
+
+## Longer question - 1
+
+Briefly compare the characteristics of Achilles and of Patroclus as seen in book 11. How are they similar to one another, and how are they different?
+
+## Longer question - 2
+
+In book 12, what is the role of portents in the Trojans' decision making? How do we know (or do we even know) who is right or wrong in the interpretation of the portent witnessed by Hector and Polydamas?
+
+## Longer question - 3
+
+What does the conversation between Sarpedon and Glaucus tell us about the motivation of the heroes on the battlefield? Is this view of the world transferable to other, more ordinary people like you and me (i.e. can we learn anything from this conversation)?
