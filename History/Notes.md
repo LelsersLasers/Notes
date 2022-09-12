@@ -1416,3 +1416,48 @@ Benjamin left and moved to Philadelphia.
 I think his greatest achievement was his particpation in the creation of the Declaration of Independence.
 I think it his greatest achievement because it was a very important moment for the
 creation of the United States of America.
+
+## Class Notes - 9/12
+
+- Seven years war
+    - Global conflict
+- French and Indian war
+    - North America theatre
+    - British colonies vs French colonies + Indian allies
+
+### Crash Course
+
+#### Causes
+
+- Economics
+    - Mercantilism
+        - Colonies exist to benefit the mother country
+        - Colonies exist to provide raw materials for the mother country
+        - Colonies exist to provide markets for the mother country
+        - Minimize imports, maximize exports
+            - Gold flows in
+- Main conflict between British and French
+    - French wanted to dominate fur trade
+        - Made many alliances with Indian tribes
+- Governer of Virginia gives large section of land to Ohio company
+    - Ohio company wanted French to leave the land
+    - French don't (and hold on to them by miliary force)
+
+#### Results
+
+- British struggled but eventually won in North America, Carribean, and India
+    - At the end of war Indians revolted (Pontiacs rebellion)
+        - Wanted to avoid further conflict so marked western land as Indian territory (Proclamation of 1763)
+        - Colonists ignored this because they just fought a war to the right to take that land
+- Peace of Paris: 1763
+    - Frances gives control of Canada to Britain
+    - France gets sugar islands of Guadeloupe and Martinique (from British)
+    - Spain gives Florida to Britain
+    - Spain gets Philippines and Cube (from Britain)
+    - Spain gets Louisiana (from France)
+
+#### Great Awakening
+
+- Relgious revival
+- New denominations
+- More emphasis on personal experience and rebirth
