@@ -1,4 +1,8 @@
-# Une fois pour toutes (pgs. 140-142)
+# Une fois pour toutes
+
+## Pgs. 140-142
+
+### 9/3 & 9/8
 
 1. Qui
 2. Qui, qui
@@ -32,3 +36,18 @@
 28. Dont
 29. lesquelles
 30. Où
+
+## Pgs. 133-134
+
+### 9/12
+
+1. Que
+2. Auquel
+3. Dont
+4. Qui
+5. Qu'
+6. Lesquels
+7. Dont
+8. Ce que
+9. Où
+10. Qui
