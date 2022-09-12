@@ -294,3 +294,77 @@ Phosphate group "H3PO4"
 - Electron microscope
     - Best magnification
     - Emit radiation
+
+## 9/12
+
+- **Shared, conserved core features or processes**
+    - Provde evience for *relatedness*, *evolution*
+- What features do all cell have in common?
+    - "Shared, conserved core *features*
+- All cells carry out glycolysis
+    - Shared *process*
+
+### Eukaryotic cells
+
+- Have a nucleus
+    - DNA in nucleus
+- Complex
+- Some have cell walls
+- Have plasma membrane
+    - Phospholipid bilayer
+- **Membrane-bound organelles**
+- Some in tissues, some "solo"
+- Sigma: "red eye spot"
+    - Rods: light sensor
+
+### Tour of cell
+
+- Cells are small because outside stuff can only get into the cells through diffusion
+    - Bigger Surface area:volume ratio = better
+- Prokaryotic
+    - No nucleus
+    - Bateria
+    - Archaea
+- Eukaryotic
+    - Has nucleus
+    - Organelles
+    - Plants, animals, fungi, protists
+
+#### Eukaryotic organelles
+
+- Nucleolus
+    - Ribiosomes are assembles
+- Nucleus
+    - DNA
+    - Control the cell: makes and directs the proteins
+    - Has holes
+- Ribosomes
+    - Messenger RNA moves through
+    - Builds proteins
+- Rough ER
+    - Ribosomes are attached
+    - Protein synthesis
+- Vesicle
+    - Stores stuff
+- Golgi body
+    - Packages proteins
+        - Modifies the proteins
+    - "Post office"
+- Cytoskeleton
+    - Gives cell its structure
+    - Like a bridge
+        - Has supports (microtubal)
+        - And the ropes connecting the supports to the road (microphilaments)
+- Mitochondria
+    - Powerhouse of the cell
+    - Produce ATP
+    - Cellular respiration
+    - Has its own DNA
+- Vacuole
+    - In plants (mostly)
+    - Stores water
+- Smooth ER
+    - Produces stuff that detoxifies the cell
+- Lysosome
+    - Suicide sack
+    - Breaks itself or neighboring cells down
