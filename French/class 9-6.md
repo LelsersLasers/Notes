@@ -1,4 +1,3 @@
-
 # Le Québec
 
 - L'hockey
@@ -12,3 +11,15 @@
 
 - Le nationalisme sportif exicte aux États-Unis
     - Mais c'est surtout à un niveau/plan international
+
+# Speech
+
+- Le nationalisme au Quebec est different de le nationalisme aux États-Unis
+- Le nationalisme au quebec est inséparable de leur identité francophone
+    - et ils protègent le français
+- Et au Québec, 
+- Mais aux Etats-Unis, le nationalisme est surtout à un niveau/plan international
+
+- Aujourd'hui, je vais parler de la différence entre le nationalisme au Québec et aux États-Unis
+- Le nationalisme au Quebec est different de le nationalisme aux États-Unis
+- Le nationalisme au quebec est inséparable de leur identité francophone et ils protègent le français
