@@ -461,53 +461,72 @@ Who taught Achilles?
 1. What did the Achaeans neglect to do when they built their wall?
 *Did not sacrifice to the gods*
 2. What two gods will destroy the wall after the fall of Troy, and by what method will they wash it away?
-*Poseidon and Apollo; something*
+*Poseidon and Apollo; use the river*
 3. (The following questions concern the three sections of book 12 listed above).
 In the "fatal bird-sign" described at lines 231 ff., what do each of the eagle and the serpent do to one another?
-**
-4. How does Polydamas (remember the name) interpret the omen? What does Hector think they should trust in instead?
-**
+*Fighting (eagle carrying not dead snake, snake bites and eagle throws)*
+4. How does Polydamas (remember the name) interpret the omen?
+What does Hector think they should trust in instead?
+*Don't fight; Keep fighting (gods/Zeus)*
 5. From what country is Sarpedon?
 Who is his father?
-**
+*Lycia; Zeus*
 6. To what does Sarpedon attribute the many material advantages he and Glaucus have among the Lycians?
-**
+*Good fighters*
 7. Under what conditions would Sarpedon "never fight on the front lines again"?
-**
+*Immortal*
 8. Since Sarpedon, is not actually immortal, what does he seek by fighting?
-**
+*Glory*
 9. At line 489, the Trojans and Achaeans are battling on top of the wall.
 To what does Homer compare them?
-**
-10. At line 502, the Trojans cannot quite force the Achaeans to retreat; the Achaeans "held tight" to their position.
+*Farmers*
+10. At line 502, the Trojans cannot quite force the Achaeans to retreat;
+the Achaeans "held tight" to their position.
 To what does Homer compare the tightness of the Achaean grip?
-
+*Widow working the scales*
 11. Who makes it so easy for Hector to lift a huge rock?
 To what does Homer compare Hector's lifting of the rock?
-**
+*Zeus; a shepherd lifts a ram's fleece*
 12. Who first breaks through the gate of the Achaean wall?
-**
+*Hector*
 
-## Book 13: SOMETHING
+## Book 13: Battling for the Ships
 
 1. Who is the "god of earthquakes" who defies Zeus and comes to rally the Achaean troops?
 Why doesn't Zeus stop him?
-**
-2. What does Poseidon do to bug and little Ajax that "fills their hearts with strength and striking force, puts spring in their limbs, their feet and fighting hands"?
-**
+*Poseidon; ??*
+2. What does Poseidon do to big and little Ajax that "fills their hearts with strength and striking force, puts spring in their limbs, their feet and fighting hands"?
+*Hits them with his staff*
 3. After speaking to big and little Ajax, Poseidon rallies another group of Achaeans.
 In Poseidon's speech, he rebukes the men for cowardice, but he also blames one particular person for the bad state of affairs.
 Whom does he blame?
-**
+*Agamemnon*
+
+In book 13, the Achaeans rally just enough to keep the Trojans from burning the ships when Poseidon defies Zeus' orders and inspires the Achaeans. This almost causes a Trojan retreat before Hector arrives at the scene of the heaviest fighting. Most of this book is description of battle, including many wounds and many kills, and a whole lot of boasting.
 
 ## Longer question - 1
 
-Briefly compare the characteristics of Achilles and of Patroclus as seen in book 11. How are they similar to one another, and how are they different?
+Briefly compare the characteristics of Achilles and of Patroclus as seen in book 11.
+How are they similar to one another, and how are they different?
+
+Patroclus and Achilles are close friends and Patroclus listens to Achilles.
+Achilles is also very tender and caring towards Patroclus while he is aggressive and arrogant towards towards others.
 
 ## Longer question - 2
 
-In book 12, what is the role of portents in the Trojans' decision making? How do we know (or do we even know) who is right or wrong in the interpretation of the portent witnessed by Hector and Polydamas?
+In book 12, what is the role of portents in the Trojans' decision making?
+How do we know (or do we even know) who is right or wrong in the interpretation of the portent witnessed by Hector and Polydamas?
+
+I think it is a bad idea to rely on the gods for anything (just keep them happy and not mad at you).
+They all have their own agendas and have have the same respect for moral life that mortals have.
 
 ## Longer question - 3
 
-What does the conversation between Sarpedon and Glaucus tell us about the motivation of the heroes on the battlefield? Is this view of the world transferable to other, more ordinary people like you and me (i.e. can we learn anything from this conversation)?
+What does the conversation between Sarpedon and Glaucus tell us about the motivation of the heroes on the battlefield?
+Is this view of the world transferable to other, more ordinary people like you and me (i.e. can we learn anything from this conversation)?
+
+I think it shows that if they can not be literally immortal, they will look for immortality in their glory.
+I think this view can apply to modern day, but to a lesser extent.
+Likly what will make someone remembered today is not risking their life on a battlefield,
+but either something will politics or buisness.
+Also I think today's world is more managed by money than glory.
