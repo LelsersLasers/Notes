@@ -1,7 +1,11 @@
 # edpuzzle: Colonisation, décolonisation : Le cas français Doc
 
 - "faire sauter le couvercle"
-    - "pop the lid"
+    - "blow the lid off"
+- 1830, Algérie a été colonisée
+- 1970, France a perdu l'Alsace-Lorraine
+    - Blessé (hurt) &rarr; pousser à la colonisation
+- 1962, Algérie a obtenu son independance
 - La mission coloniale de la France est une affaire de l'intérieur de la France, et pas de l'extérieur ou de la périphérie
 - Pendant les deux premiers siècles d'exploration coloniale, la France n'a pas de politique officielle de colonisation
 - L'année 1830, l'année de la prise d'Alger. Cette date marque un changement dans l'expansion coloniale de la France
