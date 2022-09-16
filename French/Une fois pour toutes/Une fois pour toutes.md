@@ -42,12 +42,12 @@
 ### 9/12
 
 1. Que
-2. Auquel
+2. Dont
 3. Dont
 4. Qui
 5. Qu'
-6. Lesquels
+6. Dont
 7. Dont
 8. Ce que
 9. Où
-10. Qui
+10. Ce qui
