@@ -1461,3 +1461,84 @@ creation of the United States of America.
 - Relgious revival
 - New denominations
 - More emphasis on personal experience and rebirth
+
+# Chapter 5 - The American Revolution
+
+- 1765: Thomas Hutchinson's house was raided
+    - Chief justice and lieutenant governor of Massachusetts
+    - Reponse to the **Stamp Act**
+        - British tax that the colonists felt that voilated their liberty
+    - Hutchinson had defended Andrew Oliver (a relative) who was helping to administor the Stamp Act
+    - Led by Ebenezer Mackintosh
+
+## The Crisis Begins
+
+### Consolidating the Empire
+
+- 1760: King George III takes British crown
+- Saw the colonies as just a way to enrich Britain
+    - Contrast from the notion of "allies" during the Seven Years' War
+    - Needed a way to pay for the war
+- **Virtual representation**
+    - Every member represented the country as a whole, not just the area they were from
+    - The colonies and even major British cities (Manchester and Birmingham) were not represented
+- **Writs of assistance**
+    - General search warrants to search anywhere
+    - To combat smuggling (and enforce Navigation Acts)
+- Also not happy with the Proclamation of 1763
+
+### Taxing the Colonies
+
+- 1764: Sugar Act
+    - Reduced tax on molasses
+    - However, further shutdown smuggling
+        - Courts often sided with the smuggler &rarr; they could be judged without a trial
+    - Trying to enforce Navigation Acts
+        - Now colonies were taxed directly instead of indirectly on the trade
+        - Affected the colonial ports the most
+- Currency Act
+    - Confirmed the ban of using paper as "legal tender"
+        - Coins or banknotes that must be accepted if offered in payment of a debt
+- Stamp Act
+    - Affected everyone
+    - Led to British army stationed in America to enforce
+    - Displeased many of the writers and those who controlled the press
+    - Displeased the local elites who lost power as a result of this
+    - "Property was taken away without consent"
+        - Colonists wanted the rights of an Englishman
+
+### Taxation and Representation
+
+- Bristish saw colonies as outposts of an empire
+    - They chose the represetives in America
+- The colonists saw themselves as equals to those on the mainland
+- Because they were unrepresented in Parliament, they could not be taxed by it
+    - "No taxation without representation"
+- House of Burgesses (Virginia) under Patrick Henry passed laws arguing for "British freedom"
+    - Colonists should get same rights/liberties as British citizens because they were British citizens
+- 1765: **Stamp Act Congress**
+    - 27 delegates from 9 colonies
+    - Still loyal and obedient to the crown
+    - However, right to constent of taxation was essential to the freedom of a people
+    - Resulted in boycotting all British goods
+        - First time the colonies worked together
+
+### Liberty and Resistance
+
+- "Liberty" began becoming a common topic and took many forms of visual representation
+- **Committe of Correspondence**
+    - In Boston
+    - Before Stamp Act was passed, spread word and encourged opposition to it (and the Currency Act)
+- Resistance to the acts were often started by elites, but they spread to everyone
+- 1765: **Sons of Liberty**
+    - NYC residents led protests and enforced boycotting of British imports
+- 1766: Britain repealed the Stamp Act
+    - Did not expect American resistance to it
+    - Also pressured by British merchants who were losing money
+        - (Couldn't sell stuff to America with the boycotts)
+- However, at the same time, Britain passed the **Declaratory Act**
+    - Parliament had the right to tax the colonies in any case
+
+### The Regulators
+
+- 
