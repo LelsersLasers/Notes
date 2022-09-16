@@ -368,3 +368,87 @@ Phosphate group "H3PO4"
 - Lysosome
     - Suicide sack
     - Breaks itself or neighboring cells down
+
+## 9/17
+
+### Origin of Eukaryotic Cell
+
+- Endosymbiont hypothesis
+    - Endo: in (compared to outside)
+    - Symbotic:
+        1. Mutalalism: both benefit
+        2. Commencialism: one benefit, one unaffected
+        3. Parisitism: one benefit, one suffers for it
+- For 1 billion years, only Archaea and Bateria cells
+
+#### Energy converters
+
+- Mitochondria
+    - Cellular respiration
+- Chloroplast
+    - Photosynthesis
+- Both:
+    - Double cell membrane
+        - Inner is bent/folded
+            - Increase surface area
+    - Have DNA (just not in nucleur)
+    - Have ribosomes
+    - Basically prokaryotes
+
+#### Phagocytosis
+
+- Phagocytosis: cell eating
+- Began infolding of plasma membrane
+    - Nucleus forms to help protect the DNA
+- Could ingest energy converters
+    - Endosymbiosis
+    - The ingested cells get access to the cell's protection and resources
+    - The cell no longer has to worry about energy as much
+- ![Endosymbiont Hypothesis](./Photos/EndosymbiontHypothesis.jpeg)
+
+### Structure and function of cell membranes
+
+- Cell membrane = plasma membrane
+- Phospholipid bilayer
+- Proteins in the phospholipid bilayer
+    - Allow hydrophilic/polar resources through the membrane
+    - Like the phospholipids, they can have hydrophobic and hydrophilic parts
+- Fluid mosaic model
+    - Fluid:
+        - Move
+        - Proteins float in the phospholipid bilayer
+    - Mosaic:
+        - Made of many different smaller pieces
+- Perpheral proteins
+    - On the outside of the membrane
+- Integral proteins
+    - Transmembrane proteins
+    - Go from one side of the membrane to the other
+- Cholesterol
+    - Makes the membrane more rigid
+    - Helps keep the membrane from breaking
+- Glycolipid
+    - Directly attached to the phospholipid bilayer
+    - Sugar attached to the lipid
+- Glycoprotein
+    - Sugar attached to a protein
+    - Attached to a protein which is attached membrane
+
+#### Transport proteins
+
+- Integral proteins
+- Provide a passageway for molecules to move through the membrane
+    - Both in and out of the cell
+
+#### Recogiition proteins
+
+- Provide a "fingerprint" for the cell
+- So it can be recognized by other cells
+
+#### Receptor proteins
+
+- Bind to external chemicals in order to regulate processes within the cell
+
+#### Enzymatic proteins
+
+- Accelerate intracellular and extracellular reactions on the cell membrane
