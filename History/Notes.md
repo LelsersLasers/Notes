@@ -1545,3 +1545,147 @@ creation of the United States of America.
     - Land disputes between settlers, colonial governments, and Indians
     - Liberty in relation to secure possession of land
         - Compared to liberty in relation to Stamp Tax was about taxes
+- **Regulators**
+    - Mid-1760s
+    - Wealthy residents from the South Carolina backcountry
+    - Protested the under representation of western settlements
+    - As well as the failure to create local governments
+- At the same time, in North Carolina some small farmers rebelled
+    - Kidnapped local officals and refused to pay taxes
+    - Caused general disruption
+- Wanted democratization of local government
+    - Went against the rich and powerful (the colony's elite)
+- 1771: "battle of Alamance"
+    - The farmers were suppressed by the colonial militia
+
+## The Road to Revolution
+
+### The Townshend Crisis
+
+- 1767: **Townshend Acts**
+    - Taxed glass, lead, paint, paper, and tea
+    - During the Stamp Act, some colonists had said they would be okay on taxing trade
+        - Just not taxing them directly
+    - Also created a board to collect the taxes and further stop smuggling
+- Opposition to it came slower than the Stamp Act
+    - But by 1768, some colonies reinstanted the boycotts
+- Led to increased independence from Britain
+    - Began producing goods within America
+        - Became a symbol of resistance
+        - Daughters of Liberty: homespun clothes
+    - Popular especially in the Chesapeake so the planters did not have to pay as much money to British merchants
+    - Also reduced competition with British merchants
+
+### The Boston Massacre
+
+- Royal troops stationed in Boston following rioting in 1768
+- 1770: **Boston Massacre**
+    - Fight between snowball throwers and British soldiers
+    - Escalated and 5 colonists were killed
+- **Crispus Attucks**
+    - One of the people killed in the Boston Massacre
+- John Adams successfully defended 7 of the soldiers
+    - Viewed lower class crowd rioting as a bad way of opposing British policies
+- However, Paul Revere made a famous engraving of the event
+    - Helped stir up more anger against the British
+- But by 1770, merchants and colonial elites were not doing well without British goods
+    - Eventually Townshend Acts were repealed and the boycotts ended
+    - Tea tax remained
+
+### The Tea Act
+
+- The East India Company stock collapsed
+    - It had a large monopoly over trade
+    - Effectively ran British India
+    - Many many people had invested in it
+- To help the company (and thus its supporters), the British government tried to promote it in America
+    - It was given rebates and tax exemptions
+        - Underpriced local tea and smugglers in America
+- Colonists saw this as an extention of the Declatory Act
+    - It would acknowledge the right of Britain to tax the colonies
+- 1773: **Boston Tea Party**
+    - Threw 300 chests of tea off a ship and into the water
+    - Cost them 10,000 (about 4 million today)
+
+### The Intolerable Acts
+
+- Reponse to the Boston Tea Party
+- 1774: **Intolerable Acts**
+    - Closed Boston Harbor until lost tea was paid for
+    - Altered the Massachusetts Charter of 1691
+        - Made it illegal to hold town meetings
+        - The governor could appoint memebers to the council
+            - No longer by election
+- Quebec Act
+    - Same time as Intolerable Acts
+    - Increased size of Canada
+    - Granted legal toleration for the Roman Catholic Church in Canada
+    - Caused colonists to question both the land claims and the Strengthening Catholicism (America was Protestant)
+
+## The Coming of Independence
+
+### The Continental Congress
+
+- Opposition to the Intolerable Acts spread to everyone
+    - Small towns or other places that did not participate in previous resistance
+- 1774: Suffolk Resolves
+    - Resolved to resist the Intolerable Acts
+    - Refuse to obey or pay taxes and to prepare for war
+- 1774: **Continental Congress**
+    - 12 colonies (except Georgia)
+    - Purpose: to coordinate resistance to British policies (especially the Intolerable Acts)
+
+### The Continental Association
+
+- The Continental Congress promoted the Suffolk Resolves
+- And adopted the Continental Association
+    - Halt trade with Britain (and the West Indies)
+    - Created local Committees of Safety
+        - Implement the mandates and punish "enemies of American liberty"
+        - Transfered effective political power from the colonial governments (controlled by Britain)
+
+### The Sweets of Liberty
+
+- By 1775 the idea of "liberty" was very popular
+- Based ideas on both the rights of an Englishman and natural rights and univeral freedom
+    - John Locke's theory of natural rights
+
+### The Outbreak of War
+
+- April 1775: **Lexington and Concord**
+    - British troops were sent to seize colonial arms at Concord
+    - Colonists resisted
+    - First shots of the American Revolution
+- May 1775: Second Continental Congress
+    - War had already started before it met
+    - 13 colonies
+    - George Washington was elected commander
+    - Authorized the creation of a **Continental army**
+- May 1775: Green Mountain Boys (Ethan Allen) and militia from Connecticut (Benedict Arnold) take Fort Ticonderoga (New York)
+    - Drag cannons to siege Boston (where British forces were)
+- June 1775: **Battle of Bunker Hill**
+    - British push back militia from Breed's Hill
+    - But took heavy casualties
+- March 1776: British lose control of Boston
+    - Colonists aided by those extra cannons
+
+### Independence?
+
+- Many still supported Britain
+    - Feared cutting ties with Britain would lead to further chaos
+- Elites in Massachusetts and Virginia supported the break with Britain
+    - Confident in their ability to retain control
+- Novemeber 1775: **Lord Dunmore's Proclamation**
+    - Offered freedom to slaves who fought for the British
+    - Further enraged the South against Britain
+- Because of high diversity in New York and Pennsylvania, they were more hesitant to break with Britain
+    - Wanted peace with Britain
+    - Feared internal conflict after break with Britain (sort of predicted Civil War)
+
+### *Common Sense*
+
+- January 1776: ***Common sense*** by Thomas Paine
+    - Criticized the British government
+    - Argued for independence
+    - Did not just repeat grievences of the colonists
+        - Reached a new audience, spread it to all the people, not just the elites
