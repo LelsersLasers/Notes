@@ -1541,4 +1541,7 @@ creation of the United States of America.
 
 ### The Regulators
 
-- 
+- As colonies expanded westward, there were more conflicts
+    - Land disputes between settlers, colonial governments, and Indians
+    - Liberty in relation to secure possession of land
+        - Compared to liberty in relation to Stamp Tax was about taxes
