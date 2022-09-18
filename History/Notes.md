@@ -1689,3 +1689,93 @@ creation of the United States of America.
     - Argued for independence
     - Did not just repeat grievences of the colonists
         - Reached a new audience, spread it to all the people, not just the elites
+
+## Homework - 9/17: Moment of Decision! 1776
+
+### 1) An introduction of your character: Rebecca Howe
+
+I am a 48 year old single mother who is the owner of this inn.
+Creating this buisness was hard, and has only been harder since he died 5 years ago.
+Because of this, I am thankful for any visitors I get regardless of who they are or what they believe.
+My rum is made from completely legal molasses and my son is definitely not a member of the rebel militia.
+
+You are the forty-eight-year-old owner of a public inn at which this evening’s discussion is
+taking place. You and your husband worked hard to build up your business. Since his death five years ago, the
+burdens on you have grown heavier. The local British magistrate is a frequent visitor to your inn, and you are
+grateful for the business he brings. Of course, you do not tell him that the rum you serve is made from smuggled
+molasses. You also do not dare admit that your son is a member of the rebel militia in your county. You are very
+worried that he may go off to war.
+
+### 2) An explanation of your top option: 2
+
+My top option is option 2.
+My son "is a member of the rebel militia" and I am "very worried that he may go off to war" (and die), 
+so I do not agree with options 3 or 4 which want us (my son) to fight.
+I agree more with option 2 than than option 1 because I agree some things do need to change,
+otherwise I would not even be hosting this discussion.
+For example, the rum I make "is made from smuggled molasses" which I would not have to do if things were different.
+However, I don't have anything particularly against the British,
+and the "local British magistrate is a frequent visitor to" my inn
+which provides good buisness.
+
+While I am leaning toward Option 2, I could be persuaded to Option 1.
+
+### 3) Generate at least one question for each of the other options
+
+| Option | Question |
+| :- | :- |
+| 1 | Shortly after the Stamp Acts were repealed, we were hit by the Townshend Acts which had many of the same problems as the Stamp Acts and had the same outcome. Don't you think it's time for change now rather than just be used to help Britain? |
+| 3 | While Britain could have treated us better, do you really think that it is best to risk our lives for something that could be solved with discussion? We did end up getting the Stamp Acts and Townshend Acts repealed. |
+| 4 | Is it really best to leave Britain? We owe our entire existance on these lands to them. |
+
+### 4) Look over and take notes on the bios of the other characters
+
+Key:
+- " ": No
+- &#9744;: Sort of/not clear
+- &#9745;: (Mostly) yes
+
+| Traveler | Pro war? | Pro British? | Possible ally? | Note |
+| :- | :-: | :-: | :-: | :- |
+| Silas Brattle |  | &#9744; | &#9745; | Pacifist, wealthy, illegal trade but likes British protection |
+| George Lee | &#9744; |  | &#9744; | Shoemaker, indentured servent, family in Britain | 
+| Henry Walker | &#9744; |  |  | Farmer, living farm to mouth, owe money to local merchant, former militia member |
+| William Calder |  | &#9744; | &#9744; | Poor, wants lands Protected by Proclamation of 1763, works for rich person related to royal governor |
+| Thomas Van Der Hoven |  | &#9744; | &#9744; | Dutch, avoids political disputes, what is good for buisness is good for colonies |
+| Charles St. James | &#9745; |  |  | Rich in land and slaves, owe money to British merchants, former militia member |
+| Robert Stewart | &#9744; |  |  | Out of buisness since closure of ports, tension/conflict with local off duty British soldiers |
+| Michael Smithson |  | &#9745; | &#9744; | Clashes with local Indians, concerned about safety, buy lots of English goods |
+| Reverend Howard Walford |  | &#9745; | &#9744; | Son of English land owner aand member of Parilament, Church of England, depend on British officals for money |
+| Walter Walford |  | &#9744; | &#9745; | Clients are "smugglers", doesn't like British regulation and taxing on trade |
+| Emily Campbell | &#9744; | &#9744; |  | Poor, barmaid, resent wealthy people who come in discussing rights of Englishman, Scottish |
+| John Williamson |  |  |  | Rich family, but duty bound, write against British policies |
+| Joshua MacGreggor |  | &#9745; |  | Scottish, pushed out by poor harvest, grateful Britain has made your move to America possible |
+| Samuel Adams | &#9744; |  |  | Oppose British policies, help organize colonial resistance |
+| Anne Bradstree |  | &#9745; |  | Related to members in the House of Lords, fear the violence, blame colonists for this rebellion |
+
+### Other notes
+
+#### Option 1
+
+Beliefs and Assumptions Underlying Option 1:
+1. No society on earth enjoys greater liberty and prosperity than the American colonies. Much of our good fortune, especially with respect to trade, is due to our status within the British Empire.
+2. Accepting the authority o Parliament is a reasonable price to pay for Britain’s protection of the colonies
+3. We are called upon by God to respect the legitimate authority of government.
+
+Supporting Argument for Option 1:
+1. The colonies will be crushed militarily and ruined economically by a full-scale war of rebellion
+2. Breaking our ties with Britain will embolden the lower classes to challenge the authority of their betters
+3. Without the unifying force of British rule and the protection of the British navy, the colonies will squabble among themselves and present an inviting target for aggressive foreign powers
+
+#### Option 2
+
+Beliefs and Assumptions Underlying Option 2:
+1. The legitimacy of Britain’s authority over the colonies is grounded in the mother country’s discover, settlement and continuous protection of America.
+2. The colonies should be required to contribute their fair share to defend the British Empire in North America.
+3. Under the British constitutional system, the citizens of the colonies should have a voice in making the laws
+that govern them, especially in the area of taxation.
+
+Supporting Arguments for Option 2:
+1. Establishing a joint British-American council—on equal footing with Parliament—to govern the colonies will protect both the rights of the colonists and the legitimate authority of Britain.
+2. Resistance to British rule will bring economic disaster to the colonies.
+3. Without British authority over them, the individual colonies will turn against each other and plunge into civil war. 
