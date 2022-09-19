@@ -1778,4 +1778,129 @@ that govern them, especially in the area of taxation.
 Supporting Arguments for Option 2:
 1. Establishing a joint British-American council—on equal footing with Parliament—to govern the colonies will protect both the rights of the colonists and the legitimate authority of Britain.
 2. Resistance to British rule will bring economic disaster to the colonies.
-3. Without British authority over them, the individual colonies will turn against each other and plunge into civil war. 
+3. Without British authority over them, the individual colonies will turn against each other and plunge into civil war.
+
+## The Declaration of Independence
+
+- July 1776: **Declaration of Independence**
+    - List of grievances against the British
+        - Taxation without consent, etc
+    - Unalienable rights
+        - Life, liberty, and the pursuit of happiness
+    - Justification for independence
+        - Conset of the governed
+        - Right to alter/abolish
+            - Right to revolution
+    - Inspired by Englightenment
+
+### Asylum for Mankind
+
+- American nationalism based on the idea that America had a special mission
+    - To be a refuge from tyranny, model for the rest of the world
+- Fight for the rights of mankind, not just the rights of an Englishman
+
+### The Global Declaration of Independence
+
+- 1776: Spain establishes Mission Dolores
+    - European settlement on West Coast to stop Russian expansion
+- Colonists more focused on actually securing their freedom than freedom for mankind
+    - Jefferson hoped that this would inspire other people to follow suit
+- Declaration of Independence rapidly spread in print throughtout the world
+    - Idea that "the people" possess rights become widely popular
+
+## Securing Independence
+
+### The Balance of Power
+
+- British had one of the greatest military powers
+    - America had to use local militia and underequipped Continental Army
+- However, Americans were fighting on their soil for their rights
+    - As long as they were not all dead, idea of independence continued
+- British would have to spend a lot of money to conquer the 13 colonies
+    - Not everyone wanted to pay extra taxes
+- Other countries also wanted to see Britain lose (e.i. France)
+
+### Blacks in the Revolution
+
+- Slaves and blacks saw it as a way to win their freedom
+    - Equality was one of the main ideas of the Independence
+- George Washington rejected black army recruits
+    - Changed after Lord Dunmore's Proclamation
+- Because you could send a substitute for your posistion in the army/militia, a lot of slaves got their freedom this way
+- 1778: Rhode Island formed a black regiment
+    - Promised freedom to slaves who enlisted
+- Except for Georgia and South Carolina, free blacks and slaves could englist in the army
+    - Sometimes (but not always) go their freedom afterwards
+- Some joined the British side (see Lord Dunmore's Proclamation)
+
+### The First Years of the War
+
+- George Washington's army did not do well at the start
+    - Survived by avoiding direct conflict
+    - Low morale
+    - Pursued by William Howe
+- December 1776: Washington's army crossed the Delaware River
+    - Surprise attacked Hessian mercenaries
+    - Won the battle
+    - Restored morale
+
+### The Battle of Saratoga
+
+- 1777: British General John Burgoyne led an army from Canada
+    - Was going to meet up with Howe to cut off New England
+    - But Howe moved from New York to attack Philadelphia
+        - No communication with Burgoyne
+    - Burgoyne's army was surrounded and forced to surrender
+- 1777-1778 winter: Washington's army was underprepared
+    - Many left or died
+- Saratoga helped convince the French to support the Americans
+    - 1778: Treaty of Amity and Commerce
+        - France recognizes the US and will provide military assistance
+    - Shortly after, Spain joined the war on the American side
+
+### The War in the Borderlands
+
+- When French were kicked out, the British took over
+    - The Indians lost a lot of authority
+    - British had weak control, could not enforce the Proclamation of 1763
+- Indians choice the side (American or British) based on what they thought would benefit them
+    - Some tried to remain neutral, but it was almost impossible
+- Both sides were cruel
+    - Killed and burned
+
+### The War in the South
+
+- British hoped to exploit tension caused by Regulator movements
+- More people in the South were loyal to Britain
+- British also tried to encourge slaves to escape
+    - Would damage the economy
+- 1778: British have Savannah, Georgia
+- 1780: British have Charleston, South Carolina
+    - And 5k US soldiers
+- 1780: the worst year for the fight for Independence
+    - Congress was bankrupt (&rarr; soldiers went without pay)
+    - British had control of the South
+        - Exploited social tension
+        - Slaves fled to help British
+    - **Benedict Arnold** defects to the British
+        - One of George Washington's best generals
+    - However, the British were unable to use these things to actually end the war
+        - Couldn't consolidate gains in South
+
+### Victory at last
+
+- 1781: Daniel Morgan defeats British at Cowpens
+- 1781: Nathaniel Greene forced Cornwallis (British commander in the Soutg) to retreat
+    - To Yorktown
+- 1781: **Battle of Yorktown**
+    - George Washington + Marquis de Lafayette surround Yorktown by land
+    - French fleet block sea escape
+    - Cornwallis surrenders
+        - Support for the war in Britain ended
+- 1783: **Treaty of Paris**
+    - Got American independence
+    - US got land between Canada to Florida
+    - Loyalists would not be punished
+- Canada remained loyal to British
+- As did the West Indies
+    - Feared slave revolts
