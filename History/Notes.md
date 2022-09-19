@@ -1904,3 +1904,59 @@ Supporting Arguments for Option 2:
 - Canada remained loyal to British
 - As did the West Indies
     - Feared slave revolts
+
+## Homework Questions - 9/19
+
+1. What, according to the first paragraph, is the purpose of the Declaration of Independence?
+
+The purpose is to seperate politically from Britain and to form a new nation where the opinions of the people are respected.
+
+2. What groups do you think Jefferson and the Continental Congress hoped to persuade with this document?
+
+Everyone.
+They hoped to pursaude the colonists to support/fight the United States of America.
+And they hoped to open the eyes of everyone globally to these ideas such as unalienable rights and the consent of the governed.
+
+3. According to Jefferson, what is the purpose of government?
+Who has the right to create or establish a government?
+
+Jefferson thought that the purpose of government was to secure and protect the unalienable rights of the people (life, liberty, and pursuit of happiness).
+The people have the right to create or establish a government (or to abolish it).
+
+4. Jefferson intended the Declaration of Independence to be universal, applying to any people or nation.
+As a result, he did not mention any specific laws or actions by Britain in his list of grievances,
+but rather referred to the general violation of rights they represented.
+Select any five grievances mentioned by Jefferson and identify the specific law or act that lies behind that grievance.
+
+- “For quartering large bodies of armed troops among us” = The Quartering Act
+- "He has called together legislative bodies at places unusual, and also uncomfortable, and distant from the depository of their Public Records, for the sole purpose of fatiguing them into compliance with his measures." = The 1774 change to the Massachusetts Charter of 1691
+- "He has obstructed the Administration of Justice by refusing his Assent to Laws for establishing Judiciary Powers." = Starting in 1774, the king appointed all the Massachusetts's judges
+    - The judges were dependent on the king for their salaries and subject to his directions
+- "He has kept among us, in times of peace, Standing Armies without the Consent of our legislatures." = Colonists saw the soldiers as tools for the British to enforce the Stamp Act/Townshend Acts
+    - And the Quartering Act after the Boston Tea Party
+- "For cutting off our Trade with all parts of the world". = The Navigation Acts
+
+5. What legal means did the colonists take to try to convince the British to change their repressive policies
+(think back on our timeline of events leading to the American Revolution)?
+How did the king and parliament respond to these concerns (again, the timeline can be your guide)?
+
+The colonists got the Stamp Act and most of the Townshend Acts repealed.
+They also boycotted British goods.
+
+6. What did Jefferson conclude was necessary for the colonists to do in light of these repeated responses, or what he calls these “long train of abuses and usurpations”?
+
+Jefferson concluded that the colonists have to break from the British government
+and create a new government that will actually protect and benefit the people in it.
+
+7. Those who signed the Declaration of Independence risked everything, including, as they say at the end of the Declaration,
+“our Lives, our Fortunes and our sacred Honor.”
+Click on one of the names of the signers of the Declaration of Independence (above) and write a brief (just a few sentences is fine) summary of who they were and, if provided, what happened to them during and after the war. 
+
+William Ellery, Rhode Island:
+
+He went to Harvard and graduated when he was just 15 years old.
+He did not find his perfect career for a while, but eventually became a lawyer.
+He was an active member of the Sons of Liberty and replaced Samuel Ward at the Continental Congress (Ward died).
+He was appointed to the Marine committee and later helped others including the committee for foreign relations.
+He held the office of judge of the Supreme Court of Rhode Island.
+By 1785, he was a strong supporter of the abolition of slavery.
