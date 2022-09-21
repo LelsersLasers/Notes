@@ -35,6 +35,8 @@ ou quand il n'y a pas d'antécédent
     - Avoid peur *de*
     - Se souvenir *de*
     - Avoir besoin *de*
+- "Whose"
+- Watch for possessive pronouns
 - Example:
     - Le livre **dont** tu *as besoin* se trouve dans la bibliothèque.
     - **Ce dont** tu *as besoin* est une voiture.
