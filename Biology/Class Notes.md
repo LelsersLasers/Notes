@@ -434,6 +434,8 @@ Phosphate group "H3PO4"
     - Sugar attached to a protein
     - Attached to a protein which is attached membrane
 
+![Membrane Proteins](./Photos/MembraneProteins.png)
+
 #### Transport proteins
 
 - Integral proteins
@@ -452,3 +454,65 @@ Phosphate group "H3PO4"
 #### Enzymatic proteins
 
 - Accelerate intracellular and extracellular reactions on the cell membrane
+
+## 9/21
+
+Membrane transport
+
+### Diffusion
+
+- Passive transport: no energy required
+- Movement of molecules from high to low concentration
+    - End up fairly equally spread out
+- Simple diffusion
+    - If a molecule is small and nonpolar, it can diffuse through the membrane
+    - If the molecule is big, it can't fit slip through the membrane, but can go through a channel
+- Facilitated diffusion
+    - If the molecule is big or polar, it might need help getting through the membrane
+        - Goes through a carrier molecule
+    - Uniport: one molecule going one direction
+    - Symport: two molecules going one direction
+    - Antiport: one molecule going one direction, a different going the other direction
+- ![Passive Transport](./Photos/PassiveTransport.png)
+
+### Osmosis
+
+- Diffusion of water across a membrane
+- Phospholipid bilayer is always in motion (fluid)
+    - Gaps open
+- Water is polar, but is small enough to slip through the membrane
+- Aquaporin (protein in the membrane)
+    - Water channel
+    - Allows bulk flow of water across the membrane
+        - In addition to the normal diffusion
+    - Usually always open
+
+#### Tonic
+
+- Solvent: dissolver
+- Solute: dissolved
+- Distilled water: pure water (100% water)
+- Tonic: solute
+- Hypotonic: less solute outside the cell than inside the cell
+    - Water will move into the cell
+    - Cell will swell (and possibly burst, but not for plant cells)
+- Isotonic: equal solute outside the cell than inside
+    - No net movement of water (water moves in and out at the same rate)
+    - Cell stays the same size
+- Hypertonic: more solute outside the cell than inside
+    - Water moves out of the cell
+    - Cell shrinks
+- ![Tonic](./Photos/Tonic.png)
+
+### Active transport
+
+- Requires energy (ATP)
+- ![Active Transport](./Photos/ActiveTransport.gif)
+
+### Bulk transport
+
+- Phagocytosis: cell eating
+    - Cell membrane folds around the other cell
+- Pinocytosis: cell drinking
+    - Vesicle forms around a liquid
+        - The vesicle temporarily merges with the cell membrane
