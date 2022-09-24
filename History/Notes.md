@@ -1960,3 +1960,198 @@ He was an active member of the Sons of Liberty and replaced Samuel Ward at the C
 He was appointed to the Marine committee and later helped others including the committee for foreign relations.
 He held the office of judge of the Supreme Court of Rhode Island.
 By 1785, he was a strong supporter of the abolition of slavery.
+
+# Chapter 6 - The Revolution Within
+
+- 1774: Abigail Adams born
+    - Self taught
+    - Father was a congregational minister
+    - 1764: married John Adams
+    - Kept an eye on politics and family when he went to war
+    - 1776: commented on slavery and how it did not fit with the revolutions ideals of equality
+    - #1 role of women: family, but husbands did not have full power over their wives
+- She was an example of how other people wanted more freedoms inspired by the revolution
+    - Many did not have full freedom: slaves, indentured servants, women, Indians,l apprentices, those without property
+
+## Democratizing Freedom
+
+### The Dream of Equality
+
+- The American Revolution happened on 3 levels:
+    1. A fight for national independence
+    2. A segment of the ongoing global battle amomg European empires
+    3. A conflict over what kind of a nation free America would be
+- The revolution sparked debates against other previously held beliefs/strutures
+    - Saw Britain as a representation of the old way and old problems
+        - Also rejected patronage, fixed status
+    - Liberty became a standard to judge all institutions (both homegrown and imperial)
+- "All men are created equal" went against a lot of current standing structures
+    - Slavery, king over subjects, husband over wife, etc
+    - Inequality was at the time a core part of life
+
+### Expanding the Political Nation
+
+- People in marginalized groups challenged the domination of the few in power
+- After the revolution, you did not have to own property to vote
+    - But husbands still had power over wifes and in the South, slavery remained
+- Democracy had different meanings
+    - Aristotle: a system wgere the entire people govern directly
+    - Became more about better representation
+        - Everyone dissuced politics and could at least have part of a say
+        - Universal male suffrage, religious toleration, abolition of slavery
+
+### The Revolution in Pennsylvania
+
+- The prewar elites were against independence
+    - Feared cutting ties would lead to them losing power and attacks on their properties
+- Poltical power vacuum filled by pro-independence people from lower/middle class
+    - Critized the qualifications for voting
+- After the independence, Pennsylvania adopted a one house legislature
+    - Elected annually by men over 21 who paid taxes
+    - Removed governor and the need to own property to run for an office
+    - Set up low cost schooling
+    - Garenteed freedom of speech, press, and writing
+
+### The New Constitutions
+
+- Almost all Americans agreed to a **republic**
+    - Government authority comes from the people
+    - No king or hereditary aristocracy
+- 1776: John Adam's *Thoughts on Government*
+    - Counteract radicalism (seen by Pennsylvania)
+    - Governments should be balanced between wealthy (upper house) and poor (lower house)
+        - Checks and balances between the two
+    - Many states adopted two house systems
+    - In all but Massachusetts, the governor did not have the power to veto the legislature
+
+### The Right to Vote
+
+- John Adams | freedom and equality are opposites
+    - Removal of property qualifications for voting would put everyone on the same level (JA | bad)
+- In the South, the landed gentry retained much of the power
+    - Democracy would mean they would lose power
+- Universal **suffrage** did not really happen
+    - Ex: Pennsylvania dropped property qualifications, but still had to pay taxes to vote
+    - However, still siginificantly more people could vote
+
+## Toward Religious Freedom
+
+- Pre revolution: some toleration as a result of relgious pluralism
+    - Not because of well formed religious toleration theories
+
+### Catholic Americans
+
+- The War of Independence weakened anti-Catholic feelings in America (most were Protestant)
+    - Alliance with Catholic French and Spain
+- Proved to the Americans that Catholics played a role in their independence
+    - Full rights of an Englishman did not just apply to Protestants
+
+### Separating Church and State
+
+- Many were for the separating of church and state
+    - Free government from religious influence and protect it from corruption
+- States did not directly fund churches
+    - Churchs also did not have special privileges
+- Not complete
+    - All states but New York barred Jews from poltical affairs
+    - Massachusetts kept its Congregationalist establishment
+
+### Jefferson and Religious Liberty
+
+- 1779: **Bill for Establishing Religious Freedom**
+    - By Thomas Jefferson for Virginia
+    - 1786: Passed by House of Burgesses
+    - Eliminated religious requirements for office and voting
+    - Eliminated state funding of churches
+    - Stopped the state from forcing a religion on someone
+- Religion became an example of a private right that should be protected from government influence
+    - Line between private life and public authority
+- American should be an asylum for those being persecuted and oppresed of every nation and religion
+
+### Christian Republicanism
+
+- Merge of religious and secular struggle during the War of Independence
+- Evangelical religion and republic government both belived that without moral restraint (provided by government and religion) human nature would crumble to corruption
+- Some saw the American Revolution as a part of god's plan to promote the development of a good society
+    - World could change (did not have to be destoryed before Christ comes)
+
+### A Virtuous Citizenry
+
+- Current leaders wanted to promote "virtue": sacrfice self-interest for the good of the community
+- Created free state-supported schools to teach the principles of freedom
+- Believed strong education was core to the future of the nation
+
+## Defining Economic Freedom
+
+### Toward Free Labor
+
+- The Revolution charged the definition of freedom
+    - Unfree labor was on a specturm
+- The middle section rapidly declined (indentured servants and apprenticeship)
+    - That work was taken up by women and blacks
+    - These ideas were not compatible with republican citizenship
+- But slavery remained
+    - A further divide between free and slavery
+    - North: free labor (wage working or owning a farm/shop)
+    - South: slavery
+
+### The Soul of a Republic
+
+- People were caught up in the social conditions of freedom
+- Some thought the government should the accumilation of property in the same of equality
+    - However, others thought that equality should mean equal oppertunity
+- Many leaders thought that the natural workings of society would produce justice, liberty, and equality
+- Jefferson | lack economic resources = lack freedom
+    - Passed laws abolishing the entail (inheritance to a specific line of heirs) and primogeniture (the eldest son inherits everything)
+        - Prevent the rise of future aristocracy
+
+### The Politics of Inflation
+
+- The Revolution was a time of inflation
+    - The government printed money to pay for the war
+    - And disruption if agriculture and trade (because they were all fighting)
+- Some thought the government should limit price increases
+- 1776-1779: >30 mob/raids against merchants accused of holding goods off the markets
+
+### The Debate over Free Trade
+
+- 1779: inflation out of control
+    - Congress urged states to try to fix wages and prices
+        - Task of republican government was to promote public good
+            - Not nessissarly individuals' self-intrests
+- When the a Committee of Safety tried to control prices, it was opposed
+    - **Free trade**: the government should not interfere with the market, it will regulate itself
+        - Economic devolopment was a result of economic self-intrest
+        - 1776: Adam Smith's ***The Wealth of Nations***
+            - Invisible hand of the free market would be more fair and effective than government intervention
+    - Also against it because of Navigation Acts
+- Opposing views of economic freedom
+    - Intrests of the community > property rights of individuals
+    - Unregulated economic freedom would produce social harmony and public gain
+
+## The Limits of Liberty
+
+### Colonial Loyalists
+
+- **Loyalists**: colonists who remained loyal to the British crown
+    - 20-25% of the population
+    - Most numerous in New York, Pennsylvania, the Carolinas, and Georgia
+    - Some feared anarchy if the ties were cut, others depended on relations with Britain (lawyers, merchants, Anglican ministers, imperial officials)
+- The fight for independence increased already existing social tension
+
+### The Loyalists' Plight
+
+- New state governments and crowds of patriots suppressed loyalists
+    - Stopped newspapers though to be loyal to Britain
+    - Seized loyalist property (and Quaker, Mennonites, Moravians who were pacifists and refused to fight against Britain)
+    - Some states required an oath of alligence to the new nation
+- At the end of the war, 60k loyalists left America either by choice or by force
+- 1783: Treaty of Paris
+    - Americans would not presecute loyalists and land taken during the war would be given back
+
+### White Freedom, Indian Freedom
+
+- Liberty for whites meant loss of liberty for Indians
+    - Allowed whites the opportunity to take land from the Indians
+- 1783: Treaty of Paris
+    - Britain gave all rights to the land to the Americans (did not mention Indians)
