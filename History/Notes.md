@@ -2155,3 +2155,24 @@ By 1785, he was a strong supporter of the abolition of slavery.
     - Allowed whites the opportunity to take land from the Indians
 - 1783: Treaty of Paris
     - Britain gave all rights to the land to the Americans (did not mention Indians)
+
+## Homework Question - 9/25 - The American Revolution and Liberty
+
+*To what extent did minority or marginalized groups (African Americans, Native Americans, women) participate in or benefit from the liberties achieved by the American Revolution?*
+
+In this speech the Native Americans were trying to participate in the liberties
+achieved by the American Revolution by asking for the right to have a say in what
+happens to them/their land.
+They specifically ask for the American
+"surveyors and others that mark out land to cease from crossing the Ohio until we shall have spoken to you"
+because they are worried about future land conflicts before a more permenent solution is in place.
+They are also asking for the Americans to not nessissarly forget but to proceed
+in a better than they have in the past ("We shall then bury in oblivion the misfortunes that have happened and meet each other on a footing of friendship").
+
+The Native Americans also list a few grievances they have about what the Americans
+did in the past. For example the Americans
+"kindled your council fires where you thought proper, without consulting us, at which you held separate treaties, and have entirely neglected our plan of having a general conference with the different nations of the confederacy."
+This directly leds them to ask for
+"a treaty with you early in the spring" and "all partial treaties as void and of no effect."
+They finish the speech by basically saying we offered our terms which are very fair,
+but if they are not followed we will use force to defend ourselves.
