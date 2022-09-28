@@ -2156,27 +2156,6 @@ By 1785, he was a strong supporter of the abolition of slavery.
 - 1783: Treaty of Paris
     - Britain gave all rights to the land to the Americans (did not mention Indians)
 
-## Homework Question - 9/25 - The American Revolution and Liberty
-
-*To what extent did minority or marginalized groups (African Americans, Native Americans, women) participate in or benefit from the liberties achieved by the American Revolution?*
-
-In this speech the Native Americans were trying to participate in the liberties
-achieved by the American Revolution by asking for the right to have a say in what
-happens to them/their land.
-They specifically ask for the American
-"surveyors and others that mark out land to cease from crossing the Ohio until we shall have spoken to you"
-because they are worried about future land conflicts before a more permenent solution is in place.
-They are also asking for the Americans to not nessissarly forget but to proceed
-in a better than they have in the past ("We shall then bury in oblivion the misfortunes that have happened and meet each other on a footing of friendship").
-
-The Native Americans also list a few grievances they have about what the Americans
-did in the past. For example the Americans
-"kindled your council fires where you thought proper, without consulting us, at which you held separate treaties, and have entirely neglected our plan of having a general conference with the different nations of the confederacy."
-This directly leds them to ask for
-"a treaty with you early in the spring" and "all partial treaties as void and of no effect."
-They finish the speech by basically saying we offered our terms which are very fair,
-but if they are not followed we will use force to defend ourselves.
-
 ## Slavery and the Revolution
 
 - Indians experienced American independence as a real threat to their liberty
@@ -2306,3 +2285,53 @@ but if they are not followed we will use force to defend ourselves.
 - Minus liberty:
     - Indians, many loyalists, slaves
 - American Revolution inspired French Revolution
+
+## Homework Question - 9/25 - The American Revolution and Liberty
+
+*To what extent did minority or marginalized groups (African Americans, Native Americans, women) participate in or benefit from the liberties achieved by the American Revolution?*
+
+In this speech the Native Americans were trying to participate in the liberties
+achieved by the American Revolution by asking for the right to have a say in what
+happens to them/their land.
+They specifically ask for the American
+"surveyors and others that mark out land to cease from crossing the Ohio until we shall have spoken to you"
+because they are worried about future land conflicts before a more permenent solution is in place.
+They are also asking for the Americans to not nessissarly forget but to proceed
+in a better than they have in the past ("We shall then bury in oblivion the misfortunes that have happened and meet each other on a footing of friendship").
+
+The Native Americans also list a few grievances they have about what the Americans
+did in the past. For example the Americans
+"kindled your council fires where you thought proper, without consulting us, at which you held separate treaties, and have entirely neglected our plan of having a general conference with the different nations of the confederacy."
+This directly leds them to ask for
+"a treaty with you early in the spring" and "all partial treaties as void and of no effect."
+They finish the speech by basically saying we offered our terms which are very fair,
+but if they are not followed we will use force to defend ourselves.
+
+# Chapter 7 - Founding a Nation
+
+## Homework Questions - 9/27 - Ben Franklin, On the Faults of the Constitution
+
+1. As noted in the introduction, if anyone had the right or ability to assess the merits and
+shortcomings of the Constitution, it was Ben Franklin. Why then do you think he spends the
+first full paragraph of his “critique” saying what he does? What is the main purpose or
+message of his first paragraph?
+
+He is saying that everyone thinks they are right and this also applies to him.
+He also says he is old, which means he has much experience and wisdom,
+but he is also ready to accept other people's opinions.
+
+2. What, according to Franklin, are the Constitutions main weaknesses or its greatest
+vulnerabilities? Put another way: What is the biggest threat to American democracy?
+
+He thinks a threat to the American democracy is not doing anything.
+If they stall or become "confounded" it will benefit the British.
+Or if the states cannot agree and end up in conflict against eachother.
+
+3. Was there anything about Franklin’s reflections that surprised you, stood out to you,
+impressed you or disappointed you? In short, what did you find interesting, perplexing or
+thought-provoking about Franklin’s remarks?
+
+I think it is intresting that he sees a convention of men as both a positive and a negative.
+He says you get the "advantage of their joint wisdom" but also "all their prejudices, their passions, their errors of opinion, their local interests, and their selfish views".
+He also recognizes that it may not be possible to have drafted a better/perfect constition
+because of this.
