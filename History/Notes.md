@@ -2176,3 +2176,133 @@ This directly leds them to ask for
 "a treaty with you early in the spring" and "all partial treaties as void and of no effect."
 They finish the speech by basically saying we offered our terms which are very fair,
 but if they are not followed we will use force to defend ourselves.
+
+## Slavery and the Revolution
+
+- Indians experienced American independence as a real threat to their liberty
+- African-Americans saw the ideals of the Revolution and the reality of war as an opportunity to claim freedom
+
+### The Language of Slavery and Freedom
+
+- Other than "liberty", "slavery" was the most common word in legal and political literature
+- In debates over British rule: "slavery" - denial of personal/political rights by government
+    - Political category
+    - Lacked a say in public affairs = "enslaved"
+- It was apparent that slavery did not fit with the Revolution ideals
+    - Many leaders had many slaves
+
+### Obstacles to Abolition
+
+- Slavery was an old institution
+    - Existed in every colony
+    - Large part of the economy (and social structure)
+- Some thought slavery of blacks enabled white freedom
+    - By owning slaves it allowed whites to be economically autonomous
+        - An important part of freedom
+
+### The Cause of General Liberty
+
+- The Revolution defined freedom as a universal entitlement
+    - Not a soecific set of rights for a specific group of people
+- 1700: Samuel Sewall's *The Selling of Joseph*
+    - First antislavery printed in America
+    - All were entitled to equal rights of freedom
+        - Common idea with Pennsylvania' Quakers
+- 1773: Benjamin Rush - slavery was a national crime that would result in national punishment
+
+### Petitions for Freedom
+
+- Slaves demanded that the leaders uphold their ideas of freedom
+- **Freedom petitions**: arguments for liberty presented by enslaved African-Americans
+    - Presented to New England's courts and legislatures in 1770s
+- Some slaves tried to run away and pass as free borns
+    - Rise of fugitive-slave advertisements rose in 1770s and 1780s
+- 1776: **Lemuel Haynes**
+    - Black militia member and later minister
+    - If liberty was innate for all mankind, Africans were included
+    - Wanted Americans to understand slavery as a denial of essential of freedom
+        - Not lack of political representation
+- Most slaves were only 1-2 generations from Africa
+    - Did not need the Revolution's ideals of freedom
+    - Their parents/grandparents were born free in Africa
+
+### British Emancipators
+
+- 5,000 slaves fought for American independence and got their freedom
+- Many more got their freedom from the British
+    - 1775: Lord Dunmore's Proclamation
+    - 1779: Philipsburg Proclamation (General Henry Clinton)
+        - Freedom to non-loyalist slaves who escape
+    - 10s of thousands of slaves
+    - 1/4 of South Carolina's slaves
+    - 1/3 of Georgia's slaves
+- Some escaped slaves were recaptured by the Americans
+    - But still 15,000 got away
+        - Went to Nova Scotia, England, Sierra Leone
+- Compesation for escaped slaves hurt US-Britain relations
+    - 1827: Britain paid 1,100 Americans who lost slave property
+
+### Voluntary Emancipations
+
+- During the War of Independence many states banned/discouraged importation of slaves from Africa
+- War ruined many Southern plantations
+- 1780s-1790s: slaveholders, especially Virginians and Marylanders, willing freed their slaves
+    - 1796: Richard Randolph freed his slaves (~90) and gave them part of his land
+- Further South, voluntary Emancipation did not really happen
+    - South Carolina refused to allow slaves to fight in the war
+        - Would rather lose war than lose slaves
+
+### Abolition in the North
+
+- 1777: Vermont banned slavery
+- 1804: New Jersey also (last of the states North of Maryland to take action towards abolition)
+- Mostly did not grant emancipation
+    - Liberty for children born of a slave, but they often had to serve into adulthood
+        - To compensate the owner's economic loss
+- Abolition of slavery in the North was slow
+    - 1790: first national census
+        - 21,000 slaves in New York
+        - 11,000 slaves in New Jersey
+    - 1830: 3,500 slaves in the North
+    - New Yorker John Jay - chief justice of the US: 5 slaves in 1800
+
+### Free Black Communities
+
+- Division over ideas of slavery seperated the North and South
+- Due to abolition in the North and voluntary emacipation in the upper south, sizable number of **free blacks**
+    - Often took the last names "Freeman" or "Freeland"
+- 1776 &rarr; 1810: 10k &rarr; 200k free blacks in US
+- Many in the North had a right to vote
+- But slavery survived the independence and was still growning
+- 1776 &rarr; 1790: 500k &rarr; 700k slaves in US
+
+## Daughters of Liberty
+
+### Revolutionary Women
+
+- Many women contributed to the war
+    - Crowd actions against merchants, raused funds to assit soldiers, made goods for the army, spied on British
+    - 1782: Deborah Sampson enlisted in Continental Army
+- Within households women participated in political discussions
+    - Still limited by **coverture** (public politics still heavily male dominated)
+        - Republican citizen basicially equaled "male"
+
+### Republican Motherhood
+
+- Women play the critical role of educating future citizens
+    - Required themselves to have a good education
+- "Companionate marriage": voluntary union and mutal dependency
+    - Not male dominated
+- Decline of slaves and indentured servants meant that "family" = parents children
+    - Didn't include wage workers
+
+### The Arduous Struggle for Liberty
+
+- Plus liberty:
+    - Right to vote expanded
+    - Religious groups had more freedom
+    - Many blacks got their freedom
+    - Women (in some ways) had a higher status
+- Minus liberty:
+    - Indians, many loyalists, slaves
+- American Revolution inspired French Revolution
