@@ -2309,6 +2309,224 @@ but if they are not followed we will use force to defend ourselves.
 
 # Chapter 7 - Founding a Nation
 
+- 1788: celebration of the ratification of the Constitution
+    - All celebrated (rich and poor, etc)
+- US had many strengths
+    - Common devotion (not by force)
+    - Large size
+    - Physical isolation from EU (avoid constant warring)
+    - Youth population
+    - Large distribution of property ownership
+    - High literact rate (among white citizens)
+- Many struggles
+    - Did not have secure control of its land
+        - British outposts near great lakes
+        - Indians in the west
+    - Not grant communication (other than waterways)
+    - Diverse people (ethnic, religious, etc)
+        - 700k slaves
+        - Less common nationality
+    
+## America under the Confederation
+
+### The Articles of Confederation
+
+- 1777: Congress drafts the **Articles of Confederation**
+    - First written US constition
+    - Ratified 4 years later
+    - Tried to balance control needed to coordinate during the War of Independence without widespread fear of centralized political power
+        - Could do just what was needed for the war
+            - Declare war, conduct foreign affairs, make treaties
+            - Could not tax or regulate trade
+    - More of a treaty of mutal defense than a government
+        - 13 states retained individual sovereignty
+        - 1 house Congress
+            - Each state had 1 vote (regardless of population)
+            - Decisions required 9/13 votes
+        - No executive or judicial branch
+    - Required 13/13 votes to amend
+    - However, it did establish national control over western lands
+
+### Congress, Settlers, and the West
+
+- National land domain stretched to Mississippi River
+    - 10,000 Indians lived in that area
+- Congress decided that by supporting the British, the Indians gave up all claim to the land
+    - Did not differniate between the different tribes
+- 1784-1785: American governemnt got large surrenders of Indian land
+    - Government was unsure what to do with the land
+        - Economic health: farmers get the land
+        - Or money from land sales
+- After the war, many Americans moved West
+    - Saw the right to take possession of Western lands as a part of American freedom
+    - 1785: Ohioans petition Congress to let land ownership be given to "actual settlements"
+    - Government (like the British) saw unregulated flow of Americans into Indian land as a catalyst for conflict
+
+### The Land Ordinances
+
+- Series of measures that defined how western land would be marketed and settled
+- **Ordinance of 1784**
+    - Thomas Jefferson
+    - Divided the land into 3 sections that would be governed by Congress
+        - Later would be admitted into the Union as states
+    - Slave was allowed to continue (1 vote short of banning slavery in West)
+- **Ordinance of 1785**
+    - For land sales north of the Ohio River
+    - Land would be surveyed and cut into 1 square mile sections
+        - Land would be sold at 1 square mile at $640 ($1 per acre)
+        - In each township, one section would be for public education
+- **Northwest Ordinance of 1787**
+    - Creation of 3-5 states north of Ohio River and east of Mississpi
+    - Good treatment of Indians
+        - Don't take their land
+        - Some thought it would cost less to have good relations than to war against them
+    - Offically banned slavery
+        - Some settlers still brought slaves and lied about it
+        - Increased North/South divide
+- **Empire of liberty**
+    - Instead of ruling the West like a colony, they would be added as equal members to the poltical system
+    - High focus on self-governce of those new lands
+- Americans found it difficult to regulate desire for new land
+    - Something the British also struggled with
+    - $640 however, was too much for most settlers
+        - Until Homestead Act of 1862, people wanted lower priced land
+
+### The Confederation's Weakness
+
+- Economic problems
+    - To pay for the war, borrowed money by selling intrest bonds or paying in notes to be redeemed later
+        - However, later the government had no way to make money
+            - Could not trade with West Indies (no longer a British colony)
+            - Imported goods - drained money from the country
+    - 1784: *Empress of China* - first US trade with Asia
+        - Profitable, but did not make up for loss of West Indies trade
+- States adopted own economic polices
+    - Tariffs
+    - Some states printed money to help people pay of debts and increase the amount of curreny in circulation
+    - Some postponed debts
+        - Creditors thought that was an attack on their property rights
+
+### Shay's Rebellion
+
+- 1786-1787: Daniel Shays led a rebellion of debt-ridden farmers in western Massachusetts
+    - Farmers were upset about the state's economic policies
+- Wanted to stop courts from seizing their land
+- Used the same tatics used in the 1760s-1770s
+- No sympathy from Governor James Bowdion
+    - Dispatched an army against them
+- Thomas Jefferson | A little rebellion here and there is good
+    - Liberty much be refreshed every so often
+- Led people to believe that the government needed to be strengthned
+    - Uniform economic policies
+    - Protect property rights from local majorities
+    - People realized too much freedom could be an issue
+        - Un checked power of the people could be bad
+
+### Nationalists of the 1780s
+
+- James Madison
+    - Virginia, ally of Thomas Jefferson
+    - Wanted to strengthen the government
+- Alexander Hamilton
+    - From West Indies
+    - Wanted an "energetic" government
+        - Allow America to be a world power
+- Idea of stronger government popular with army officers, members of Congress, and diplomats
+    - Also people owed money by the government, artisans who wanted tariffs, and merchants who wanted to trade with Europe
+- 1786: Delagates from 6 states meet to find a better way to regulate trade
+    - Proposed another gathering to amend the Articles of Confederation
+        - Meet in 1787
+            - All by Rhode Island attend (they already had advanced debt and trade polices)
+            - Decide to start over and get rid of Articles of Confederation
+
+## A New Constitution
+
+- 1787: **Constitutional Convention**
+    - 55 people attend
+        - Smart people, wealthy, educated, slave owning
+    - Held in private to ensure free debate
+- At this time less than 1% of Americans attended college
+
+### The Structure of the Government
+
+- 3 branches - legislative, executive, judicial
+- Congress would have the power to raise money (indepenant of the states)
+- States could not interfere with property rights
+- Goal: balance between monarchy + aristocracy and excessive democracy
+- Madison: **Virginia Plan**
+    - Two house legislature with state pop. determining number of reps
+    - Better for bigger states
+- **New Jersey Plan**
+    - Single house legislature with each state having 1 vote (like AoC)
+- Result: two house legislature
+    - Senate: 2 votes per state
+        - 6 year terms
+    - House of Representatives: number of reps based on state pop.
+        - 2 year terms
+        - Elected by the people
+
+### The Limits of Democracy
+
+- Under AoC, no national officals chosen by popular vote
+- HoR was an expansion of liberty
+    - No property or relgious qualifications for voting
+- But wanted to protect government from swigns and enthusiasms (seen in 1780s)
+    - HoR kept small
+        - Started at 65 reps total so that only the "right" kind of person could win a seat
+    - No direct election for president or supreme court
+        - President by electoral college or HoR
+            - State electors by its legislature or pop. vote
+    - SC elected for life
+- Presidental election was complicated
+    - Runner up = vice president
+
+### The Division and Separation of Powers
+
+- Constituion was only the outline of the structure for the government
+- Based on 2 prinicples:
+    1. **Federalism** - **division of powers**
+        - Strong national government, weak state governments
+        - President in charge of enforcing the law and the military
+        - Congress could tax, regulate trade, declare war, borrow money, foregin affairs (and with Indians), and promote general welfare
+        - States could not print money, interfere with property rights or contracts or interstate commerce, or tax
+        - States still in charge of day to sday stuff
+            - Education, police
+    2. **Checks and balances** - **separation of powers**
+        - Prevent any branch from becoming to OP
+        - President could veto laws put by Congress
+            - But 2/3 (super majority) of Congress could override
+        - Supreme Court judges are nominated by president and confirmed by Sentate
+        - President can be impeached by Congress
+
+### The Debate over Slavery
+
+- Constitution protected slavery
+    - Congress can not ban importing slaves in the next 20 years
+    - States had to return fugitives to their owners
+    - **3/5 clause**
+        - 3/5 of slavery pop. counted to HoR and electoral college pop. count
+        - Signifcant power to South states
+- But anti-slavery measures in place
+    - Slavery not a property
+    - Not national
+
+### Slavery in the Constitution
+
+- Its slavery clauses were a middle ground
+- Slave trade in US resumed after War of Independence until 1808
+    - Instantly banned further importing of slaves as soon as it could
+    - But in the meantime, 170k African slaves imported
+        - Replace slaves lost to British in WoI
+        - Farm the new western land
+- Slave laws were extraterritoriality
+    - Escaped slave in a different state is still a slave and must be returned
+    - Ambigious, did not say who is responsible for this
+
+### The Final Document
+
+- Clear simple language
+- Changed language to appeal to the people as a whole unified nation
+
 ## Homework Questions - 9/27 - Ben Franklin, On the Faults of the Constitution
 
 1. As noted in the introduction, if anyone had the right or ability to assess the merits and
