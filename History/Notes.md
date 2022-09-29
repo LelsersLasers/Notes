@@ -2553,3 +2553,68 @@ I think it is intresting that he sees a convention of men as both a positive and
 He says you get the "advantage of their joint wisdom" but also "all their prejudices, their passions, their errors of opinion, their local interests, and their selfish views".
 He also recognizes that it may not be possible to have drafted a better/perfect constition
 because of this.
+
+## Class Notes - 9/29
+
+- Seperation of powers != checks and balances
+- Not all powers are equal
+    - Difference in total power and power to check other branches
+
+### Seperation of powers
+
+- 3 sections
+
+#### Legislative
+
+- Congress refers to both houses
+    - Senate
+        - Upper house
+        - Senator
+        - 2 senators per state
+    - House of Representatives
+        - Lower house
+        - Congressmen
+        - Number of reps based on state pop.
+- Both houses have to approve a bill before it can become a law
+    - Majority vote in both houses
+        - If there is a tie in the senate, the vice president votes
+        - Filibuster
+            - To move from debating to voting, 60% of the senate must stop debating
+            - For most things, 60% of senators must vote yes
+
+#### Executive
+
+- President
+    - Head of state
+        - Ceremonial, symbolic, a figure
+        - Not necessarily a lot of political power
+    - Head of government
+        - Manage and oversee the government
+- Vice pressident
+    - In case president died or is unable to serve
+        - Smooth transition of power
+        - In case nuclear power is instantly needed
+- Cabinet
+    - President is like CEO
+    - 15 members (sectrataries)
+        - Each in charge of a different executive department
+        - Picked by president
+
+#### Judicial
+
+- Supreme Court
+    - High culture, sets precedent
+    - Top of the pyramid
+- Other federal courts
+    - Bricks in the pyramid (a lot more of these than SC)
+    - More then just 1 level
+        - If you lose a court case, you can appeal to a higher court
+        - Court "curcuit"
+- All judges are picked by president
+- Interpert the law
+
+### Checks and balances
+
+- Make sure no body is too powerful
+    - Prevent another Britain over colonies situation
+- ![https://docs.google.com/document/d/1gUf71LHlRrkTDQDGLKvbs2ormGkD_2pYoLvfNFdEjjo/edit](./Unit2/ChecksAndBalances.png)

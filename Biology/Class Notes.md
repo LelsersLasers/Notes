@@ -475,7 +475,7 @@ Membrane transport
     - Antiport: one molecule going one direction, a different going the other direction
 - ![Passive Transport](./Photos/PassiveTransport.png)
 
-### Osmosis
+#### Osmosis
 
 - Diffusion of water across a membrane
 - Phospholipid bilayer is always in motion (fluid)
