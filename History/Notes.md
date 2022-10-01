@@ -2800,3 +2800,69 @@ because of this.
 - Decline of apprenticeship and indentured servants &rarr; less difference between whites
 - However, increase division between free Americans and slaves
 - Race emerged as a justification for slavery
+
+## Homework Questions - 10/1 - CSI: Federalists vs Antifederalists
+
+### Thomas Abraham Clark
+
+- Anti-Federalist
+- Corresponded with Anti-Federalists
+    - "corresponded with Samuel Adams, Richard Henry Lee, Patrick Henry, and Thomas Jefferson"
+- Against strong government
+    - "obsessed with the tyranny of European governments"
+    - "convinced that a strong government headed by a king is and has been, the curse of mankind throughout history"
+- At least sort of benefited from the Articles of Confederation
+    - "Under the Articles of Confederation, Thomas's law practice has prospered"
+
+### Josiah Bartlett
+
+- Federalist
+- Wants stable government
+    -  "economic interests are threatened ... by unstable currency
+- Wants better economic polciy
+    - "economic interests are threatened ... by high tariffs and taxes imposed by neighboring states"
+    - Stronger government would have the power to tax rather than it being done by the states
+
+### Edward Heyward
+
+- Anti-Federalist
+- The Articles of Confederation are working fine
+    -  things have gone splendidly after independence from Britain
+
+### Patrick O'Neil
+
+- Anti-Federalist
+- Extreme freedom
+    - "radical faction which opposed the King before the revolution"
+    - "would give up his life before his freedom"
+- Common man over the well off
+    - "'voice of the common man'"
+        - Protect them from the "well-born"
+    - "feels the rights of the people must be protected from all privileged classes"
+        - (I think he would have been on Shays's side)
+
+### Tom McKean
+
+- Federalist
+- Shays's Rebellion = bad
+    - "the revolt of Daniel Shays as the beginning of the end for stable government"
+
+### Francis Whipple
+
+- Federalist
+- Strong government
+    - "political survival depends upon a strong central government"
+- Prevent common enthusiasms or in the moment choices
+    - "man's instincts can never be trusted, that only strong government offers security"
+- Shays's Rebellion = bad
+    - "property rights must be protected"
+    - "the 'masses' must be kept in their place"
+
+### Clymer Fitzsimmons
+
+- Federalist
+- Stronger government to garenteed the rights of the people
+    - "sure that the British government intends to suppress the colonies newly won independence"
+- Wants to vote but doesn't have property
+    - "resents the present state government because he is not allowed to vote, since he owns no property"
+    - Would be solved by the removal of property requirements for voting
