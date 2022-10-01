@@ -2618,3 +2618,185 @@ because of this.
 - Make sure no body is too powerful
     - Prevent another Britain over colonies situation
 - ![https://docs.google.com/document/d/1gUf71LHlRrkTDQDGLKvbs2ormGkD_2pYoLvfNFdEjjo/edit](./Unit2/ChecksAndBalances.png)
+
+## The Ratification Debate and the Origin of the Bill of Rights
+
+### *The Federalist*
+
+- Constitution would go into effect when 9 states ratified it
+    - (Not 13 as needed by AoC)
+- Each state had elections for delegates for a ratification convention
+    - Public battle to elect delegates
+        - Pamplets, newspaper articles, and compaigns
+- Hamilton, Madison, and Jay wrote a series of essays to convince people to ratify the constitution
+    - 85 essays collected into a book (***The Federalist***)
+    - Under penned name (Publius)
+    - Argued that the stronger government actually further protected the rights of the people
+        - Balance between liberty and power
+
+### "Extend the Sphere"
+
+- Madison argued that the Constitution was the designed to prevent abuses of power
+- *The Federalist* nos. 10, 15 - government is subject to the will of the people, but the people are subject to dangerous enthusiasms
+    - Problem of balancing democracy and respect for the rights (property rights) would only grow
+        - Economic development &rarr; more poor people 
+        - How to stop them from using their political power to take away the property of the rich
+    - Will not be a problem in the US though
+        - The US's size is a strength, too large and too many conflicting interests for a single group to dominate
+
+### The Anti-Federalists
+
+- Against the ratification of the Constitution
+    - The balance of liberty and power was too close to power
+- Did not have the leaders the Federalists had
+    - No one to write a book of essays
+- Supported by:
+    - State politicians who did not want to lose power
+    - Small farmers who did not see the need for a strong government
+    - Pro slavery people who either thought the Constitution limited slavery or Congress had the power to abolish it
+- Thought the new government would become influenced by merchants, creditors (or other "bad" people)
+    - Popular self government was better in smaller communities
+    - The "common people" would become ruled by the "well-born"
+- Thought the happiness of America came from the lack of limitions of the institutions and the limitations on government
+- The Constitution did not have a **Bill of Rights**
+    - Trial by jury, freedom of speech/press, etc were not protected
+    - Madison promised that the first Congress would create a Bill of Rights
+- Pro-consitution was more city/marketplace based
+    - Government could improve economy
+    - Anti-Federalists were more rural based
+- 1787: only 12 of the 92 American newspapers were Anti-Federalist
+- 1788: the 9 states required for ratification were met
+    - Only Rhode Island and North Carolina were against it
+        - But they didn't really have a choice)
+
+### The Bill of Rights
+
+- The first 10 amendements
+    - 1791: ratified
+- Not part of the original Constitution document
+    - Freedom of speech/press/religion, equality before the law, etc
+    - Madison say this as redundant and wouldn't actually help when needed ("parchment barrier")
+        - But many people (Federalists and Anti-Federalists) thought it was important
+1. Congress cannot limit freedom of speech, or right to assembly
+    - Can not legislate against religion
+2. Right to "bear arms" and militia
+- Others:
+    - No arrest without warrant
+    - Accused does not have to testify against themselves
+    - Right to trial by jury
+- Relgiious freedom
+    - Represents change in American society
+    - The DoI was at least in part relgious
+    - The Constitution is completely secular
+        - No reference to God
+        - No religious tests for federal officers
+        - Complete separation of church and state
+- The BoR applied only to the federal government (not the states)
+    - Reinforced the idea that the government was the greatest threat to liberty
+
+## "We the People"
+
+### Who Belongs? The Constitution and American Citizenship
+
+- Creation of the United States &rarr; creation of "Americans"
+    - People who thought of themselves as members of the US
+        - And not just members of their state
+- Under British law, the colonists were subjects of the Crown
+    - The transition from subject to citizen was not clarified or explicitly stated
+- "Comity" clause
+    - A person who moves from X state to Y state must get the same rights as someone already in Y state
+    - Language suggests that rights of citizens are determined by state
+- President must be a natural born citizen
+    - Suggests that citizenship is from birth in US or from "naturalization" if not born in US
+    - When US aquires new land citizens are offered choice to be citizens of US
+        - Didn't really apply to Native Americans
+- Assumed that white males and females were citizens
+    - Though females had significantly less power than males
+    - Slaves and Native Americans were not considered citizens
+    - But black did vote to elect the delegates who ratified the Constitution
+        - 1790s: Government confirmed citizenship of black sailors
+            - So they wouldn't get seized and "impressed" by the British
+        - As time went on, slave staes began to take away blacks' rights and citizenship
+        - North states were better and confirmed basic rights for blacks
+            - But still not equal before the law ("quasi citizens")
+                - Later: "birthright citizenship"
+                    - Anyone born in US is a full citizen
+
+### National Identity
+
+- Seperated people into 3 groups
+1. Indians
+    - Members of individual tribes
+    - Not part of the American body politic
+2. Other persons
+    - Slaves
+3. People
+    - Only this group had American freedom
+
+### Indians in the New Nation
+
+- American leaders agreed that the West should not be left to the Indians
+    - Wanted to expand westward for America
+- Would led to 1 of 3 things:
+    1. Force Indians to move further West
+    2. Remove the Indians
+    3. Intergrate them into white "civilization"
+- Indian tribes had no representation in US government
+    - Treaty system gave them unique state
+        - The US recognized their sovereignty but the treaties were just systems to transfer Indian land into the hands of the federal government
+- Open warfar between US and Indians continued after the Constitution's ratification
+    - 1791: Little Turle of Miami Confederacy takes victory over Arthur St. Clair, the American governor of the Northwest Territory, killing 630
+    - 1794: Battle of Fallen Timbers
+        - 3,000 US troops under Anthony Wayne defeat Little Turle
+    - 1795: **Treaty of Greenville**
+        - 12 Indian tribes give up most of Ohio and Indiana to the government
+        - Creates **annuity system**
+            - Yearly payments to Indian tribes
+            - Have US (outsider) control over tribal affairs and life
+- Many saw the Indians as just in a less advanced civilization
+    - Could be equals if they started farming and have up communal landholding and hunting
+    - 1790s: US distributes farming tools and livestock to Indian men and spinning wheels/looms to Indian women
+        - Thought Indian acceptence of gender norms would show progress towards "civilization"
+        - Most tribes rejected it
+            - Too drastic of a change
+            - To them, freedom meant tribal autonomy and the ability to search for game on large spaces of land
+
+### Blacks and the Republic
+
+- By 1790: 700k African-Americans
+    - More than the number of Indians
+- **Gradual emacipation** in the North assumed that former slaves would stay in the country
+    - During the Revolution, free blacks had some of the rights of whites
+        - Including the right to vote
+- Naturalization Act of 1790
+    - First legal description of American nationality
+    - Restricted the process to becoming a citizen to "free white persons"
+        - Excluded a large portion of the world to emigrating to the US for "asylum for mankind"
+    - 1870: Blacks allowed to become citizens
+    - 1924: Native Americans granted American citizenship
+    - 1940s: Asians can become citizens
+
+### Jefferson, Slavery, and Race
+
+- John Locke &rarr; US | "Man's liberty flowed from his having reason"
+    - If whites saw blacks as permanently deficent in certain qualities, it was then not unreasonable to deny them liberty
+        - Saw them lacking in self-control, reason, devotion to community
+- 1785: Jefferson's ***Notes of the State of Virginia***
+    - Blacks lacked, because of natural incapacity and slavery, loyality to the nation
+    - Person's abilities are impacted by their surrounding environment/social conditions
+        - No group is permanently inferior
+            - But he was suspicious that nature had made it perment for the case of blacks
+- Benjamin Banneker, free African American from Maryland, send Jefferson a copy of mathamatical calculations
+    - Self taught
+    - Jefferson thought a white person must have helped him
+- Some thought black could become a part of American society
+    - Edward Coles, governor of Illinois brought his slaves from Virginia and freed them
+    - George Washington had a clause in his will that freed his slaves when his wife died
+    - Jefferson tried to avoid selling his slaves to help his debt because he thought the slave trade was immoral
+        - But only freed 5 of his slaves
+
+### Principles of Freedom
+
+- Decline of apprenticeship and indentured servants &rarr; less difference between whites
+- However, increase division between free Americans and slaves
+- Race emerged as a justification for slavery
