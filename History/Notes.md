@@ -2891,3 +2891,101 @@ because of this.
         - Be wary of this person, this is much more common
         - Rebut the Anti-Federalists' argument and say that tyranny is more likely to come from a weak government
     2. Someone who is openly for a strong government
+
+# Chapter 8 - Securing the Republic
+
+- 1789: Washington became president under the new Constitution
+- Maintaining politcally harmony was crucial to the preservation of liberty
+- Wanted to avoid political parties
+    - Considered divisive, disloyal, faction
+        - Turned the will of the nation into the will of a few
+    - Consitution assumed no poltical parties
+        - Runner up becomes vice president
+    - By 1790s: political parties were a fact of life
+
+## Poltitics in an Age of Passion
+
+- George Washington was a symbol of national unity
+    - Thomas Jefferson as secretary of state
+    - Alexander Hamilton as head of the Treasury
+    - Appointed 6 Supreme Court justices
+        - Headed by John Jay
+
+### Hamilton's Program
+
+- 1790-1791
+- Immediate goals:
+    - Wanted to establish national financial stability
+    - Encourage economic growth
+- Long term goals:
+    - Make the US a world power
+        - Commercially and militarily
+- 5 parts:
+    1. Establish trust in the nation's economics
+        - People can loan money to the government and know it will be repaid
+        - The government still had to pay off its debt from WoI and to states
+    2. Creation of new national debt
+        - Replace old debts with interest bearing bonds
+        - Gave people a stake in promoting the nation's stability, so they would be able to be paid back
+    3. Creation of a **Bank of the United States**
+        - Modelled after the Bank of England
+        - Private bank (not a branch of government)
+        - Manage currency, make loans to government, while benefiting stockholders
+    4. Raise reveune by taxing whiskey
+    5. Tariff to promote American industry rather than importing goods
+
+### The Emergence of Opposition
+
+- Hamilton's plan was divisive
+    - American manufacturers, financiers, and merchants supported it
+    - But it relied on close ties with Britain
+- James Madison and Thomas Jefferson thought more focus on West, not Europe
+    - JM, TJ | Republic of independent farmers marketing to the world
+    - JM, TJ | Greatest threat to liberty was a strong centeral government tied into the new emerging class of commercial capitalists
+- People also did not like Hamilton's standing army and saw his bank/debt plans as a path to corruption
+    - Seemed too similar to the British
+    - Enrich the wealthy and powerful at the cost of the rest
+        - Greatly benefit speculators of the 1780s who bought government bonds and notes for cents on the dollar
+            - Would be paid back at face value
+        - Farmers often distilled grain into whiskey to make it easier to transport
+            - Hamilton's tax on whiskey was a tax on farmers
+
+### The Jefferson-Hamilton Bargain
+
+- Hamilton's plan received a lot of resistance in the South
+    - Less focus on manufacturing and commerce
+    - Fewer bond holders to benefit
+- Hamilton's plan was justified with the "general welfare" clause
+    - Many Southerners became "strict constructionists"
+        - Only the powers explicitly given to the federal government were allowed
+- Hamilton's plan was not explicitly given to the federal government
+    - Jefferson saw the creation of a national bank as unconstitutional
+    - Opposition in Congress was stopping Hamilton's plan
+- 1790: Jefferson and Hamilton have dinner and come up with a comprimise
+    - Southerners excepted Hamilton's plan, but the nation's capital would be moved to the South
+        - His plan minus the subsidies to manufacturers
+
+### The Impact of the French Revolution
+
+- 1789: French Revolution
+    - Almost all Americans were happy
+    - 1793: King Louis XVI was executed
+        - Revolution became more radical
+        - Great Britain and France were at war
+- Jefferson | Revoution for popular self-government must be protected
+    - Even if it was a little (a lot) extreme
+- George Washington, Alexander Hamilton | Sided with the French monarchy
+- 1778: "permanent alliance" between the US and France
+    - But its not like either side of America wanted to get involved with a European war
+- 1793: Washington issued a proclamation of neutrality
+    - British continue with **impressment**
+        - Seizing American sailors/traders (regardless of origin) and forcing them into the British navy
+- 1794: **Jay's Treaty**
+    - John Jay was sent to London to negotiate a treaty (while still being a chief justice)
+    - Britain agreed to abandon western frontier forts (which it was supposed to do in 1783)
+    - Did not contain impressment or British interference of American trade
+    - Criticized for aligning with the British monarchy and not the French Revolution
+        - Led to the the formation of an organized opposition party
+
+### Political Parties
+
