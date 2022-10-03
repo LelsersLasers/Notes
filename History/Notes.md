@@ -2866,3 +2866,28 @@ because of this.
 - Wants to vote but doesn't have property
     - "resents the present state government because he is not allowed to vote, since he owns no property"
     - Would be solved by the removal of property requirements for voting
+
+## Class Notes - 10/3
+
+### The Federalist Papers
+
+- List of documents advocating for the ratification of the Constitution
+    - 85 essays
+    - Written for delegates to the state ratifying conventions
+    - Wanted a strong central government
+        - Anti-Federalists wanted strong state governments
+- Written by Alexander Hamilton, James Madison, and John Jay
+    - Under the pseudonym "Publius"
+
+#### Federalist 1
+
+- 2 groups of men will disagree:
+    1. Leaders who already have power will be skeptical of power being put above them
+    2. People who think they can gain power in a decentralized government
+- Purpose of government is to protect the liberty of the people
+    - The government will have to be strong/centeralized to do this
+- Tyranny can come about 2 ways:
+    1. Someone who is pretending to be for the rights of the people
+        - Be wary of this person, this is much more common
+        - Rebut the Anti-Federalists' argument and say that tyranny is more likely to come from a weak government
+    2. Someone who is openly for a strong government
