@@ -516,3 +516,117 @@ Membrane transport
 - Pinocytosis: cell drinking
     - Vesicle forms around a liquid
         - The vesicle temporarily merges with the cell membrane
+
+# 10/4
+
+## Mini intro/review quiz
+
+1. How do you speed up a reaction?
+    - Enyzmes
+        - Biological catalysts
+    - Add heat
+2. What is a reactant, product?
+    - Reactant: left side
+        - What you start with
+    - Product: right side
+        - What you end with
+3. What is a catalyst?
+    - Speeds up a reaction
+4. Two properties of catalysts
+    - Not consumed in the reaction
+    - Can be used over and over again
+5. Whare are the monomers/building blocks of proteins?
+    - Amino acids
+6. How many protein monomers?
+    - At least 20
+7. 4 levels of protein structure?
+    - Primary, Secondary, Tertiary, Quaternary
+8. What is the primary structure of a protein?
+    - The order/sequence of the amino acids
+9. How are amino acids linked together?
+    - Peptide bonds
+10. What is amino acid R group?
+    - The side chain
+    - Go off the centeral carbon
+11. Connect between R groups and formation of the teriary structure?
+    - Form bonds between the R groups
+        - Folds/knots the protein
+    - Hydrogen bonds
+    - Ionic bonds
+    - Hydrophobic interactions
+    - Disulfide bonds
+
+## Metabolic pathways
+
+- Metabolism
+- Catabolic pathways
+    - Break down molecules
+    - Release energy
+- Anabolic pathways
+    - Build molecules
+    - Require energy
+
+## Thermodynamics
+
+1. First law of thermodynamics
+    - Energy can be transferred and transformed
+    - It cannot be created or destroyed
+2. Second law of thermodynamics
+    - Entropy: disorder
+    - Entropy tends to increase in the universe
+- Exothermic
+    - Cellular respiration
+    - Breaking down (catabolic)
+    - Releases energy
+- Endothermic
+    - Photosynthesis
+    - Building up (anabolic)
+    - Requires energy
+
+## Energy
+
+- Free energy: available energy
+    - Energy that can be used to do work
+- In **sponstaneous** reactions
+    - Delta G < 0
+- Using energy:
+    - Gravitational motion
+        - Potential energy
+        - Took work to climb up a slide, then released the energy to go down the slide
+    - Diffusion
+        - Movement of molecules from high to low concentration
+    - Chemical reactions
+        - Breaking of bonds
+
+## Enzymes
+
+- Catalytic proteins
+    - Speed up chemical reactions
+    - But the reaction could proceed without enzymes
+- Usually tertiary structure
+- Reduces **activation energy**
+    - Energy needed to start a reaction
+- Retain their structure (not consumed by the reaction)
+- Specific to their substrate
+    - Like a lock and key
+    - Active site
+        - Where the substrate fits just perfectly
+- Require optimal conditions
+    - Temperature
+    - pH
+    - Otherwise could unfold/denature
+
+## Substrate specific
+
+- Substrate(s) &rarr; product(s)
+- Sucrase
+    - Sucrose + H2O &rarr; glucose + fructose
+- Naming is often based on the substrate
+    - Sucrose &rarr; sucr**ase**
+- Temporary bond between the enzyme and the substrate
+    - Induced fit model
+    - Substrate fits into the active site
+        - Not perfect fit
+        - Held in shape by hydrogen bonds
+    - Enzyme changes shape
+    - Substrate is now bound to the enzyme
