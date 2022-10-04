@@ -23,6 +23,14 @@
 - Montrer les diverses cultures et les immenses ressources de la France et de ses colonies
 - Peindre son empire colonial de la bonne manière
 	- Montrer l'échange mutuel des cultures et le bénéfice des efforts de la France outre-mer
+- Montrer l'avantage économique d'avoir des colonies
+- Pour célébrer l'empire
+    - Le succès/la réussite de la mission coloniale
+- Pour justifier l'expansion coloniale
+    - Pour montrer le pouvoir français aux Allemands
+- Pour montrer "l'echange" cultueral entre la France et les colonies
+- Pour justifier la distinction entre le bon le mauvais sauvage
+    - France a aidé les colonies
 
 ## Les participants
 
@@ -38,9 +46,6 @@
 - Peu de succès
 	- 5,000 visiteurs
 - Montré les exactions commises lors des conquêtes coloniales
-
-
-six-month colonial exhibition held in Paris, France, in 1931
 
 # Links
 
