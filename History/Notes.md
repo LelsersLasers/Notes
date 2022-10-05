@@ -2989,3 +2989,57 @@ because of this.
 
 ### Political Parties
 
+- Split into 2 sides: **Federalists** and **Republicans**
+    - Not today's Republican party
+- Federalists:
+    - Supported Washington
+    - For Hamilton's plan and close ties with Britain
+    - Supported by merchants, farmers, lawyers, and established political leaders
+        - Especially outside of the South
+    - Often elitist
+        - Traditional 18th century view
+            - Fixed hierarchy of social classes
+            - Public offices should be reserved for the well born
+    - Feared the spirit of the Rebellion would eventually lead to anarchy
+- **Whiskey Rebellion**
+    - 1794: Farmers in Pennsylvania rebelled against Hamilton's tax on whiskey
+        - Farmers were angry that they were being taxed on something they had to do to survive
+            - Also angry that Hamilton's plan was benefiting the wealthy
+    - Washington led 13,000 troops to put down the rebellion
+        - The rebellion was put down quickly
+
+### The Republican Party
+
+- Led by Madison and Jefferson
+- Sympathetic to France
+- More faith in democratic self government
+- Supported by wealthy southern planter and other farmers throughout the country
+    - Support for French Revolution drew artisans to the party
+- Critical of the current social and economic inequality
+- Poltical liberty was more than voting
+    - Constant involvement in public affairs
+- The two sides became increasingly hostile towards each other
+
+### The Expanding Political Sphere
+
+- 1790s: more and more people got involved with politics
+    - More people "followed" politics (read newspapers, etc)
+- Creation of nearly 1,000 post offices
+    - Spread letters and newspapers across the country
+- Number of newspapers: 100 &rarr; 260, 400 (_, 1790s, 1810)
+- 1793-1794: critics of Washington form 50 **Democratic-Republican Societies**
+    - Inspired by Jacobin clubs of Paris (French Revolution)
+    - Republicans held public meetings
+    - Seen by Federalists as an example to how liberty was getting out of hand
+        - Led to counter-counter reaction where the societies declared a right to debate political issues and organize to promote their views
+    - Disappeared after 1795
+
+### The Rights of Women
+
+- 1972: Mary Wollstonecraft's *A Vindication of the Rights of Women*
+    - Women should have better education and employment because it would benefit all
+    - Also women should have representation in government
+- **Judith Sargent Murray** wrote essays for the *Massachusetts Magazine*
+    - Under a penned name ("The Gleaner")
+- Nothing in the Constitution against the rights of women
+    - Use of "he" though indicated politics were for men only
