@@ -914,27 +914,48 @@ Triglycerides:
 Oxidation and reduction reactions involve transferring electrons from one atom or molecule to another atom or molecule.
 Oxidation
     - Occurs when a reactant loses electrons during the reaction
+    - Releases energy
     - Example of reducing agent: metal
 Reduction:
     - Occurs when a reactant gains electrons during the reaction
+    - Stores energy
     - Example of oxidizing agent: bleach
 ```
 2. Contrast the course of a chemical reaction with and without an enzyme catalyst.
 ```
+The chemical reactions could occur without an ezyme catalyst.
+However, the reaction would be much slower.
+An enzyme catalyst lowers the activation energy of a reaction and increases the speed of the reaction.
 ```
+![Enzyme Reaction](./Photos/EnzymeReaction.gif)
+
 3. Enzyme activity must be regulated.
-Describe the difference between competitive and non-competitive inhibition. What environmental factors affect enzyme activity?
+Describe the difference between competitive and non-competitive inhibition.
+What environmental factors affect enzyme activity?
 ```
+Competitive inhibition:
+    - The inhibitor competes with the substrate for the active site
+    - It will literally block the substrate from binding to the active site
+Non-competitive inhibition:
+    - The inhibitor binds to a site other than the active site (an allosteric site)
+    - It will change the shape of the active site so that the substrate cannot bind
+Generally, enzymes don't like high temperatures or low pH (they can be denatured).
+However, each enzyme has specific optimal conditions.
+The concentration of substrate or inhibitors can also affect enzyme activity.
 ```
 4. Phosphofructokinase functions to add a phosphate group to a molecule of fructose-6-phsophate. This enzyme functions early in glycolysis, and energy-yield biochemical pathway in cellular respiration (Chapter 7). The enzyme has an active site that binds fructose and ATP. An allosteric inhibitory site also binds ATP when cellular levels of ATP are very high.
     1. Predict the rate of the reaction if the levels of cellular ATP are low.
     ```
+    The rate of the reaction will be high because there is not enough ATP to bind to the allosteric site.
     ```
     2. Predict the rate of the reaction if levels of cellular ATP are very high.
     ```
+    THe rate of the reaction will be slower because some of the ATP will bind to the allosteric site inhibiting the enzyme.
     ```
     3. Describe what is happening to the enzyme when levels of ATP are very high.
     ```
+    When the ATP levels are very high, some of the ATP will bind to the allosteric site.
+    This will change the shape of the active site so that no further fructose and ATP can not bind..
     ```
 
 
