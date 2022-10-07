@@ -603,6 +603,7 @@ Membrane transport
 - Catalytic proteins
     - Speed up chemical reactions
     - But the reaction could proceed without enzymes
+- ![Enzymes](./Photos/Enzymes.jpg)
 - Usually tertiary structure
 - Reduces **activation energy**
     - Energy needed to start a reaction
@@ -625,8 +626,42 @@ Membrane transport
     - Sucrose &rarr; sucr**ase**
 - Temporary bond between the enzyme and the substrate
     - Induced fit model
+        - Enzyme changes shape slightly to perfectly fit with substrate
     - Substrate fits into the active site
         - Not perfect fit
         - Held in shape by hydrogen bonds
-    - Enzyme changes shape
     - Substrate is now bound to the enzyme
+
+# 10/7
+
+## Enzyme regulation
+
+- Allosteric site
+    - Not the active site
+    - But if something (allosteric effecteur) goes into a allosteric site, the shape of the active site changes
+        - Can "shut off"/inhibite the active site and thus the enzyme
+- Non-competitive (allosteric) inhibition
+    - The inhibitor binds to the allosteric site
+        - Changes the shape of the active site
+        - Prevents the substrate from binding
+    - Also part of the inhibitor could litterally block the active site
+        - (But the inhibitor is binded on the allosteric site, not the active site)
+- Competitive inhibition
+    - The substrate competes with the inhibitor for the same active site
+    - Litterally blocks the substrate from attaching to active site
+- ![Enzyme Inhibitation](./Photos/EnzymeInhibition.png)
+- Enzymes like optimal conditions
+    - Usually don't like: high temperature, low pH
+    - Salt concentration, and other environmental variables can also effect it
+- Some enzymes are built, but require cofactors/coenzymes to turn on/activate/function
+    - Cofactor
+        - Inorganic (not carbon based)
+    - Coenzyme
+        - Organic
+- Gene regulation
+    - Don't build enzymes until they are needed
+- Feedback inhibition
+    - The product of a pathway inhibits an earlier enzyme in the pathway
+    - Prevents the pathway from continuing
+        - Prevents the cell from wasting energy/resources/space
+    - ![Enzyme Feedback inhibition](./Photos/EnzymeFeedbackInhibition.jpg)

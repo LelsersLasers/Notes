@@ -877,7 +877,34 @@ Triglycerides:
     - Attract each other and water will leave them alone
 ```
 
+# Unit 2
 
+## Chapter 6: Metabolism
+
+
+
+### Homework Questions 10/7
+
+1. Contrast oxidation and reduction reactions.
+```
+```
+2. Contrast the course of a chemical reaction with and without an enzyme catalyst.
+```
+```
+3. Enzyme activity must be regulated.
+Describe the difference between competitive and non-competitive inhibition. What environmental factors affect enzyme activity?
+```
+```
+4. Phosphofructokinase functions to add a phosphate group to a molecule of fructose-6-phsophate. This enzyme functions early in glycolysis, and energy-yield biochemical pathway in cellular respiration (Chapter 7). The enzyme has an active site that binds fructose and ATP. An allosteric inhibitory site also binds ATP when cellular levels of ATP are very high.
+    1. Predict the rate of the reaction if the levels of cellular ATP are low.
+    ```
+    ```
+    2. Predict the rate of the reaction if levels of cellular ATP are very high.
+    ```
+    ```
+    3. Describe what is happening to the enzyme when levels of ATP are very high.
+    ```
+    ```
 
 
 # Big Ideas
