@@ -881,12 +881,43 @@ Triglycerides:
 
 ## Chapter 6: Metabolism
 
+### Intro
+
+- Every process requires energy
+    - Nutrients and other molecules are imported, `metabolized` (broken down), synthesized into new molecules, modified if needed, transported around the cell, and, in some cases, distributed to the entire organism.
+    - Energy is required for both the synthesis and breakdown of molecules
+        - Complex carbohydrates are broken down into simple sugars that the cell uses for energy
+- Enzymes are crucial for life
+    - Without them the chemical reactions required to survive would not happen fast enough for an organism to survive
+
+### Energy and Metabolism
+
+#### Intro
+
+- Cell’s metabolism = the chemical reactions that occur within it
+- `Catabolism`: metabolic reactions involve the breaking down of complex molecules into simpler ones with a release of energy
+- `Anabolism`: metabolic reactions require energy to build complex molecules
+- `Bioenergetics`: 
+
+
+#### Metabolism of Carbohydrates
+
+#### Metabolic Pathways
+
+##### Anabolic and Catabolic Pathways
 
 
 ### Homework Questions 10/7
 
 1. Contrast oxidation and reduction reactions.
 ```
+Oxidation and reduction reactions involve transferring electrons from one atom or molecule to another atom or molecule.
+Oxidation
+    - Occurs when a reactant loses electrons during the reaction
+    - Example of reducing agent: metal
+Reduction:
+    - Occurs when a reactant gains electrons during the reaction
+    - Example of oxidizing agent: bleach
 ```
 2. Contrast the course of a chemical reaction with and without an enzyme catalyst.
 ```
