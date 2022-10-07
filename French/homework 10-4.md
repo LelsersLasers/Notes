@@ -41,6 +41,12 @@
 - Nul ne colonise innocemment
     - Une nation qui colonise, une civilisation qui justifie la colonisation – donc la force – est une civilisation malade
 
+## Class
+
+- La France est une civilisation qui ne peut pas résoudre ses problèmes et de fermer les yeux est décadent et moribond.
+- La colonisation =/= la civilisation
+- La justifications pour la colonisation que la France a données ne sont pas les véritables raisons pour la mission coloniale, car en effect, ce sont les avantages économiques qui inspirent le projet colonial de la France.
+
 ## English notes
 
 - France cannot solve the problems it has created
