@@ -1,0 +1,85 @@
+# Aimé Césaire : “Discours sur le colonialisme”
+
+- La France ne peut pas résoudre les problèmes qu'elle a créés
+- Deux problèmes majeurs auxquels son existence a donné naissance:
+    - Le problème du prolétariat
+    - Le problème colonial
+- « l’Europe » est moralement, spirituellement indéfendable.
+- Les colonisés savent désormais qu’ils ont sur les colonialistes un avantage
+    - Ils savent que leurs « maîtres »s provisoires mentent.
+- La dupe de bonne foi d’une hypocrisie collective, habile à mal poser les problèmes pour mieux légitimer les odieuses solutions qu’on leur apporte.
+- Qu’est-ce en son principe que la colonisation?
+    - ni évangélisation
+    - ni entreprise philanthropique
+    - ni volonté de reculer les frontières de l’ignorance, de la maladie, de la tyrannie
+    - ni élargissement de Dieu
+    - ni extension du Droit
+- Les équations malhonnêtes:
+    - Christianisme = civilisation
+    - Paganisme = sauvagerie
+- Mettre les civilisations différentes en contact les unes avec les autres est bien
+- Colonisation travaille à déciviliser le colonisateur
+    - à le dégrader
+    - Réveiller aux instincts enfouis, à la convoitise, à la violence, à la haine raciale, au relativisme moral
+    - Une régression universelle se produit
+    - Il y a le poison instillé dans les veines de l’Europe
+- On dit : « Comme c’est curieux ! Mais, bah ! C’est le nazisme, ça passera ! » 
+    - Jusque-là, il ne s’était appliqué qu’à des peuples non européens
+    - On l’a cultivé
+    - Elle s’avère impuissante à fonder une morale individuelle
+- « Nous aspirons, non pas à l’égalité, mais à la domination »
+    - Qui parle ?
+        - C’est l’humaniste occidental, le philosophe « idéaliste »
+- « La régénération des races inférieures par les races supérieures est dans l’ordre providentiel de l’humanité »
+    - Plutôt que de travailler, il choisit de se battre
+        - Il revient à son premier état
+    - Tout révolté est un soldat qui a manqué sa vocation
+        - Un être fait pour la vie héroïque
+        - Muvais ouvrier, trop bon soldat.
+- Qui proteste ? Personne [no one]
+    - Exemple: les biens de ce monde, « s’ils restaient indéfiniment répartis, comme ils le seraient sans la colonisation, ne répondraient ni aux desseins de Dieu, ni aux justes exigences de la collectivité humaine »
+- Nul ne colonise innocemment
+    - Une nation qui colonise, une civilisation qui justifie la colonisation – donc la force – est une civilisation malade
+
+## English notes
+
+- France cannot solve the problems it has created
+- Two major problems to which its existence has given rise:
+    - The problem of the proletariat
+    - The colonial problem
+- “Europe” is morally, spiritually indefensible.
+- The colonized now know that they have an advantage over the colonialists
+    - They know that their temporary "masters" are lying.
+- The dupe in good faith of a collective hypocrisy, skilful in misrepresenting the problems in order to better legitimize the odious solutions that are brought to them.
+- What is colonization in principle?
+    - nor evangelization
+    - nor philanthropic enterprise
+    - nor will to push back the frontiers of ignorance, disease, tyranny
+    - nor enlargement of God
+    - nor extension of the Right
+- Dishonest equations:
+    - Christianity = civilization
+    - Paganism = savagery
+- Bringing different civilizations into contact with each other is good
+- Colonization works to decivilize the colonizer
+    - to degrade it
+    - Awaken to buried instincts, lust, violence, racial hatred, moral relativism
+    - A universal regression occurs
+    - There is the poison instilled in the veins of Europe
+- We say: “How curious! But, well! It's Nazism, it will pass! »
+    - Until then, it had only applied to non-European peoples
+    - We cultivated it
+    - It proves powerless to found an individual morality
+- “We aspire, not to equality, but to domination”
+    - Who is speaking?
+        - He is the Western humanist, the “idealist” philosopher
+- "The regeneration of the lower races by the higher races is in the providential order of humanity"
+    - Rather than work, he chooses to fight
+        - He returns to his first state
+    - Every rebel is a soldier who has missed his calling
+        - A being made for the heroic life
+        - Bad workman, too good a soldier.
+- Who's protesting? No one
+    - Example: the goods of this world, "if they remained indefinitely distributed, as they would be without colonization, would correspond neither to the designs of God, nor to the just demands of the human community"
+- No one colonizes innocently
+    - A nation that colonizes, a civilization that justifies colonization – therefore force – is a sick civilization

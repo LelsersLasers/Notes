@@ -2989,3 +2989,300 @@ because of this.
 
 ### Political Parties
 
+- Split into 2 sides: **Federalists** and **Republicans**
+    - Not today's Republican party
+- Federalists:
+    - Supported Washington
+    - For Hamilton's plan and close ties with Britain
+    - Supported by merchants, farmers, lawyers, and established political leaders
+        - Especially outside of the South
+    - Often elitist
+        - Traditional 18th century view
+            - Fixed hierarchy of social classes
+            - Public offices should be reserved for the well born
+    - Feared the spirit of the Rebellion would eventually lead to anarchy
+- **Whiskey Rebellion**
+    - 1794: Farmers in Pennsylvania rebelled against Hamilton's tax on whiskey
+        - Farmers were angry that they were being taxed on something they had to do to survive
+            - Also angry that Hamilton's plan was benefiting the wealthy
+    - Washington led 13,000 troops to put down the rebellion
+        - The rebellion was put down quickly
+
+### The Republican Party
+
+- Led by Madison and Jefferson
+- Sympathetic to France
+- More faith in democratic self government
+- Supported by wealthy southern planter and other farmers throughout the country
+    - Support for French Revolution drew artisans to the party
+- Critical of the current social and economic inequality
+- Poltical liberty was more than voting
+    - Constant involvement in public affairs
+- The two sides became increasingly hostile towards each other
+
+### The Expanding Political Sphere
+
+- 1790s: more and more people got involved with politics
+    - More people "followed" politics (read newspapers, etc)
+- Creation of nearly 1,000 post offices
+    - Spread letters and newspapers across the country
+- Number of newspapers: 100 &rarr; 260, 400 (_, 1790s, 1810)
+- 1793-1794: critics of Washington form 50 **Democratic-Republican Societies**
+    - Inspired by Jacobin clubs of Paris (French Revolution)
+    - Republicans held public meetings
+    - Seen by Federalists as an example to how liberty was getting out of hand
+        - Led to counter-counter reaction where the societies declared a right to debate political issues and organize to promote their views
+    - Disappeared after 1795
+
+### The Rights of Women
+
+- 1972: Mary Wollstonecraft's *A Vindication of the Rights of Women*
+    - Women should have better education and employment because it would benefit all
+    - Also women should have representation in government
+- **Judith Sargent Murray** wrote essays for the *Massachusetts Magazine*
+    - Under a penned name ("The Gleaner")
+- Nothing in the Constitution against the rights of women
+    - Use of "he" though indicated politics were for men only
+
+## The Adams Presidency
+
+- 1792: Washington wins presidential election again
+    - 1796: Washington does not run again
+        - Wanted to establish the precendent of not running for a third term/for life
+- Gave a Farewell Address
+    - Mostly written by Hamilton
+    - Published in newspapers (not given orally)
+    - Defended his administration
+    - Warned aginst political parties
+    - Advised not forming permanent alliances with other countries
+
+### The Election of 1796
+
+- John Adams (+ Thomas Pinckney) - Federalists vs. Thomas Jefferson (+ Aaron Burr) - Anti-Federalists
+    - JA won by 3 electoral votes
+    - Because of factionism TJ ended up vice president
+    - Voting was split geographically
+- US was trying to stay neutral in European war
+    - Claimed right to ship/trade nonmililtary goods to both sides
+    - But Britain and France still seized US ships
+- 1797: **XYZ Affair**
+    - American diplomats sent to France to negotiate a treaty
+    - French officials demanded a bribe
+        - "X, Y, Z" were the names of the French officials
+    - Hurt US-France relations
+    - Led to quasi-war
+        - US and France were at war, but not officially
+    - 1800: JA negotiated peace with France
+        - Despite Hamilton's desire to go to war with France
+- 1799: southern Pennsylvania farmers stopped taxation imposed by Congress to fund increased navy/military size
+    - Led by John Fries, they released men from prison
+    - Army arrested Fries and his followers
+
+### The "Reign of Witches"
+
+- 1798: **Alien and Sedition Acts**
+    - Federalists wanted to silence the opposition
+        - Large portion coming from immigrant phamphlet and newspaper writers
+    - 5 &rarr; 14 years for naturalization
+    - Allowed deportation of people who were considered dangerous
+    - Allowed prosecution of any public assembly/publication that criticized the government
+    - The Sedition Act expired in 1801
+        - JA hoped to be re-elected by then
+    - TJ | This is a "reign of witches"
+    
+### The Virginia and Kentucky Resolutions
+
+- The **Virginia and Kentucky resolutions** critized the Sedition Act as unconstitutional
+    - Headed by TJ and Madison
+    - First amendement was being violated
+    - Madison | Federal courts must do something about this
+    - Jefferson | States could nullify laws of Congress that were unconstitutional
+        - This part was not kept
+- No other state joined Virginia and Kentucky
+    - People (including Republicans) were afraid of endangering the Union]=
+
+### The "Revolution of 1800"
+
+- "Jefferson and liberty" was campaign of the Republicans for the 1800 election
+- Republicans were ready to mobilize voters
+    - Pamphlets, handbills, newspapers, and holding mass meetings
+- The Federalists saw politics as something only for the elite
+    - Had a hard time mobilizing voters
+- Jefferson won (73 to JA's 65)
+- Each party had 1 person throw away their vote for vice president so the main canidate would win
+    - But the Republican guy forgot and Burr and Jefferson tied
+    - Election was decided by the House of Representatives
+        - Tied there also
+        - Hamilton supported Jefferson because he knew Jefferson was too smart to get rid of his financial systems
+            - Jefferson won with Hamilton's support
+    - As a result, the 12th amendement was added to the Constitution
+        - Now the president and vice president are elected separately
+    - Also led to Burr-Hamilton tension (&rarr; 4 years later Burr killed Hamilton in a duel)
+- Events of 1790s showed that most Americans believed most Americans should play an active role in politics
+- Adam's acceptence of defeat set the precendent for peaceful transfer of power (especially after a party loses)
+
+### Slavery and Politics
+
+- Jefferson's win was only possible because of slavery (3/5ths clause)
+- The first Congress received petitions to abolish slavery
+    - Supported by Benjamin Franklin
+        - 1787: Became president of the Pennsylvania Abolition Society
+- Congress avoid the issue of emacipation
+    - 1793: to enact the fugitive slave clause in the Constitution, created a law for local officals to return the escaped slaves
+
+### The Haitian Revolution
+
+- 1791: **Haitian Revolution**
+    - Saint Domingue (Haiti) was the most profitable colony in the world
+        - "Jewel" of France's overseas empire
+    - Led by Toussaint L'Ouverture
+    - Took the island and repelled both British and French attempts to retake it
+- Inspired slaves in America
+- Showed how slavery distorted ideas of equality and freedom
+    - Same people (ex: Jeffersonians) who supported the French Revolution saw the Haitian Revolution as wrong
+- Led to thousands of refugees fleeing to America
+    - Spread stories against slavery
+        - Whites feared a slave insurrection in the US
+        - Jefferson as president tried to quarantine the effects
+
+### Gabriel's Rebellion
+
+- 1800: **Gabriel's Rebellion**
+    - Led by brothers Gabriel (blacksmith), Solomon (blacksmith), and Martin (slave preacher)
+    - He planned to lead a slave rebellion in Richmond, Virginia
+        - Kill some whites and take the rest (including Governor James Monroe) hostage to negotiate for the abolition of slavery
+    - Were caught and executed
+- 1800: 1/2 of Richmond's population was black
+    - Some educated slaves could negotiate their labor arrangements and their owners would take their "wages"
+        - Relative autonomy &rarr; slave artisans had a main role in Gabriel's Rebellion
+- Led to a tightening of laws against blacks
+    - Restricted them meeting without white supervision
+    - Restricted an owner's ability to free their slaves
+        - 1806: any slave freed in Virginia had to leave the state (or would be sold back into slavery)
+
+## Jefferson in Power
+
+- When Jefferson was the first president to start in Washington, D.C.
+    - Washington was unfinished
+- Main policy: unrestricted trade, freedom of religion and press, friendship but no alliances with other countries
+- Tried to undo all the Federalist policies
+    - Freed those imprisoned by the Sedition Act
+    - Reduced the size of the army and navy
+    - Reduced the size of the federal government (cutting the number of federal employees)
+    - Removed all taxes except the tariff
+    - Paid off part of the national debt
+
+### Judicial Review
+
+- John Marshall headed the Supreme Court during Jefferson's presidency (and after)
+    - Established the Court's power to review laws created by Congress and the states
+- 1803: ***Marbury v. Madison***
+    - As Adam's left office, Adams appointed a bunch of federal judges (for the District of Columbia)
+        - Called "midnight judges"
+    - Madison (Jefferson's secretary of state) refused to deliver the commissions
+        - (Commissions: the official documents allowing the judges to become federal judges)
+    - 4 judges (including William Marbury) sued Madison
+    - Marshall declared part of the the Judiciary Act of 1789 unconstitutional
+        - The part allowed courts to order executive officials to deliver the commissions
+        - Marshall | Marbury may have been entitled to his post, but could not force Madison to deliver it
+- 1810: *Fletcher v. Peck*
+    - Extended the power of judicial review to state laws
+    - 1794: 4 companies paid almost every member of Georgia's state legislature (and the 2 senators, and some federal judges) to secure their right to purchase land in Georgia
+        - Many of the people they paid were not reelected 2 years later
+        - New legislature passed a law that canceled the land deal
+        - Supreme Court ruled that the new law violated the contract between the companies and the old legislature (was unconstitutional)
+            - Legislature could not repeal the original grant
+
+### The Louisiana Purchase
+
+- 1803: **Louisiana Purchase**
+    - Napoleon wanted to sell the Louisiana Territory to the US
+        - Wanted to use the money to fund European wars
+        - Also after he was unable to retake Haiti (Saint Domingue), he gave up on North America
+    - Jefferson | Federal government was limited to only what the Constitution said
+        - No where did it say the president could purchase land from a foreign country
+    - The land was given to Spain (from France) in 1762 at the end of the Seven Years' War
+        - France reacquired the land in 1800
+    - The right for the US to trade through New Orleans was confirmed in the Treaty of San Lorenzo (Pinckney's Treaty) (1795)
+        - Jefferson feared the more powerful French would try to interfere with the trade
+    - Jefferson paid $15 million for the land
+        - Doubled the size of the US
+    - Jefferson | Even though this might be unconstitutional, it garentees the agrarian character of the US
+        - And poltical stability
+
+### Lewis and Clark
+
+- Right after purchasing the land, Jefferson dispatched Meriwehther Lewis and William Clark to explore it
+    - Both scientific and commercial: study the plants, animals, geography, but also how it could be used to make money
+    - Hoped to locate water route to the Pacific Ocean
+    - Also hoped to establishing a trading relationship with the Indians
+- 1804: Lewis and Clark left St. Louis
+    - Accompaigned by Sacajawea
+        - Served as an interpreter and guide
+        - Shoshone Indian and wife of French fur trader
+- 1806: Lewis and Clark returned to St. Louis
+    - Reached the Pacific Ocean
+        - Enforced the idea that the US would stretch from the Atlantic to the Pacific
+    - Brought back vast knowelege of the land
+
+### Incorporating Louisiana
+
+- Signifcant Indian populations everywhere but in New Orleans
+- The people of Louisiana were diverse
+    - Many slaves
+    - But also many free blacks who enjoyed similar rights as whites under previous rulers
+- US promised the citizens would be able to keep their rights
+    - But overtime free blacks had reduced status and laws got worse for slaves
+    - Under Spanish and French rule, women co-owned family property
+        - Louisiana kept the principle when transfered to America
+
+### The Barbary Warships
+
+- Jefferson tried to stay out of foreign problems
+    - But had no choice sometimes
+- The Barbary states on the northern coast of Africa had attacked shipping in the Mediterranean and Atlantic
+    - Demanded tributes to protect the ships
+    - 1801: Jefferson refused to pay increased tribute price
+        - Pasha of Tripoli declared war on the US
+        - Lasted until 1804 when an American squadron won at Tripoli harbor
+- The first encounter with the Islamic world
+    - Despite the US being offically not Christian, many Americans viewed Muslims as different (| bad)
+
+### The Embargo
+
+- 1803: Britain-France warfare resumed
+    - 1806: Both countries declared the other under blockade to deny trade with America to their rival
+    - 1807: Britain resumed practice of impressment
+- Jefferson | US required freedom of trade that no government could impair
+- 1807: **Embargo Act**
+    - Jefferson wanted to use trade as a weapon
+    - Banned on American vessels sailing to foreign ports
+    - 1808: American exports down by 80%
+        - But didn't affect France or Britain much
+    - 1809: Non-intercourse Act
+        - Allowed trade with all countries except Britain and France
+
+## Reading Questions - 10/6 - Jefferson, On Native Americans
+
+1. What was Jefferson’s general opinion of and attitude toward Native Americans?
+
+Jefferson truly admired the Native Americans and saw them as "a noble race who were the innocent victims of history."
+Yet despite this view, it was during his time as president that "the basic decisions were made that required the deportation of massive segments of the Indian population to land west of the Mississippi."
+
+2. What would you have recommended to Jefferson and Congress following the Louisiana Purchase to address the problem of western expansion and Native American populations?
+
+I personally think that he should have first tried to make peace with the tribes
+rather than trying to displace/deport them from their land.
+I know that the Native American views on land/property/etc would make this difficult,
+especially in a legal/offical way, but I think that it could have been done.
+However, it is also easy to look back on a past event that we have very little emotional connection and with more modern ideas and say that it should have been done differently.
+Jefferson was trying to secure the future of the American people (and I don't think he considered the Native Americans to be American people), so from his eyes, he was doing the right thing.
+
+3. It has been argued that pushing Native Americans further west merely pushed this problem onto another generation.
+What issues or difficult decisions are we as a country facing now but not taking action on and, as a result, pushing onto a future generation to resolve?
+Choose an issue and briefly discuss.
+
+I think techincally global warming was predicted as early as 1896 (or maybe it was 1938),
+yet even today steps against global warming are slow and not enough.
+While progess as been made, there is still a lot to be done to prevent the world from ending up like *Ready Player One*.
+This can be seen by Hurricane Ian, which caused great damage to Florida and killed many people.
