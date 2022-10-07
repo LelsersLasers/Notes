@@ -79,7 +79,7 @@
     - Every rebel is a soldier who has missed his calling
         - A being made for the heroic life
         - Bad workman, too good a soldier.
-- Who's protesting? Person [no one]
+- Who's protesting? No one
     - Example: the goods of this world, "if they remained indefinitely distributed, as they would be without colonization, would correspond neither to the designs of God, nor to the just demands of the human community"
 - No one colonizes innocently
     - A nation that colonizes, a civilization that justifies colonization – therefore force – is a sick civilization

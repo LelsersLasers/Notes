@@ -3043,3 +3043,123 @@ because of this.
     - Under a penned name ("The Gleaner")
 - Nothing in the Constitution against the rights of women
     - Use of "he" though indicated politics were for men only
+
+## The Adams Presidency
+
+- 1792: Washington wins presidential election again
+    - 1796: Washington does not run again
+        - Wanted to establish the precendent of not running for a third term/for life
+- Gave a Farewell Address
+    - Mostly written by Hamilton
+    - Published in newspapers (not given orally)
+    - Defended his administration
+    - Warned aginst political parties
+    - Advised not forming permanent alliances with other countries
+
+### The Election of 1796
+
+- John Adams (+ Thomas Pinckney) - Federalists vs. Thomas Jefferson (+ Aaron Burr) - Anti-Federalists
+    - JA won by 3 electoral votes
+    - Because of factionism TJ ended up vice president
+    - Voting was split geographically
+- US was trying to stay neutral in European war
+    - Claimed right to ship/trade nonmililtary goods to both sides
+    - But Britain and France still seized US ships
+- 1797: **XYZ Affair**
+    - American diplomats sent to France to negotiate a treaty
+    - French officials demanded a bribe
+        - "X, Y, Z" were the names of the French officials
+    - Hurt US-France relations
+    - Led to quasi-war
+        - US and France were at war, but not officially
+    - 1800: JA negotiated peace with France
+        - Despite Hamilton's desire to go to war with France
+- 1799: southern Pennsylvania farmers stopped taxation imposed by Congress to fund increased navy/military size
+    - Led by John Fries, they released men from prison
+    - Army arrested Fries and his followers
+
+### The "Reign of Witches"
+
+- 1798: **Alien and Sedition Acts**
+    - Federalists wanted to silence the opposition
+        - Large portion coming from immigrant phamphlet and newspaper writers
+    - 5 &rarr; 14 years for naturalization
+    - Allowed deportation of people who were considered dangerous
+    - Allowed prosecution of any public assembly/publication that criticized the government
+    - The Sedition Act expired in 1801
+        - JA hoped to be re-elected by then
+    - TJ | This is a "reign of witches"
+    
+### The Virginia and Kentucky Resolutions
+
+- The **Virginia and Kentucky resolutions** critized the Sedition Act as unconstitutional
+    - Headed by TJ and Madison
+    - First amendement was being violated
+    - Madison | Federal courts must do something about this
+    - Jefferson | States could nullify laws of Congress that were unconstitutional
+        - This part was not kept
+- No other state joined Virginia and Kentucky
+    - People (including Republicans) were afraid of endangering the Union]=
+
+### The "Revolution of 1800"
+
+- "Jefferson and liberty" was campaign of the Republicans for the 1800 election
+- Republicans were ready to mobilize voters
+    - Pamphlets, handbills, newspapers, and holding mass meetings
+- The Federalists saw politics as something only for the elite
+    - Had a hard time mobilizing voters
+- Jefferson won (73 to JA's 65)
+- Each party had 1 person throw away their vote for vice president so the main canidate would win
+    - But the Republican guy forgot and Burr and Jefferson tied
+    - Election was decided by the House of Representatives
+        - Tied there also
+        - Hamilton supported Jefferson because he knew Jefferson was too smart to get rid of his financial systems
+            - Jefferson won with Hamilton's support
+    - As a result, the 12th amendement was added to the Constitution
+        - Now the president and vice president are elected separately
+    - Also led to Burr-Hamilton tension (&rarr; 4 years later Burr killed Hamilton in a duel)
+- Events of 1790s showed that most Americans believed most Americans should play an active role in politics
+- Adam's acceptence of defeat set the precendent for peaceful transfer of power (especially after a party loses)
+
+### Slavery and Politics
+
+- Jefferson's win was only possible because of slavery (3/5ths clause)
+- The first Congress received petitions to abolish slavery
+    - Supported by Benjamin Franklin
+        - 1787: Became president of the Pennsylvania Abolition Society
+- Congress avoid the issue of emacipation
+    - 1793: to enact the fugitive slave clause in the Constitution, created a law for local officals to return the escaped slaves
+
+### The Haitian Revolution
+
+- 1791: **Haitian Revolution**
+    - Saint Domingue (Haiti) was the most profitable colony in the world
+        - "Jewel" of France's overseas empire
+    - Led by Toussaint L'Ouverture
+    - Took the island and repelled both British and French attempts to retake it
+- Inspired slaves in America
+- Showed how slavery distorted ideas of equality and freedom
+    - Same people (ex: Jeffersonians) who supported the French Revolution saw the Haitian Revolution as wrong
+- Led to thousands of refugees fleeing to America
+    - Spread stories against slavery
+        - Whites feared a slave insurrection in the US
+        - Jefferson as president tried to quarantine the effects
+
+### Gabriel's Rebellion
+
+- 1800: **Gabriel's Rebellion**
+    - Led by brothers Gabriel (blacksmith), Solomon (blacksmith), and Martin (slave preacher)
+    - He planned to lead a slave rebellion in Richmond, Virginia
+        - Kill some whites and take the rest (including Governor James Monroe) hostage to negotiate for the abolition of slavery
+    - Were caught and executed
+- 1800: 1/2 of Richmond's population was black
+    - Some educated slaves could negotiate their labor arrangements and their owners would take their "wages"
+        - Relative autonomy &rarr; slave artisans had a main role in Gabriel's Rebellion
+- Led to a tightening of laws against blacks
+    - Restricted them meeting without white supervision
+    - Restricted an owner's ability to free their slaves
+        - 1806: any slave freed in Virginia had to leave the state (or would be sold back into slavery)
+
+## Jefferson in Power
+
+- 
