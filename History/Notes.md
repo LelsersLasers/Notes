@@ -3162,4 +3162,102 @@ because of this.
 
 ## Jefferson in Power
 
-- 
+- When Jefferson was the first president to start in Washington, D.C.
+    - Washington was unfinished
+- Main policy: unrestricted trade, freedom of religion and press, friendship but no alliances with other countries
+- Tried to undo all the Federalist policies
+    - Freed those imprisoned by the Sedition Act
+    - Reduced the size of the army and navy
+    - Reduced the size of the federal government (cutting the number of federal employees)
+    - Removed all taxes except the tariff
+    - Paid off part of the national debt
+
+### Judicial Review
+
+- John Marshall headed the Supreme Court during Jefferson's presidency (and after)
+    - Established the Court's power to review laws created by Congress and the states
+- 1803: ***Marbury v. Madison***
+    - As Adam's left office, Adams appointed a bunch of federal judges (for the District of Columbia)
+        - Called "midnight judges"
+    - Madison (Jefferson's secretary of state) refused to deliver the commissions
+        - (Commissions: the official documents allowing the judges to become federal judges)
+    - 4 judges (including William Marbury) sued Madison
+    - Marshall declared part of the the Judiciary Act of 1789 unconstitutional
+        - The part allowed courts to order executive officials to deliver the commissions
+        - Marshall | Marbury may have been entitled to his post, but could not force Madison to deliver it
+- 1810: *Fletcher v. Peck*
+    - Extended the power of judicial review to state laws
+    - 1794: 4 companies paid almost every member of Georgia's state legislature (and the 2 senators, and some federal judges) to secure their right to purchase land in Georgia
+        - Many of the people they paid were not reelected 2 years later
+        - New legislature passed a law that canceled the land deal
+        - Supreme Court ruled that the new law violated the contract between the companies and the old legislature (was unconstitutional)
+            - Legislature could not repeal the original grant
+
+### The Louisiana Purchase
+
+- 1803: **Louisiana Purchase**
+    - Napoleon wanted to sell the Louisiana Territory to the US
+        - Wanted to use the money to fund European wars
+        - Also after he was unable to retake Haiti (Saint Domingue), he gave up on North America
+    - Jefferson | Federal government was limited to only what the Constitution said
+        - No where did it say the president could purchase land from a foreign country
+    - The land was given to Spain (from France) in 1762 at the end of the Seven Years' War
+        - France reacquired the land in 1800
+    - The right for the US to trade through New Orleans was confirmed in the Treaty of San Lorenzo (Pinckney's Treaty) (1795)
+        - Jefferson feared the more powerful French would try to interfere with the trade
+    - Jefferson paid $15 million for the land
+        - Doubled the size of the US
+    - Jefferson | Even though this might be unconstitutional, it garentees the agrarian character of the US
+        - And poltical stability
+
+### Lewis and Clark
+
+- Right after purchasing the land, Jefferson dispatched Meriwehther Lewis and William Clark to explore it
+    - Both scientific and commercial: study the plants, animals, geography, but also how it could be used to make money
+    - Hoped to locate water route to the Pacific Ocean
+    - Also hoped to establishing a trading relationship with the Indians
+- 1804: Lewis and Clark left St. Louis
+    - Accompaigned by Sacajawea
+        - Served as an interpreter and guide
+        - Shoshone Indian and wife of French fur trader
+- 1806: Lewis and Clark returned to St. Louis
+    - Reached the Pacific Ocean
+        - Enforced the idea that the US would stretch from the Atlantic to the Pacific
+    - Brought back vast knowelege of the land
+
+### Incorporating Louisiana
+
+- Signifcant Indian populations everywhere but in New Orleans
+- The people of Louisiana were diverse
+    - Many slaves
+    - But also many free blacks who enjoyed similar rights as whites under previous rulers
+- US promised the citizens would be able to keep their rights
+    - But overtime free blacks had reduced status and laws got worse for slaves
+    - Under Spanish and French rule, women co-owned family property
+        - Louisiana kept the principle when transfered to America
+
+### The Barbary Warships
+
+- Jefferson tried to stay out of foreign problems
+    - But had no choice sometimes
+- The Barbary states on the northern coast of Africa had attacked shipping in the Mediterranean and Atlantic
+    - Demanded tributes to protect the ships
+    - 1801: Jefferson refused to pay increased tribute price
+        - Pasha of Tripoli declared war on the US
+        - Lasted until 1804 when an American squadron won at Tripoli harbor
+- The first encounter with the Islamic world
+    - Despite the US being offically not Christian, many Americans viewed Muslims as different (| bad)
+
+### The Embargo
+
+- 1803: Britain-France warfare resumed
+    - 1806: Both countries declared the other under blockade to deny trade with America to their rival
+    - 1807: Britain resumed practice of impressment
+- Jefferson | US required freedom of trade that no government could impair
+- 1807: **Embargo Act**
+    - Jefferson wanted to use trade as a weapon
+    - Banned on American vessels sailing to foreign ports
+    - 1808: American exports down by 80%
+        - But didn't affect France or Britain much
+    - 1809: Non-intercourse Act
+        - Allowed trade with all countries except Britain and France
