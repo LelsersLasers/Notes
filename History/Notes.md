@@ -3261,3 +3261,28 @@ because of this.
         - But didn't affect France or Britain much
     - 1809: Non-intercourse Act
         - Allowed trade with all countries except Britain and France
+
+## Reading Questions - 10/6 - Jefferson, On Native Americans
+
+1. What was Jefferson’s general opinion of and attitude toward Native Americans?
+
+Jefferson truly admired the Native Americans and saw them as "a noble race who were the innocent victims of history."
+Yet despite this view, it was during his time as president that "the basic decisions were made that required the deportation of massive segments of the Indian population to land west of the Mississippi."
+
+2. What would you have recommended to Jefferson and Congress following the Louisiana Purchase to address the problem of western expansion and Native American populations?
+
+I personally think that he should have first tried to make peace with the tribes
+rather than trying to displace/deport them from their land.
+I know that the Native American views on land/property/etc would make this difficult,
+especially in a legal/offical way, but I think that it could have been done.
+However, it is also easy to look back on a past event that we have very little emotional connection and with more modern ideas and say that it should have been done differently.
+Jefferson was trying to secure the future of the American people (and I don't think he considered the Native Americans to be American people), so from his eyes, he was doing the right thing.
+
+3. It has been argued that pushing Native Americans further west merely pushed this problem onto another generation.
+What issues or difficult decisions are we as a country facing now but not taking action on and, as a result, pushing onto a future generation to resolve?
+Choose an issue and briefly discuss.
+
+I think techincally global warming was predicted as early as 1896 (or maybe it was 1938),
+yet even today steps against global warming are slow and not enough.
+While progess as been made, there is still a lot to be done to prevent the world from ending up like *Ready Player One*.
+This can be seen by Hurricane Ian, which caused great damage to Florida and killed many people.
