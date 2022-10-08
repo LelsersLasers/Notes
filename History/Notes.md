@@ -3286,3 +3286,102 @@ I think techincally global warming was predicted as early as 1896 (or maybe it w
 yet even today steps against global warming are slow and not enough.
 While progess as been made, there is still a lot to be done to prevent the world from ending up like *Ready Player One*.
 This can be seen by Hurricane Ian, which caused great damage to Florida and killed many people.
+
+### Madison and Pressure for War
+
+- Jeffersion was easily reelected in 1804
+    - James Madison, Jefferson's picked sucessor won an easy victory in 1808
+- 1810: Madison replaced the Embargo Act with **Macon's Bill No. 2**
+    - Allowed trade with all countries
+    - If Britain or France violate American rights, the embargo would be reinstated
+        - 1812: Embargo reinstated against Britain (they continued to attack American ships)
+- Some people (mostly younger) were calling for war against Britain
+    - The War Hawks
+    - Led by Henry Clay of Kentucky (Speaker of the HoR in 1810) and John C. Calhoun of South Carolina
+    - Defend national honor
+    - Expand US, annex Floridia (currently held by Spain, Britain's ally) and Canada
+    - Uphold the principle of free trade
+
+## The "Second War of Independence"
+
+- US-Britain conflict at the same time as increasing tensions between the Indians and the US
+    - Jefferson favored deporting the Indians West of the Mississippi River
+        - Jefferson encourged lending money to Indians to try to build their debt
+            - So they could take their land
+            - Continued Washington's plan of favoring farming among the Indians
+
+### The Indian Response
+
+- 1800: 400,000 US settlers West of the Appalachian Mountains
+    - Outnumbered the Indians
+        - Some Indians (Creek and Cherokee) tried to assimilate
+            - Led by Major Ridge and John Ross
+        - "Nativists" strongly opposed assimilation
+- 1800-1812: "Age of prophecy"
+    - Many tribes tried to revitalize Native American life
+- Militant message spread by **Tecumsech** and **Tenskwatawa** (brothers)
+    - Tecumsech - Shawnee chief
+        - 1795: Refused to sign Treaty of Greenville
+        - Spread message that there were 2 options for the natives: resistance or extermination
+    - Tenskwatawa - Shawnee prophet
+        - | Complete seperation from whites
+            - They were the source of all evil
+        - Gathered followers in Prophetstown (Indiana)
+- 1811: William Henry Harrison (American) destroyed Prophetstown
+    - Battle of Tippercanoe
+
+### The War of 1812
+
+- Reports of the British helping Tecumsech
+    - Attacks against American ships continued
+- 1812: Despite Madison being against war, asked Congress for a declaration of war
+    - Madison | We must prove were are seperate from Britain and not something to be messed with
+    - Country was split
+        - West and South | Wanted war
+        - North | Did not want war
+            - Where most of the mercantile/financial resources of the country were
+        - Passed but by the smallest margin
+- Military draw
+    - Even though Britain was occupied by war in Europe:
+        - They still repelled 2 Canada invasions
+        - And imposed a blockage that massively crippled the US
+    - 1814: Napoleon defeated and Britain invaded the US
+        - Took Washington, D.C. and burned the capitol/White Houses
+    - US had some success
+        - Ex: American forces stop British attack on Fort McHenry
+            - When the **Star Spangled Banner** was written
+                - Became national anthem in 1930s
+        - 1813: US wins over natives led by Tucumsech
+            - Tecumsech sided with Britain
+        - 1814: Americans + pro-assimilation natives led by Andrew Jackson
+            - Led to the natives (both sides) giving up 23 million acres of land
+        - 1815: **Battle of New Orleans**
+            - Jackson defeats British at New Orleans
+            - Enlisted the support of free blacks who recieved equal pay
+            - Treaty ened the war in 1814, but the news-bearing ships did not reach the US until after
+
+### The War's Aftermath
+
+- Andrew Jackson was a hero
+- Battle of New Orleans became an example of a virtuous republic defending against European powers
+- Nothing changed between the US and Britain
+    - No territory changes
+    - No statements on impressment or shipping rights
+- Complete US control over lands East of the Mississippi River
+    - Many settlers moved West
+
+### The War of 1812 and the Canadian Borderland
+
+- Cemented the US-Canada border
+- Attempted US invasions caused Canadians to become anti-American
+    - Even if goods/ideas flowed over the border, ideas of nationalism formed against the US
+
+### The End of the Federalist Party
+
+- At first, the war led to increased Federalism
+- 1812: Peak of anti-war sentiment
+    - Madison barely reelected
+- 1814: **Hartford Convention**
+    - Federalists met in Hartford, Connecticut
+    - Affirmed right for a state to interpose its authority if the federal government violated the Constitution
+- Federalists did raise lasting issue of Southern domination over politics
