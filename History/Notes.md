@@ -3287,6 +3287,7 @@ yet even today steps against global warming are slow and not enough.
 While progess as been made, there is still a lot to be done to prevent the world from ending up like *Ready Player One*.
 This can be seen by Hurricane Ian, which caused great damage to Florida and killed many people.
 
+<<<<<<< Updated upstream
 ### Madison and Pressure for War
 
 - Jeffersion was easily reelected in 1804
@@ -3385,3 +3386,49 @@ This can be seen by Hurricane Ian, which caused great damage to Florida and kill
     - Federalists met in Hartford, Connecticut
     - Affirmed right for a state to interpose its authority if the federal government violated the Constitution
 - Federalists did raise lasting issue of Southern domination over politics
+=======
+## Class Notes - 10/10
+
+### Crash Course
+
+- What kind of country should America be?
+    - Hamilton - Federalists:
+        - Global trade
+            - Especially with Britain
+        - Strong government
+        - Governed by the elite
+        - Manufacturing based
+    - Jeffersion - Republicans:
+        - Small scale government
+        - Sustain farming
+            - Agrigrain society
+        - Liked France post French Revolution
+- Federalists
+    - Too much free speech/democracy = bad
+- Republicans
+    - Tyranical leader was more likely to limit freedoms
+- Washington
+    - Won without contest
+    - Washington backed Hamilton
+    - Washington set many precedents
+- Hamilton
+    - Governement assumed state debt
+    - Create national debt and make rich people have a stake in the government
+    - Bank of the United State
+        - Manage currency
+        - Private bank
+    - Whiskey tax
+        - Hurt small farmers
+    - Tarriff to promote US manufacturing
+- Washington wanted to avoid political parties
+    - Woud divide and weaken the country
+- Adams election exposed issue of VP and president would end up on opposite sides
+    - Did not expect political parties
+- Adams overracted to France
+    - Quasi war with US and France
+    - XYZ affair
+        - US public turns against France
+    - Virginia/Kentucky passed bills saying they could nullify Alien and Sedition acts
+        - Alien: increased time to become a naturalized citizen
+        - Sedition: government could imprision someone for critizing the government
+>>>>>>> Stashed changes
