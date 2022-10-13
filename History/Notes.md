@@ -3430,3 +3430,41 @@ This can be seen by Hurricane Ian, which caused great damage to Florida and kill
     - Virginia/Kentucky passed bills saying they could nullify Alien and Sedition acts
         - Alien: increased time to become a naturalized citizen
         - Sedition: government could imprision someone for critizing the government
+
+## Class Notes - 10/13
+
+### Crash Course - War of 1812
+
+- Started 1812
+- Causes:
+    - British impressment of American soldiers
+    - US wanted Canda for land/farming
+    - US wanted to expand into Indian lands
+        - Settlers pushing West and began to outnumber Indians
+        - Some Indians assimilated
+        - Some Indians wanted to fight back Tecumsech (the Prophet)
+            - Abandon the ways of the settlers and fight back
+            - US fights back
+        - US thought the British were supporting the Indians
+- North states: against war
+    - High dependence on trade
+- South states: wanted war for the land
+- War Hawks
+    - Those pushing for war
+- Britain was more prepared for war
+    - More soldiers, more money, more ships
+    - Couldn't fight the US until the 1814 when Napoleon was defeated
+- US focused on Canda
+    - Didn't make any progress
+    - All invasions didn't work
+- Battle of New Orleans
+    - Andrew Jackson defends New Orleans
+    - Makes him populare
+- Result:
+    - No land changes
+    - Returned everything to how it was before
+    - Indians deffenitly lost
+    - Proved US sovereignty
+        - US saw it as a player on the world stage
+    - End of Federalist party
+    - Proved seperation of Canda and US
