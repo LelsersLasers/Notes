@@ -22,8 +22,3 @@ l'exercice 6 p. 49 dans le Apprenons - Flextext
 	4. 
 		maîtrise
 		baccalauréat
-
-La voie générale conduit à la poursuite d'études supérieures.
-L'enseignement de la voie générale est composé de cours communs et de spécialités choisies par l'élève.
-La voie technologique prépare à des études supérieures technologiques et conduit à une licence professionnelle ou un diplôme d'ingénieur.
-Le baccalauréat technologique comporte huit séries: STL, STI2D, STD2A, STMG, ST2S, S2TMD, STHR, et STAV.
