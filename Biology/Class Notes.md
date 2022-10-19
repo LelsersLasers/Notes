@@ -665,3 +665,107 @@ Membrane transport
     - Prevents the pathway from continuing
         - Prevents the cell from wasting energy/resources/space
     - ![Enzyme Feedback inhibition](./Photos/EnzymeFeedbackInhibition.jpg)
+
+# 10/19
+
+## Photosynthesis
+
+- Starts with the sun
+- Autotrophs
+    - Make their own food/energy
+    - Photoautotrophs
+        - Use light energy (the sun)
+        - Often aquatic and terrestrial plants, protists, some bacteria
+    - Chemoautotrophs
+        - Use inorganic molecules
+        - Often bacteria and archaea
+    - Heterotrophs
+        - Cannot make their own food
+        - Must eat other organisms
+        - Ex: humans
+- ![Photosynthesis](./Photos/Photosynthesis.png)
+- Plants do both photosynthesis and cellular respiration
+    - Photosynthesis:
+        - In chloroplasts
+        - Light energy to chemical energy
+    - Cellular respiration:
+        - In mitochondria
+        - Chemical energy to ATP
+    - Radiant light &rarr; chemical energy &rarr; ATP
+    - Humans only do cellular respiration
+- Overall reaction:
+    - 12(H2O) + 6(CO2) + light energy &rarr; C6H12O6 [glucose] + 6(O2) + 6(H2O)
+    - Similar to the opposite of cellular respiration
+
+## Visable light
+
+- Shorter wavelength = higher energy (purple, 380 nm)
+- Longer wavelength = lower energy (red 750 nm)
+
+## Chloroplast
+
+- Double membrane
+- Was once a prokaryotic cell
+    - Endosymbiotic theory
+- ![Chloroplast](./Photos/Chloroplast.png)
+
+## Where does photosynthesis occur?
+
+- ![Leaf Anatomy](./Photos/LeafAnatomy.png)
+- Stoma (stomata)
+    - Small openings in the leaf
+    - Allows CO2 to enter and O2 to exit
+    - Plant can also lose water through the stomata
+
+## Oxidation and reduction
+
+- Oxidation
+    - Loss (transfer) of electrons
+- Reduction
+    - Gain (transfer) of electrons
+- ![Oxidation and reduction](./Photos/OxidationReduction.png)
+
+### Cycle
+
+- ![Cycle](./Photos/Cycle.png)
+- NADPH
+    - Another energy carrier to ATP
+    - Exists in the oxidized form in the normal pH of cells
+        - NADPH &rarr; NADP+ (ox) by the calvin cycle
+        - Hungry for electrons
+            - NADP+ + 2e- + 2H &rarr; NADPH
+- If the cell runs out of ATP or NADPH, it will stop the calvin cycle
+    - The cell will store up ATP/NADPH from the sun and but the calvin cycle will run as long as there is ATP/NADPH
+
+## Light dependant reactions
+
+- Take place in the presence of sunlight
+- Occur *within* the thylakoid and *across* the thylakoid membrane
+- H2O is split
+    - Releases O2 as waste
+        - But it is used in cellular respiration
+- ATP and NADPH are produced
+- ![Photosystems](./Photos/Photosystems.webp)
+- Photosystems:
+    - PS I
+    - PS II
+        - Comes before PS I
+- ![Photosystem](./Photos/Photosystem.png)
+- ![PhotosystemCycle](./Photos/PhotosystemCycle.png)
+    1) P680 - wavelength 680
+    2) Wavelength 680 is short enough (powerful enough) to split H2O
+        - Releases electrons which are used to replace the 2e- that was "bounced" up
+    4) Allows for the creation of ATP
+        - ATP synthase embedded in the membrane
+    5) P700 - wavelength 700
+    - 
+
+- Different types of chlorophyll:
+    - Chlorophyll a
+        - Found in all higher plants
+        - Algae and cyanobacteria
+    - Chlorophyll b
+        - Found in higher plants and green algae
+        - CHO instead of CH3
+    - More types
+        - If have a or b &rarr; kingdom plant
