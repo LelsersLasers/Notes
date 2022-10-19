@@ -3468,3 +3468,326 @@ This can be seen by Hurricane Ian, which caused great damage to Florida and kill
         - US saw it as a player on the world stage
     - End of Federalist party
     - Proved seperation of Canda and US
+
+# Chapter 10 - Democracy in America (1815-1840)
+
+- 1829: Andrew Jackson inagurated
+    - Attracted a large mob of people
+        - Change from the previous small event
+    - He was a symbol of a "self made man"
+        - Started with nothing and became a rich war hero
+- Market Revolution, westward movement, expansion of slavery, and the growth of democracy under Jackson
+    - Democracy became a centeral part of American nationality
+
+## The Triumph of Democracy
+
+### Property and Democracy
+
+- Challenge to property qualifications for voting began during the American Revolution
+- No state after the orginal 13 had property qualifications for voting
+    - 1860: only 1 state had property requirements for voting
+- Reflection of individualism
+    - Independence now from ownship of one's self, not ownership of property
+
+### The Dorr War
+
+- Rhode Island required voters to own real estate at $134 or rent for $7 a year
+- Rhode Island was a large manufacturing state
+    - Many propertyless wage workers
+        - All unable to vote
+- 1841: A People's Convention was organized
+    - Drafted a new state constitution
+    - All white men can vote
+        - And all blacks could not
+- Ratified the new constitution in an extralegal referendum and inaugurated Thomas Dorr as governor
+    - President John Tyler dispatched federal troops
+- Movement collapsed and Dorr spend 2 years in prison
+    - Showed the passion around voting rights
+
+### Tocqueville on Democracy
+
+- 1840: 90% of white men could vote
+    - Political institutions defined people's identities
+        - Not religion, ethnicity, or geography
+- Alexis de Tocqueville's ***Democracy in America***
+    - An account of a society in the midist of political transformation
+    - Democracy was more than just the right to vote or a set of political institutions
+        - It was a culture of equality, individual initative, and an active public sphere
+- Sovereignty belonged to the mass of ordinary citizens
+    - Shift in ideology
+        - Founders of the US tried to protect the government from the exessive influence of the people
+            - Electoral College, Supreme Court, etc.
+
+### The Information Revolution
+
+- Steam power could be used with the printing press
+    - Led to "penny press", 1 cent newspapers
+- Newspapers began to try to appeal to the masses
+    - Emphasized sensationalism
+        - Crime, scandal, offical misconduct, etc.
+- 1840: The amount of newspapers in circulation was greater in the US than in Europe
+    - Even though US had 17 million people and Europe had 230 million
+- Cheaper printing also allowed for "alternative" newspapers
+    - *Freedom's Journal* - first African American newspaper
+    - *The Liberator* - Abolitionist newspaper
+    - *Cherokee Phoenix* - first Native American newspaper
+    - *Philadelphia Mechanic's Advocate*
+
+### The Limits of Democracy
+
+- 1851: principle of universal suffrage meant white males of age constituted the political nation
+    - Here, universal excludes women and blacks
+- Shift from economic exlusion to "natural incapacity"
+    - Gender and racial differences were seen on a hierarchy
+- 1920: Constitution requires states to allow women to vote
+- 1965: Voting Rights Act
+    - Ended restrictions against on black voting in many southern states
+
+### A Racial Democracy
+
+- Blacks were increasingly considered to be part of a different group
+- Racist imagery became popular
+    - Common in theatre plays where whites would portay black characters as stupid/dishonest
+    - Most litterature ignored blacks or presented them as inferior stereotypes
+        - Exception: Herman Melville's *Moby Dick* and *Benito Cereno*
+- Based on "science" that they were superior
+- Only Virginia, South Carolina, and Georgia offically barred blacks from voting
+    - But custom often made it hard for free blacks to exercise the **franchise**
+- 1800: no norther state barred blacks from voting
+    - But every new state after 1800 (other than Maine) limiting voting to white males
+    - 1799: Kentucky no longer allowed free blacks to vote
+        - 1801: Maryland follows suit
+- Race replaced class as the main division between politically free and not
+
+## Nationalism and Its Discontents
+
+### The American System
+
+- The fact that the US "tied" the War of 1812 against the British, the world's best military, led to a sense of national pride
+- The War of 1812 also showed how far the US was from being a full nation
+    - 1811: The charter for the Bank of the United States ended
+        - The US had no uniform currency and it was hard to raise funds for the war effort
+    - Bad transportation within the country
+        - Hard to move men and goods
+            - 75 days to travel between New Orleans and New England
+    - US manfunctures who thrived when British trade was suspended struggled when the war ended
+        - Younger Republicans called for these manufatures to be protected by tariffs
+            - Same people who called for war
+            - Henry Clay, John C. Calhoun
+- 1815: President Madison puts forward his **American System**
+    - Blueprint for government promoted economic development
+    1. New national bank
+    2. A tarriff on imported goods
+    3. Federal financing for roads and canals
+        - Promote unity
+    - 1817: The bill for roads/canals was ready to be passed, but Madison vetoed his own plan
+        - Worried that not following strict constitutionalism would harm southern intrests and be dangerous for individual liberty
+    - 1816: The **tarriff of 1816**
+        - Part of the plan that was not stopped
+        - Protection for US made goods
+            - Especially cheap cotton textiles
+        - Tax-free on goods that could not be made in the US
+    - 1816: New Bank of the United States
+        - 20 year charter
+
+### Banks and Money
+
+- The Second Bank of the United States (SBotUS) was not loved by the people
+    - A private, profit-making corporation
+    - Acted as the government's financial agent, issuing paper money, collecting taxes, paying government debt
+- Also in charge of making sure the money issued by local banks had actual value
+    - Paper money was just a note that could be turned into a specific amount of "specie" (gold or silver)
+        - Because banks printed more money than the specie they had, the value of money fluctuated
+            - SBotUS was supposed to fix this
+
+### The Panic of 1819
+
+- SBotUS instead particpated in the speculative "fever" that followed the War of 1812
+    - The US resumed trade with EU which created a demand for US goods
+    - Rapid westward expansion created a demand for loans
+        - Especially in the South to fuel the Cotton Kingdom
+        - SBotUS and local banks printed a lot of money
+- 1819: EU demand for US returned to normal levels
+    - SBotUS (and then state banks) asked for the money they loaned back
+        - Farmers and buisnessmen could not pay it back and declared bankruptcy
+            - Unemployment rose (especially in the East)
+- The **Panic of 1819** lasted only a year
+    - Disrupted economic harmony
+    - Many states (especially in the West) suspended the collection of debts
+        - Kentucky created a state bank that printed money forced creditors to accept in plac eof the loans
+        - Helped indebted farmers, but hurt those who had loaned money
+    - Increased distrust of banks and massively hurt the SBotUS's reputation
+        - The SBotUS was blamed for causing the panic
+- Several states resisted the SBotUS by taxing its local branches
+    - 1819: **Mculloch v. Marland**
+        - Also judged by John Marshall
+        - Marshall | The SBotUS was a legitimate use of the necessary and proper clause
+            - Against the strict constitutionalism ideas
+
+### The Missouri Controversy
+
+- 1816: James Monroe defeats Federalist Rufus King
+    - His 2 terms were called the **Era of Good Feelings** because there was only really one political party
+        - But instead of 2-party competition, there was sectional conflicts
+- 1819: Missouri wanted to draft a constitution so it could be added to the union as a state
+    - Missouri was created in the land from the Louisiana Purchase
+    - Missouri already had 10,000 slaves
+        - James Tallmadge (Republican from New York) | No further slaves into Missouri and all slave children would be free when they reached 25
+            - Split among sectional lines
+                - North for, South against
+            - Passed in the HoR, but not in the Senate
+        - 1820: **Missouri Compromise**
+            - Jesse Thomas | Missouri would be admitted as a slave state, but Maine would be admitted as a free state
+            - It would maintain the sectional balance of free and slave states=
+            - Also slavery would be banned in all Lousiana Purchase territory north of the 36°30' parallel
+            - Sort of "stalled" the issue of slavery
+
+## Nation, Section, and Party
+
+### The United States and the Latin Wars of Independence
+
+- 1810-1822: Spain's Latin America colonies rebelled
+    - Resulted in: Mexico, Venezuela, Peru, Ecuador
+    - 1825: Spain's oversea's empire = Cuba, Puerto Rico
+- Rebellions found sympathy in US
+    - 1822: US was the first government to recognize the new Latin American republics
+    - The Spanish-American revolutions were similar to the US rebellion
+        - The imperial country pushed to hard to finance and the local elite began demanding equal rights to those in the imperial country
+- In some ways the Latin American constitutions were more democratic than the US's
+    - Sought to make a "people" out of the diverse population of the Spanish empire
+        - More equality: Indians and blacks were given the right to vote
+            - Blacks found on both sides of
+        - But the wars were longer and more destructive
+            - Put the new nations in a deep hole to staty
+
+### The Monroe Doctrine
+
+- John Quincy Adams was Monroe's secretary of state
+    - Was trying to consolidate the power of the national government
+        - At home and abroad
+- Adams feared the Spain would try to retake its lost colonies
+    - 1823: **Monroe Doctrine**
+        1. US would stop any further EU colonization in the Americas
+        2. US would not interfere in European affairs
+        3. A warning to EU powers to not interfere with the new Latin American republics
+        - Marked the US as the dominate power in the Americas
+        - Seperated the Old and New worlds
+        - Remained the main ideal for a while
+
+### The Election of 1824
+
+- Sectionalism ruled politics
+    - Andrew Jackson
+        - Popular not because of his views (which few people knew) but because of his military feats
+    - John Quincy Adams
+        - Secretary of the Treasury
+        - Popular in the North
+            - Northereners were tired of the South's dominance
+    - Henry Clay
+        - Kentucky
+            - Popular in the west
+        - Speaker of the House
+    - William Crawford
+        - Represented the South's Old Republicans
+            - States' rights and limited government
+- Because the vote was split between 4 people, none received the majority of the electoral votes
+    - Jackson had the most
+    - Clay had the least and was eliminated
+    - The vote when to the HoR where Clay advocated for Adams
+        - Because Jackson also had western support, it would lower Clay's later chances of becoming president
+        - Gave support to Adams because he thought he was the most qualified candidate
+        - Adams won and Clay because secretary of state under Adams
+            - Called a "corrupt bargin"
+                - Support in exchange for a posistion
+                - Left a stain on Clay's reputation
+- Jackson and Crawford create the Democratic Party
+- Clay and Admans create the Whig Party
+
+### The Nationalism of John Quincy Adams
+
+- John Quincy Adams: son of John Adams
+    - At 14 he worked as a private secretary and French interpreter for an American envoy to Europe
+    - Ambassador to Prussia, the Netherlands, Britain, and Russia
+    - Senator from Massachusetts
+- JQA supported the American System
+    - Wanted to enchance America's world/Western Hemisphere position
+        - Wrote the Monroe Doctrine
+        - Was sure that the US would absorb Canda, Cuba, and Mexico
+
+### "Liberty is Power"
+
+- JQA saw federal power as greater than previously presidents
+- 1825: JQA | Program for activist national state
+    - Legislation to promote agriculture, commerce, manufacturing
+    - Creation of a national university, astronomical observatory, and a naval academy
+    - Spent a lot of money on internal improvments
+        - 1828: Steep tarffis
+    - Accomplished little else
+
+### Martin Van Buren and the Democratic Party
+
+- Jackson began preparing for the next election immediately
+- JQA's view of strong government allowed Jackson to use individual liberty, states' rights, and limited government as main selling points
+- Martin Van Buren, New York Senator, opposed all of JQA's plans
+    - MVB: a "talented party manager"
+    - | Political parties are a check on those in power and offered a choice to voters
+
+## Reading Questions - 10/18 - The Era of Good Feelings
+
+
+### Jefferson on “The Missouri Compromise” (1820)
+
+1. What historical event or events lie behind this passage?
+That is, what prompted Jefferson to write it?
+Note: Please don’t just name the event, but describe it with reference to specific information (and page numbers) from Give Me Liberty!.
+
+The main event is Missouri's attempt to join the union as a slave state.
+The Missouri Compromise was passed in 1820, which allowed Missouri to join as a slave state,
+but Maine to join as a free state.
+This was done to maintain the balance of free and slave states.
+The compromise also banned slavery in all Lousiana Purchase territory north of the 36°30' parallel (pg. 287-288).
+But this sort of stalled the issue of slavery, delaying the resolution of the slavery issue.
+
+2. What seems to be the underlying concern in this passage for Jefferson?
+What does he say about this concern?
+Cite specific words or lines in your response.
+
+Jefferson's main argument is that this compromise is not actually solving the issue.
+He says "this is a reprieve only, not a final sentence" and "every new irritation will mark it deeper and deeper."
+This problem will only get worse as its resolution gets delayed.
+
+3. If you were asked to make a t-shirt for sale in the Monticello gift shop, what quote
+or partial quote would you include that captures the essence of this passage?
+
+"we have the wolf by the ear, and we can neither hold him, nor safely let him go"
+
+It would make a good piece of art, and it shows how this is complicated problem that won't solve itself.
+
+### Excerpt from “The Monroe Doctrine” (1823)
+
+1. Similar to above, what historical events or circumstances lie behind this passage?
+(As before, describe the historical circumstances with reference to specific information and page numbers from Give Me Liberty!.)
+
+The Monroe Doctrine was written in 1823, and was a response to the Spanish-American revolutions.
+The Latin American revolutions were similar to the US rebellion and found much sympathy in the US.
+It was written by John Quincy Adams who was worried that Spain (a European power) was going to try to retake its lost colonies (pg. 288-289).
+
+2. What is Monroe’s main point or message in his so-called “Doctrine”?
+In other words, what does he say is the US’s posture or attitude toward European powers?
+Cite specific words or lines in your response.
+
+One of the main points is that the US has not and will not interfere in European wars.
+The Doctrine reads "in the wars of the European powers in matters relating to themselves we have never taken any part, nor does it comport with our policy to do so."
+The Doctrine also says "we should consider any attempt on their part to extend their system to any portion of this hemisphere as dangerous to our peace and safety".
+This shows how the US will try to prevent European powers from interfering with the newly created Latin American Republics.
+
+3. You’ve been asked by the James Monroe Museum and Memorial Library gift shop to make a t-shirt that embodies the Monroe Doctrine.
+What quote or partial quote would you include that captures the essence of this passage?
+They want you to go all the way with this one and provide a graphic for your quote:
+What image would you include on your t-shirt to accompany the quote or partial quote you identified?
+(You don’t need to draw anything, just describe the graphic you would include.
+Make it good, the James Monroe Museum could use the advertising and revenue!)
+
+"declare that we should consider any attempt on their part to extend their system to any portion of this hemisphere as dangerous to our peace and safety"
+
+The artwork could be a giant figure (Monroe) standing over the Americans with a shield, protecting the Americans from the European powers. 
