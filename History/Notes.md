@@ -3731,3 +3731,63 @@ This can be seen by Hurricane Ian, which caused great damage to Florida and kill
 - Martin Van Buren, New York Senator, opposed all of JQA's plans
     - MVB: a "talented party manager"
     - | Political parties are a check on those in power and offered a choice to voters
+
+## Reading Questions - 10/18 - The Era of Good Feelings
+
+
+### Jefferson on “The Missouri Compromise” (1820)
+
+1. What historical event or events lie behind this passage?
+That is, what prompted Jefferson to write it?
+Note: Please don’t just name the event, but describe it with reference to specific information (and page numbers) from Give Me Liberty!.
+
+The main event is Missouri's attempt to join the union as a slave state.
+The Missouri Compromise was passed in 1820, which allowed Missouri to join as a slave state,
+but Maine to join as a free state.
+This was done to maintain the balance of free and slave states.
+The compromise also banned slavery in all Lousiana Purchase territory north of the 36°30' parallel (pg. 287-288).
+But this sort of stalled the issue of slavery, delaying the resolution of the slavery issue.
+
+2. What seems to be the underlying concern in this passage for Jefferson?
+What does he say about this concern?
+Cite specific words or lines in your response.
+
+Jefferson's main argument is that this compromise is not actually solving the issue.
+He says "this is a reprieve only, not a final sentence" and "every new irritation will mark it deeper and deeper."
+This problem will only get worse as its resolution gets delayed.
+
+3. If you were asked to make a t-shirt for sale in the Monticello gift shop, what quote
+or partial quote would you include that captures the essence of this passage?
+
+"we have the wolf by the ear, and we can neither hold him, nor safely let him go"
+
+It would make a good piece of art, and it shows how this is complicated problem that won't solve itself.
+
+### Excerpt from “The Monroe Doctrine” (1823)
+
+1. Similar to above, what historical events or circumstances lie behind this passage?
+(As before, describe the historical circumstances with reference to specific information and page numbers from Give Me Liberty!.)
+
+The Monroe Doctrine was written in 1823, and was a response to the Spanish-American revolutions.
+The Latin American revolutions were similar to the US rebellion and found much sympathy in the US.
+It was written by John Quincy Adams who was worried that Spain (a European power) was going to try to retake its lost colonies (pg. 288-289).
+
+2. What is Monroe’s main point or message in his so-called “Doctrine”?
+In other words, what does he say is the US’s posture or attitude toward European powers?
+Cite specific words or lines in your response.
+
+One of the main points is that the US has not and will not interfere in European wars.
+The Doctrine reads "in the wars of the European powers in matters relating to themselves we have never taken any part, nor does it comport with our policy to do so."
+The Doctrine also says "we should consider any attempt on their part to extend their system to any portion of this hemisphere as dangerous to our peace and safety".
+This shows how the US will try to prevent European powers from interfering with the newly created Latin American Republics.
+
+3. You’ve been asked by the James Monroe Museum and Memorial Library gift shop to make a t-shirt that embodies the Monroe Doctrine.
+What quote or partial quote would you include that captures the essence of this passage?
+They want you to go all the way with this one and provide a graphic for your quote:
+What image would you include on your t-shirt to accompany the quote or partial quote you identified?
+(You don’t need to draw anything, just describe the graphic you would include.
+Make it good, the James Monroe Museum could use the advertising and revenue!)
+
+"declare that we should consider any attempt on their part to extend their system to any portion of this hemisphere as dangerous to our peace and safety"
+
+The artwork could be a giant figure (Monroe) standing over the Americans with a shield, protecting the Americans from the European powers. 
