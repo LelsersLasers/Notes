@@ -3734,7 +3734,6 @@ This can be seen by Hurricane Ian, which caused great damage to Florida and kill
 
 ## Reading Questions - 10/18 - The Era of Good Feelings
 
-
 ### Jefferson on “The Missouri Compromise” (1820)
 
 1. What historical event or events lie behind this passage?
@@ -3791,3 +3790,215 @@ Make it good, the James Monroe Museum could use the advertising and revenue!)
 "declare that we should consider any attempt on their part to extend their system to any portion of this hemisphere as dangerous to our peace and safety"
 
 The artwork could be a giant figure (Monroe) standing over the Americans with a shield, protecting the Americans from the European powers. 
+
+## The Election of 1828
+
+- 1828: Van Buren had fully set up the Democratic Party
+    - Local and state party units overseen by a national committe
+    - Network of newspapers devoted to the party/Andrew Jackson
+- Other than limited government, the party did not have many campaign promises
+    - Relied on Jackson's popularity and the organization of the party
+- 1828: Both candidates and their supporters were aggressive
+    - Jacksonians called out JQA for his intellect
+        - | While Jackson could actually fight
+    - JQA supporters called Jackson a murderer for his duels and execution of army deserters
+        - Questioned his marriage to Rachel
+            - They were married before she had diovred her first husband
+    - 57% cast votes
+        - Double the 1824 elections
+- Jackson won hard
+    - Took all of South and West + Pennsylvania
+
+## The Age of Jackson
+
+- Jackson had many contradictions
+    - No formal education - capable of eloquence in public statements
+    - Champion of the common man - vision of democracy that excluded Indians and African-Americans
+    - Strong nationalist - believed the states should be the focus on government activity
+
+### The Party System
+
+- Politics now were a spectacle
+    - Mass entertainment, part of people's daily lives
+- Millions took part in parades and rallies organized by the parties
+    - Many attended political orations and debates
+- Party machines headed by politicians reached everywhere
+    - Provided jobs
+    - Ensured voters turned up to polls
+- Jackson | Government posts are for the the people, not for permanent bureaucrats
+    - **Spoils system**: rotation in office
+        - Loyality to the party = main qualification for jobs like postmaster and customs offical
+- Newspapers played a greater role in politics
+    - No longer just gave news, gave the party's posistion on the issues of the day
+    - Jackson's Kitchen Cabinet was made up of mostly newspaper editors
+        - Informal group of adivsors who wrote his speeches and communicated between White House and local party officals
+- Larged national conventions where state leaders now chose national candidates
+
+### Democrats and Whigs
+
+- Jackonian politics focused on the market revolution and tension between national and sectional loyalties
+- Democrats (Jacksonians)
+    - Alarmed by the widining gap between rich and poor
+        - Warned that "nonproducers" (bankers, merchants, speculators) were using ties to government to take advantage of the "producing classes" (farmers, artisans, laborers)
+        - Jackson | Government should not affect the economy or give favors
+            - Allow ordinary Americans to compete a fair self-regulating market
+            - Attracted aspiring entrepreneurs, farmers, and city workingmen
+                - Poorer isolated areas (lower Northwest, southern backcountry) were also demcratic
+- Whigs (anti-Jackson party)
+    - Behind the American System
+        - Federal government should guide economic development
+            - Protective tarriff, national bank, internal improvements
+        - Popular in the Norteast
+            - Rapidly mordernizing
+        - Popular with established buisnessmen and bankers
+            - And with farmers near rivers, canals, and the Great Lakes
+                - Benefited from internal improvements and economic changes
+
+### Public and Private Freedom
+
+- Democrats | Liberty = private rights best secured by local governments and endangered by national government
+    - Jackson lowered expenditures, the tarriff, killed the national bank, and did not give federal aid for internal improvements
+        - States replaced the federal government as main economic actors
+            - Planned and built roads, canals, charted banks and other corporations
+   - 1835: Jackson pays of national debt
+- Democrats | Individual morality is a private matter
+    - Opposed attempts to impose a unified moral vision
+        - Against "temperance" legislation
+            - Laws against the production, sale, and consumption of alcohol
+            - Laws against Sunday entertainment
+    - Liberty = absence of government from private affairs
+- Whigs | liberty and power reinforced eachother
+    - Government should create the conditions for balanced/regulated economic devolopment
+        - Promote prosperity that benefits all classes
+- Whigs | All people should have certain character traits to function as "free"
+    - Popular with evangelical Protestants
+
+### South Carolina and Nullification
+
+- Despite Jackon's main idea of states > federal, his first term was the opposite
+- Tariff of 1828: Protective tarriff that raised taxes on imported manufactured goods of wool and iron
+    - A lot of opposition in the South (especially South Carolina) where there was as large relience on imported manufactured goods
+        - Tarriff was called the **Tarriff of Abominations**
+        - Tarrriff only benefitted the North
+            - Legislature threated to "nullify" it within their state
+- SC was controlled by large slave owning planters
+    - Part of this struggle was they thought that the federal government would eventually abolish slavery
+
+### Calhoun's Political Theory
+
+- John C. Calhoun switched from being a nationalist in 1812 to a defender of southern sectionalism in 1828
+- Was VP in 1828
+    - Worked behind the scenes
+        - Secretly drafted ***Exposition and Protest***, a document that defended the right of states to nullify federal laws
+- The national government was created by and agreement by sovereign states
+    - Each with maintained the right to prevent the enforcement of laws made by Congress that exceeded its constitutional authority
+- However, Calhoun had little influence
+    - Mostly dominated by Van Buren
+    - Calhoun was first set agaist Jackson over C's wife critizing the secretary of war (sow)'s wife, but J sympathized with sow
+- 1830: **Webster-Hayne Debate**
+    - Daniel Webster, senator from Massachusetts, responds to Robert Hayne, senator from SC and dispiple of Calhoun
+    - Webster | People, not the states created the constitution
+        - Nullfication is illegal, unconstiutional
+
+### The Nullfication Crisis
+
+- SC stood alone
+    - Some states passed laws condeming SC's action
+- Jackson | Nullification = disunion
+- 1832: Tarriff of 1832
+    - Lowered tarriff, but still too high for SC, so they delcare it null and void
+    - In response, Jackson gets the **Force Bill** passed
+        - He can use army/navy to collect customs duties
+- 1833: Henry Clay + Calhoun create a new lower tarriff
+    - SC backs down, but does nullify the Force Act
+    - Calhoun switches from Democrat to Whig
+
+### Indian Removal
+
+- 1830: **Indian Removal Act**
+    - Provided funds for moving the Five Civilised Tribes
+        - Cherokee, Chicksaw, Choctaw, Creek, Seminole
+        - 60,000 pop., living in North Carolina, Georgia, Alabama, Mississippi
+        - These 5 tribes tried to assimilate
+            - Created schools, written laws and consitution, farming, slave owning
+            - Jackson | They are still savages
+- 1832: Creek nation sent message to Congress on Alabama's oppression of them
+    - Wanted to maintain their own "nation" rather than be an American
+        - Cultural independence, possesion of ancestral lands
+    - Went to Supreme Court to protect their rights and guarantee treaties with the federal government
+
+### The Supreme Court and the Indians
+
+- 1823: *Johnson v. M'Intosh*
+    - Supreme Court | Indians did not own their land, but had a "right of occupancy**
+- 1831: *Cherokee Nation v. Georgia*
+    - Marshall | Indians are "wards" of the federal government
+        - Indians should have regard and protection, but they are not citizens
+            - So the Supreme Court can not enforce their rights and Georgia could claim jurisdiction over the tribe
+- 1832: ***Worcester v. Georgia***
+    - Supreme Court | Indian nations are a distint people with their own seperate political identity
+        - Must be dealt with by the federal government
+            - Opposite of 1831 case
+            - Partially because Marshall wanted a stronger federal government
+- Jackson refused to accept the 1832 ruling
+    - One tribe ceded, but they rest organized under John Russ and adopted a policy of passive-resistance
+    - Federal soldiers forcefully removed them during Van Buren's presidency (Andrew Jackson's sucessor)
+    - 1838-1839: **Trail of Tears**
+        - 1/4 of Indians died on removal route from Georgia to Oklahoma
+- Most southern tribes went peacefully
+    - But the Seminoles of Florida resisted
+        - 1835-1842: The Second Seminole War
+            - First war was before American aquisition of Florida
+            - 1,500 of each side died
+            - 3,000 Indians and 500 Blacks were forced to move West
+- Confirmed racial defenition of American nationhood and freedom
+    - 1840: Indians were part of the past to many eyes
+
+## The Bank War and After
+
+### Biddle's Bank
+
+- The Bank symbolized the hopes and fears of the market revolution
+    - The Bank helped finance economic development
+    - But many (including Jackson) distrusted bankers as "nonproducers"
+        - Renforced by the banks constant overissuing of paper money which hurt wage workers
+- Head of the Bank: Nicholas Briddle of Pennsylvania
+    - 1820s: Effectivly limited overissuing of paper money by local banks and created a stable currency for the nation
+    - Strong willed/aristocratic/snobbish - clashed with Jackson
+        - 1832: Claimed that his Bank could destory and state bank
+            - Caused distrust that anything/anyone could have such power
+            - Now deemed "Monster Bank"
+- 1832: Biddle asks for 20 years extension for the Bank's charter
+    - It would end in 1836 otherwise
+    - Jackson | this is blackmail
+        - If he did not sign, the Bank would use its resources/influence to oppose reelection
+- Jackson's response relfected how he enchanced the power of the president
+    - President was now the symbolic representative of all the people
+    - Used the veto power as a major weapon
+    - Appealled directly to the people for public support over the head of Congress
+        - Easliy won reelection in 1832
+
+### Pet Banks, the Economy, and the Panic of 1837
+
+- 2 groups were happy with Jackon's decivsion to kill the bank
+    1. State banks who wanted freedom from Biddle's control to print more paper currency (**soft money**)
+    2. People who opposed all banks and believed only gold and silver were reliable currency (**hard money**)
+- Jackson did not want to wait until 1836 for the Bank to die
+    - He moved all federal funds into local banks
+        - Called **pet banks** because poltical/personal relations determinted Jackson's choices
+        - 2 secretaries of the Treasury refused to move the funds because the laws creating the banks said that governemnt funds could only be removed for a good cause
+            - Jackson fired them and hired Roger Taney, who did not have the same scruples
+                - 1835: Marshall dies and Jackson promotes Taney to chief justice
+- 1833 &rarr; 1837: $10 million &rarr; $149 million bank notes in cirrculation
+    - "Real wages" (effective/actual value of wages) declined
+        - Labor unions form
+        - Speculators rush to cash in on rising land prices
+            - Using paper money, bought up public land and resold to farmers
+- 1836: Specie Circular
+    - Jackson | All land sales must be paid for in gold or silver
+    - At the same time, the Bank of England demanded that American merchants pay in gold/silver
+        - BoE as suspicous of the US economy
+        - Shortly after, economic downturn in Britain reduced demand for American cotton
+- 1837: **Panic of 1837**
+    - Specie Circular + BoE + economic downturn = economic crisis
+    - Lasted until 1843
