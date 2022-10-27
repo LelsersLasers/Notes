@@ -958,6 +958,44 @@ The concentration of substrate or inhibitors can also affect enzyme activity.
     This will change the shape of the active site so that no further fructose and ATP can not bind..
     ```
 
+### Homework Questions 10/27
+
+1. Differentiate between the light-dependent and the light-independent reactions of photosynthesis.
+```
+Light-dependent reactions:
+    - Occur in the thylakoid membrane
+    - Require light
+    - Split water into hydrogen, oxygen, and electrons
+        - Used to make ATP and NADPH
+    - The oxygen is released as a waste product
+Light-independent reactions:
+    - Occur in the stroma
+    - Do not require light
+    - Use the ATP and NADPH from the light-dependent reactions and CO2 to make glucose
+They are part of a cycle where they replenish each other's resouces.
+```
+2. Why did Lynn Margulis, who is credited with the Endosymbiont Hypothesis,remark that a mutation in bacteria that allowed them to absorb light at P680 in photosystem II altered the course of evolution on Earth?
+In other words, what key event occurs in photosystem II that does not occurs in photosystem I?
+```
+Photosystem II is the first photosystem.
+It uses the energy from sunlight to split H2O into 1/2 O2 and 2H+ and 2 electrons.
+```
+![Photosystem Cycle](./Photos/PhotosystemCycle.png)
+
+3. If the thylakoid membrane was leaky to protons, would ATP still be produced? Would NADPH?
+```
+ATP would not be produced as much.
+ATP synthase is powered by the concentration gradient which would not be intact if the thylakoid membrane was leaking protons.
+NADPH would not be produced because the electron chain is not fully functional.
+This would break/slow down the cycle between the light-dependent and light-independent reactions.
+```
+4. Why is the Calvin Cycle often called the carbon fixation cycle? How does the Calvin Cycle compare with glycolysis?
+```
+The Calvin Cycle adds a carbon to RuBP from CO2.
+Glycolysis makes Acetyl CoA from glucose which can be used to make ATP. 
+The Calvin cycle is similar, it makes glucose from CO2 which can be used to make ATP.
+```
+![Calvin Cycle](./Photos/CalvinCycle.png)
 
 # Big Ideas
 
