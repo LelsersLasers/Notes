@@ -4002,3 +4002,15 @@ The artwork could be a giant figure (Monroe) standing over the Americans with a 
 - 1837: **Panic of 1837**
     - Specie Circular + BoE + economic downturn = economic crisis
     - Lasted until 1843
+
+# Chapter 9 - The Market Revolution
+
+## Homework - 10/27
+
+![The Industrious Man](./Unit3/TheIndustriousMan.jpg)
+
+I found this image intresting because nothing is really happening.
+In other images we have seen, the message was more clear.
+For example Paul Revere's engraving of the Boston Massacre or criticisms of Andrew Jackson.
+However this image implies that the wife should be at home with the kids, but the husband is free to go out and come back.
+This image shows the cult of domesticity and how the husband could move between public and private "spheres" while the wife was stuck in the private sphere.
