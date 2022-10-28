@@ -958,6 +958,10 @@ The concentration of substrate or inhibitors can also affect enzyme activity.
     This will change the shape of the active site so that no further fructose and ATP can not bind..
     ```
 
+# Unit 3
+
+## Chapter 9: Photosynthesis
+
 ### Homework Questions 10/27
 
 1. Differentiate between the light-dependent and the light-independent reactions of photosynthesis.

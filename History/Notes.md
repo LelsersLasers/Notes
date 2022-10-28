@@ -4014,3 +4014,102 @@ In other images we have seen, the message was more clear.
 For example Paul Revere's engraving of the Boston Massacre or criticisms of Andrew Jackson.
 However this image implies that the wife should be at home with the kids, but the husband is free to go out and come back.
 This image shows the cult of domesticity and how the husband could move between public and private "spheres" while the wife was stuck in the private sphere.
+
+## Class Notes - 10/28
+
+### The Second Great Awakening
+
+- Big part of American history: intellectual/ideoogical/religious
+    - Religious ideals are the basis of many American institutions
+- 1820s: Second Great Awakening
+    - Baptist and Methodist congregations grew
+    - Romanticism
+        - Emphasis on individualism, emotion, and nature
+            - Over the ideals of the Enlightenment
+        - Emphasis on the "inner life" and the "soul"
+- Perfectionism
+    - Utopianism - We can create a perfect society
+        - Fit well to young US:
+            - New country to try stuff in
+            - Becon of "freedom", "liberty", "equality", "democracy" compared to US
+- Unitarian:
+    - A person, likely a Christian, who believes that God is one and not three
+- Baptist:
+    - A member of a Protestant Christian church that only adults can be baptized
+        - Only an a adult can confirm their faith
+- Methodist:
+    - A member of a Protestant Christian church originated in the evangelistic movement
+        - Evangelism: The preaching of the gospel
+            - Spread it to everyone
+            - Not only save yourself, but also your duty to save others from eternal damnation
+    - Follows the teachings of Charles and John Wesley and George Whitefield
+- "Camp meetings":
+    - Private meeting where people would go to get preached
+    - Wanted to be more like the early church, fun, high energy, and emotional
+        - People would "drink the hellfire gospel"
+            - Dancing, rolling, and barking
+            - Put on a show
+    - Thought the established church was too formal/hierarchical
+- Peter Cartwright
+    - Methodist preacher
+    - Would physically beat people trying to stop him from preaching
+    - Inspired new generation to turn to religion
+- Timothy Dwight
+    - Started the Second Great Awakening
+    - President of Yale
+    - Abolished the half-way convenant
+    - Wanted to bring back Calvinism without compromises
+- Revivalism
+    - A movement to bring back the "true" religion
+        - Discard the additions of the established church, king, pope, etc
+    - Popular in US
+        - Against central authority
+- Charles G. Finney
+    - Founder of Modern Revivalism
+- William Miller
+    - Baptist
+    - Thought the world would end and Jesus would come back
+    - Led to belief in the "Second Coming"
+        - Millenialists
+        - The second coming of Jesus
+
+### Mormons
+
+- Church of Latter-Day Saint
+    - Christian restoration church
+    - Restoration of the original church founded by Jesus
+    - God did not stop speaking to people after Jesus
+    - 3 holy books:
+        1. Old Testament
+        2. New Testament
+        3. Book of Mormon
+    - Offical name for Mormonism
+- Mormons
+    - Religious and cultural group related to Mormonism
+    - Founded by Joseph Smith
+    - Main branch of the Church of Latter-Day Saints
+- Polygamy
+    - Marriage to more than one person
+        - Husband and many wifes
+    - Common in African and Asian peoples
+    - 1840-1890s: Very common by Mormons
+        - 1890: Banned by offical Mormon church
+- Joseph Smith
+    - Believed that God came to him and gave him a new new testament
+        - The Book of Mormon
+        - Only he could read the writing
+    - Had much violent opposition
+        - Especially from Ohio, Illinois, and Missouri
+        - Was killed by those who opposed him
+        - More different than all the other Christian churches
+- Brigham Young
+    - Mormon leader who led the Mormons to Utah in 1846
+        - Utah was not offically part of US at that time
+    - His Mormon community became a frontier theocracy and cooperative commonwealth
+        - New Zion
+    - 1857: Federal army attacked the Mormons
+        - The boundary moved after the US-Mexican War
+- Why would someone join the Second Great Awakening
+    - Enthusiastic style of preaching
+        - High audience participation
+    - More optimistic and emotional view of the human condition
