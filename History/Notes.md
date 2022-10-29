@@ -4184,3 +4184,63 @@ This image shows the cult of domesticity and how the husband could move between 
     - Enthusiastic style of preaching
         - High audience participation
     - More optimistic and emotional view of the human condition
+
+
+# Chapter 11 - The Peculiar Institution
+
+- **The "peculiar institution"**:
+    - Slavery
+    - Unique institution to the South
+- **Second Middle Passage**:
+    - 1808: Congress banned slave trade from Africa
+    - As a result, a massive slave trade began within the US
+        - 1820-1860: 2 million slaves sold
+- **Cotton is king**:
+    - Southern plantations growning cotton using slave labor were very profitable
+    - Made it hard to abolish
+        - Hard to give up the profit to the South and the nation
+- **Paternalism**:
+    - Action that limits a person's or group's liberty or autonomy
+        - Intended to promote their own good
+    - Part of American slavery
+        - Became more ingrained after 1808 which lowered cultural gap between master and slave
+    - Allowed slave owners to think of themselves as kind/responsible masters
+        - Slaves were part of their "family"
+- **Proslavery argument**:
+    - Racism
+        - Even southerns without economic dependency on slaves were often proslavery
+        - Blacks were innately inferior and were only suited for slavery
+        - Promoted equality for whites because they were all a class above slavery
+    - Economic
+        - Cotton is king
+- **Fugitive slaves**:
+    - Slaves who ran away to resist/escape slavery
+    - Had little knowelege of geography and there were partols looking for them
+    - Went towards the north star
+    - Mostly men
+        - Women did not want to leave their children behind
+- **Underground Railroad**:
+    - Loose organization of sympathetic abolitionists
+        - Hid escaped slaves in their homes and sent them to the next house/area on their way North
+- **Harriet Tubman**:
+    - 1859: Escaped to Philadelphia
+    - Risked her life to lead slaves to the North
+- **The *Amistad***:
+    - 1839: 53 slaves took from of the *Amistad*
+    - The ship was recaptured by US forces
+        - President Van Buren tried to send them back where they were supposed to be going
+        - Abolitionists brought case to Supreme Court and JQA aruged that because they came from the now illegal African slave trade, they are free to go back to Africa
+            - Won the case
+- **Denmark Vesey's conspiracy**:
+    - 1822: Denmark Vesey brought freedom after winning the lottery
+    - Slavery and bondage are against the Bible
+    - Used DoI, debated on the Missouri Compromise, slave revolution of Haiti
+- **Nat Turner's rebellion**:
+    - Believed God had chosen him to led a slave rebellion
+    - 1831: Marched from farm to farm killing all white inhabitants
+        - Killed 60 before militia stopped them
+    - Led to crack down on slaves
+        - No black could be a preacher
+        - Stronger patrols and militia
+        - Free blacks can not own guns
+        - Slaves can not be taught to read
