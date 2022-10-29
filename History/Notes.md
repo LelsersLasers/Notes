@@ -4244,3 +4244,19 @@ This image shows the cult of domesticity and how the husband could move between 
         - Stronger patrols and militia
         - Free blacks can not own guns
         - Slaves can not be taught to read
+
+## Homework - 10/29
+
+![iPhone](./Unit3/iPhone.jpg)
+
+According to [listverse.com](https://listverse.com/2014/12/16/10-everyday-products-that-are-made-with-slave-labor/),
+some electron deivces, such as iPhones, are made by people working in bad conditions.
+The process of making this phone is different that slave labor pre-Civil War.
+While some of the motivations are the same, for example how to make the most profit,
+this is hidden from the world.
+Before the Civil War, slavey was a fairly open thing.
+There was a slave trade, and people openly supported slavery.
+Now, everyone knows this is wrong, so it is hidden.
+For example in 2014 there was a fire in a factory in Bangladesh.
+The management locked the employees into the burning building
+becuase "the potential scrutiny from all of those people rushing out of the building worried them more than those people’s safety" (listverse).
