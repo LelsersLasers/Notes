@@ -4057,14 +4057,24 @@ The artwork could be a giant figure (Monroe) standing over the Americans with a 
 - 1824: **Gibbons v. Ogden**:
     - Courts strike down New York's monopoly on steamboat traffic
 - **Transcendentalists**:
-    - 
+    - Primacy of individual judgement over existing social traditions and institutions
+    - Believe that society and its institutions, particularly organized religion and political parties, corrupt the purity of the individual
 - **Second Great Awakening**:
+    - Emphasis on personal salvation
+        - Rejection of predestination
+    - [See class notes below](#the-second-great-awakening)
 - **Individualism**:
+    - Stressed tge importance of industry, sobriety, and self-discipline
 - **Church of Jesus Christ of Latter-Day**:
+    - [See class notes below](#mormons)
 - **Cult of Domesticity**:
+    - Evoltion of republican motherhood
+    - Seperate "spheres"
+        - Wife: private sphere, should stay home with kids
+        - Husband goes out and does buisness/work stuff
 - **Family wage**:
-
-
+    - A wage that is sufficient to support a family, including spouse and children
+    - At this time, it was thought that a man should make the family wage
 
 ## Homework - 10/27
 
