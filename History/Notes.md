@@ -4005,6 +4005,67 @@ The artwork could be a giant figure (Monroe) standing over the Americans with a 
 
 # Chapter 9 - The Market Revolution
 
+- Post War of 1812 there was a:
+    - Spread of market relations
+    - Surge of westward movement
+    - Rise of vigorous political democracy
+- Coexistance of liberty and slavery
+    - And the parallel expansion
+
+## A New Economy
+
+- Market Revolution started by new transportation and communication technologies
+- Main issue: as people expanded west, they were isolated from markets
+    - Mostly self-sufficient, but without convienent water ways, there were no markets to sell to
+- Steamboat, canal, railroad, and telegraph all came at around the same time
+    - Linked everyone to everyone
+    - Opened new land to settlement, lowered transportation costs, and made it easier to sell goods
+    - 1790s (1807) - **Steamboat**: allowed upriver travel and eventually the ocean
+- 1825 - **Erie Canal**: connected the Hudson River to Lake Erie
+    - Allowed goods to be shipped from the Great Lakes to the Atlantic Ocean
+    - Made New York City the center of the nation's transportation system
+- **Cotton Kingdom**:
+    - 1800-1830 (ish)
+    - Early industrial revolution spread to US creating northen factories producing cotton goods
+    - Created a demand for cotton which was grown in the south
+        - Fit the south's climate and large slave plantations
+- 1793 - **Cotton gin**:
+    - Allowed cotton to be planted much faster
+    - Helped power the Cotton Kingdom
+- **Porkopolis**:
+    - Cincinnati, nammed from its slaughterhouses
+    - Processed a lot of meat
+- **American system of manufactures**:
+    - Relied on a mass production of interchangeable parts
+        - That could be easily assembled into standarized finished products
+- **Mill girls**:
+    - Early New England textiles mills largely relied on female and child labor
+        - More of a temporary thing - once they grew up they married or went west
+    - To convince familes to sent their daughters, owners set up schools, churchs, and boarding houses
+    - Complained about low wages and long hours
+- **Nativism**:
+    - The policy of protecting the interests of native-born or established inhabitants against those of immigrants
+        - Anti-immigrant and also anti-Catholic
+    - Alien Act of 1798
+    - 1850s+
+        - Partially response to Irish immigrants in 1840s-1850s
+- 1819: **Dartmouth College v. Woodward**:
+    - Marshall | Corporate charaters issues by state legislature = contracts
+        - Could not be altered or rescinded
+    - Upheld corporate charters as government granted special privilege
+        - System was distrusted by Americans
+- 1824: **Gibbons v. Ogden**:
+    - Courts strike down New York's monopoly on steamboat traffic
+- **Transcendentalists**:
+    - 
+- **Second Great Awakening**:
+- **Individualism**:
+- **Church of Jesus Christ of Latter-Day**:
+- **Cult of Domesticity**:
+- **Family wage**:
+
+
+
 ## Homework - 10/27
 
 ![The Industrious Man](./Unit3/TheIndustriousMan.jpg)
