@@ -769,3 +769,17 @@ Membrane transport
         - CHO instead of CH3
     - More types
         - If have a or b &rarr; kingdom plant
+
+# 10/31
+
+- `Anaerobic` respiration
+    - No O2
+    - C6H12O6 &rarr; CO2 + alcohol + energy
+    - Most common in bacteria
+        - Some don't do well in oxygen environments
+- `Aerobic` respiration
+    - C6H12O6 &rarr; CO2 + H2O + energy
+        - CO2 + H2O = byproducts
+    - More energy compared to anaerobic respiration
+- Glycolysis
+- Electron transport chain
