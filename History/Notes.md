@@ -4260,3 +4260,34 @@ Now, everyone knows this is wrong, so it is hidden.
 For example in 2014 there was a fire in a factory in Bangladesh.
 The management locked the employees into the burning building
 becuase "the potential scrutiny from all of those people rushing out of the building worried them more than those people’s safety" (listverse).
+
+## Class Notes - 11/1
+
+### Crash Course - Women's Experience Under Slavery
+
+- Men and women expirenced slavery in different ways
+- Ships &rarr; trading hub &rarr; highest bidder &rarr; cash crop plantation
+- Plantation owners based prices on health, strength, age, specific skills
+    - And gender
+- Enslaved women were important to slave owners
+    - The children could be future slaves or sold for profit
+    - The children status as slaves was determined by the mother
+- Enslaved women did domestric work
+    - Cooking, cleaning, sewing, etc
+    - Took care of owner's children
+        - Sometimes at the cost of their own children
+- They also worked in the same posistions as men
+    - Field work, carpentry, etc
+- Sojourner Truth
+    - Life as a black women in bondage
+    - Purchased and sold 4 times
+        - Hard physical labor
+        - Took care of owner's children
+    - Left with her child
+        - Freed in 1799: Emancipation in New York
+    - Her testimony/statements were filtered through others
+        - Her words were put as a black slave southern accent instead of New York dutch accent
+- Many enslaved women faced sexual violence
+    - Fancy trade: trade just for this
+    - Sometimes faced choices that could slightly improve their life or their children's life at the cost of this
+    - 20-25% of African Americans have European ancestry
