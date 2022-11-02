@@ -4291,3 +4291,221 @@ becuase "the potential scrutiny from all of those people rushing out of the buil
     - Fancy trade: trade just for this
     - Sometimes faced choices that could slightly improve their life or their children's life at the cost of this
     - 20-25% of African Americans have European ancestry
+
+# Chapter 12 - An Age of Reform
+
+- Abby Kelly
+    - Massachusetts teacher who joined Female Anti-Slavery Soceity
+    - 1838: Gave a lecture about "amalgamation", but meeting place was burned down by opposition
+        - Relations between blacks and whites
+    - Pacafist
+    - Challenged the idea that women should remain in the private "sphere"
+
+## The Reform Impluse
+
+- Abolition was just was effort to improve American society
+    - Tried to ban liquor, public entertainment, and mail on Sundays
+    - Tried to improve prison conditions, public education, wage labor conditions
+    - Base society on cooperation rather than competition
+- Sought public support
+    - Sent out spreakers, pamphlets; created petitions
+    - Either "moral suasion" or by law
+- Ideas of what and how should change came from/spread interntionlly
+
+### Utopian Communities
+
+- Some hoped to influence American society by example
+    - Would create "heaven on earth"
+- 100 communites were set up before the Civil War
+    - Named for Thomas More's *Utopia*
+- Some were based on relgious ideals, others as a response to the Market Revolution
+    - All:
+        - Harmony + cooperation > individualism + competition
+        - Focus on narrowing gap between rich and poor
+        - Property owned by community
+            - Ideas of "socialism" and "communism"
+        - Women != husband's property
+
+### The Shakers
+
+- **Shakers** were the most successful religious community
+- 1840s: Peak of 5,000 members
+- Man and women are equal
+- "Virgin purity"
+    - Abandonned traditional family life
+    - Men and women lived/ate in seperate communal rooms
+- Increased their numbers by attracting converts and from orphanages
+- No private property
+    - Still very economicly successful
+        - Made furniture, marketed seeds and herbal medicine, and bred cattle
+
+### Oneida
+
+- 1836: Noyes and follows create community in Putney, Vermont
+    - "Complex marriage": any man could propose sexual relations with a women
+        - She could accept of reject
+        - Solved the issue of "exclusive affections"
+- 1848: **Oneida** was founded in New York by Noyes
+    - He was accused of adultery
+    - Survived until 1881
+    - Very dictatorial
+        - Must follow Noyes's rules and religious teachings
+
+### Wordly Communities
+
+- Some thought utopian communities (ex: Oneida) were "voluntary slavery"
+    - Had to follow the leader's words
+- Communities that were less worldly orientated lasted longer
+- Robert Owen
+    - Against the conditions of factories in the early industrial revolution, Owen created a model factory in New Lanark, Scotland
+        - Combined work discipline with housing and public education
+        - 1815: Largest cotton manufuncturer in the world
+        - Example of **communitarianism**
+            - A way of ensuring wokers got full value of their labor
+    - 1824: Owen creates **New Harmony**
+        - Children taken from families young to be educated in schools to enforce common good > individual ambition
+        - Women had the right to education and divorce
+        - Didn't last longer
+            - Internal fighting
+
+### Religion and Reform
+
+- Americans | ownership of property = economic independence = freedom && marriage = foundation of social order
+    - Would not give up both for a utopian community
+- More likely to support movements that "liberated" themselves
+    - From external things: war, slavery
+    - Or from internal "servitude": alcohol, illiteracy, crime
+    - Often based on Second Great Awakening ideas
+- **Perfectionism**:
+    - People and society are capable of perfection
+- Reforms became more radical
+    - **Temperance movement**:
+        - Wanted to ban drinking
+        - 1826: American Temperance Society
+    - Criticism of war turned to pacifism
+    - Demand for immediate and total abolition
+- Became a sign that individuals had taken control of their own lives and become morally accountable
+
+### Critics of Reform
+
+- Some saw reform as an attack on their own freedom
+    - Taverns were also social places for meetings, political discussions, etc
+    - Drinking was a common form of celebration
+- Catholics were against the reform
+    - Increasing from of American Catholics from Irish and German immigration
+    - Catholics | Sin = unescapable part of humanity
+        - Also saw perfectionism as a version of Protestantism
+
+### Reformers and Freedom
+
+- Had to be a balance between moral order and personal freedom
+    - Reforms insisted their goal was genuine liberty
+        - Freedom from the slavery of drinking, proverty, and sin
+    - Self fulfillment came from self discipline
+        - Reformers | Free individual = self control
+            - Sort of like Winthrop's "natural liberty"
+- Easteners worried about the "wildness" of the westeners
+    - Formed American Tract Society, American Bible Society to promote virtue
+
+### The Invention of the Asylum
+
+- Before, crime was punished by whipping, fines, or banishment
+    - Didn't fit with the idea of citizens being free, moral individuals
+- 1830s-1840s: New institutions
+    - Jails for criminals, poorhouses, asylums for the insane, orphanages
+    - Based on perfectionism
+        - Social ills could be fixed
+
+### The Common School
+
+- **Commmon schools**: tax-supported state school system open to all children
+- Early 19th century: most educated in locally supported, private, charity schools or at home
+- Horace Mann | Universal education could restore equality by bringing all children together and allowing the less fortunate to have a chance to climb the social ladder
+- 1860: Every northern state had a common school system
+    - Improved education for women and opened up roles for them as teachers
+    - Not common in the South
+        - Literate blacks were see as a threat
+        - Increasing North-South divide
+
+## The Crusade Against Slavery
+
+- Main people against slavery: Quakers, slaves, and free blacks
+
+### Colonization
+
+- Before 1830s: Americans believed abolition would go with the "colonization" of freed slaves
+    - They would be shipped back to Africa/Caribbea/Central America
+    - 1816: Founded **American Colonization Society**
+        - Promoted gradual abolition + created Liberia to send once slaves to
+- Despite the fact that it was seen as impractical, it was supported by political leaders
+    - Henry Clay, John Marshall, Jackson
+    - Slavery and racism was too deeply embedded in American life
+        - They would never be free/equal in America
+        - Based on the idea that America was white society
+            - Similar to Indian removal
+- Many once slaves did go to Liberia
+    - Some slaves freed on the condition they would leave
+    - Others wanted to spread Christianity or enjoy rights denied to them in the US
+- Most African-Americans were against colonization
+    - 1817: First national black convention
+        - Stated that blacks = whites = Americans
+
+### Militant Abolitionism
+
+- In most religions, slavery = sin
+    - Secular reason: slavery doesn't fit the DoI
+- Perfect American society = one without racism
+- Wanted immediate abolition compared to gradual emancipation + colonization
+- 1829: David Walker's *An Apeeal to the Coloured Citizens of the World*
+    - Warned whites of divince punishiment if they didn't change their sinful ways
+- 1831: *The Liberator*
+    - Newspaper published by William Lloyd Garrison
+        - Also published *Thoughts on African Colonization*
+            - Caused many to realize that blacks are not alien/other
+- Militant in language, not in violence
+
+### Spreading the Abolitionist Message
+
+- North leaders used new advancements in printing technologly (steam printing press) to spread their message
+    - Because of common schools, more people were able to read
+- 1833: **American Anti-Slavery Society** created
+    - Ordinary citizens (farmers, shopkeepers, laborers) and business men (ex: Arthur and Lewis Tappan)
+- Garrison was the main "propagandist"
+- Theodore Weld trained speakers to spread the message
+
+### Slavery and Moral Suasion
+
+- Southerns feared a slave insurrection
+    - Nat Turner's Rebellion happened just months after the *The Liberator* was published
+- However, most abolitionists rejected violence as a means to end slavery
+    - Instead tried to convince slaveholders of the sinfulness in their ways (**moral suasion**)
+- Abolitionists did not "invade" a political party, instead targeting the nation
+    - Tried to attract public attention and show the moral evil of slavery
+- Inherent, natural, absolute right to liberty
+    - Regarless of race
+
+### Birthright Citizenship
+
+- Before Civil War, citizenship derived from race
+    - Citizens' rights enforced by the federal government
+- Aboliitonists wanted to change this
+    - Wanted to make citizenship based on birth
+        - Anyone born in the US was a US citizen
+    - Pushed for free blacks' right to vote, acess to education, and equal treatment by transport companies and public accommodations like hotels and theatres
+        - Some victories:
+            - 1849: Repeal of Ohio's Black Laws
+            - 1855: Racial integration in Boston public schools
+- 1843: National Convention of Colored Citizens
+    - Stated princple of birthright citizenship
+
+### A New Vision of America
+
+- Abolitionists wanted to change the views of America to one were freedom was a universal entitlement
+    - Viewed slaves and free blacks as part of the national community
+        - 1833: Lydia Maria Child's *An Apeal in Favor of That Class of Americans Called Africans*
+- The Constitution did not have a explicit relation to slavery
+    - Garrison | It is a convent with the devil
+    - Fredrick Douglass | It does not protect slavery
+- Abolitionists | Freedom of equality before the law regardless of race
+    - Graphic depiction of treatment helped gather sympathy
+- Abolitionists | DoI is anti-slavery
