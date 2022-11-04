@@ -4670,6 +4670,21 @@ becuase "the potential scrutiny from all of those people rushing out of the buil
         - People tried to make abolition a political party
         - Only recieved 7,000 votes (1/3 of 1%)
 
+## Homework Questions - 11/3: The Declaration of Sentiments
+
+1. Why do you think the participants at Seneca Falls used the language and structure of the Declaration of Independence for articulating their appeal?
+
+The participants at Seneca Falls used the language and structure to draw similarities between the unequal treament of women and the unequal treatment of colonists by the British.
+They wanted to show that the ideals presented in the Declaration of Independence was not just for the men, but for all people.
+Also, during this time there was a lot of debate about the antislavery movement which also used the Declaration of Independence to show that equality and freedom were for all in America.
+
+2. Is there anything that the Declaration is asking for that strikes you as particularly interesting or surprising?
+
+I found the second to last paragraph instresting.
+The main point of it is to say that the men taking away women's confidence and their self-respect.
+I found this argument instresting because it is saying that men are are enforcing their control by limiting what women believe they have the right to.
+It also shows that part of the goal of this Declaration is to point out all the rights that are currently being denied to them.
+
 ## Homework - 11/2: Reform Movement Roundtable
 
 - Your character’s personal background, especially anything that might explain their involvement in their particular reform movement
