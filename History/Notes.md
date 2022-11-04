@@ -4509,3 +4509,186 @@ becuase "the potential scrutiny from all of those people rushing out of the buil
 - Abolitionists | Freedom of equality before the law regardless of race
     - Graphic depiction of treatment helped gather sympathy
 - Abolitionists | DoI is anti-slavery
+
+## Black and White Abolitionism
+
+### Black Abolitionists
+
+- Many former slaves published accounts of their bondage
+    - Convinced northerers of the evils of slavery
+    - Harriet Beecher Stowe's ***Uncle Tom's Cabin***
+        - Published in Washington newspaper
+            - 1854: Sold 1 million copies
+        - Powerful human appeal
+            - They were the innocent victims
+- 1840s: Black abolitionists held their own conventions
+    - Sought an independant role within the antislavery movement
+    - Henry Highland Garnet:
+        - Escaped from slavery as a child
+        - Did not believe in moral suation
+- Rejection of land = liberty
+    - Created a calender of freedom celebrations
+        - Jan 1, 1808: Slave trade = illegal
+        - Aug 1: West Indian emancipation
+    - Color blind citizenship
+- Fredrick Douglass - 1852:
+    - After Independence Day
+        - What is July 4 to a slave?
+    - Recapture the intial mission of the DoI
+
+### Gentlemen of Property and Standing
+
+- Many northerners were against abolitionism
+    - Threatened the Union
+    - Interfered with profits powered by slave labor
+    - Overturned white supremacy
+- **Gentleman of property and standing**
+    - Merchants with close ties to the South
+    - Disrupted abolitionist meetings in the North
+- 1837: Elijah P. Lovejoy killed in Illinois while defending his press
+    - First martyr of the movement
+- 1838: Mob burned Pennsylvania Hall
+    - Abolitionist meeting place
+- Crowds of southerners burned abolitionist literature
+    - Approval by Amos Kendall
+        - Andrew Jackson's postmaster general
+- 1836: Abolitions flood Washington with petitions
+        - Congress passed the **Gag Rule**
+            - 1844: Repealed by John Quincy Adams
+- The suppression of abolitionist literature convinced many northerners that slavery was not compatible with US democratic ideals
+- The movement expanded to gain more supported
+    - Also tried to show that the slavery could endanger whites' freedoms
+
+## THe Origins of Feminism
+
+### The Rise of the Public Women
+
+- Many northerner supporters were women
+    - Most were evangelical Protestants, New England Congregationalists, and Quakers
+        - Convinced slavery was against Christian ideals
+- Public sphere was open to women before government and party politics
+    - Curriculated petitions, attended meetings, marched in parades, gave public lectures, and raised money
+- Common supporters of the temperance movement, building asylums, or other reform activities
+    - **Dorothea Dix**:
+        - Massachusetts schoolteacher
+        - Believed in better treatment of the mentally ill
+            - Were put in jails with criminals/debtors
+            - Because of her, 28 states had mental hospitals before the Civil War
+
+### Women and Free Speech
+
+- By working to help the slaves, they realized their own state relative to man
+- Angelina and Sarah Grimké
+    - Daughters of a South Carolina slave owner
+    - Converted to Quakerism and then abolitionism
+    - 1830s: Gave lectures on evils of slavery as someone who witnessed it first hand
+        - People were outraged that women were speaking
+        - 1838: *Letters on the Equality of the Sexes*
+            - Equal pay for equal work
+
+### Women's Rights
+
+- Grimké sisters were first to apply abolitionist doctrine of universal freedom and equality to women
+- 1848: Seneca Falls Convention
+    - Organized by Elizabeth Cady Stanton and Lucretia Mott
+        - 1840: Traveled to World Anti-Slavery Convention in London
+            - But was barred from entering because they were women
+    - **Women's suffrage**
+        - Seneca Falls Declaration of Sentiments modelled after DoI
+            - Freedom and democracy is impossible without the right to vote
+            - Condemned structure of inequality that:
+                - Denied women access to eduation/employment
+                - Gave husbands control over legal status, property, wage, and childern
+
+### Feminism and Freedom
+
+- Feminism was an international movement
+    - Early US feminists found support abroad
+- Margaret Fuller | Women have same rights as men to develop their talents, grow, and live freely unimpeded
+    - Educated at home
+    - Transcendentalist
+        - 1840-1842: Editor of *The Dial*
+            - Transcendentalist journal
+    - 1844: Editor of the *New York Tribune*
+    - 1845: *Woman in the Nineteenth Century*
+        - Freedom = quest for personal development
+
+### Women and Work
+
+- Women demanded the right to participate in Market Revolution
+- 1851: Sojourner Truth | Repudiate the idea that women are too "delicate" to work outside the home
+    - 1799: Sojourner born
+    - 1827: Freed when slavery ended in her state
+- Senenca Fall Convention was mostly middleclass women
+    - However, they still rejected the idea that home = "women's sphere"
+- 1850s: New style of dress
+    - Loose fitting tunic and trousers
+    - Devised by Amelia Bloomer
+    - More "free" compared to the confining clothing that was designed for home use only
+
+
+### The Slavery of Sex
+
+- Similar:
+    - "Wage slavery" => allowed northern workers to challenge inequalities of the Market Revolution
+    - "Slavery of Sex" => all-encompassing critique of male authority and women subordination
+- 1840s-1850s: Push to change husband's control over wife
+    - Family is private instiution and independent of public authority
+- Analogy between free women and slavery helped spread the issue
+    - 1839: Mississippi enacted women's property laws
+        - Other states followed
+        - Also aimed at preventing families from losing property in the depression of 1837
+    - 1860: New York allowed married women to sign contracts, buy/sell property, keep wages
+
+### "Social Freedom"
+
+- Law of domestric relations gave husband right to sexual access to his wife and to enflict punishment on her
+    - Courts would not intervene unless it was extreme
+- 1859: Boston women's meeting
+    - Declared women should have free and equal rights in the family
+    - States protect them against violence
+        - Justice, freedom, individual rights should not stop at household's door
+- Compared to the antislavery movement, feminism existed before feminism
+    - Less "extreme", many were willing to compromise
+
+### The Abolitionist Schism
+
+- Not everyone who supported abolition supported feminism
+    - Samuel Gridley Howe
+        - Humane treatment of the blind
+        - Education reform
+        - Abolitionist
+        - But did not support women suffrage
+- 1840: Abolitionists split into 2 groups based over the "proper" role of women in antislavery work
+    - Abby Kelly's election in the American Anti-Slavery Society caused the split
+    - In response the American and Foreign Anti-Slavery Society was formed
+        - Believed a women should not hold such a position
+        - John Greenleaf Whittier compared Kelly to Eve, Delilah, and Helen
+            - All how had sown the seeds of male destruction
+- Many worried the split and disunity would stop the movement from growing/progressing
+    - **Liberty Party**
+        - People tried to make abolition a political party
+        - Only recieved 7,000 votes (1/3 of 1%)
+
+## Homework - 11/2: Reform Movement Roundtable
+
+- Your character’s personal background, especially anything that might explain their involvement in their particular reform movement
+- The specific issue or issues your character is concerned about and wanting to change
+- Your character’s source of motivation (religious, philosophical, personal experience, etc.)
+- What your character sees as the solution to the problem (legislation, individual moral reform, creation of a utopian community, etc.)
+
+### [**Horace Mann**](https://www.britannica.com/biography/Horace-Mann)
+
+#### Background
+
+- Grew up in an environment ruled by poverty, hardship, and self-denial
+- Was taught briefly and erratically by comparatively poor teachers
+    - But he managed to educate himself in the Franklin town library
+    - With tutoring in Latin and Greek from Samuel Barrett (later a leading Unitarian minister)
+    - He gained admission at the age of 20 to the sophomore class at Brown University
+
+Universal education could restore equality by bringing all children together and allowing the less fortunate to have a chance to climb the social ladder.
+
+https://antiochcollege.edu/2020/01/common-school-journal-mann/
+
+American advocate of public education who believed that, in a democratic society, education should be free and universal, nonsectarian, democratic in method, and reliant on well-trained professional teachers.
