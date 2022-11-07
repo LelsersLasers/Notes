@@ -72,7 +72,7 @@
 
 - No oxygen
 - Sole purpose: get NAD+
-	- Have NADH
+	- Need NAD+ to continue glycolisis (which makes NADH)
 - Pyruvate will need to get reduced
 	- *Pyruvate* &rarr; *lactic acid*
 
@@ -162,6 +162,7 @@
 	- Oxygen doesn't care that the electrons are lower energy
 		- O2 on matrix side from breathing
 	- 1/2 O2 + 2H+ + 2e- &rarr; H2O
+		- H+ is from the ATP synthase
 - Makes the inner membrane space more positive
 	- Dragging H+ into there
 	- Acidic (lots of H+)

@@ -783,3 +783,127 @@ Membrane transport
     - More energy compared to anaerobic respiration
 - Glycolysis
 - Electron transport chain
+
+# 11/7
+
+## Cellular respiration
+
+- ![Cellular respiration](./Photos/CellularRespiration.png)
+- Gain more energy
+- A cycle
+    - Constant balance of spending and gaining energy
+- 3 main pathways:
+    - Glycolysis
+    - Pyruvate oxidation
+    - Krebs cycle
+    - Oxidative phosphorylation
+
+### Glycolysis
+
+- Cytosol/cytoplasm
+- 1x *glucose* &rarr; 2x *pyruvate*
+- 2 ATP in, 4 ATP out, 2 NADH out
+    - Net gain of 2 ATP
+    - From substrate level phosphorylation
+- ATP in:
+    - Glucose &rarr; glucose-6-phosphate
+        - Hexokinase
+    - Fructose-6-phosphate &rarr; fructose-1,6-bisphosphate
+        - Phosphofructokinase
+- ATP out:
+    - 2x *3-phosphoglycerate* &rarr; 2x *2-phosphoglycerate*
+        - 1 ATP our per
+    - 2x *phosphoenolpyruvate* &rarr; 2x *pyruvate*
+        - 1 ATP our per
+        - Pyruvate kinase
+- NADH out:
+    - 2x *1,3-bisphosphoglycerate* &rarr; 2x *3-phosphoglycerate*
+        - 1 NADH our per
+
+### Bridge reaction
+
+- Pyruvate into the mitochondria matrix
+    - Requires sufficient oxygen
+- Pyruvate &rarr; acetyl CoA
+    1. 1 CO2 out
+    2. 1 NADH out
+    3. Uses Coenzyme A ("CoA")
+
+### Krebs cycle
+
+- Mitochondria
+    - Matrix
+- Completes oxidation of organic fuel into CO2
+    - Acetate from acetyl CoA + oxaloacetate &rarr; citrate
+    - Oxaloacetate is recycled and acetate is broken down to CO2
+- In:
+    - Pyruvate from glucose
+        - 2 per glucose
+    - (CoA)
+    - NAD+
+    - FAD
+    - ADP + Pi 
+- Turns carbon bonds into energy and CO2
+- Hyopxia = low oxygen
+- Per pyruvate (2x for each glucose):
+    - Bridge:
+        - 1 CO2 out
+        - 1 NADH out
+    - Krebs:
+        - 2 CO2 out
+        - 3 NADH out
+        - 1 FADH2 out
+        - 1 ATP out
+    - Result:
+        - NADH and FADH2 &rarr; oxidative phosphorylation
+        - CO2 follows gradient to go away
+        - ATP (already used)
+
+### Electron transport chain and oxidative phosphorylation
+
+- ![Electron transport chain](https://cdn.kastatic.org/ka-perseus-images/0ff21c52cd544c8a51014fcbbc2ec144f32cd698.png)
+- Mitochondria
+    - The folds
+    - Cristae
+- ATP
+    - Chemiosmosis (oxidative phosphorylation)
+    - Only 4 without this
+        - 2 from glycolysis and 2 from krebs
+    - Most comes from energy in the electrons of NADH and FADH2
+        - Powers moves H+ to power ATP synthase
+- ATP synthase
+    - Powered by H+ moving with the gradient
+        - Works by spinning to turn ADP + Pi into ATP
+    - "Oxidative phosphorylation"
+    - NADH &rarr; 3ish ATP
+        - 10 NADH &rarr; 30ish ATP
+    - FADH2 &rarr; 2ish ATP
+        - 2 FADH2 &rarr; 4ish ATP
+- Oxygen = final electron acceptor
+    - Oxygen will take electrons in any "form"
+    - Electrons lose a bit of energy when they are passed down the chain to move H+
+
+### Overall
+
+- C6H12O6 + 6O2 + 6H2O &rarr; 6CO2 + 12H2O + energy
+    - 60% of energy is released as heat
+    - 34-36x (ADP + P &rarr; ATP)
+- ![Cellular Respiration ATP](./Photos/CellularRespirationATP.png)
+
+### Anaerobic respiration
+
+- Glycolysis makes 2 ATP with (`aerobic`) or without (`anaerobic`) oxygen
+- Without oxygen, various fermentation pathways generate ATP and recycle NAD+
+    - Needs NAD+ to continue glycolysis
+- Alcohol fermentation
+    - Pyruvate into ethanol
+    - 2x pyruvate &rarr; 2x acetaldehyde + 2x CO2 &rarr; 2x ethanol
+- Lactic acid fermentation
+    - Pyruvate is reduced directly by NADH into lactate
+    - Muscle cells switch from aerobic to anaerobic respiration when oxygen is low
+        - Creating "burning" sensation
+        - Allows for a little more energy to be made
+        - Latic acid eventually goes to liver
+- Makes 2 ATP and 2 NAD+
+
+### Fermentation vs. Respiration
