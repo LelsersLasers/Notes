@@ -1015,6 +1015,8 @@ Membrane transport
 - 6CO2 for 1 glucose
 - C3 Plants
     - Rice, wheat, soy
+    - "Regular plants"
+        - No counter photorespiration
     - Hot days: stomata close
         - CO2 used, O2 builds up
     - Cooler nights: stomata open
@@ -1022,11 +1024,13 @@ Membrane transport
     - Sugarcane, corn
     - Light and dark reactions physically separated
         - Calvin cycle occurs in chloroplasts located in bundle sheath cells (near leaf veins)
+            - Bundle sheath cells area has no affinity for O2
     - Plant adaptation to outcompete C3 plants in bright/dry conditions
 - CAM:
     - Cactus, succulents, pineapples
     - Light and dark reactions are seperated by time
         - Plants collect and store CO2 in the nighttime and use it during the day without opening stomata
+            - CO2 converted to something else
     - Plant can survive in hot/dry conditions
 - Photorespiration
     - Wasteful pathway that occurs when the Calvin cycle enzyme rubisco acts on oxygen rather than carbon dioxide

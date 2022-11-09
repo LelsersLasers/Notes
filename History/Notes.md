@@ -4694,16 +4694,27 @@ It also shows that part of the goal of this Declaration is to point out all the 
 
 ### [**Horace Mann**](https://www.britannica.com/biography/Horace-Mann)
 
-#### Background
+Horace Mann grew up in an environment ruled by poverty, hardship, and self-denial. While he was taught briefly and erratically by comparatively poor teachers, he was able to find tutoring from Samuel Barrett and to educate himself in the Franklin town library. His keenness and depth of perception and oratorical skill soon won him a seat in the Massachusetts House of Representatives, where he served from 1827 to 1833. Of the many causes Mann supported, including antislavery and more humane treatment of the insane, the most important to him was popular education. While Massachusetts has had a public school system since 1647, during Mann’s lifetime, the quality of education had deteriorated as school control had gradually slipped into the hands of economy-minded local districts. Mann helped establish a state board of education. The board had little direct power, so Mann started the Common School Journal in 1838 for teachers and began to lecture to interested groups of citizens. Personifying and describing education in an 1848 issue of the journal, Mann wrote “when she goes forth, like a puissant goddess, and speaks deliverance to captive nations from their hereditary and long-transmitted bondage to ignorance; when she drives away … the vampires of superstition, that have sucked the life blood from the hearts of men; when she turns wildernesses and jungles into habitable lands.” Mann believed that a republic cannot remain ignorant and free, thus universal popular education was necessary. He also believed that universal education could restore equality by bringing all children together and allowing the less fortunate to have a chance to climb the social ladder. In 1853, Mann accepted the presidency of Antioch College, a new institution committed to coeducation, nonsectarianism, and equal opportunity for African Americans.
 
-- Grew up in an environment ruled by poverty, hardship, and self-denial
-- Was taught briefly and erratically by comparatively poor teachers
-    - But he managed to educate himself in the Franklin town library
-    - With tutoring in Latin and Greek from Samuel Barrett (later a leading Unitarian minister)
-    - He gained admission at the age of 20 to the sophomore class at Brown University
+- Sanders, Scott. 2020. “Common School Journal 1 Jan 1848.” Antioch College. April 17. https://antiochcollege.edu/2020/01/common-school-journal-mann/.
+- Cremin, L. A.. "Horace Mann." Encyclopedia Britannica, July 29, 2022. https://www.britannica.com/biography/Horace-Mann.
 
-Universal education could restore equality by bringing all children together and allowing the less fortunate to have a chance to climb the social ladder.
+## Homework - 11/9: Election 2022
 
-https://antiochcollege.edu/2020/01/common-school-journal-mann/
+What was the office or issue up for a vote?
+How did it turn out?
+What is the significance or consequence of this vote?
+Finally, as part of your reflection, respond to the following:
+"What would ___________ think about America/American democracy based on this particular issue or the election more generally?"
+where the blank is anyone we've studied so far, whether a president, cabinet or congressional member, war hero, reformer, etc.
 
-American advocate of public education who believed that, in a democratic society, education should be free and universal, nonsectarian, democratic in method, and reliant on well-trained professional teachers.
+I am looking at the 2022 election results for Nevada Question 3: establish open primaries and ranked choice voting.
+With 77% votes in (816,859), 51.5% voted yes (420,838) and 48.5% voted no (396,021).
+If this passes, elections (in Nevada) would change to a system of open primaires, allowing voters to select candidates from any party
+and would be used to narrow down all candidates to the top five candidates.
+The voters would then rank as many of the candidates they want in order of their preference.
+I think George Washington would support this change because he was strongly againt political parties.
+This change would allow voters to vote for the candidates they want, not the candidate of a party they are a part of.
+
+
+https://www.nytimes.com/interactive/2022/11/08/us/elections/results-nevada-question-3-establish-open-primaries-and-ranked-choice-voting.html
