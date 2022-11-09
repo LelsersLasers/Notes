@@ -906,4 +906,130 @@ Membrane transport
         - Latic acid eventually goes to liver
 - Makes 2 ATP and 2 NAD+
 
-### Fermentation vs. Respiration
+# 11/9
+
+- Only red blood cells have no mitochondria
+- Skeletol muscle cells can to aerobic or anaerobic respiration
+    - In case of emergency, they can switch to anaerobic respiration
+- Latic acid makes muscles sore
+    - Acidic (low pH)
+    - Liver can convert it back into a sugar
+- Pyruvate is a junction between glycolysis and the Krebs cycle or fermentation
+
+## Glycolysis
+
+- Glycolysis can accept a range of carbohydrates
+    - Polysaccharides (starch, glycogen) can be hydrolyzed into glucose monomer
+    - Other hexoses (fructose, galactose) can be modified to undergo glycolysis
+- Protiens and fats can also enter respiratory pathways
+- Carbohydrates, fats, and protiens can all be catabolized through the same pathways
+- ![Other Things In Respiration](./Photos/OtherThingsInRespiration.png)
+
+## Regulation of respiration
+
+- Rate of cartabolism is regulated by participants and level of ATP
+    - If ATP drops, catabolism speeds up to make more
+- Control of catabolism is based on regulating activity of eznyzmes at points in catabolic pathways
+- ![Cellular Respiration Regulation](./Photos/CellularRespirationRegulation.png)
+
+## Fermentation vs Respiration
+
+- Fermentation
+    - Glycolysis only
+    - Cytoplasm
+    - 2 ATP
+    - Lactic acid or ethanol
+- Respiration
+    - Glycolysis + Krebs cycle + ETC
+    - Cytoplasm + mitochondria
+    - 36-38 ATP
+
+## Photosynthesis vs respiration
+
+- Photosynthesis
+    - ATP from chemiosmosis
+    - Not a lot of ATP
+    - Builds G3P (for glucose)
+    - Reactants: CO2 + H2O
+    - Products: O2 + C6H12O6 + H2O
+- Respiration
+    - ATP from chemiosmosis
+    - Aerobic and anaerobic to make ATP
+    - Breaks down glucose
+    - Reactants: C6H12O6 + O2
+    - Products: CO2 + H2O
+
+## Evolution of energy conversion
+
+- Anaerobic respiration
+    - Little ATP
+    - No O2
+    - Small heterotrophs
+- Photosynthesis - PSI
+    - Little ATP
+    - Used sunlight
+    - No PSII (no spliting O2 and no ETC)
+    - No Calvin cycle (no sugar)
+- Photosynthesis - PSII
+    - ATP with sunlight
+    - PSII (P680) powerful enough to split H2O
+        - Electron transport chain
+        - Released O2
+
+## Photosynthesis
+
+- Trophs:
+    - Authotrophs
+        - Photoautotrophs
+            - Use light/solar energy
+        - Chemoautotrophs
+            - Use chemicals (deep sea vents)
+    - Heterotrophs
+        - Eat other organisms
+    - Detritivores
+        - Eat dead organisms
+- Visible light: 380-750 nm
+    - Shorter wavelengths have more energy
+- Chloroplast
+    - Like mitochondria, likely evolved from a prokaryote
+        - Own DNA
+        - Double membrane
+    - Have stacks of thylakoids (grana)
+    - Stroma space between thylakoids
+    - Stomata are like the mouth of the chloroplast
+        - Open and close to let CO2 in and O2 out
+        - Guard cells control stomata
+            - Careful to not let too much water out
+            - Must loss some water (transpiration)
+- Equation:
+    - 6CO2 + 12H2O + light energy &rarr; C6H12O6 + 6O2 + 6H2O
+    - Endergonic (sunlight added)
+    - Similar to respiration
+        - The opposite
+- Redox:
+    - OIL RIG
+        - Oxidation is loss of electrons
+        - Reduction is gain of electrons
+    - Reducing agent is the electron donor
+    - Oxidizing agent is the electron acceptor
+- 6CO2 for 1 glucose
+- C3 Plants
+    - Rice, wheat, soy
+    - Hot days: stomata close
+        - CO2 used, O2 builds up
+    - Cooler nights: stomata open
+- C4:
+    - Sugarcane, corn
+    - Light and dark reactions physically separated
+        - Calvin cycle occurs in chloroplasts located in bundle sheath cells (near leaf veins)
+    - Plant adaptation to outcompete C3 plants in bright/dry conditions
+- CAM:
+    - Cactus, succulents, pineapples
+    - Light and dark reactions are seperated by time
+        - Plants collect and store CO2 in the nighttime and use it during the day without opening stomata
+    - Plant can survive in hot/dry conditions
+- Photorespiration
+    - Wasteful pathway that occurs when the Calvin cycle enzyme rubisco acts on oxygen rather than carbon dioxide
+    - The majority of plants are C3 plants, which have no special features to combat photorespiration
+    - C4 plants minimize photorespiration by separating initial CO2 fixation and the Calvin cycle in space, performing these steps in different cell types
+    - Crassulacean acid metabolism (CAM) plants minimize photorespiration and save water by separating these steps in time, between night and day
