@@ -1034,6 +1034,67 @@ Membrane transport
     - Plant can survive in hot/dry conditions
 - Photorespiration
     - Wasteful pathway that occurs when the Calvin cycle enzyme rubisco acts on oxygen rather than carbon dioxide
+    - Happens more when stomata are closed
+        - O2 build up
     - The majority of plants are C3 plants, which have no special features to combat photorespiration
     - C4 plants minimize photorespiration by separating initial CO2 fixation and the Calvin cycle in space, performing these steps in different cell types
     - Crassulacean acid metabolism (CAM) plants minimize photorespiration and save water by separating these steps in time, between night and day
+
+# 11/15
+
+- DNA stuff
+- ON GOOGLE DOC
+
+# 11/16
+
+## Mitosis and the cell cycle - Chapt 12
+
+- Cell division purposes:
+    - Create new organiisms
+        - Prokaryotic and unicellular cells
+    - Reproduction
+    - Growth and development
+    - Tissue and renewal and repair
+- Mitosis is part of cell division
+- Gametes
+    - The germ/reproductive cells
+    - 1/2 DNA (1N)
+- Genome
+    - A cell's entire collection of DNA
+    - Entire genetic library
+- Somatic cells
+    - Body cells
+        - All cells but reproductive cells
+    - 2N - diploid
+- Chromatin
+    - Complex of DNA and proteins that make up eukaryotic chromosomes
+    - Uncoiled DNA
+- Chromosome
+    - Long DNA molecule + proteins (histones)
+    - Highly coiled and compact
+    - Visable during mitosis
+- 2 types of cell division
+    - Mitosis
+        - DNA replication &rarr; division
+        - Diploid &rarr; 2 identical diploids
+    - Meiosis
+        - Only makes gametes
+        - DNA replication &rarr; division &rarr; division
+        - Diploid &rarr; 4 haploids (gametes)
+- Mitosis vs cytokinesis
+    - Mitosis
+        - Nuclear division after DNA replication resulting in 2 identical genomes
+        - 5 stages
+    - Cytokinesis
+        - Division of cytoplasm to form 2 seperate daughter cells
+        - Occours after mitosis or meiosis
+- The cell cycle
+    - [Cell Cycle](./Photos/CellCycle.png)
+    - Interphase
+        - G1
+            - Gap of growth phase
+            - Prepare cell for DNA replication
+        - S
+            - DNA synthesis
+        - G2
+            - Prepare for mitosis
