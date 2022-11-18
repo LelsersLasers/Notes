@@ -4793,4 +4793,173 @@ https://www.nytimes.com/interactive/2022/11/08/us/elections/results-nevada-quest
 
 ### The Election of 1844
 
-- 
+- a
+
+## Class Notes - 11/18
+
+### Mexico and Texas
+
+- Mexico declared independence from Spain in 1810
+    - Recognized in 1821
+- Texas was the northern frontier of Mexico
+    - Not great for farming
+    - Wanted to devolope the land
+- 1822: Stephen Austin founded colony of several hundred Americans in East Texas
+    - 1825: 1,800 colonists
+    - 1835: 30,000
+        - As numbers increased, Americans demanded more political control
+            - Wanted slavery to be guaranteed under Mexico Law
+            - Wanted same rights that they had in United States
+
+### Texas War for Independence
+
+- General Santa Ana declared himself dictator of Mexico, stripped Texas of right to self government
+    - Enforcing that Texas is part of Meixco
+    - Americans in Texas were not happy
+- 1835: Texans united for independence, clashed with Mexican troops
+    - Santa Ana led army across Rio Grande to subdue rebellion
+    - 1836: Reached the Alamo, walled mission in San Antonio
+        - Many died, 300 prisoners later executed
+        - “Remember the Alamo”! 
+- 1836: Rebels formally declare the independent Republic of Texas
+    - 1836: Texans led by Sam Houston ambushed Mexican troops at San Jacinto River
+    - Captured Santa Ana, forced him to sign treaty recognizing the Republic of Texas
+    - Sam Houston elected first president of Texas
+- All of this was Mexican history until US annexation Texas
+
+### Annexation of Texas
+
+- Texas was worried that Mexico would try to retake it
+    - Annexation by the US would protect them from Mexico
+    - Texas was also struggling as a new country
+- Most Southerners/Democrats supported Texas’ annexation, Northerners/Whigs were opposed
+    - It would break the balance of free and slave states
+- 1843: Santa Ana warned that annexation of Texas would be “equivalent to a declaration of war against the Mexican Republic.”
+    - Mexico was okay with Texas being "independent" just not part of the US
+- 1845: Republic of Texas voted to be annexed by the United States Congress approved
+    - Texas became 28th state
+
+### War with Mexico
+
+- Began over dispute of southern boundary of Texas
+    - U.S. claimed Rio Grande as southern border
+    - Mexico claimed Nueces River as border
+    - Back then, borders were less clear
+- Back then, the USA ~= Mexico
+    - USA was still more powerful, but not by much
+- Polk wanted more than just Texas
+    - Elected on platform of Manifest Destiny
+    - Wanted to acquire entire western Mexican territory
+
+### Polk
+
+- Polk won the Democratic Party nomination for president in 1844 because of his support for expansion
+    - Over Van Buren
+- Party’s platform stated: “the re-occupation of Oregon and the re-annexation of Texas at the earliest practical period are great American measures”
+    - Louisiana Purchase + Manifest Destiny = the West was already the US
+
+### Failed Diplomacy
+
+- Polk sent a representative to Mexico City in November, 1845
+    - Offered to buy New Mexico and California
+    - Mexican Government refused to meet him
+- Back then: pretty common for big countries to buy large lands
+    - Hard to devople, manage, etc
+- Polk then ordered over 3,000 troops under General Zachary Taylor into disputed territory
+    - Mexican troops engaged in skirmish with American troops
+    - Polk expressed outrage at loss of “American blood on American soil.”
+        - Mexicans: "Mexican blood on Mexican soil"
+
+### War is Declared on Mexico
+
+- Polk asked Congress to declare war
+    - War declared in May of 1846
+- American troops took offensive
+    - Anglo-American troops in California aided and briefly got indepence from Mexico
+- Expedition under Captain John Fremont moved into California
+    - Group of American settlers had already proclaimed an independent Republic of California
+    - 1847: U.S. conquered California and New Mexico
+
+### War in Mexico
+
+- Generals Taylor and Scott invaded Mexico, captured the port city of Veracruz, marched army of 10,000 toward Mexico City
+    - 1848: Captured Mexico City
+- 1848: **Treaty of Guadalupe Hidalgo**
+    - Ended the war
+    - Mexico gave up claim to Texas
+    - Recognized Rio Grande as border with U.S.
+    - Gave up New Mexico and California
+    - United States paid Mexico $15 million
+        - Saving face
+            - We are actually buying this from you
+            - We didn't just roll over you
+    - ![Mexican Cession 1843](./Unit4/MexicanCession1843.png)
+        - Cession != Secession
+- Why stop at just that?
+    - Issue of slavery
+    - Would mean that American would now include a lot Catholic Mexcians
+
+### Gadsden Purchase
+
+- U.S. considered a southern route for a transcontinental railroad
+    - The Arizona land from the Mexican Cession of 1843 was too mountainy to make an easy railroad
+- 1853: Mexico sold 30,000 square miles of southern New Mexico and Arizona to U.S. for $10 million.
+
+### New American Territory
+
+- New US territory
+    - Larger than Louisiana Purchase
+    - Sparsly populated, but not empty
+        - 75,000-100,000 Spanish Speaking Mexicans
+            - Not immigrants, because the border moved to include them
+        - About 150,000 Native Americans
+- Gold Rush in California
+    - 1848: Gold was found at Sutter’s Mill
+        - Right at the end of the Mexican War
+    - 1860: Non-Indian population rose to 360,000
+        - 1849-1852: Nearly 25,000 Chinese immigrants
+            - Treated very poorly
+            - Built the railroads
+    - Indian population dropped from 150,000 to 30,000
+        - Native Americans were genocided/exterminated
+
+### Oregon
+
+- 4 countries that wanted this land
+    - Russia, Britain, US, Mexico/Spain
+    - By 1818, it was really just US and Britain
+        - Neither side wanted to go to war (just had War of 1812)
+        - But they were both unwilling to give up a chance to get the land
+- Treaty of 1818
+    - Established “Joint-Occupancy” of Oregon Territory between British and U.S. for 10 years
+    - Established 49th parallel as northern border to the “Stony Mountains” (Rockies)
+        - Loose border
+- Treaty of 1846 (“Oregon Treaty”)
+    - The British wanted a clearer agreement
+        - A lot of Americans moving West on the Oregon Trail
+    - British ceded all territory south of 49th Parallel to U.S.
+        - Minus the mini island thing which went to Britain
+    - British moved from Fort Vancouver to Fort Victoria
+
+### US Territorial Acquisitions
+
+- ![US Territorial Acquisitions](./Unit4/USTerritorialAcquisitions.png)
+- 1763: French and Indian War
+- 1783: Revolutionary War (Treaty of Paris)
+- 1803: Louisiana Purchase
+- 1812: Concrete Northeast Border (Treaty of Ghent)
+- 1818: Treaty of 1818, 49th Parallel to “Stony Mtns”
+- 1819-1821: Adams-Onis Treaty
+- 1845: Texas as 38th state
+- 1846: Oregon Treaty
+- 1848: Mexican Cession
+- 1853: Gadsden Purchase
+
+### Fredrick Jackson Turner
+
+- Turn of the century American historian
+- “The Significance of the Frontier in American History” (1893)
+- Claimed the frontier had played a key role in shaping the American character (“rugged individualism”)
+- Frontier life created Americans that were socially mobile, ready for adventure, bent on individual self-improvement, and committed to democracy
+    - (West = America) = (America = World) = (young, new, free, independent = the standard)
+- The West was a sort of “pressure valve”
