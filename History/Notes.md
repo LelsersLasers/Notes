@@ -4716,5 +4716,81 @@ The voters would then rank as many of the candidates they want in order of their
 I think George Washington would support this change because he was strongly againt political parties.
 This change would allow voters to vote for the candidates they want, not the candidate of a party they are a part of.
 
-
 https://www.nytimes.com/interactive/2022/11/08/us/elections/results-nevada-question-3-establish-open-primaries-and-ranked-choice-voting.html
+
+
+# Chapter 13 - A House Divided
+
+- 1855: Thomas Crawford designed statue for the Capitol's Dome
+    - Statue of Freedom
+        - Women wearing a liberty cap
+    - Rejected by Secretary of War Jefferson Davis
+        - It was similar to that way Romans indicated a freed slave
+            - Might cause slaves to want the liberty Americans had
+        - Bad idea for the South
+            - Davis was from Mississippi and had a lot of slaves
+         - Had cap replaced with with feathered helmet (millitary symbol)
+    - 1863: Finished
+        - Cival war was already under way
+        - Jefferson Davis was president of the Confederate States of America
+    - Showed how everything was being wrapped up with slavery
+
+## Fruits of Manifest Destiny
+
+### Continental Expansion
+
+- 1840s: slavery = center of American politics
+    - Not for moral/abolitionist reasons, more because of US territoral expansion
+- 1840-1860: 300,000 cross Rocky Mountains to Oregon and California
+    - Despite risk of death, starvation, Indians
+    - Oregon was jointly ruled by Great Britain and the US
+        - And Utah was part of Mexico
+        - Did not stop Americans from settling there
+            - National boundry's meant little to Americans in the west
+- Manifest destiny
+    - God intented for the US to expand west
+
+### The Mexican Frontier: New Mexico and California
+
+- Settlement of Ohio did not raise the issue of slavery
+    - But prospect of states in an area that was unsuitable for slave work did worry some Southerners
+- 1821: Mexico indepence from Spain
+    - 6.5 million pop. (2/3 of US)
+    - Roughly same size
+    - Texas, California, and New Mexico were more isolated from the rest of the country
+        - Only a few outposts
+            - Outnumbered by Indians
+        - 1840: California already well linked commercially to the US
+            - And New England ships were trading within the region
+
+### The Texas Revolt
+
+- Texas was the first Mexican region to be settled in by Americans
+    - Only 2,000 ***Tejanos*** (non-Indian people of Spanish origin) in Texas
+- 1820: Moses Austin gets a land grant to colonize Texas with Americans
+    - Spain wanted to devolope the region
+    - Moses died and his son Stephen carried out the plan
+        - Now in an indepent Mexico
+        - Resold the land to American settlers (12 cents = acre)
+- 1830: The Mexican government was worried that it was losing control over Texas and annulled existing land contracts
+    - And barred emigration from the US
+    - Stephen Austin and elite *Tejanos* demanded greater automony within Mexico
+        - Mostly ranchers and farmers, the *Tejanos* enjoyed an economic boom that came with the American settlers
+            - Formed economic ties to the American traders
+    - Mexico was also worried about the slavery issue
+        - Mexico had abolished slavery, local authorities allowed American settlers to bring slaves
+- 1835: Mexico's ruler, **Antonio Lopez de Santa Anna** sent an army to Texas to enforce central authority
+    - Provoked the **Texas Revolt**
+    - Rebels formed a provisional government in Texas and called for Texan independence
+    - 1836: Santa Anna's army took San Antonio killing the 187 American and *Tejano* defenders
+        - "Remember the Alamo"
+    - 1836: Sam Huston led rebels to victory at the Battle of San Jacinto
+        - Forced Santa Anna to recongize Texas independence
+- 1837: Texas wanted union with the US
+    - President Van Buren ignored the request because it would mean adding a slave state to the union (upsetting the balance)
+    - Still American settlers came
+        - 1845: Texas pop. = 150,000
+
+### The Election of 1844
+
+- 
