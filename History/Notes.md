@@ -19,7 +19,7 @@ Honors US History - Period 3 - Valji
         - Captial of the Aztec empire
         - Pop. of 250,000
     - Inca kingdom:
-        - Pop. 12 million 
+        - Pop. 12 million
         - Roads spread 2,000 miles along Andes mountains
 - Indian civilizations in North America were not as big/centralized as Aztec or Inca and not as technologly advanced as Europe
     - Used to justify European conquest
@@ -299,7 +299,7 @@ For example it can provide insight on things like the end of the dinosaurs or th
 ### Reforming the Empire
 
 - 1542: New Laws
-    - Indians can no longer be enslaved 
+    - Indians can no longer be enslaved
 - 1550: The **encomienda** system is removed
     - **Repartimiento** system: Indians were free and could have wages, but had to do a fixed amount of labor per year
         - Still allowed for abuses and it wasn't quite true freedom
@@ -609,7 +609,7 @@ I think we should not celebrate "Columbus Day" as "Columbus" Day, but something 
 1. What are John Smith’s motives in writing this letter to Queen Anne?
 
 He was concerned that Pocahontas might not be given the reception he felt she deserved,
-so he wrote a letter Queen Anne to personally vouch for the integrity and faithfulness of Pocahontas. 
+so he wrote a letter Queen Anne to personally vouch for the integrity and faithfulness of Pocahontas.
 
 2. How does John Smith portray Pocahontas?
 
@@ -764,7 +764,7 @@ Smith's accound was wrong or made up.
 ### The New England Economy
 
 - Not slave/tobacco based
-- Fishing, wood, trade 
+- Fishing, wood, trade
 - Puritans came from middle class (not indentured servants)
 
 ### The Merchant Elite
@@ -1063,7 +1063,7 @@ were influenced by the Remonstrance.
 1. Why was Bacon's Rebellion a turning point for the status and rights of people of African descent in Virginia?
     - Associated them with perpetral slavery
     - Worse rights
-    - Now more sperated from the "whites" 
+    - Now more sperated from the "whites"
 2. What motivated Virginia's lawmakers to make legal distinctions between white and black inhabitants?
 What effect did those distinctions have on Virginia's universe of obligation?
 Can laws influence the way peopel think about who belongs and does not?
@@ -1709,7 +1709,7 @@ worried that he may go off to war.
 ### 2) An explanation of your top option: 2
 
 My top option is option 2.
-My son "is a member of the rebel militia" and I am "very worried that he may go off to war" (and die), 
+My son "is a member of the rebel militia" and I am "very worried that he may go off to war" (and die),
 so I do not agree with options 3 or 4 which want us (my son) to fight.
 I agree more with option 2 than than option 1 because I agree some things do need to change,
 otherwise I would not even be hosting this discussion.
@@ -1738,7 +1738,7 @@ Key:
 | Traveler | Pro war? | Pro British? | Possible ally? | Note |
 | :- | :-: | :-: | :-: | :- |
 | Silas Brattle |  | &#9744; | &#9745; | Pacifist, wealthy, illegal trade but likes British protection |
-| George Lee | &#9744; |  | &#9744; | Shoemaker, indentured servent, family in Britain | 
+| George Lee | &#9744; |  | &#9744; | Shoemaker, indentured servent, family in Britain |
 | Henry Walker | &#9744; |  |  | Farmer, living farm to mouth, owe money to local merchant, former militia member |
 | William Calder |  | &#9744; | &#9744; | Poor, wants lands Protected by Proclamation of 1763, works for rich person related to royal governor |
 | Thomas Van Der Hoven |  | &#9744; | &#9744; | Dutch, avoids political disputes, what is good for buisness is good for colonies |
@@ -1950,7 +1950,7 @@ and create a new government that will actually protect and benefit the people in
 
 7. Those who signed the Declaration of Independence risked everything, including, as they say at the end of the Declaration,
 “our Lives, our Fortunes and our sacred Honor.”
-Click on one of the names of the signers of the Declaration of Independence (above) and write a brief (just a few sentences is fine) summary of who they were and, if provided, what happened to them during and after the war. 
+Click on one of the names of the signers of the Declaration of Independence (above) and write a brief (just a few sentences is fine) summary of who they were and, if provided, what happened to them during and after the war.
 
 William Ellery, Rhode Island:
 
@@ -2326,7 +2326,7 @@ but if they are not followed we will use force to defend ourselves.
     - Diverse people (ethnic, religious, etc)
         - 700k slaves
         - Less common nationality
-    
+
 ## America under the Confederation
 
 ### The Articles of Confederation
@@ -2639,7 +2639,7 @@ because of this.
 - Madison argued that the Constitution was the designed to prevent abuses of power
 - *The Federalist* nos. 10, 15 - government is subject to the will of the people, but the people are subject to dangerous enthusiasms
     - Problem of balancing democracy and respect for the rights (property rights) would only grow
-        - Economic development &rarr; more poor people 
+        - Economic development &rarr; more poor people
         - How to stop them from using their political power to take away the property of the rich
     - Will not be a problem in the US though
         - The US's size is a strength, too large and too many conflicting interests for a single group to dominate
@@ -3089,7 +3089,7 @@ because of this.
     - The Sedition Act expired in 1801
         - JA hoped to be re-elected by then
     - TJ | This is a "reign of witches"
-    
+
 ### The Virginia and Kentucky Resolutions
 
 - The **Virginia and Kentucky resolutions** critized the Sedition Act as unconstitutional
@@ -3789,7 +3789,7 @@ Make it good, the James Monroe Museum could use the advertising and revenue!)
 
 "declare that we should consider any attempt on their part to extend their system to any portion of this hemisphere as dangerous to our peace and safety"
 
-The artwork could be a giant figure (Monroe) standing over the Americans with a shield, protecting the Americans from the European powers. 
+The artwork could be a giant figure (Monroe) standing over the Americans with a shield, protecting the Americans from the European powers.
 
 ## The Election of 1828
 
@@ -4846,4 +4846,174 @@ https://www.nytimes.com/interactive/2022/11/08/us/elections/results-nevada-quest
 
 - 60,000 US volunteers
 - Fought on 3 fronts
-    - 
+    -
+- TODO FINISH
+
+## Class Notes - 11/18
+
+### Mexico and Texas
+
+- Mexico declared independence from Spain in 1810
+    - Recognized in 1821
+- Texas was the northern frontier of Mexico
+    - Not great for farming
+    - Wanted to devolope the land
+- 1822: Stephen Austin founded colony of several hundred Americans in East Texas
+    - 1825: 1,800 colonists
+    - 1835: 30,000
+        - As numbers increased, Americans demanded more political control
+            - Wanted slavery to be guaranteed under Mexico Law
+            - Wanted same rights that they had in United States
+
+### Texas War for Independence
+
+- General Santa Ana declared himself dictator of Mexico, stripped Texas of right to self government
+    - Enforcing that Texas is part of Meixco
+    - Americans in Texas were not happy
+- 1835: Texans united for independence, clashed with Mexican troops
+    - Santa Ana led army across Rio Grande to subdue rebellion
+    - 1836: Reached the Alamo, walled mission in San Antonio
+        - Many died, 300 prisoners later executed
+        - “Remember the Alamo”!
+- 1836: Rebels formally declare the independent Republic of Texas
+    - 1836: Texans led by Sam Houston ambushed Mexican troops at San Jacinto River
+    - Captured Santa Ana, forced him to sign treaty recognizing the Republic of Texas
+    - Sam Houston elected first president of Texas
+- All of this was Mexican history until US annexation Texas
+
+### Annexation of Texas
+
+- Texas was worried that Mexico would try to retake it
+    - Annexation by the US would protect them from Mexico
+    - Texas was also struggling as a new country
+- Most Southerners/Democrats supported Texas’ annexation, Northerners/Whigs were opposed
+    - It would break the balance of free and slave states
+- 1843: Santa Ana warned that annexation of Texas would be “equivalent to a declaration of war against the Mexican Republic.”
+    - Mexico was okay with Texas being "independent" just not part of the US
+- 1845: Republic of Texas voted to be annexed by the United States Congress approved
+    - Texas became 28th state
+
+### War with Mexico
+
+- Began over dispute of southern boundary of Texas
+    - U.S. claimed Rio Grande as southern border
+    - Mexico claimed Nueces River as border
+    - Back then, borders were less clear
+- Back then, the USA ~= Mexico
+    - USA was still more powerful, but not by much
+- Polk wanted more than just Texas
+    - Elected on platform of Manifest Destiny
+    - Wanted to acquire entire western Mexican territory
+
+### Polk
+
+- Polk won the Democratic Party nomination for president in 1844 because of his support for expansion
+    - Over Van Buren
+- Party’s platform stated: “the re-occupation of Oregon and the re-annexation of Texas at the earliest practical period are great American measures”
+    - Louisiana Purchase + Manifest Destiny = the West was already the US
+
+### Failed Diplomacy
+
+- Polk sent a representative to Mexico City in November, 1845
+    - Offered to buy New Mexico and California
+    - Mexican Government refused to meet him
+- Back then: pretty common for big countries to buy large lands
+    - Hard to devople, manage, etc
+- Polk then ordered over 3,000 troops under General Zachary Taylor into disputed territory
+    - Mexican troops engaged in skirmish with American troops
+    - Polk expressed outrage at loss of “American blood on American soil.”
+        - Mexicans: "Mexican blood on Mexican soil"
+
+### War is Declared on Mexico
+
+- Polk asked Congress to declare war
+    - War declared in May of 1846
+- American troops took offensive
+    - Anglo-American troops in California aided and briefly got indepence from Mexico
+- Expedition under Captain John Fremont moved into California
+    - Group of American settlers had already proclaimed an independent Republic of California
+    - 1847: U.S. conquered California and New Mexico
+
+### War in Mexico
+
+- Generals Taylor and Scott invaded Mexico, captured the port city of Veracruz, marched army of 10,000 toward Mexico City
+    - 1848: Captured Mexico City
+- 1848: **Treaty of Guadalupe Hidalgo**
+    - Ended the war
+    - Mexico gave up claim to Texas
+    - Recognized Rio Grande as border with U.S.
+    - Gave up New Mexico and California
+    - United States paid Mexico $15 million
+        - Saving face
+            - We are actually buying this from you
+            - We didn't just roll over you
+    - ![Mexican Cession 1843](./Unit4/MexicanCession1843.png)
+        - Cession != Secession
+- Why stop at just that?
+    - Issue of slavery
+    - Would mean that American would now include a lot Catholic Mexcians
+
+### Gadsden Purchase
+
+- U.S. considered a southern route for a transcontinental railroad
+    - The Arizona land from the Mexican Cession of 1843 was too mountainy to make an easy railroad
+- 1853: Mexico sold 30,000 square miles of southern New Mexico and Arizona to U.S. for $10 million.
+
+### New American Territory
+
+- New US territory
+    - Larger than Louisiana Purchase
+    - Sparsly populated, but not empty
+        - 75,000-100,000 Spanish Speaking Mexicans
+            - Not immigrants, because the border moved to include them
+        - About 150,000 Native Americans
+- Gold Rush in California
+    - 1848: Gold was found at Sutter’s Mill
+        - Right at the end of the Mexican War
+    - 1860: Non-Indian population rose to 360,000
+        - 1849-1852: Nearly 25,000 Chinese immigrants
+            - Treated very poorly
+            - Built the railroads
+    - Indian population dropped from 150,000 to 30,000
+        - Native Americans were genocided/exterminated
+
+### Oregon
+
+- 4 countries that wanted this land
+    - Russia, Britain, US, Mexico/Spain
+    - By 1818, it was really just US and Britain
+        - Neither side wanted to go to war (just had War of 1812)
+        - But they were both unwilling to give up a chance to get the land
+- Treaty of 1818
+    - Established “Joint-Occupancy” of Oregon Territory between British and U.S. for 10 years
+    - Established 49th parallel as northern border to the “Stony Mountains” (Rockies)
+        - Loose border
+- Treaty of 1846 (“Oregon Treaty”)
+    - The British wanted a clearer agreement
+        - A lot of Americans moving West on the Oregon Trail
+    - British ceded all territory south of 49th Parallel to U.S.
+        - Minus the mini island thing which went to Britain
+    - British moved from Fort Vancouver to Fort Victoria
+
+### US Territorial Acquisitions
+
+- ![US Territorial Acquisitions](./Unit4/USTerritorialAcquisitions.png)
+- 1763: French and Indian War
+- 1783: Revolutionary War (Treaty of Paris)
+- 1803: Louisiana Purchase
+- 1812: Concrete Northeast Border (Treaty of Ghent)
+- 1818: Treaty of 1818, 49th Parallel to “Stony Mtns”
+- 1819-1821: Adams-Onis Treaty
+- 1845: Texas as 38th state
+- 1846: Oregon Treaty
+- 1848: Mexican Cession
+- 1853: Gadsden Purchase
+
+### Fredrick Jackson Turner
+
+- Turn of the century American historian
+- “The Significance of the Frontier in American History” (1893)
+- Claimed the frontier had played a key role in shaping the American character (“rugged individualism”)
+- Frontier life created Americans that were socially mobile, ready for adventure, bent on individual self-improvement, and committed to democracy
+    - (West = America) = (America = World) = (young, new, free, independent = the standard)
+- The West was a sort of “pressure valve”
