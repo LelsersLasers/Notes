@@ -4793,4 +4793,57 @@ https://www.nytimes.com/interactive/2022/11/08/us/elections/results-nevada-quest
 
 ### The Election of 1844
 
-- 
+- President John Tyler revived the idea for Texas annexation
+    - Wanted to gain southern support for renomination in 1844
+    - And helping his failed administration
+- 1844: Calhoun (President Tyler's secretary of state) leaked that idea of annexation for strengthing slavery to the press
+    - The South wanted to divide Texas into smaller states (more slave states &rarr; more congress power)
+    - Former president Van Buren and Clay write letters rejecting the idea on the grounds of it might provoke a war with Mexico
+        - The letters helped Clay to win the Whig nomination
+        - But hurt Van Buren's chances of winning the Democratic nomination
+            - James K. Polk was chosen over him
+                - Had close ties to Jackson and supported annexation of Texas
+                - Polk went on to closely defeat Clay for president
+                    - Clay's needed votes were taken by Birney running for the Liberty Party
+            - To soothe hurt Democratic feelings over Van Buren's loss, they began advocating for the "reannexation" of Texas
+                - Implies that Texas was already part of the US with the Louisiana Purchase
+- 1845: Congress delcared Texas part of the US
+    - 5 days before Polk's inauguration
+
+### The Road to War
+
+- President Polk goals:
+    1. Reduce the tariff
+    2. Restablish the Independent Treasury system
+    3. Settle Oregon dispute
+    4. Bring California into the Union
+- First 2 accomplished by Congress
+- 3rd was accomplished with an agreement with Great Britain dividing Oregon at 49 parallel
+- Mexico refused to sell California
+    - 1846: Polk planning military action
+- 1846: Zachary Taylor moves into land claimed by both countries
+    - Region between Nueces River and Rio Grande
+        - Between Texas and Mexico
+    - Provoked Mexico
+
+### The War and Its Critics
+
+- The **Mexican War** was the first American conflict with American soldiers on forgein soil
+- Manifest destiny + expansionism = most Americans supported the war
+    - However the North feared that the main purpose of this was to strengthen slavery
+- 1846: Henry David Thoreau jailed in Massachusetts for refusing to pay taxes as a protest against the war
+    - Justified his actions by writing "On Civil Disobedence"
+        - Inspired later non violence resistence to unjust laws
+            - Ex: Martin Luther King Jr.
+- Another critic of the war was Abraham Lincoln
+    - 1846: Elected to Congress from Illinois (Whig)
+    - Questioned wheter it was really Mexico who started the war
+        - Unpopular in Illinois
+    - He had agreed to serve only 1 term in Congress
+        - But after a Democrat took his seat in 1848, people blamed it on his criticism of the war
+
+### Combat in Mexico
+
+- 60,000 US volunteers
+- Fought on 3 fronts
+    - 
