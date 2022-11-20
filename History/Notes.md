@@ -4718,7 +4718,6 @@ This change would allow voters to vote for the candidates they want, not the can
 
 https://www.nytimes.com/interactive/2022/11/08/us/elections/results-nevada-question-3-establish-open-primaries-and-ranked-choice-voting.html
 
-
 # Chapter 13 - A House Divided
 
 - 1855: Thomas Crawford designed statue for the Capitol's Dome
@@ -4846,8 +4845,118 @@ https://www.nytimes.com/interactive/2022/11/08/us/elections/results-nevada-quest
 
 - 60,000 US volunteers
 - Fought on 3 fronts
-    -
-- TODO FINISH
+- 1846: California insurrection
+    - Freed from Mexican control
+    - Named Captain John C. Fremont ruler
+        - Head of a western scientific exploration
+    - End goal was US annexation which happened
+    - General Kearney occupied Sante Fe and put down a Mexican uprising
+- 1847: Taylor defeats Santa Anna's army at the Battle of Buena Vista
+    - Mexican government still refused to negioate
+    - American forces under Scott march from Veracruz to Mexico City
+- 1848: Treaty of Guadalupe Hidalgo
+    - Confirmed annexation of Texas
+    - Mexico ceded California and New Mexico, Arizona, Nevada, Utah
+- The new land was 1/3 of the new total land (increased size by 50%)
+    - The new Mexican border divided families and split trade routes
+    - The US promised equal rights for the newly added "male citizens"
+
+### The Texas Borderland
+
+- 1836: Texas was independent
+    - *Anglos* (white settlers from the East) and *Tejanos* worked together for independence
+- Good relations between them quickly ended
+    - *Anglos* in search of land and resources pushed out some Mexicans
+        - Also worried they were loyal to Mexico
+            - 1842: Juan Seguin (*Tejano*) was driven out of San Antonio
+                - He was Mayor and had helped the revolt
+- *Tejanos* became confirned to unskilled agricultural or urban labor
+    - Some *Tejanos* used their ambiguous identities for their advantage
+        - Claimed to be citizens of Mexico to avoid the Conderate Draft
+- The disputed land in southern Texas was actually controlled by the Comanche Indians
+    - Remained contested after US annexation until 1860s/1870s when Comanche control was finally broken
+
+### Race and Manifest Destiny
+
+- 1840s: US territorial expansion was seen as proof of the superiority of the "Anglo-Saxon race"
+    - A race mostly defined by its opposites: blacks, Indians, Hispanics, Catholics
+    - Link between American freedom and inate qualities of Anglo-Saxon Protestants
+        - Part of why all of Mexico was not annexed was because they were worried about assimilating Mexico's non white Chritistians
+            - People "unfit" for citizenship in a republic
+- Local circumstances defined the race
+    - Texas "Spanish" Mexicans in positions of power = white
+    - New Mexico Indians and Mexicans = "too Mexican"
+- Because of lack of white migration, New Mexico was not a state until 1912
+
+### Gold-Rush California
+
+- California had a non-Indian pop. of 15,000 when the Mexican War ended
+    - 1840s: 5 times as many people moved to Oregon compared to California
+- 1848: Gold discovered in the foothills of the Sierra Nevada Mountains
+    - A sawmill owned by Johann A. Sutter (Swiss imigrant)
+    - Began the **gold-rush**
+        - 1852: Non-Indian pop. 200,000
+        - 1860: Non-Indian pop. 360,000
+- People came from everywhere
+    - Expirenced miners from Mexico and South America
+    - Unexpirenced Americans from the East
+    - Overseas from Ireland, Germany, Italy, and Australia
+    - 1849-1851: 25,000 Chinese
+- Most were young men
+    - Women also came and ran resturants, boardinghouses or worked as laundresses, cooks, and prostitues
+        - But still in 1860: (men : women) = (3 : 1)
+- Early surface mines were quickly exhausted
+    - Had to mine underground
+        - Required investment of captial
+- This economic change worsened conflicts between the different racial/ethnic groups
+    - White miners created groups that denied/expelled forein miners from areas with gold
+        - Mexicans, Chileans, Chinese, French, and American Indians
+    - The state legislature created a $20/month tax on forgein miners
+        - Drivening them out of the state
+- For the California's Indians, the gold rush and absorption into the US was a disaster
+    - Gold seekers overrun Indian communities
+    - Miners, ranchers, and vigilantes murdered 1,000s of Indians
+        - State officals created bounties to private militia to attack the Indians
+        - Although California was a "free state" Indian childern declared orphans or vagrants were bought and sold as slaves
+        - 1860: California Indian pop. 30,000
+            - From 150,000 when the Mexican war ended
+
+### Opening Japan
+
+- The Mexican War gave the US East facing ports (sail to the East by going West)
+    - 1848-1860: US-China trade tripled
+- 1850s: The US wanted to open Japan to international trade
+    - Japan closed itself off for 2 centuries
+    - 1853-1854: American warships under **Commodore Matthew Perry** sail into Tokyo Harbor
+        - Younger brother of Oliver Perry, a hero in the War of 1812
+        - Asked to make a treaty by President Millard Fillmore, Perry demanded that the Japanese make a deal
+            - Worried about European invasions into China, impressed by Perry's naval tech, and impressed by a show put on demonstrating blackface, Japan agreed
+            - 1854: Opened 2 ports to US trade
+                - And Japan launched a program of modernization
+
+## A Dose of Arsenic
+
+- The acquisition of new US land once again raised the issue of slavery in the west
+- 1844-1845: Methodist and Baptists divide into north and south branches
+    - The 2 largest evangelical churches
+    - Example of the bonds of Union fraying
+
+### The Wilmot Proviso
+
+- Before 1846: Status of slavery in the US settled by state law or Missouri Compromise
+    - New land acquired from Mexico was not settled
+- 1846: Congressman David Wilmot of Pennsylvania proposed that slavery should be banned in in all land from Mexico
+    - Political party lines crumbled as all the northerners (Whigs and Democratics) supported it
+        - While all southerners opposed it
+    - Passed in the House (where there are more northerners) but not the Senate (even number of slave and free states)
+- 1848: Opponents of slavery create the **Free Soil Party**
+    - Nominate Van Buren for president and Charles Francis Adams as running mate (son of JQA)
+        - MVB partly because of revenge for jettisoning him in 1844
+- Democrats nominate Lewis Cass of Michigan
+    - Believed that the settlers in the states should decide
+- 1848: President = Taylor, hero of the Mexican War and sugar planter
+    - MVB got 300,000 votes (14%)
+        - Showed that slavery spread past just the abolishtionitsts
 
 ## Class Notes - 11/18
 
