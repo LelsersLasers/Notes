@@ -1098,3 +1098,160 @@ Membrane transport
             - DNA synthesis
         - G2
             - Prepare for mitosis
+
+# 11/28
+
+- DNA &rarr; (transcription) RNA &rarr; (translation) protein
+    - mRNA
+    - Nucleotides &rarr; Nucleotides &rarr; amino acids
+- DNA does not leave the nucleus
+    - Needs ribosomes to make protein (and they are not in the nucleus)
+        - Need to build a messenger molecule: mRNA (transcription)
+    - The mRNA is "read" for polypeptide chains (proteins) to be assembled on ribosomes
+- ![Transcription And Translation](./Photos/TranscriptionAndTranslation.png)
+    - Note the 5' to 3' RNA while the DNA is 3-5
+
+## RNA
+
+- RNA is ribonucleic acid
+    - DNA is deoxyribonucleic acid
+- It contains ribose instead of deoxyribose
+    - DNA has 1 less oxygen
+- It is typically a single-stranded molecule
+- It has URACIL instead of THYMINE
+
+## Genetic code
+
+- The Triplet Code:
+    - Three-letter "words" on the RNA
+    - CODON: on mRNA
+    - ANTICODON: on tRNA
+        - Pattern that is the opposite of the codon on the mRNA
+- Appropriate amino Acids are biochemically attracted to the other end of the tRNA
+
+### Important codons ("words") on mRNA
+
+- Start: AUG
+- Stop: UAA, UGA, UAG
+
+## Transcription
+
+- Occurs in the **nucleus**
+- **RNA polymerase** opens DNA to expose a gene
+- A gene is simply a “recipe” of a long sequence of DNA base-pairs
+- DNA is opened at the **promotor** region
+- The gene ends at the **terminator** region
+- Therefore, mRNA is made by literally copying the gene
+    - Complementary copy
+        - Ex: C &rarr; G
+- Before the mRNA can leave the nucleus, finishing touches must be made
+- 3 phases of transcription:
+    - Initiation
+        - RNA polymerase binds to the promotor region
+        - RNA polymerase unwinds the DNA
+        - RNA polymerase begins to make a complementary copy of the gene
+    - Elongation
+        - RNA polymerase continues to make a complementary copy of the gene
+    - Termination
+        - RNA polymerase reaches the terminator region
+        - RNA polymerase releases the mRNA
+        - mRNA leaves the nucleus
+- ![Transcription 3 Phases](./Photos/Transcription3Phases.png)
+    - Note the 5-3 directions
+        - The DNA side that is "read": antisense
+            - The RNA is complementary to the read strand
+- Initiation of transcription for a  eukaryotic promoter:
+    - ![Transcription Eukaryotic initialization](./Photos/TranscriptionEukaryotic.png)
+- ![TranscriptionElongation](./Photos/TranscriptionElongation.png)
+    - RNA nucleotides from what you eat or from recycled RNA
+    - Direction the RNA is reading from: downstream
+
+### mRNA
+
+- ![mRNA](./Photos/mRNA.png)
+    - Pic: after it is assembled and processed
+- Special ends to slow down degradation
+    - 5' Cap: G + 3 phosphates (methylguanine)
+    - Poly-A tail: "buffer" of As
+    - mRNA is temporary
+        - Created when needed and should be destoyed when its down
+        - But still should last long enough for translation
+- Processing the mRNA transcript
+    - Adding the methylguanine cap and Poly-A tail
+
+#### pre-mRNA
+
+- DNA &rarr; pre-mRNA &rarr; mRNA
+- ![mRNA Intron Exon](./Photos/mRNAIntronExon.png)
+    - Exon: 'ex' = expressed = viewed = used
+    - The same DNA will make the same pre-RNA
+    - This step allow the same DNA to be used to make multiple different mRNA (and thus multiple different proteins)
+- ![Splicosome](./Photos/pre-mRNA.png)
+    - The intron pieces are not used for translation
+        - Are sent away to be recycled
+
+## Translation
+
+- ![Translation](./Photos/translation.png)
+- 3 sites within the ribose:
+    - E: *e*xit
+        - "Empty" tRNA leaves
+            - "Drops off" the amino acid
+    - P: binding (*p*eptidylt-tRNA binding site)
+        - Where the *p*olypeptide chain is being build
+    - A: entry (*a*rrival)
+        - Single amino acids come in
+- Codons: "3 letter words"
+- Ribosome uses all 3 types of RNA:
+    - mRNA: messenger RNA
+        - "Instructions" for the protein
+    - tRNA: transfer RNA
+        - Transfers amino acids
+        - The type of tRNA used in translation can only hold on to a single amino acid
+            - The amino acid depends on the tRNA (anticodon)
+            - Charging the tRNA:
+                - ![tRNA](./Photos/tRNA.png)
+                    - The 3 dangling bits on the tRNA are the anticodon
+                - Uses ATP to build it
+                - The energy is released when the amino acid is broken off at A site
+    - rRNA: ribosomal RNA
+        - Make up ribosomes
+- ![Ribosome](./Photos/ribosome.png)
+    - Starts reading from the 5' side
+
+### Initalization of Translation 
+
+- ![Initalization Of Translation](./Photos/InitalizationOfTranslation.png)
+- Ribosome attaches to the start codon (AUG) of the mRNA
+- An initiation complex forms where the small subunit combines with mRNA, and initiator tRNA attaches with its amino acid
+
+### Elongation of Translation
+
+- ![Translation Elongation](./Photos/TranslationElongation.png)
+- Endergonic
+    - Requires energy to slide to read the next codon ("word")
+
+### Termination of Translation
+
+- ![Translation Termination](./Photos/TranslationTermination.png)
+1. Stops at an mRNA stop codon by the binding of proteins
+    - Release factors: the last tRNA does not carry an amino acid, but these special proteins instead
+2. The last tRNA is released from the ribosome and everything separates
+    - Ribosome subunits break and are recycled
+3. New polypeptide (protein) is released
+
+### Overview of Translation
+
+- Occurs in the cytoplasm & on ribosomes
+- mRNA attaches to the ribosome
+- INITIATION
+    - “Start” codon is read
+- ELONGATION
+    - One at a time, amino acids are brought over to ribosomes by specific tRNA’s
+    - Amino acids covalent bond to one another forming a polypeptide chain
+- TERMINATION
+    - A “stop” codon is read & terminates the process
+
+## Transcription and translation overview
+
+![Transcription And Translation Overview](./Photos/TranscriptionAndTranslationOverview.png)
