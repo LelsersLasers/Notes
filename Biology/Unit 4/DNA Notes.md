@@ -127,7 +127,7 @@
 	- Works in both directions from the bubble
 - DNA gyrase = Tepoisomerase
 	- As helicase is unwinding the DNA, it cuts the DNA and then reconnects it
-		- Releases the press pressure caused by helicase unwinding
+		- Releases the pressure caused by helicase unwinding
 - Single stranded binding protein
 	- Keeps the 2 strands split
 	- Would want to rejoin immediately after the helicase

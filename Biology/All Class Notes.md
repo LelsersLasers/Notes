@@ -1158,8 +1158,10 @@ Membrane transport
         - mRNA leaves the nucleus
 - ![Transcription 3 Phases](./Photos/Transcription3Phases.png)
     - Note the 5-3 directions
-        - The DNA side that is "read": antisense
-            - The RNA is complementary to the read strand
+        - The DNA side that is "read" to make the RNA (template strand): *antisense*
+            - The RNA is complementary to the "read" strand
+            - The other strand (nontemplate strand) is the *sense* strand (or coding strand)
+                - Because the RNA is identical to the coding strand (other than T &rarr; U)
 - Initiation of transcription for a  eukaryotic promoter:
     - ![Transcription Eukaryotic initialization](./Photos/TranscriptionEukaryotic.png)
 - ![TranscriptionElongation](./Photos/TranscriptionElongation.png)
@@ -1313,6 +1315,8 @@ Membrane transport
     - During translation, often only the first 2 bases of the codon are used
         - 4^3 = 64, but only 20 amino acids
     - So, in many cases, if the 3rd base is changed, it could have no effect
+- Missense: (a stop codon or an amino acid) &rarr; a different amino acid
+- Nonsense: an amino acid &rarr; a stop codon
 
 #### Sickle cell
 
@@ -1320,6 +1324,7 @@ Membrane transport
 - Some (point mutation &rarr; amino acid switches) are not critical
 - But in this example, the change is in an important structural part of the protein
     - Folds and shapes differently
+        - Structure determins function
 
 ### Frameshift mutations
 
@@ -1329,3 +1334,5 @@ Membrane transport
         - 3 bases at a time
     - Adding or deleting 1 base will offset all the remaining bases
         - Could change all the amino acids
+- If you delete or add a multiple of 3 bases, then there will be deleted or added amino acids
+    - But the rest of the polypeptide chain will be unaffected
