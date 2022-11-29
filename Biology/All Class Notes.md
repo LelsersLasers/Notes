@@ -1123,7 +1123,7 @@ Membrane transport
 ## Genetic code
 
 - The Triplet Code:
-    - Three-letter "words" on the RNA
+    - Three-letter "words" on the DNA
     - CODON: on mRNA
     - ANTICODON: on tRNA
         - Pattern that is the opposite of the codon on the mRNA
@@ -1179,7 +1179,7 @@ Membrane transport
 - Processing the mRNA transcript
     - Adding the methylguanine cap and Poly-A tail
 
-#### pre-mRNA
+#### pre-mRNA (primary transcript, "rough draft")
 
 - DNA &rarr; pre-mRNA &rarr; mRNA
 - ![mRNA Intron Exon](./Photos/mRNAIntronExon.png)
@@ -1189,6 +1189,8 @@ Membrane transport
 - ![Splicosome](./Photos/pre-mRNA.png)
     - The intron pieces are not used for translation
         - Are sent away to be recycled
+    - Finished mRNA is sent to the cytoplasm for translation
+    - snRNPs: small nuclear ribonucleoproteins 
 
 ## Translation
 
@@ -1213,11 +1215,11 @@ Membrane transport
                 - ![tRNA](./Photos/tRNA.png)
                     - The 3 dangling bits on the tRNA are the anticodon
                 - Uses ATP to build it
-                - The energy is released when the amino acid is broken off at A site
+                    - The energy is released when the amino acid is broken off at A site
     - rRNA: ribosomal RNA
         - Make up ribosomes
 - ![Ribosome](./Photos/ribosome.png)
-    - Starts reading from the 5' side
+    - Starts reading from the 3' side
 
 ### Initalization of Translation 
 
@@ -1236,6 +1238,7 @@ Membrane transport
 - ![Translation Termination](./Photos/TranslationTermination.png)
 1. Stops at an mRNA stop codon by the binding of proteins
     - Release factors: the last tRNA does not carry an amino acid, but these special proteins instead
+        - Is unable to "pick up" the polypeptide chain that is built at the P site
 2. The last tRNA is released from the ribosome and everything separates
     - Ribosome subunits break and are recycled
 3. New polypeptide (protein) is released
@@ -1254,4 +1257,75 @@ Membrane transport
 
 ## Transcription and translation overview
 
-![Transcription And Translation Overview](./Photos/TranscriptionAndTranslationOverview.png)
+- ![Transcription And Translation Overview](./Photos/TranscriptionAndTranslationOverview.png)
+- Triplet (DNA) &rarr; codon (mRNA) &rarr; anticodon (tRNA) &rarr; amino acid
+
+# 11/29
+
+## 5' and 3'
+
+- DNA and RNA are *made* in its 5' to 3' direction
+- The template strand *read* in its the 3' to 5' direction
+
+## Eukaryotic vs. prokaryotic protein synthesis
+
+- Prokaryotes don’t have nuclei, so they need not wait for mRNA to exit the nucleus
+- Very little RNA processing in prokaryotes, so mRNA is translated very quickly
+- Ribosomes attach to mRNA and protein synthesis begins before transcription is complete
+- Both:
+    - Many copies of the proteins can be made at a time from the same mRNA
+        - Once one ribosome has moved along the mRNA, another can attach and do the same
+        - Example - polyribosomes:
+            - ![Polyribosome](./Photos/PolyRibosome.jpg)
+- ![Eukaryotic vs. Prokaryotic](./Photos/TranscriptionTranslationProVEuk.png)
+
+## Mutations
+
+- ![Mutation](./Photos/PointMutation.png)
+- Mutation: any change in the nucleotide sequence
+- Transposable elements
+    -  "jumping genes"
+    - Sequences that move from one location on the genome to another
+- Cause of mutations:
+    - Radiation
+        - Ex: from UV, x-rays, gamma rays, beta rays, etc
+    - Carcinogens
+        - Cancer causing agents
+            - Spreads the mutations
+        - All carcinogens are mutagens
+        - Metastasis: the development of secondary malignant growths at a distance from a primary site of cancer
+- Mutagen: something that causes/increases mutations
+- Cells most at risk: those that divide more often
+    - More chances to make a mistake
+    - Ex: skin cells
+
+### Point mutations
+
+- ![Base Pair Substitution](./Photos/BasePairSubstitution.png)
+- "Point": just thing 1 is changed/substituted
+    - If it is on the DNA, then it will last and effect all the mRNA that is made from it
+    - If it is on the mRNA, it only effects the proteins made on that 1 batch of proteins made from that mRNA
+- Mutations occurring in DNA often show up during translation
+- Base-pair substitution
+    - A type of mutation involving replacement or substitution of a single nucleotide base with another in DNA or RNA molecule
+        - 1 base is swapped for another
+- **Wobble effect**:
+    - During translation, often only the first 2 bases of the codon are used
+        - 4^3 = 64, but only 20 amino acids
+    - So, in many cases, if the 3rd base is changed, it could have no effect
+
+#### Sickle cell
+
+- ![Sickle Cell](./Photos/SickleCell.png)
+- Some (point mutation &rarr; amino acid switches) are not critical
+- But in this example, the change is in an important structural part of the protein
+    - Folds and shapes differently
+
+### Frameshift mutations
+
+- ![Frameshift](./Photos/Frameshift.png)
+- Insertion/deletion causes a **frameshift**
+    - DNA and RNA is read in "frames"
+        - 3 bases at a time
+    - Adding or deleting 1 base will offset all the remaining bases
+        - Could change all the amino acids
