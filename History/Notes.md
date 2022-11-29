@@ -4534,6 +4534,9 @@ becuase "the potential scrutiny from all of those people rushing out of the buil
 - Fredrick Douglass - 1852:
     - After Independence Day
         - What is July 4 to a slave?
+        - To the Rochester Ladies' Anti-Slavery Society in Rochester, New York
+        - The Compromise of 1850 had failed to resolve the controversy over the admission of new slaveholding states to the Union
+        - The Fugitive Slave Act passed by Congress as part of this compromise was bitterly resented by the Northern states. 
     - Recapture the intial mission of the DoI
 
 ### Gentlemen of Property and Standing
@@ -5126,3 +5129,80 @@ https://www.nytimes.com/interactive/2022/11/08/us/elections/results-nevada-quest
 - Frontier life created Americans that were socially mobile, ready for adventure, bent on individual self-improvement, and committed to democracy
     - (West = America) = (America = World) = (young, new, free, independent = the standard)
 - The West was a sort of “pressure valve”
+
+## Class Notes - 11/29
+
+### Fredrick Douglass
+
+#### Crash Course
+
+- Writer
+    - Made people aware of the cruelty of slavery
+- Seperated from his enslaved mom
+    - 50% of slave trade destroyed nuclear families
+    - 25% of slave trade destroyed marriage
+- Secretly taught other slaves to read
+    - He, himself he learned to read dispite his owner's wishes
+- Had a hard life on the plantations
+    - Beaten, whipped, overworked
+    - Eventually fought back against his abusive owner (Edward Covey)
+        - Made him want a better life for himself and other slaves
+        - Physically resistance
+- Married free black women, Anna Murray
+    - She financially supported him/the family
+    - Helped him escape
+        - Falling in love with a free women pushed him over the edge of wanting freedom
+- They settled in Massachsetts
+    - Changed last name to Douglass
+    - Speaches and written work
+        - Turned people to the abolitionist movement
+        - Or further convinced other abolitionists
+- His first book (Life of Frredrick Douglass) was very good
+    - White's questioned if a former slave could write something so good
+- Created newspaper, *The North Star*
+    - Abolitionist, equality of the sexes
+    - Fugitive Slave Act of 1793
+        - Bounty hunters for slaves
+    - 1850: Fugitive Slave Law
+        - Made citizens help in slave searches
+        - Blacks question if freedom and equality was possible in US
+- Fredrick Douglass belived God was on his side
+    - But he belived he should not rely on divine intervention
+- Convinced President Lincoln to allow blacks to fight
+    - Proved they were committed to the US
+- 1865: Emancipation Proclamation
+    - Douglass's work and beliefs helped convinced Lincoln to do this
+- Fredrick Douglass: ?Founding Father?
+    - Helped set the US on a course to live up to its ideals
+
+#### “What To the Slave Is the Fourth of July?” Speech (1852)
+
+##### Part 1
+
+What is his opinion of the American Founders?
+What characteristics does he praise about them?
+What is their most significant accomplishment?
+
+- He praises the Founders for their courage and determination
+    - They set up the US in a good way
+- Risked their lives and fortunes to create a new nation
+    - Gave up personal gain to commit to a greater cause
+    - "They loved their country better than their own private interests"
+- The created the Declaration of Independence
+    - Gave life to the nation
+- The nation is young
+    - Things can still change
+
+Douglass repeatedly uses the pronouns “you” and “your” (rather than “our” and "ours”) throughout this section.
+Why does he do this?
+
+- Speaking to white people
+    - White women
+
+##### Part 2
+
+"For it is not light that is needed, but fire; it is not the gentle shower, but thunder. We need the storm, the whirlwind, and the earthquake. The feeling of the nation must be quickened; the conscience of the nation must be roused; the propriety of the nation must be startled; the hypocrisy of the nation must be exposed; and its crimes against God and man must be proclaimed and denounced."
+
+- "Your independence"
+    - Not liberty and justice for **all**
+        - Just for whites
