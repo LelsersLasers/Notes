@@ -4937,30 +4937,6 @@ https://www.nytimes.com/interactive/2022/11/08/us/elections/results-nevada-quest
             - 1854: Opened 2 ports to US trade
                 - And Japan launched a program of modernization
 
-## A Dose of Arsenic
-
-- The acquisition of new US land once again raised the issue of slavery in the west
-- 1844-1845: Methodist and Baptists divide into north and south branches
-    - The 2 largest evangelical churches
-    - Example of the bonds of Union fraying
-
-### The Wilmot Proviso
-
-- Before 1846: Status of slavery in the US settled by state law or Missouri Compromise
-    - New land acquired from Mexico was not settled
-- 1846: Congressman David Wilmot of Pennsylvania proposed that slavery should be banned in in all land from Mexico
-    - Political party lines crumbled as all the northerners (Whigs and Democratics) supported it
-        - While all southerners opposed it
-    - Passed in the House (where there are more northerners) but not the Senate (even number of slave and free states)
-- 1848: Opponents of slavery create the **Free Soil Party**
-    - Nominate Van Buren for president and Charles Francis Adams as running mate (son of JQA)
-        - MVB partly because of revenge for jettisoning him in 1844
-- Democrats nominate Lewis Cass of Michigan
-    - Believed that the settlers in the states should decide
-- 1848: President = Taylor, hero of the Mexican War and sugar planter
-    - MVB got 300,000 votes (14%)
-        - Showed that slavery spread past just the abolishtionitsts
-
 ## Class Notes - 11/18
 
 ### Mexico and Texas
@@ -5206,3 +5182,126 @@ Why does he do this?
 - "Your independence"
     - Not liberty and justice for **all**
         - Just for whites
+
+## A Dose of Arsenic
+
+- The acquisition of new US land once again raised the issue of slavery in the west
+- 1844-1845: Methodist and Baptists divide into north and south branches
+    - The 2 largest evangelical churches
+    - Example of the bonds of Union fraying
+
+### The Wilmot Proviso
+
+- Before 1846: Status of slavery in the US settled by state law or Missouri Compromise
+    - New land acquired from Mexico was not settled
+- 1846: Congressman David Wilmot of Pennsylvania proposed that slavery should be banned in in all land from Mexico
+    - Political party lines crumbled as all the northerners (Whigs and Democratics) supported it
+        - While all southerners opposed it
+    - Passed in the House (where there are more northerners) but not the Senate (even number of slave and free states)
+- 1848: Opponents of slavery create the **Free Soil Party**
+    - Nominate Van Buren for president and Charles Francis Adams as running mate (son of JQA)
+        - MVB partly because of revenge for jettisoning him in 1844
+- Democrats nominate Lewis Cass of Michigan
+    - Believed that the settlers in the states should decide
+- 1848: President = Taylor, hero of the Mexican War and sugar planter
+    - MVB got 300,000 votes (14%)
+        - Showed that slavery spread past just the abolishtionitsts
+
+### Crisis and Compromise
+
+- 1848: "Springtime of nations"
+    - Democratic uprising against monarchies of Europe
+    - Demands from ethic minorities for self-determination
+    - Example of: American ideals of liberty and self-government spreading
+    - Chartist movement in Great Britain organized massive demonstrations in support of democratic reforms
+    - French monarchy &rarr; republic
+    - Hungarians revolt against Austria
+    - Italian and German unification
+- Short lived
+    - Chartism ended quickly
+    - Emperor Napoleon III of France restored monarchy
+    - Budapest, Rome, and other revolts were crushed
+- Worried Americans that their liberty could also be short lived
+    - Slavery was more and more of an issue
+    - 1850: California asks to be admitted into the Union as a free state
+        - South | Would upset balance in Senate
+        - **Compromise of 1850**
+            - California admitted as a free state
+            - Slave trade (not slavery itself) was abolished in the capital
+            - New law to help South with runaway slaves
+            - Status of slavery in Mexican Succession land would be left to their white inhabitants
+            - US would pay the debt Texas accumulated while trying to be independent
+
+### The Great Debate
+
+- Webster (Massachusetts) | Willing to give up Wilmot Proviso for this compromise
+- Calhoun (South Carolina) | Rejected the compromise
+    - | North must yeild
+- William H. Seward (New York) | Opposed compromise
+    - | Morality > Constitution
+        - | Issue of slavery should not depend on laws, it is just wrong
+    - Voice of abolitionism in the Senate
+- President Taylor | Just admit California to the Union
+    - Suddenly died in 1850
+        - Replaced by Millard Fillmore (New York) who supported the compromise
+            - Secured adoptation of the compromise
+
+### The Fugitive Slave Issue
+
+- The new **Fugative Slave Act** of 1850 was controversial
+    - Citizens could be called on to help capture runaway slaves and return them to their owners
+    - Made it a crime to help runaway slaves
+    - Special federal commissioners determined the fate of alleged fugitives without jury trial or testimony
+    - Example of: South supporting strong federal intervention rather than state rights
+        - Eo: Security of slavey > consisitency of the "state's rights" principle
+- 1850s: 300+ federal tribunals and 157 slaves returned to the South
+    - At the government's expense
+- Fruther divided the North and South
+    - And further strengthed the Underground Railroad
+        - Consolided the northern part and was able to use railroads to bring them to Canda
+        - 1855-1856: Sydeny Howard Gay documented the Underground Railroad and 200 people shuffled from Philadelphia to Canada and New York
+- Fugatives, aided by abolitionists, sometimes violently resisted recapture
+    - 1851: A crowd resuced escaped slave, Jerry, from jail in Syracuse and brought him to Canada
+    - 1851: Owner killed trying to recapture a slave in Pennsylvania
+- In general, many fugatives and free blacks rushed to Canada
+    - Against the image of US = asyulm for freedom/the oppressed
+
+### Douglas and Popular Sovereignty
+
+- 1852 eletion
+    - Democrat Franklin Pierce rolled Whig Winfield Scott
+        - Ran on the idea that the compromise = resolution of the slavery issue
+- 1854: Stephen A. Douglas proposed Nebraska and Kanas added to the Union from Lousisana Purchase land
+    - Douglas wanted a transcontinental railroad to support western development
+    - South | this will further disrupt Senate balance
+    - Douglas propsed that the new states decide status of slavery based on popular sovereignty
+        - Decide by local settlers not Congress
+        - Douglas | This is a balance between the extremes of the North and South
+
+### The Kansas-Nebraska Act
+
+- These lands where the in the middle of the US
+    - Directly in the path of westward expansion
+- Slavery should be banned in these lands based on the Missouri Compromise
+    - Douglas's plan would repeal the Missouri Compromise
+        - In response, a group of abolitionist congressmen issued the *Appeal of the Independent Democrat*
+            - | The Missouri Compromise was a "sacred compact" and should not be repealed
+            - | This was an attempt to turn free territory into despotic slave territory
+            - Convinced Northererns that all the South wanted was to spread slavery into the West
+- 1854: **Kansas-Nebraska Act**
+    - Reorganized American poltics
+        - Shattered the demotricatic party
+        - At the same time, the Whig party collapsed as it was unable to come up with a unified response
+        - Result:
+            - South = Democratic Party
+            - North = new Republican Party
+                - Whigs + unhappy democrats
+                - Goal: prevent expansion of slavery
+
+## Homework Question - 11/29: John Brown
+
+I think John Brown was a murder.
+I belive that Johm Brown belived in the "right" (as in modern) ideas about slavery (that it was bad, racial equality, etc).
+However, I think the way in which he expressed his beliefs was wrong.
+I can understand his need of violence, as he was both retaliating against the violence done by those who burned Lawrence and using it to resist pro-slavery groups,
+but I think violence, especially out of revenge is wrong and not fit for a martyr, symbol, icon.
