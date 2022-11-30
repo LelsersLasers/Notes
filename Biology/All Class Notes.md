@@ -1336,3 +1336,72 @@ Membrane transport
         - Could change all the amino acids
 - If you delete or add a multiple of 3 bases, then there will be deleted or added amino acids
     - But the rest of the polypeptide chain will be unaffected
+
+## Meiosis
+
+### ASEXUAL REPRODUCTION
+
+- ![Asexual Reproduction](./Photos/AsexualReproduction.jpg)
+- ![Asexual Reproduction](./Photos/AsexualReproduction2.png)
+- One parent alone produces offspring
+- Offspring inherits same # of chromosomes (& genes on it)
+- Theoretically, the offspring is a “clone” of its parent
+- Binary fission
+- Basically mitosis & cytokinesis (for eukaryotes)
+- Gets genetic variation from mutations
+
+### SEXUAL REPRODUCTION
+
+Involves:
+- Meiosis
+- Production of gametes
+    - Sex cells: sperm and egg
+    - Haploid: 1 set of chromosomes
+- Fertilization
+
+### The Human Genome
+
+- 23 pairs of chromosomes
+    - Pairs 1-22: AUTOSOMAL chromosomes
+        - 1 = biggest, 22 = smallest
+    - Pair 23: SEX chromosomes
+- Paired chromosomes-”HOMOLOGOUS” chromosomes
+    - Homologous: relatively same size & shape
+- Pair 23 different for males
+    - Not homologous in males
+
+### MEIOSIS
+
+- ![Meiosis Overview](./Photos/MeiosisOverview.png)
+- Occurs in germ cells
+    - Germs cells (& somatic cells) are DIPLOIDS (2n)
+        - For humans 2n = 46
+    - Germ cells undergo meiosis to form gametes (sperm & egg)
+- DIPLOID (2n) &rarr; HAPLOID (1n)
+- 2 sets of cell division:
+    - Meiosis I
+    - Meiosis II
+
+#### Meiosis I
+
+- ![Meiosis I](./Photos/Meiosis1.png)
+- 4 stages: 
+    - Prophase I
+    - Metaphase I
+    - Anaphase I
+    - Telophase I
+
+#### Meiosis II
+
+- ![Meiosis II](./Photos/Meiosis2.png)
+- 4 stages: 
+    - Prophase II
+    - Metaphase II
+    - Anaphase II
+    - Telophase II
+- At the end of meiosis II, four daughter cells are produced
+    - Each of these resulting daughter cells is haploid
+
+### Mitosis vs. Meiosis
+
+- ![Mitosis vs. Meiosis](./Photos/MitosisVsMeiosis.png)
