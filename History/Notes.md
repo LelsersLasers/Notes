@@ -5297,3 +5297,11 @@ Why does he do this?
             - North = new Republican Party
                 - Whigs + unhappy democrats
                 - Goal: prevent expansion of slavery
+
+## Homework Question - 11/29: John Brown
+
+I think John Brown was a murder.
+I belive that Johm Brown belived in the "right" (as in modern) ideas about slavery (that it was bad, racial equality, etc).
+However, I think the way in which he expressed his beliefs was wrong.
+I can understand his need of violence, as he was both retaliating against the violence done by those who burned Lawrence and using it to resist pro-slavery groups,
+but I think violence, especially out of revenge is wrong and not fit for a martyr, symbol, icon.
