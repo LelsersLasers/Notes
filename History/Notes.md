@@ -5359,7 +5359,7 @@ I think it is good because it will help avoid sectional conflicts and settle the
 #### Dred Scott Decision
 
 The Dred Scott Decision held that the United States Constitution was not meant to include American citizenship for people of black African descent, regardless of whether they were enslaved or free, and so the rights and privileges that the Constitution confers upon American citizens could not apply to them.
-I belive that this decision is wrong and territories could effectively exclude slavery if they wanted (Freeport Doctrine/popular sovereignty).
+I belive that this decision is wrong because I think that Congress has no ability to regulate slavery in the territories. 
 
 #### John Brown's Raid
 
@@ -5369,9 +5369,10 @@ Also this does not help sectional conflicts, instead making both sides more extr
 
 ### 4 - The Plan Forward
 
-4. Explain where the country should go from here and why. E.g., "I think we should embrace/reject/revise, etc. the Compromise of 1850... I think this because..."
-
-TODO
+I think the Missouri Compromise should be repealed because it is unfair to the people of the territories.
+I think that the Kansas-Nebraska Act is a good compromise and a replacement for the Missouri Compromise
+because it will allow the people to decide for themselves.
+It will also relieve sectional tensions and allow for the expansion of the country.
 
 ### 5 - Other Leaders
 
@@ -5384,10 +5385,12 @@ Jefferson Davis was the US Secretary of War under President Pierre is a US Senat
 
 Abraham Lincoln was a self-taught lawyer who served as an Illinois congress member.
 In my debates with him (Lincoln-Douglas Debates), he emphasized human equality and economic opportunity for all.
+He believed that the nation could not long survive as half slave and half free.
 
 #### William Seward
 
 William Seward was an opponent of the spread of slavery and a US Senator from New York.
+He believed that slavery was condemned by a higher law.
 
 ### 6 - Talking Points
 
@@ -5410,7 +5413,7 @@ and because people will choose what is best for them, it will lead to further ec
 #### South Carolina plantation owner
 
 Mr. South Carolina plantation owner, I know slaves are important to your economic well being,
-and because popular sovereignty follows the will of the masses, if most of the people in the South support slavery,
+and because of popular sovereignty if most of the people in the South support slavery,
 then it should be allowed there.
 
 #### Maryland slaveholder/Union supporter
