@@ -5354,7 +5354,7 @@ This would mean a repeal of the Missouri Compromise which would prohibit slavery
 #### Compromise of 1850, with its Fugitive Slave Law
 
 Compromise of 1850, with its Fugitive Slave Law, called for the admission of California as a "free state," provided for a territorial government for Utah and New Mexico, established a boundary between Texas and the United States, called for the abolition of slave trade in Washington, DC, and amended the Fugitive Slave Act.
-I think it is good because it will help avoid sectional conflicts.
+I think it is good because it will help avoid sectional conflicts and settle the slavery issue
 
 #### Dred Scott Decision
 
@@ -5365,44 +5365,69 @@ I belive that this decision is wrong and territories could effectively exclude s
 
 John Brown's raid on Harpers Ferry was an effort by abolitionist John Brown to initiate a slave revolt in Southern states by taking over the United States arsenal at Harpers Ferry, Virginia.
 I think that this is bad because it defeats the purpose and ideas of popular sovereignty.
+Also this does not help sectional conflicts, instead making both sides more extreme.
 
 ### 4 - The Plan Forward
 
+4. Explain where the country should go from here and why. E.g., "I think we should embrace/reject/revise, etc. the Compromise of 1850... I think this because..."
 
+TODO
 
 ### 5 - Other Leaders
 
 #### Jefferson Davis
 
+Jefferson Davis was the US Secretary of War under President Pierre is a US Senator from Mississippi.
+(Big South guy, pro-slavery, helped in the Mexican-American War.)
+
 #### Abraham Lincoln
+
+Abraham Lincoln was a self-taught lawyer who served as an Illinois congress member.
+In my debates with him (Lincoln-Douglas Debates), he emphasized human equality and economic opportunity for all.
 
 #### William Seward
 
+William Seward was an opponent of the spread of slavery and a US Senator from New York.
+
 ### 6 - Talking Points
+
+Note: Mr. vs Ms. depends on the person.
+Mr. is used for all of them because that it what was used in the examples.
 
 #### Black New York Abolitionist
 
+Mr. Black New York Abolitionist, I know that you want slavery abolished in the South and prevented from spreading to the West.
+However, I think popular sovereignty is the best way to do this.
+It could allow for a peaceful transition from slavery to abolition if that is what the people want.
+
 #### Pennsylvania textile manufacturer
+
+Pennsylvania textile manufacturer, I know the Southern cotton is important to your buissness,
+and popular sovereignty will likely not interfere cotton production.
+However, it will promote the people's right to choose in the new territories
+and because people will choose what is best for them, it will lead to further economic development.
 
 #### South Carolina plantation owner
 
+Mr. South Carolina plantation owner, I know slaves are important to your economic well being,
+and because popular sovereignty follows the will of the masses, if most of the people in the South support slavery,
+then it should be allowed there.
+
 #### Maryland slaveholder/Union supporter
+
+Mr. Maryland slaveholder/Union supporter, my policies involving popular sovereignty will ease sectional tensions,
+and finally solve the slavery question within the US, guaranteeing the Union's survival.
+(*This is not really true, see 'bleeding Kansas'*)
 
 #### Indiana ‘Free Soil Party’ member
 
+Mr. Indiana ‘Free Soil Party’ member, I understand that you oppose the expansion of slavery into the western territories,
+but I believe that popular sovereignty will better represent the will of the people and avoid conflicts.
+The people in those areas should decide what is best for them, not the people elsewhere.
+
 #### Recent Irish Immigrant
 
-
-4. Explain where the country should go from here and why. E.g., "I think we should embrace/reject/revise, etc. the Compromise of 1850... I think this because..."
-5. Describe briefly (one or two sentences) the other leaders. E.g., Abraham Lincoln was a self-taught lawyer who served as an Illinois congress member, etc... (REMEMBER: You don't know anything about any of the historical characters after John Brown's Raid in 1859, so saying "Lincoln would eventually become president" is unnecessary and should not play a role in your arguments.)
-6. Generate thoughtful questions/talking points for discussion.
-     If an interest group, write at least one thoughtful question for each leader related to your crisis or an issue important to you. For example, you might ask Stephen Douglas: "Mr. Douglas, if you are in favor of popular sovereignty, such as expressed in the Kansas-Nebraska Act, how do you reconcile this with the recent Dred Scott Supreme Court decision that requires all states to allow slavery?" Or, "Mr. Douglas, is it true that you dropped the last 's' on your last name so you wouldn't be associated with Frederick Douglass?" (likely a true story, but not necessarily relevant to your point... or is it? Hmmm.)
-     If a leader, come up with at least one important talking point for each interest group related to your interests.
-For example, if you are Abraham Lincoln, your one-sentence talking point might be: "Mr. South Carolina plantation owner, I know slaves are important to your economic well being, so rest assured that, while I oppose the spread of slavery into new territories, I have no intention of ending slavery where it exists already."
-
-
-Assigned Crises:
-Compromise of 1850, with its Fugitive Slave Law (Jefferson Davis, NY Abolitionist, Indiana Free Soiler)
-Kansas-Nebraska Act (Stephen Douglas, Pennsylvania Textile Owner)
-Dred Scott Decision (Abraham Lincoln, SC Plantation Owner, Recent Irish Immigrant)
-John Brown's Raid (William Seward, Maryland Pro-Union Slave Owner)
+Mr. Recent Irish Immigrant, I know that you are concerned both about about slaves taking jobs
+and northern manufacturers' reliance on southern slave produced cotton.
+Popular sovereignty will allow people to decide what is best for them,
+meaning slavery in the South would likely continue and slavery would remain out of northern factories.
