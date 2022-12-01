@@ -5330,3 +5330,79 @@ but I think violence, especially out of revenge is wrong and not fit for a marty
     - Ends justify the means
         - "Stealing to feed/save a family is justified"
     - Trolly problem: pull the lever to kill 1 instead of 5
+
+## Homework - 11/30: The Road to Civil War - Simulation
+
+## Stephen Douglas - Kansas-Nebraska Act
+
+### 1 - Introduction
+
+Hi, I am Stephen Arnold Douglas.
+I was born in Brandon, Vermont, on April 23, 1813.
+My father who served several terms in the Vermont House of Representatives died when I was just two months old.
+An important moment in my early life was when I helped arrange the first-ever state Democratic convention in 1835,
+and the next year I won election to the Illinois House of Representatives, defeating Whig Party candidate John Hardin.
+
+### 2 - Kansas-Nebraska Act
+
+The Kansas-Nebraska Act, drafted by me, *is peaceful settlement of national issues* and would open the west for expansion and devolpement.
+It would create two new western territories, Kansas and Nebraska where the status of slavery determined by popular sovereignty.
+This would mean a repeal of the Missouri Compromise which would prohibit slavery in the new territories.
+
+### 3 - Other Crises
+
+#### Compromise of 1850, with its Fugitive Slave Law
+
+Compromise of 1850, with its Fugitive Slave Law, called for the admission of California as a "free state," provided for a territorial government for Utah and New Mexico, established a boundary between Texas and the United States, called for the abolition of slave trade in Washington, DC, and amended the Fugitive Slave Act.
+I think it is good because it will help avoid sectional conflicts.
+
+#### Dred Scott Decision
+
+The Dred Scott Decision held that the United States Constitution was not meant to include American citizenship for people of black African descent, regardless of whether they were enslaved or free, and so the rights and privileges that the Constitution confers upon American citizens could not apply to them.
+I belive that this decision is wrong and territories could effectively exclude slavery if they wanted (Freeport Doctrine/popular sovereignty).
+
+#### John Brown's Raid
+
+John Brown's raid on Harpers Ferry was an effort by abolitionist John Brown to initiate a slave revolt in Southern states by taking over the United States arsenal at Harpers Ferry, Virginia.
+I think that this is bad because it defeats the purpose and ideas of popular sovereignty.
+
+### 4 - The Plan Forward
+
+
+
+### 5 - Other Leaders
+
+#### Jefferson Davis
+
+#### Abraham Lincoln
+
+#### William Seward
+
+### 6 - Talking Points
+
+#### Black New York Abolitionist
+
+#### Pennsylvania textile manufacturer
+
+#### South Carolina plantation owner
+
+#### Maryland slaveholder/Union supporter
+
+#### Indiana ‘Free Soil Party’ member
+
+#### Recent Irish Immigrant
+
+
+4. Explain where the country should go from here and why. E.g., "I think we should embrace/reject/revise, etc. the Compromise of 1850... I think this because..."
+5. Describe briefly (one or two sentences) the other leaders. E.g., Abraham Lincoln was a self-taught lawyer who served as an Illinois congress member, etc... (REMEMBER: You don't know anything about any of the historical characters after John Brown's Raid in 1859, so saying "Lincoln would eventually become president" is unnecessary and should not play a role in your arguments.)
+6. Generate thoughtful questions/talking points for discussion.
+     If an interest group, write at least one thoughtful question for each leader related to your crisis or an issue important to you. For example, you might ask Stephen Douglas: "Mr. Douglas, if you are in favor of popular sovereignty, such as expressed in the Kansas-Nebraska Act, how do you reconcile this with the recent Dred Scott Supreme Court decision that requires all states to allow slavery?" Or, "Mr. Douglas, is it true that you dropped the last 's' on your last name so you wouldn't be associated with Frederick Douglass?" (likely a true story, but not necessarily relevant to your point... or is it? Hmmm.)
+     If a leader, come up with at least one important talking point for each interest group related to your interests.
+For example, if you are Abraham Lincoln, your one-sentence talking point might be: "Mr. South Carolina plantation owner, I know slaves are important to your economic well being, so rest assured that, while I oppose the spread of slavery into new territories, I have no intention of ending slavery where it exists already."
+
+
+Assigned Crises:
+Compromise of 1850, with its Fugitive Slave Law (Jefferson Davis, NY Abolitionist, Indiana Free Soiler)
+Kansas-Nebraska Act (Stephen Douglas, Pennsylvania Textile Owner)
+Dred Scott Decision (Abraham Lincoln, SC Plantation Owner, Recent Irish Immigrant)
+John Brown's Raid (William Seward, Maryland Pro-Union Slave Owner)
