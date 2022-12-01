@@ -5271,7 +5271,7 @@ Why does he do this?
 - 1852 eletion
     - Democrat Franklin Pierce rolled Whig Winfield Scott
         - Ran on the idea that the compromise = resolution of the slavery issue
-- 1854: Stephen A. Douglas proposed Nebraska and Kanas added to the Union from Lousisana Purchase land
+- 1854: Stephen Douglas proposed Nebraska and Kanas added to the Union from Lousisana Purchase land
     - Douglas wanted a transcontinental railroad to support western development
     - South | this will further disrupt Senate balance
     - Douglas propsed that the new states decide status of slavery based on popular sovereignty
@@ -5305,3 +5305,28 @@ I belive that Johm Brown belived in the "right" (as in modern) ideas about slave
 However, I think the way in which he expressed his beliefs was wrong.
 I can understand his need of violence, as he was both retaliating against the violence done by those who burned Lawrence and using it to resist pro-slavery groups,
 but I think violence, especially out of revenge is wrong and not fit for a martyr, symbol, icon.
+
+## Class Notes - 11/30
+
+- Ethics:
+    - What is "right/good"?
+    - What is "wrong/bad"?
+- Deontology
+    - Immanuel Kant
+    - Morality: rule based
+        - Find best rules/laws
+    - Universalization
+        - Categorical imperative
+        - Would the world be better or worse if everyone followed a rule
+    - Action itself is critical
+        - Not the outcome
+        - "Stealing is the problem/bad, regardless of why/how it happened"
+    - Trolly problem: don't pull the lever because murder in any form is bad
+- Utilitarianism
+    - John Stuart Mill
+    - Morality: consquence based
+        - Only the result of the action matters
+    - Overall happiness is critical
+    - Ends justify the means
+        - "Stealing to feed/save a family is justified"
+    - Trolly problem: pull the lever to kill 1 instead of 5
