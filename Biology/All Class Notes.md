@@ -1387,21 +1387,92 @@ Involves:
 - ![Meiosis I](./Photos/Meiosis1.png)
 - 4 stages: 
     - Prophase I
+        - Same as mitosis + some other steps
+        - Synapse: homologous chromosomes pair up
+            - Homologous = similar
+            - Tetrad: 4 chromatids
+                - 2 homologous chromosomes
+        - Crossing over: homologous chromosomes exchange/swap genetic material
+            - Happens only on "inside" chromatids
+                - Will retain 1 unaltered chromatids
+            - Creates genetic variation
     - Metaphase I
     - Anaphase I
     - Telophase I
+- 1x Diploid (2n) &rarr; 2x Haploid (1n)
+    - Double the number of chromosomes
 
 #### Meiosis II
 
 - ![Meiosis II](./Photos/Meiosis2.png)
+- Basically the same as mitosis
 - 4 stages: 
     - Prophase II
     - Metaphase II
     - Anaphase II
     - Telophase II
+- 2x Haploid (1n) &rarr; 4x Haploid (1n)
+    - Split sister chromatids
 - At the end of meiosis II, four daughter cells are produced
     - Each of these resulting daughter cells is haploid
+
+# 11/30
+
+## Meiosis
 
 ### Mitosis vs. Meiosis
 
 - ![Mitosis vs. Meiosis](./Photos/MitosisVsMeiosis.png)
+- Similar
+    - Both started with diploid cells
+        - In humans: 46 chromosomes
+    - Both make new cells (and divide)
+    - Similar prophase, metaphase, anaphase, telophase, cytokinesis
+- Different
+    - Mitosis: 1 cell &rarr; 2 diploid cells
+        - Meiosis: 1 cell &rarr; 4 haploid cells
+    - Mitosis: daughter cells are identical to parent cell
+        - Meiosis: daughter cells are not identical to parent cell or each other
+
+### Independent assortment
+
+- ![Independent Assortment](./Photos/IndependentAssortment.png)
+- During meiosis I, homologous chromosomes line up randomly
+- Independent assortment
+    - The way one chromosome lines up has no effect on the way the other chromosome lines up
+```
+n = number of pairs of chromosomes
+2^n = number of possible combinations just by independent assortment
+humans: 2^23 = 8,388,608
+but because 2 people are involved it is actually (2^23)^2
+and there is almost infinite possible cross over combinations
+result: basically infinite possible combinations
+```
+
+### Crossing over
+
+- ![Crossing Over](./Photos/CrossingOver.png)
+- During prophase I, homologous chromosomes exchange genetic material
+- Crossing-Over
+    - Occurs when homologous chromosomes “cross-over” one another and “swap” some DNA
+    - Leads to variation in gametes
+
+### Gametogenesis
+
+- ![Gametogenesis](./Photos/Gametogenesis.jpg)
+- Females are born with them, but males constantly make them
+- Oogenesis
+    - Unequal
+        - 1 egg with a lot of cytoplasm and 3 small discarded polar bodies
+    - Only 1 sperm can fertilize the egg
+        - ![Egg](./Photos/Egg.png)
+        - Sperm + egg = zygote
+
+##  Chromosomes vs chromatids
+
+| | Chromosome | Chromatid | |
+| :-: | :-: | :-: | :- |
+| G1 | 2n | 2n | interphase status - chromatids = chromosomes |
+| G2 | 2n | 4n | replicated the DNA | 
+| After M1 | n | 2n | split into 2 haploid daughter cells (+ cross over happens) |
+| After M2 | n | n | sister chromatids split into 2 haploid daughter cells |
