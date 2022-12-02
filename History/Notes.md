@@ -5298,6 +5298,90 @@ Why does he do this?
                 - Whigs + unhappy democrats
                 - Goal: prevent expansion of slavery
 
+## The Rise of the Republican Party
+
+### The Northern Economy
+
+- The rise of the republican party reflected the economic and social changes in the North
+    - Completion of the market revolution
+    - Beginning of mass immigration from Europe
+- 1843-1857: Economic growth
+    - Especially in the North
+    - Result of the completion of the railroad network
+        - 1848 &rarr; 1860 = 5,000 &rarr; 30,000 miles of railroad
+        - In Ohio, Illinois, and Old Northwest
+        - Completed Northwest's trade's shift from South to the East
+            - Farmers no longer shipped goods on Mississippi River
+                - Instead used the railroads to send it directly to the East at a much cheaper cost
+    - Increased economic integration between the Northwest and the Northeast
+        - Groundwork for political unification of the Republican Party
+- Most northerners lived in small towns/rural areas
+    - But most did not work in agriculture
+- 2 main areas of industrial production
+    - Atlantic coast and Great Lakes area
+    - Driven by coal mining and iron manufacturing
+
+### The Rise and Fall of the Know-Nothings
+
+- 1854: Nativism turned into a political party
+    - Hostility to immigrants, especially Catholics
+    - Started meeting in secret and would answer "I know nothing" when asked about it's existence
+- **Know-Nothing Party** main idea: reserve political offices for native bornb Americans and resisit the Catholic Church undermining American values and education
+    - Quickly swept through Massachusetts
+    - Against the Kansas-Nebraska Act
+    - Also sometimes pro-prohibition
+- Didn't really have a lasting effect
+    - The immigrants from Europe where white and usually male
+        - By this time basically automatically gained the right to vote
+
+### The Free Labor Ideology
+
+- 1856: Republican Party = anti-slavery Democrats + northern Whigs + Free Soilers + Know-Nothings
+    - Claimed difference from "free society" and "slave society" showed the North as the home of progress, opportinuty, and freedom
+- Opposed slavery on the idea of "free labor"
+    - Each labor had the opportinuty to move up the ladder to land owning farmer, independent craftsman
+        - Become economically independent (which = freedom)
+    - While in the South there were only slaves degraded to below human, poor whites with no hope of improvement, and idle aristocrats
+        - Republicans | If slavery spread to the West, it would become like the South, and people would not benefit from it
+            - | Slavery must be kept out of the West to allow free labor to flourish
+- Republicans != abolitionists
+    - Wanted to stop the spread of slavery, noot fully remove it from the country
+    - However, many saw the nation's division into free and slave societies as something that would have to be addressed
+
+### "Bleeding Kansas" and the Election of 1856
+
+- The idea of free labor resonated well in the North and lead to the quick rise of the Republican Party
+- 1854-1855: 100s of pro-slavery Missourians crossed the border into Kansas to cast fraudulent ballots
+    - Kansas-Nebraska Act: made status of slavery depend on popular sovereinty (pop. vote based)
+- President Franklin Pierce recognized the legitimacy of the resulting proslavery legislature
+    - In response, settlers from free states established a rival government
+    - A civil war in Kansas breaks out
+        - 200 people die
+        - 1856: proslavery mob attacks free-soil strong hold of Lawrence and burn public buildings and pillgage private homes
+- **Bleeding Kansas** discredicted Douglas's policy of leaving the status of slavery up to the local population
+    - Further helped the Republican Party
+        - (Also in Congress, Preston Brooks (South Carolina) beat Charles Sumner (Massachussetts) unconscious with a cane)
+- Election of 1856 - parties:
+    - Republicans: John C. Fremont
+        - Ideal: Stop expansion of slavery
+    - Democrats: James Buchanan
+        - Was in Great Britain in 1854 and had no relation to the Kansas-Nebraska Act
+        - Ideal: Popular Sovereignty will solve the slavery issue
+    - Know-Nothings: Millard Fillmore
+- Election of 1856 - result:
+    - Fremont wins big in North
+        - 11 of 16 free states
+        - Democrats weaken
+    - Buchanan wins big in South
+        - All of the South + Illinois, Indiana, and Pennsylvania
+            - Enough to secure the presidency
+            - Republicans gain more strength and the presidency after existing for just 2 years
+    - Fillmore just for Maryland
+        - Basically the end of the Know-Nothings
+    - Example of: Political parties re-aligning along sectional divisions
+
+## The Emergence of Lincoln
+
 ## Homework Question - 11/29: John Brown
 
 I think John Brown was a murder.
