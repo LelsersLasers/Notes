@@ -5518,3 +5518,21 @@ Mr. Recent Irish Immigrant, I know that you are concerned both about about slave
 and northern manufacturers' reliance on southern slave produced cotton.
 Popular sovereignty will allow people to decide what is best for them,
 meaning slavery in the South would likely continue and slavery would remain out of northern factories.
+
+## Homework - 12/3: The Road to Civil War - Simulation Reflection
+
+### "My favorite moment of the simulation was when..."
+
+I think the "mill around time" was the most fun.
+It was unstructured and allowed for more discussion rather than specific answers and questions.
+
+### "I felt I was at my best when..."
+
+I felt like I did a good job of answering the questions.
+However, I noticed that many people did not really notice that I was lying a bit.
+(Example: "Popular sovereignty will avoid all bloodshed and sectional conflicts" - but there was the Bleeding Kansas)
+
+### "I want to give a special shout out to... because..."
+
+I think all the people asking questions did a good job of trying to find a flaw in the arguments and turning it into a question.
+They made me think and try to word my arguments in a way that hid the flaws.
