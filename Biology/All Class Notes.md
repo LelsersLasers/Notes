@@ -1388,9 +1388,10 @@ Involves:
 - 4 stages: 
     - Prophase I
         - Same as mitosis + some other steps
-        - Synapse: homologous chromosomes pair up
-            - Homologous = similar
-            - Tetrad: 4 chromatids
+        - Synapsis: homologous chromosomes pair up
+            - Homologous = similar/matching
+                - Have same gene in same location (but not necessarily same alleles)
+            - Tetrad: 4 sister chromatids
                 - 2 homologous chromosomes
         - Crossing over: homologous chromosomes exchange/swap genetic material
             - Happens only on "inside" chromatids

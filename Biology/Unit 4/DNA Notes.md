@@ -70,6 +70,7 @@
 				- P arm: shorter side
 				- Q arm: longer side
 		- Ending: telomere
+			- Non-coding
 	- Locus: a spot on a chromosome
 	- Everything but bateria have the DNA wrapped around histones
 - 3 billion base pairs total
