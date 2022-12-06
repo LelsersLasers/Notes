@@ -5536,3 +5536,29 @@ However, I noticed that many people did not really notice that I was lying a bit
 
 I think all the people asking questions did a good job of trying to find a flaw in the arguments and turning it into a question.
 They made me think and try to word my arguments in a way that hid the flaws.
+
+## Homework Questions - 12/5: Gettysburg Address
+
+1. What makes the Gettysburg Address, which is so brief, so “monumental,” as Senator Sumner described it?
+
+Lincoln represented the Civil War as a test that would determine whether a nation could endure.
+He also honors the sacrifices of those who died in the Civil War in defense of the United States' principles of liberty and equality.
+
+2. What does Lincoln mean when he says “we cannot hallow this ground”?
+What does it mean to “hallow”?
+And why, according to Lincoln, can’t we do this?
+What, according to him, must we do instead?
+
+Hallow means to honor as holy.
+Lincoln argues that we can not hallow the ground because when the men who fought on they made it sacred with more "power" than the people currently standing listening to the speech.
+Instead, the people must work to finish what the men fought for.
+
+
+3. You have been tasked by the Gettysburg gift shop to print and sell t-shirts at the next anniversary of the Gettysburg Address.
+However, they are requiring that you choose only one quote, no more than one sentence, from Lincoln’s speech to print on the shirt.
+Which one would you choose and why?
+
+> It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.
+
+I think the quote is quite poetic.
+Also the quote is the main "call to action" of the speech, meaning it would be good to put on a shirt so others can see the message.
