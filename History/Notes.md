@@ -5537,6 +5537,23 @@ However, I noticed that many people did not really notice that I was lying a bit
 I think all the people asking questions did a good job of trying to find a flaw in the arguments and turning it into a question.
 They made me think and try to word my arguments in a way that hid the flaws.
 
+## Class Notes - 12/6: Emancipation Proclamation
+
+- Could be used to aid the war effort
+    - Free the black people forced to do labor for the Confederacy
+- Lincoln | Constitution protects property and at this time slavery = property (so as president he can not free the slaves)
+    - | As commander in chief, he could convince people Emancipation was part of the war effort
+- Proclaimation: 100 days to rejoin the Union, or we will free your slave labors
+    - A lot of blowback
+        - Lost seats in Congress
+        - The North feared that the South would never meet this compromise
+            - Meaning the war would go on forever
+    - Changed the meaning of the war
+        - Some people fought just for the preservation of the Union
+            - Now, the focus is on the slavery
+            - Might lose support from the border states
+                - Some slave states did not concede from the Union
+
 ## Homework Questions - 12/5: Gettysburg Address
 
 1. What makes the Gettysburg Address, which is so brief, so “monumental,” as Senator Sumner described it?
