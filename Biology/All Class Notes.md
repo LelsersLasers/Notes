@@ -1477,3 +1477,110 @@ result: basically infinite possible combinations
 | G2 | 2n | 4n | replicated the DNA | 
 | After M1 | n | 2n | split into 2 haploid daughter cells (+ cross over happens) |
 | After M2 | n | n | sister chromatids split into 2 haploid daughter cells |
+
+# 12/7
+
+## Gene Regulation
+
+- Is the gene affecting stuff?
+    - Is it expressed?
+- Some cells have common genes
+    - Some cells have unique genes
+
+### Bacterial Reproduction
+
+- No meiosis occurs and there is no fertilization
+- Sometimes bacteria reproduce via cloning (like mitosis) or asexual means
+    - Makes exact copies
+- But if bacterial DNA is changed, there are four ways:
+    - Mutation, transformation, transduction, or conjugation
+
+#### Bacterial Transformation
+
+- The alteration of a bacterial cell’s genotype and phenotype by the uptake of naked, foreign DNA from the surrounding environment
+    - Genotype:
+        - The alleles of a gene
+            - What version of the gene
+        - Ex: "Bb"
+            - (Think the punit squares from 7th grade)
+    - Phenotype:
+        - Expression of the gene
+        - Ex: blue eyes
+- When bateria die, the cell wall decays and the cytoplasm sort of leaks out
+    - Other living bacteria can take up the DNA
+        - "Slurps" it up
+- ![Bacterial Transformation](./Photos/BaterialTransformation.png)
+
+#### Bacterial Transduction
+
+- Phages carry bacterial genes from one host cell to another
+    - Phages:
+        - Viruses that infect and replicate only in bacterial cells
+- The phages covelantly bond (chemically attracted)
+    - The viruses use bateria to reproduce
+    - The bateria explodes and the viruses are released and spread
+    - However, sometimes the host DNA from the bateria is also spread
+        - Packaged with (or instead of) the virus
+- ![Bacterial Transduction](./Photos/BacterialTransduction.png)
+
+#### Bacterial Mutation
+
+- Mutations occur at the same rate as in humans
+    - But they reproduce much much more than humans
+        - Up to once every 20 minutes
+
+#### Bacterial Conjugation
+
+- Direct transfer of genetic material between two bacterial cells that temporarily join
+- Under some conditions, certain bateria will form a Pilus
+    - The bateria sends partial copies of its DNA across
+- Random:
+    - What DNA is is copied and sent
+    - How long the connection remains
+- ![Bacterial Conjugation](./Photos/BacterialConjugation.png)
+    - Baterial DNA is in rings
+        - 1 big main ring and smaller rings of extra DNA(plasmids)
+- ![F plasmid](./Photos/Fplasmid.jpg)
+    - F: fertility
+        - F+ = can transfer DNA
+        - F- = cannot transfer DNA
+    - R: resistance
+        - Survival of the fittest
+            - Bateria that can survive the antibiotic will survive and reproduce
+
+### Gene Control
+
+- Why is it important to be able to control the expression of genes?
+    - 
+- Regulatory Proteins
+    - Intervene before, during & after gene transcription
+    - Some genes build proteins that regulate other genes
+    - Negative Control: “repressors”
+        - Slows activity – typical of anabolic pathways
+    - Positive Control: “activators”
+        - Promote or enhance activity
+            - Initiate certain actions/genes
+        - Growth factors
+        - Examples of positive control:
+            - Promotors-signal start of a gene
+            - Enhancers-binding sites for activator proteins
+
+#### Gene Control in E. coli
+
+- Genes are typically grouped together in succession
+    - Only 1 chromosome (compared to 23 in humans)
+- Promoter Region:
+    - RNA polymerase must attach here to start transcription
+- Operator Region:
+    - Near promoter region, site for controlling transcription
+- Operon:
+    - Promoter, operator, and associated genes
+    - Ex: TRP, LAC
+- Regulatory Gene:
+    - Codes for the repressor protein
+- Repressor:
+    - Blocks transcription by binding to the operator region (ex. tryptophan)
+- 3 Important genes in LAC operon:
+    - Lac Z &rarr; ß-galactosidase
+    - Lac Y &rarr; Permease
+    - Lac A &rarr; Transacetylase
