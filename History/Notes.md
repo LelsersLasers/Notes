@@ -5567,9 +5567,8 @@ And why, according to Lincoln, can’t we do this?
 What, according to him, must we do instead?
 
 Hallow means to honor as holy.
-Lincoln argues that we can not hallow the ground because when the men who fought on they made it sacred with more "power" than the people currently standing listening to the speech.
-Instead, the people must work to finish what the men fought for.
-
+Lincoln argues that we can not hallow the ground because it is already made sacred by the men who fought there.
+Instead, the people must work to finish what the men fought for (make the country better) so the men did not die in vain.
 
 3. You have been tasked by the Gettysburg gift shop to print and sell t-shirts at the next anniversary of the Gettysburg Address.
 However, they are requiring that you choose only one quote, no more than one sentence, from Lincoln’s speech to print on the shirt.
