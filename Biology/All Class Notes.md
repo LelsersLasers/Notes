@@ -1584,3 +1584,281 @@ result: basically infinite possible combinations
     - Lac Z &rarr; ß-galactosidase
     - Lac Y &rarr; Permease
     - Lac A &rarr; Transacetylase
+
+# 12/8
+
+## Operons
+
+### TRP operon
+
+- TRP: tryptophan
+    - An amino acid
+- Represible operon: on until turned off
+- ![TRP Operon](./Photos/TRPOperon.png)
+    - Something &rarr; enzymes &rarr; tryptophan
+    - Feedback inhibition
+        - Stop when enough tryptophan is made
+
+#### TRP Operon: On
+
+- ![TRP Operon On](./Photos/TRPOperonOn.png)
+- Repressor protein binds to the operator
+    - Blocks RNA polymerase from binding/moving forward
+- Repressible operon
+    - Transcription is usually on but can be inhibited if tryptophan binds to a regulatory protein
+- Takes energy to build it
+    - So only build it when wanted
+    - Anabolic pathway (building something)
+
+#### TRP Operon: Off
+
+- ![TRP Operon Off](./Photos/TRPOperonOff.png)
+
+### LAC Operon
+
+- LAC: lactose
+    - A sugar
+- Inducible operon: off until turned on
+    - Is usually off but can be induced when a specific molecule interacts with a regulatory protein
+    - Catabolic pathway (breaking something down)
+        - Turned on when trying to digest something
+
+#### LAC Operon: Off
+
+- ![LAC Operon Off](./Photos/LACOperonOff.png)
+
+#### LAC Operon: On
+
+- ![LAC Operon On](./Photos/LACOperonOn.png)
+
+## Operon summary
+
+- Repressible enzymes
+    - Suspend production of an end product when it is in sufficient quantity
+        - Normally “on” (tryptophan pathway)
+            - On until turned off
+    - These enzymes are typical of anabolic pathways
+        - Saving energy by not producing products that are already present
+- Inducible enzymes
+    - Their synthesis is induced by a chemical signal
+        - Normally “off” (lactose pathway).
+            - Off until turned on
+    - These enzymes are typical of catabolic pathways
+        - Saving energy/resources and not producing proteins that are not currently necessary
+- Both are examples of negative control of genes
+    - The operons are switched off by the active form of the repressor protein
+
+### Eukaryotic gene expression is regulated at many stages
+
+- All organisms must regulate which genes are expressed at any given time
+- In multicellular organisms regulation of gene expression is essential for cell specialization
+
+## Differential Gene Expression
+
+- Almost all the cells in an organism are **genetically** identical
+    - Somatic cells
+- Differences between cell types result from **differential gene expression**
+    - The expression of different genes by cells with the same genome
+- Abnormalities in gene expression can lead to diseases including cancer
+- Gene expression **can be** regulated at many stages
+
+### Regulated/changed/etc at different places, times
+
+- ![Differential Gene Expression](./Photos/DifferentialGeneExpression.png)
+- ![Differential Gene Expression 2](./Photos/DifferentialGeneExpression2.png)
+- Alternative splicing
+    - Rearranging the exons in the pre-mRNA
+
+## Effects on mRNAs by MicroRNAs and Small Interfering RNAs
+
+- MicroRNAs (miRNAs) are small single-stranded RNA molecules that can bind to mRNA
+    - Match base pairs (like codon-anticodon) but instead block the mRNA from being translated
+    - Or speed up the degradation of the mRNA
+- Another way of regulating and changing the expression from DNA &rarr; protein
+- ![miRNA](./Photos/miRNA.png)
+- The phenomenon of inhibition of gene expression by RNA molecules is called RNA interference (RNAi)
+- RNAi is caused by small interfering RNAs (siRNAs)
+- siRNAs and miRNAs are similar but form from different RNA precursors
+    - Both can associate with the same proteins, resulting in similar results
+
+## Genetic changes that can turn proto-oncogenes into oncogenes
+
+- Proto-oncogenes
+    - Normal genes that can become oncogenes if mutated
+        - Tumor, unregulated cell growth/division
+    - Rapid cell division
+        - Important for growth and development
+- ![Proto-oncogenes](./Photos/Proto-oncogenes.png)
+
+### Oncogenes and the Cell Cycle
+
+- Proto-oncogene vs. oncogenes
+    - Proto-oncogens: regulated
+    - Oncogenes: unregulated
+
+#### RAS
+
+- RAS gene makes RAS protein
+    - A class of small protein called GTPase involved in cellular signal transduction
+    - Normally “off” without proper growth factor
+- Mutations in RAS gene keep signaling active, resulting in overactive cell growth and division
+- 30% of all human cancers have Ras mutations and inhibitors are being studied
+- ![RAS](./Photos/RAS.jpg)
+    - Growth factor: signal to start cell division
+        - Ex: cut on skin &rarr; make more skin cells
+    - RAS mutations cause the cells to ignore the check points
+        - Allows the creation of bad cells (at a high rate)
+
+#### p53
+
+- The p53 gene codes for a tumor suppressor protein
+- Anti-cancer functions
+    - Inhibiting cell cycle at the G1/S checkpoint if DNA is damaged and can be repaired
+    - Can initiate apoptosis if DNA cannot be repaired
+- Mutation(s) in p53 can allow damaged DNA to be passed to daughter cells during mitosis
+    - HPV (human papilloma virus) can inactivate p53, leading to cervical cancer (e.g., Henrietta Lacks)
+- ![p53](./Photos/p53.png)
+
+## The Multistep Model of Cancer Development
+
+- Multiple mutations are generally needed for full-fledged cancer
+    - Thus the incidence increases with age
+- At the DNA level, a cancerous cell is usually characterized by at least one active oncogene and the mutation of several tumor-suppressor genes
+    - Too much gas and no brakes
+
+### Inherited Predisposition and Other Factors Contributing to Cancer
+
+- Individuals can inherit oncogenes or mutant alleles of tumor-suppressor genes
+    - Ex: inherited mutations in the tumor-suppressor gene adenomatous polyposis coli are common in individuals with colorectal cancer
+    - Ex: Mutations in the BRCA1 or BRCA2 gene are found in at least half of inherited breast cancers and ovarian cancers can be tested for using DNA sequencing to detect these mutations
+
+## Evolution
+
+- Natural selection does not design, it tinkers
+- Once a particular problem is solved, that solution is used over and over
+- The harder the problem, the more universal the solution is
+
+## Cell Signaling
+
+- Signaling evolved early in history of life
+1. “sex” and yeast mating strains
+    - Cells cannot think
+2. signal-transduction pathways
+    - Process by which a signal on a cell’s surface is converted (probably originated in early prokaryotes)
+- ![Yeast Signaling](./Photos/YeastSignaling.png)
+    - Mom and dad combine
+
+### Communicating cells may be close together or far apart
+
+1. Paracine signaling
+    - Short distances
+    - Growth factors – non-specific)
+2. Synaptic signaling
+    - Short distances
+    - Neurotransmitters – specific
+    - Synapse: junction between two neurons
+3. Hormone signaling
+    - Long distances
+4. Direct contact
+    - Gap junctions (animals) and plasmodesmata (plants)
+        - Spaces in the cell membrane/wall
+    - Cell-to-cell communication
+        - Some cells "dock" with other cells
+            - Specific receptors
+    - ![Direct Contact Signaling](./Photos/DirectContactSignaling.png)
+- If a cell responds to a signal, it is called a target cell
+- ![Cell Signaling](./Photos/CellSignaling.png)
+
+### Stages of Cell Signaling
+
+- Role of epinephrine in the breakdown of glycogen
+    - Fight or flight response
+- ![Stages of Cell Signaling](./Photos/StagesOfCellSignaling.png)
+1. Reception
+    - Target cell’s detection of outside signal
+    - Conformational change in reception protein when a signal binds
+        - Signal is often attracted to the reception protein
+            - Chemical or charge based
+2. Transduction
+    - Conversion of signal to a form that can elicit a response
+3. Response
+    - Transduced signal triggers a specific response
+        - Ex: epinephrine released to promote conversion of glycogen to glucose
+            - Glycogen is in 100s-1000s of stored glucose molecules
+
+#### Signal Reception and Transduction
+
+- Signal binds to reception protein
+- “Lock and key” specificity
+    - "Structure determines function"
+    - Reception protein is specific to the signal
+- Ligand: a small molecule that specifically binds to another larger one
+    - Doesn't last long
+        - Don't want signals from years ago
+            - Should be a quick reaction
+    - Ligand binding results in change in shape of reception protein
+
+### Types of Signal Receptors
+
+1. G-protein linked receptors
+2. tyrosine-kinase receptors (omit, not really important rn)
+3. ion channel receptors
+	- ligand-gated ion channels
+	- example: synapses between neurons
+4. Intracellular receptors
+	- proteins located in cytoplasm or nucleus (in the cell), not membrane
+	- e.g. lipids, steroid hormones
+        - Things that can move through the cell membrane (diffusion)
+
+#### G-protein linked receptors
+
+- G-proteins embedded in cell membranes
+- Many molecules use G-protein receptors
+    - Yeast mating factors, epinephrine, hormones, and neurotransmitters
+- Involves use of GDP and GTP
+    - GDP: inactive
+    - GTP: active
+
+##### What G-proteins receptors do 
+
+- Molecule binds to outside portion of receptor
+- Either binding of molecule or subsequent change in molecule changes shape of receptor
+- Shape change inside membrane changes association with a specific G-protein
+- The G-protein goes off and does its job, whatever that might be
+- ![G-protein](./Photos/G-protein.png)
+    - If the GDP is on the G-protein, it is inactive ("off")
+    - Signled to be active ("on") by the binding of GTP
+    - G-protein goes to an enzyme and activates it
+        - The enzyme then does its job
+    - GTP replaced with GDP and the G-protein is inactive again
+        - Goes back to the receptor and waits for another signal
+
+##### Examples of how G-protein receptors are used
+
+- Transduce light (photosynthesis and phototaxis)
+- Receptors for sexual pheromones 
+- Identify safe food
+- Directional migration of cells
+- Identify invaders
+- Identify members of clan
+- Receptors for peptide hormones
+- Detect everything you smell
+
+#### Ion channel receptors
+
+- ![Ion Channel Receptors](./Photos/IonChannelReceptors.png)
+
+#### Intracellular receptors
+
+- ![Intracellular Receptors](./Photos/IntracellularReceptors.png)
+
+### Signal Transduction Pathways
+
+- Pathways involve protein interaction
+- Protein phosphorylation (gets a phosphate)
+	1. mechanism for regulating protein activity
+	2. involves protein kinase
+        - An enzyme which transfers phosphate from ATP to protein
+	3. results in a cascade of reactions
+- 2% of human DNA codes for kinases
+- ![Signal Transduction Pathways](./Photos/SignalTransductionPathways.png)
