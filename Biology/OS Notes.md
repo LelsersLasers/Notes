@@ -958,9 +958,7 @@ The concentration of substrate or inhibitors can also affect enzyme activity.
     This will change the shape of the active site so that no further fructose and ATP can not bind..
     ```
 
-# Unit 3
-
-## Chapter 9: Photosynthesis
+## Chapter 8: Photosynthesis
 
 ### Homework Questions 10/27
 
