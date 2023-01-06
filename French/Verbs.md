@@ -1,8 +1,41 @@
 Verb congugations
 
-# Regular
+# Futur
 
-## ER
+## Pattern
+
+- `stem + ending`
+- Stem is the infinitive without the trailing E
+    - See below for irregulars
+- Ending is basically `avoir`
+    | Je | Tu | Il | Nous | Vous | Ils |
+    | --- | --- | --- | --- | --- | --- |
+    | ai | as | a | ons | ez | ont |
+
+## Irregular
+
+| Infinitive | Stem |
+| --- | --- |
+| avoir | aur |
+| être | ser |
+| aller | ir |
+| faire | fer |
+| envoyer | enver |
+| voir | verr |
+| devoir | devr |
+| savoir | saur |
+| pouvoir | pourr |
+| vouloir | voudr |
+| venir | viendr |
+| mourir | mourr |
+| tenir | tiendr |
+| essayer | essaier |
+
+# Present
+
+## Regular
+
+### ER
 
 - Je    chant**e**
 - Tu    chant**es**
@@ -11,19 +44,19 @@ Verb congugations
 - Vous  chant**ez**
 - Ils   chant**ent**
 
-### Orthographiques
+#### Orthographiques
 
-#### Nager, manger
+##### Nager, manger
 
 - Same for all but `nous`
 - Nous  nag**e**ons
 
-#### Commencer, lancer
+##### Commencer, lancer
 
 - Same for all but `nous`
 - Nous  commen**ç**ons (C cedilla)
 
-#### Espérer, préférer, répéter
+##### Espérer, préférer, répéter
 
 - Boot pattern:
     - Same accent as infinitive for `nous, vous`
@@ -31,9 +64,9 @@ Verb congugations
     - Accent grave for `je, tu, il/elle/on, ils/elles`
         - "House"
 
-## IR
+### IR
 
-### Type 1 (ex: finir)
+#### Type 1 (ex: finir)
 
 - Je    chois**is**
 - Tu    chois**is**
@@ -42,11 +75,11 @@ Verb congugations
 - Vous  chois**issez**
 - Ils   chois**issent**
 
-#### Examples
+##### Examples
 
 - Choisir, finir, grandir, obéir, réfléchir, réussir
 
-### Type 2 (ex: mentir)
+#### Type 2 (ex: mentir)
 
 - Je    dor**s**
 - Tu    dor**s**
@@ -55,11 +88,11 @@ Verb congugations
 - Vous  dorm**ez**
 - Ils   dorm**ent**
 
-#### Examples
+##### Examples
 
 - Dormir, mentir, partir, sentir, servir, sortir
 
-## RE
+### RE
 
 - Je    vend**s**
 - Tu    vend**s**
@@ -68,13 +101,13 @@ Verb congugations
 - Vous  vend**ez**
 - Ils   vend**ent**
 
-#### Examples
+##### Examples
 
 - Attendre, descendre, entendre, répondre, vendre
 
-# Iregular
+## Iregular
 
-## Peindre, éteindre, craindre
+### Peindre, éteindre, craindre
 
 - Je    pein**s**
 - Tu    pein**s**
@@ -85,7 +118,7 @@ Verb congugations
 
 être, avoir, aller, faire
 
-## Être
+### Être
 
 - Je    suis
 - Tu    es
@@ -94,7 +127,7 @@ Verb congugations
 - Vous  êtes
 - Ils   sont
 
-## Avoir
+### Avoir
 
 - J     'ai
 - Tu    as
@@ -103,7 +136,7 @@ Verb congugations
 - Vous  avez
 - Ils   ont
 
-## Aller
+### Aller
 
 - Je    vais
 - Tu    vas
@@ -112,7 +145,7 @@ Verb congugations
 - Vous  allez
 - Ils   vont
 
-## Faire
+### Faire
 
 - Je    fais
 - Tu    fais
@@ -121,7 +154,7 @@ Verb congugations
 - Vous  faites
 - Ils   font
 
-## Connaître
+### Connaître
 
 - Je    connais
 - Tu    connais
@@ -130,7 +163,7 @@ Verb congugations
 - Vous  connaissez
 - Ils   connaissent
 
-## Devoir
+### Devoir
 
 - Je    dois
 - Tu    dois
@@ -139,7 +172,7 @@ Verb congugations
 - Vous  devez
 - Ils   doivent
 
-## Pouvoir
+### Pouvoir
 
 - Je    peux
 - Tu    peux
@@ -148,7 +181,7 @@ Verb congugations
 - Vous  pouvez
 - Ils   peuvent
 
-## Prendre
+### Prendre
 
 - Je    prends
 - Tu    prends
@@ -157,7 +190,7 @@ Verb congugations
 - Vous  prenez
 - Ils   prennent
 
-## Venir/tenir
+### Venir/tenir
 
 - Je    viens
 - Tu    viens
@@ -166,7 +199,7 @@ Verb congugations
 - Vous  venez
 - Ils   viennent
 
-## Vouloir
+### Vouloir
 
 - Je    veux
 - Tu    veux
