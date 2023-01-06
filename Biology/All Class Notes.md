@@ -1862,3 +1862,98 @@ result: basically infinite possible combinations
 	3. results in a cascade of reactions
 - 2% of human DNA codes for kinases
 - ![Signal Transduction Pathways](./Photos/SignalTransductionPathways.png)
+
+# 1/6
+
+- Heritable features: ”characters” - genes
+- Variations of characters: ”traits” - alleles
+
+## Terms
+
+- Dominant (P_) vs. Recessive (pp): Complete Dominance
+- Homozygous (PP or pp)
+- Heterozygous (Pp)
+- Phenotype (physical appearance of traits)
+- Carrier: have but not expressed
+- Genotype (actual alleles)
+- Testcross (unknown genotypes- used to determine alleles)
+- Dihybrid cross (looking at 2 traits)
+- Incomplete Dominance (FRFW-pink flower)
+- Codominance (FBFY-blue w/ yellow blotches)
+
+## Breeds
+
+- True-breeds: 2 copies of same allele
+    - Different version of a gene
+- Hybrids: Results when you cross 2 different true-breds
+- ![Breeds](./Photos/Breeds.png)
+- ![Genotype Vs Phenotype](./Photos/GenotypeVsPhenotype.png)
+- ![Gametes and Breeds](./Photos/GametesBreeds.png)
+
+## Dihybrid Crosses
+
+- Two genes/traits involved
+
+### Phenotype Ratios
+
+| | S | s |
+| :-: | :-: | :-: |
+| S | SS | Ss |
+| s | Ss | ss |
+
+- In monohybrid crosses: 3:1
+
+| | SY | sY | Sy | sy |
+| :-: | :-: | :-: | :-: | :-: |
+| SY | SSYY | SSYy | SsYY | SsYy |
+| sY | SsYY | SsYy | ssYY | ssYy |
+| Sy | SsYY | SsYy | ssYY | ssYy |
+| sy | ssYY | ssYy | ssyy | ssyy |
+
+- In dihybrid crosses: 9:3:3:1
+
+
+## Mendel's Second Law
+
+- The Principle of Independent Assortment
+- Each pair of alleles segregates independently of each other pair of alleles during gamete formation
+    - Rules apply only to genes on different chromosomes
+- Heredity is determined by discrete physical elements for each trait (genes)
+
+## Allele interactions
+
+- Not always just dominate vs. recessive
+- Incomplete dominance
+    - Offspring have an intermediate (mixed) phenotype
+    - Ex: Red (dominant) flower + white (recessive) flower = pink (incomplete dominance) flower
+    - Notation:
+        - (traitLetter)^(traitStatus)
+    - Ratio: 1:2:1
+        - Phenotypic ratio = genotypic ratio
+- Codominance
+    - Both alleles are expressed
+    - 2 alleles affect the phenotype in different ways
+    - Ex: Red (dominant) flower + white (recessive) flower = red and white (codominance) flower (ex: stripped)
+- Multiple alleles
+    - When there are more than 2 alleles in the population
+    - Ex: blood type (codominance): A, B, AB, O
+        - AA || AO: A
+        - BB || BO: B
+        - AB: AB
+        - OO: O
+
+## Pleiotropy inheritance
+
+- When a single gene has multiple phenotypic effects
+- Ex: cystic fibrosis, sickle cell anemia
+- 1 genetic mutation/change can have 1+ of multiple phenotypic effects
+
+## Polygenic inheritance
+
+- An additive effect of two or more genes on a single phenotypic character
+    - Gives a continuous bell curved variation
+- Ex: human height, skin color
+
+## Epistasis
+
+- The phenotypic expression of a gene at one locus alters (masks) that of a gene at a second genetic location
