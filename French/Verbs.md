@@ -30,6 +30,8 @@ Verb congugations
 | mourir | mourr |
 | tenir | tiendr |
 | essayer | essaier |
+| courir | courr |
+| recevoir | recevr |
 
 # Present
 
