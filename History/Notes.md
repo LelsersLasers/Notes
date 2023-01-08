@@ -5578,3 +5578,33 @@ Which one would you choose and why?
 
 I think the quote is quite poetic.
 Also the quote is the main "call to action" of the speech, meaning it would be good to put on a shirt so others can see the message.
+
+# Chapter 16 - America's Gilded Age
+
+## Homework Questions - 1/8
+
+### Step 2
+
+In the mid-to-late 1800's, many inventions and innovations revolutionized the United States and, subsequently, the world.
+Which invention or innovation mentioned in this section of Chapter 16 (or that you are aware of that's not mentioned in this section)
+would you want to be in on the ground floor, so to speak, because of its importance?
+
+I think the light bulb is one of the most important inventions of the time because allowed people to work and live in the dark.
+Its importance is still felt today, as it is still used in almost every house and buisness.
+
+### Step 3
+
+Find an article or report on a new or emerging invention or technology that has the potential to change the world.
+Then write 3-5 sentences summarizing the invention and the potential impact it can have, both positive and negative.
+
+Sand batteries could solve one of green energy's biggest challenges:
+the challenge to provide a year-round, steady power supply from renewable energy during changing seasons and variable weather conditions.
+This is especially important for countries like Finland, that have long summer days, and cold winters (must store power for months at a time).
+They work by storing heat in sand, which is a very effective medium for retaining heat over a long period.
+They can be build with low quality sand (sand rejected for other uses like construction) and are very low maintenance.
+
+- https://www.bbc.com/future/article/20221102-how-a-sand-battery-could-transform-clean-energy
+- By Erika Benke
+- 3rd November 2022
+
+Engineers/scientists: ommi Eronen, Markku Ylönen, Liisa Naskali and Ville Kivioja
