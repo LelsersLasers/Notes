@@ -5652,3 +5652,18 @@ Engineers/scientists: Tommi Eronen, Markku Ylönen, Liisa Naskali and Ville Kivi
     - Big rich companies should not help the poor
         - The rich were just inherently/naturally/evolutionarily better
 - Inequality = opposite of freedom
+
+## Homework Question - 1/9: Individual liberty and the economy
+
+*How did social reformers such as Edward Ballamy, Henry George, and advocates of the Social Gospel movement conceive of liberty and freedom differently than the proponents of the liberty of laissez-faire economics and the free market?*
+
+Edward Bellamy, Henry George, and advocates of the Social Gospel movement overall thought that liberty
+could not fully exist without a more equal distribution of wealth and opportunities.
+They believed that the laissez-faire economic system, with a large focus on individual self-interest and limited government interference,
+led to social and economic inequality that restricted the ability of many people to exercise their freedom and liberties
+(meaning they weren't fully free).
+
+On the other hand, proponents of laissez-faire economics and the free market placed a greater emphasis on individual freedom and liberty, and argued that government interference in economic affairs tends to hinders these values instead of promoting them.
+They believe that the free market, by allowing individuals to make their own economic decisions and pursue their own self-interest, promotes greater liberty and prosperity for all.
+
+Social reformers and advocates of the Social Gospel movement saw freedom as including both individual liberty and the collective good, while proponents of laissez-faire economics and the free market tended to focus more on individual liberty and the right to private property.
