@@ -5607,4 +5607,48 @@ They can be build with low quality sand (sand rejected for other uses like const
 - By Erika Benke
 - 3rd November 2022
 
-Engineers/scientists: ommi Eronen, Markku Ylönen, Liisa Naskali and Ville Kivioja
+Engineers/scientists: Tommi Eronen, Markku Ylönen, Liisa Naskali and Ville Kivioja
+
+## Class Notes - 1/9: The Industrial Economy
+
+### Crash Course
+
+- US per capita: 1/3 of Britain &rarr; most rich country in the world
+- Civil War results:
+    - Encourged railroad building
+    - Enforced national currency
+- US: huge, had everything needed to be industrialized
+    - Natural resources, etc
+    - US had many immigrants
+        - Farms &rarr; cities
+- Government aided growth:
+    - Supreme Court oftened ruled with buisnesses
+    - High tariffs, etc
+    - Patents protected by US Constitution
+        - Encourged inventing
+- Railroads
+    - Increased commerce
+        - Linked people
+    - First modern corperations
+        - One of the first publicly traded companies
+    - Created timezones
+- Industrial capitalists: greatest villians or heros
+    - Ruthless
+    - Rockfeller: bought up all oil companies for monopoly
+        - Became richest
+    - Pools/trust
+        - Companies to work with eachother to manage prices
+    - Horizontal intergration: buy out competition
+    - Vertical intergration: buy out all parts of buisness (ex: from natural resource to finished product)
+- Bad work conditions
+    - Highest injury rate in US
+    - Long hours, no job security, bad pay
+    - Markets constantly changing (ex: depressions)
+    - Led to the formation of unions
+        - National and local unions
+        - Focused on pay, hours, and safety
+- Social Darwinism
+    - Survival of the fittest should be applies to people/buisness
+    - Big rich companies should not help the poor
+        - The rich were just inherently/naturally/evolutionarily better
+- Inequality = opposite of freedom
