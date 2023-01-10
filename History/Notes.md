@@ -5653,7 +5653,7 @@ Engineers/scientists: Tommi Eronen, Markku Ylönen, Liisa Naskali and Ville Kivi
         - The rich were just inherently/naturally/evolutionarily better
 - Inequality = opposite of freedom
 
-## Homework Question - 1/9: Individual liberty and the economy
+## Homework Question - 1/11: Individual liberty and the economy
 
 *How did social reformers such as Edward Ballamy, Henry George, and advocates of the Social Gospel movement conceive of liberty and freedom differently than the proponents of the liberty of laissez-faire economics and the free market?*
 
@@ -5667,3 +5667,24 @@ On the other hand, proponents of laissez-faire economics and the free market pla
 They believe that the free market, by allowing individuals to make their own economic decisions and pursue their own self-interest, promotes greater liberty and prosperity for all.
 
 Social reformers and advocates of the Social Gospel movement saw freedom as including both individual liberty and the collective good, while proponents of laissez-faire economics and the free market tended to focus more on individual liberty and the right to private property.
+
+## Homework Question - 1/12: "Centuries of Dishonor: The So-Called 'Indian Wars'"
+
+1. What was the Sand Creek massacre, and in what ways was it representative of the Indian Wars of the late 1800’s?
+In what ways was it representative of native American history more generally since European discovery and colonization?
+
+Led by Colonel John Chivington, 700 soldiers (minus 2 companies) attacked and killed many inhabitants, unprovoked, a settlement of Native Americans who believed they were under protection of the US government.
+Like most conflicts between native Americans and settlers, the native Americans were on the losing side, and it resulted in the deaths of many of them. However, while it was intially celebrated, there was significant backlash/consquences of these actions.
+It is representative of native American history more gennerally as it was a violent and bloody conflict, as a (indirect) result of expansionism and greed while at the same time further strengthening/enforcing the circle of violence and conflict between settlers and native Americans.
+
+
+2. As noted above and in your reading, there were people on both sides who tried to do the right thing,
+but the forces of expansionism, survival, greed and prejudice all contributed to many heinous acts, especially against native Americans.
+What would you have done to address these problems?
+
+It is really easy to look back and say something like the Americans should have just respected the native Americans and let them keep their lands (or even something like they should have just not expanded West into their lands). However then you get results like the Proclamation of 1763 and I think it would have been very hard to try to stop the westward expansion. The main issue was the two groups of people wanted the land exclusivly for themselves, leading to the violent conflicts, but one group had superior force.
+
+3. It has been suggested that the U.S. should pay reparations to native Americans for centuries of human rights violations and land seizures.
+Would you agree? Why or why not? How would you determine the value and kind of such reparations?
+
+I don't fully understand the situtation of native Americans today, so I am not sure how money would/could improve or change their condition. If it would help them (I can't imagine it hurting), I think it makes sense. I have no idea how the value would be calculated, but I coulld see it being tied to the value of land lost/taken by the US government. At worst it would be like the US paying Mexico after the Mexican-American War, but I think it would show the ackwelegment of the native Americans, what happened to them, what is happening to them, as well as make ammends for not fully ackolwegeing them in the past.
