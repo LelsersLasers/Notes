@@ -1957,3 +1957,102 @@ result: basically infinite possible combinations
 ## Epistasis
 
 - The phenotypic expression of a gene at one locus alters (masks) that of a gene at a second genetic location
+
+# 1/10
+
+## Heterozygous Advantage Hypothesis
+
+- The heterozygote genotype has a higher relative "fitness" than either homozygous genotype
+- AA: no sickle cell, susceptible to malaria
+- Aa: mild sickle cell, resistant to malaria
+    - Still compromising, but best of both options
+- aa: severe/fatal sickle cell, resistant to malaria
+
+## The Chromosomal Basis of Inheritance
+
+- Mendel left us with “hereditary factors” 
+- Now: genes located on chromosomes
+- We can “see” a gene by tagging chromosomes with fluorescent dyes attached to complementary sequences
+
+## Karyotype
+
+- ![Human male karyotype](./Photos/MaleKaryotype.png)
+- Chromosomes 1-22: autosomes
+    - Homologous pairs
+- Sex determination in humans
+    - Female: XX
+    - Male: XY
+- Because sex chromosome don’t always come in homologous pairs, the genes they carry show unique, distinctive patterns of inheritance
+- The X chromosome has MANY genes
+    - Only some are involved in sex determination
+- The Y-chromosome has 60-70 genes, about half of which are active only in the testes
+    - The SRY gene acts as a “master switch”
+        - It encodes a protein that turns on other genes required for male development
+            - XX &rarr; no SRY &rarr; develop as female
+            - XY &rarr; SRY &rarr; develop as male
+- In males: X came from mom
+    - Y came from dad
+
+## X-linked genes
+
+- When a gene is on the X-chromosome, but not the Y chromosome it is said to be X-linked
+    - Ex: Human color-blindness is an X-linked trait
+- Females: 
+    - X*B*X*B* = dominant normal vision
+    - X*B*X*b* = dominant normal vision
+        - Carrier, heterozygous
+    - X*b*X*b* = recessive color blind
+- Males: 
+    - X*B*Y = dominant normal vision
+    - X*b*Y = recessive color blind
+- X-linked diseases are much more common in men than they are in women
+    - If a man has an affected X they have the disease (just needs 1 copy, even for recessive)!
+    - ![X Linked](./Photos/XLinked.png)
+
+## Fruit Flies
+
+- ![Fruit Flies](./Photos/FruitFlies.png)
+    - If the gene is X-linked and mom has the recessive phenotype (white eyes): ALL male offspring have white eyes and none of the females
+
+## Genetic Linkage
+
+### Independent/equal splits
+
+- When genes are on separate chromosomes, or very far apart on the same chromosome, they assort independently
+    - Gametes are exactly what you would expect from parent
+    - Further apart: more crossing over
+        - Approaches 50% split (like independent assortment) 
+- ![Genetic Linkage](./Photos/GeneticLinkage.png)
+
+### Linked
+
+- When genes are very close together on the same chromosome instead of assorting independently, the genes tend to “stick together” during meiosis
+    - The genes are linked
+- ![Genetic Linkage](./Photos/GeneticLinkage2.png)
+    - Now we see gamete types in very unequal proportions
+    - Gametes more often look like their parents (parental gametes) but occasionally there was crossing over between the “a” and “b” gene resulting in recombinant gametes
+
+## Recombinant Chromosomes
+
+- ![Recombinant Chromosomes](./Photos/RecombinantChromosomes.png)
+    - Crossing over between two genes that are far apart is very common
+    - Crossing over between two genes that are close together is rare
+- Thomas Hunt Morgan used this as a way to find the relative distance between genes on a chromosome
+    - Tightly linked genes (genes very close to each other) will have very few recombination events, while unlinked genes (genes on separate chromosomes or very far part) will show a lot of recombination
+
+### Calculating Recombination Frequency
+
+- ??????????????????
+- If you don't see the expected ratio: genes are linked
+- ![Recombination Frequency](./Photos/RecombinantFlies.png)
+- Measure the linkage by calculating recombination frequency
+    - Recombination frequency = (recombinants / total offspring) * 100%
+
+### Determing gene map
+
+- A linkage map is a genetic map of a chromosome based on recombination frequencies
+- Higher recombination frequency = farther apart
+- ![Gene Map](./Photos/GeneMap.png)
+    - The largest RF – outermost genes. 
+    - The smallest RF – innermost genes. 
+- Distances between genes can be expressed as map units: 1 map unit = 1 centiMorgan = 1% recombination
