@@ -2056,3 +2056,77 @@ result: basically infinite possible combinations
     - The largest RF – outermost genes. 
     - The smallest RF – innermost genes. 
 - Distances between genes can be expressed as map units: 1 map unit = 1 centiMorgan = 1% recombination
+
+# 1/11
+
+## X-Inactivation in Female Mammals
+
+- But human females have two X-chromosomes (XX), while human males have just one (XY). 
+- ![X-Inactivation](./Photos/X-Inactivation.png)
+
+### X-Inactivation in Calico cats
+
+- Here is a female cat heterozygous for black and tan alleles of a coat color gene found on the X-chromosome. 
+- Random X-inactivation in different cells during development causes a tortoiseshell coat pattern. 
+- ![X-Inactivation Cat](./Photos/X-InactivationCat.png)
+
+## Nondisjunction (bad separation) during Meiosis
+
+- Pairs are important in genetics!
+    - If a chromosome pair loses or gains a member &rarr; trouble!
+- Anueploidy: having an abnormal number of chromosomes (too many or too few!)
+- ![Aneuoploid](./Photos/Aneuoploid.png)
+    - Monosomy: missing a chromosome
+    - Trisomy: extra chromosome (tri: 3 instead of 2)
+- ![Aneuploidy](./Photos/Aneuploidy.png)
+
+## Chromosomal Rearrangements
+
+- Deletion: a part of a chromosome is removed or deleted
+- Duplication: a part of a chromosome is copied
+- Inversion: a chromosomal region is flipped around so that it points in the opposite direction
+- ![Chromosomal Rearrangements](./Photos/ChromosomalRearrangements)
+
+### Translocation
+
+- A piece of a chromosome gets attached to another chromosome
+- Reciprocal Translocation: involves two chromosomes swapping segments
+- Non-Reciprocal Translocation: a chunk of one chromosome moves to another
+- ![Translocation](./Photos/Translocation.png)
+
+## Chi-square
+
+- To test how likely it is that an observed distribution is due to chance
+    - A "goodness of fit" statistic
+    - It measures how well the observed distribution of data fits with the distribution that is expected
+- When you collect data, is the variation in your data due to chance or is it due to something else? 
+    -Ex: is your genetics expected or different due to gene linkage
+- ![Chi-Square Equation](./Photos/Chi-SquareEquation.png)
+    - `Oi` = observed values
+        - What you actually got in expirements
+    - `Ei` = expected values
+        - What Mendelian genetics expects based on the total numbers
+    - Sum: for everyone outcome (phenotype), run the calculation
+- Goal: accept/reject the null hypothesis
+    - Null hypothesis: there is no significant difference between the observed and expected frequencies
+
+### Dihybrid
+
+- Cross AaBa x AaBa
+    - Ratio: 9:3:3:1
+        - 9: double dominant (A?B?)
+        - 3: recessive for a, dominant for B (aaB?)
+        - 3: dominant for a, recessive for B (A?bb)
+        - 1: double recessive (aabb)
+
+### Chi-Square Table
+
+- ![Chi-square table](./Photos/Chi-SquareTable.png)
+- Degrees of Freedom: the degrees of freedom is the number of outcomes minus one
+- Critical Values:
+    - How certain we are of the data
+    - We will use 0.05 value.
+        - 0.05 = 5% chance of being wrong
+    - If your # < critical value = ACCEPT null hypothesis 
+    - If your # > critical value = REJECT null hypothesis
+        - There is something going on (ex: linkage)
