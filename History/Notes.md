@@ -5677,7 +5677,6 @@ Led by Colonel John Chivington, 700 soldiers (minus 2 companies) attacked and ki
 Like most conflicts between native Americans and settlers, the native Americans were on the losing side, and it resulted in the deaths of many of them. However, while it was intially celebrated, there was significant backlash/consquences of these actions.
 It is representative of native American history more gennerally as it was a violent and bloody conflict, as a (indirect) result of expansionism and greed while at the same time further strengthening/enforcing the circle of violence and conflict between settlers and native Americans.
 
-
 2. As noted above and in your reading, there were people on both sides who tried to do the right thing,
 but the forces of expansionism, survival, greed and prejudice all contributed to many heinous acts, especially against native Americans.
 What would you have done to address these problems?
@@ -5688,6 +5687,23 @@ It is really easy to look back and say something like the Americans should have 
 Would you agree? Why or why not? How would you determine the value and kind of such reparations?
 
 I don't fully understand the situtation of native Americans today, so I am not sure how money would/could improve or change their condition. If it would help them (I can't imagine it hurting), I think it makes sense. I have no idea how the value would be calculated, but I coulld see it being tied to the value of land lost/taken by the US government. At worst it would be like the US paying Mexico after the Mexican-American War, but I think it would show the ackwelegment of the native Americans, what happened to them, what is happening to them, as well as make ammends for not fully ackolwegeing them in the past.
+
+## Class Notes - 1/11: Men who made America
+
+- The richest of the times had often built themselves up from nothing
+- Ford: paid his workers $5/day
+    - Enough to buy the cars they made
+- Vanderbilt: physically fought others, core part of his character
+    - "The Commodore"
+    - Builds largest shipping empire in the world
+    - His son died in war
+- Railroads: transported goods, people, etc throughout the country
+    - Would threaten Vanderbilt's shipping
+    - Vanderbilt sells his shipping buisness and invests in the railroad tech
+        - Pays off: after Civil War he is the richest man in the world
+- Heads of companies:
+    - Goal: make money for themselves and keep shareholders in power
+- REST OF NOTES ON PAPER
 
 # Chapter 17 - Freedom's Boundaries, at Home and Abroad
 
