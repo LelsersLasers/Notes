@@ -5688,3 +5688,28 @@ It is really easy to look back and say something like the Americans should have 
 Would you agree? Why or why not? How would you determine the value and kind of such reparations?
 
 I don't fully understand the situtation of native Americans today, so I am not sure how money would/could improve or change their condition. If it would help them (I can't imagine it hurting), I think it makes sense. I have no idea how the value would be calculated, but I coulld see it being tied to the value of land lost/taken by the US government. At worst it would be like the US paying Mexico after the Mexican-American War, but I think it would show the ackwelegment of the native Americans, what happened to them, what is happening to them, as well as make ammends for not fully ackolwegeing them in the past.
+
+# Chapter 17 - Freedom's Boundaries, at Home and Abroad
+
+## Homework Questions - 1/17: The Wizard of Oz as a Populist Tale
+
+1. What are the main arguments given for interpreting The Wizard of Oz as a Populist tale?
+
+One of the arguments given for interpreting "The Wizard of Oz" as a Populist tale is that the story represents the political and economic struggles America at that time/during the Populist movement.
+The characters in the story, such as the Scarecrow, Tin Man, and Cowardly Lion, are interpreted as representing different groups in society,
+such as western farmers, industrial workers, and politicians (William Jennings Bryan, Populist presidential candidate in 1896), respectively.
+Additionally, the Wizard is seen as a representation of any of the Gilded Age presidents, 
+the wicked Witch of the East as eastern industrialists and bankers who controlled the people (the Munchkins)
+the yellow brick road (and its dangers) as the gold standard,
+Dorothy's silver slippers as the Populists' solution to the nation's economic woes
+and the Emerald City as Washington, D.C.
+
+2. What are the main arguments against this interpretation?
+
+One of the main arguments against this interpretation is that Baum was not a Populist, but rather a Republican 
+(so it would not make sense for him to write a story that was critical of the Republican party and supporting an opposing movement).
+
+3. So what do you think? Did L. Frank Baum intend for The Wizard of Oz to be a Populist tale?
+
+I don't think Baum intended for "The Wizard of Oz" to be a Populist tale.
+A lot of the arguments for it being a Populist tale seem a little stretched to me, but I don't think it is a coincidence that the story has a lot of similarities to America at that time.
