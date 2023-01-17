@@ -5729,3 +5729,72 @@ One of the main arguments against this interpretation is that Baum was not a Pop
 
 I don't think Baum intended for "The Wizard of Oz" to be a Populist tale.
 A lot of the arguments for it being a Populist tale seem a little stretched to me, but I don't think it is a coincidence that the story has a lot of similarities to America at that time.
+
+## Class Notes - 1/17: Rise of the Populist Party
+
+- 1867-1896
+- Populist: historically (even before this time period) the people's party
+    - Word of the people
+
+### Farmers’ Problems
+
+- Crop prices fell steadily in the late 19th century
+    - More efficient transportation: cheaper to ship goods
+    - More transportation: more available goods
+    - Farming becomes more efficient (new tech, new strategies): more total crops
+- Farmers had difficulty paying back high interest loans
+    - Crop price fall &rarr; farmer doesn't have enough money &rarr; needs a spring time loan for seeds/workers/etc &rarr; high interest loan &rarr; can't pay back &rarr; lose house/etc
+- Railroad companies charged high rates to transport goods
+    - Farmers dependent on whatever train company controlled the nearby railroad (local monopoly)
+
+### Farmers’ Organizations
+
+- The Grange was a network of local organizations founded to address farmers’ issues in 1867
+- In the 1870s, the Grange was successful in promoting state laws to regulate railroad rates
+    - Wanted to elect members (who would help/support/etc the farmers) to legislature to pass laws to regulate railroad rates
+    - But were struck down by the USSC
+        - Can't regulate prices
+- Helped lead to the Farmers’ Alliance(s)
+    - Became powerful in the 1880s and elected governors, congressmen, and senators
+
+### Populist Party
+
+- The successes of the Alliances led to a new political party in 1890s: the People’s Party (the Populists)
+- Party platform
+    - Expanding supply of money by coining silver which would reduce farmers’ debt
+        - Very low amount of global gold (especially compared to silver)
+        - It would lead to inflation
+            - Usually inflation is bad, but in helps people (farmers) to pay back loans
+            - Hurts people without loans and espically the middle class (who have savings)
+    - Gov ownership of railroads to control shipping rates
+    - Implementation of a progressive income tax
+        - Tax the rich more
+            - Flat tax:
+                - 10% of 1 million > 10% of 100
+            - Progressive tax:
+                - 20% of 1 million > 10% of 100
+
+### 1892 Presidential Election
+
+- As a third party, the populists did fairly good
+- However, the US election system really only works for the best two candidates (which the populists weren't)
+- Were successful in local elections
+
+### 1896 Election
+
+- Democratic candidate William Jennings Bryan
+    - Populists understood they could not win the election
+    - So they supported the closest candidate to them (Bryan)
+- Republican candidate William McKinley
+    - Wins the election
+- However, lots of populists ideas were implemented
+
+### Modern Populism
+
+- Sanders and Trump have opposite policies but had large support bases
+    - Had opposite solutions, but diagnosed the same problems
+        - There are elites in American society who are oppressing the everyday people
+- Bernie Sanders: buisness elite + large institutions/corporations = the problem
+- Donald Trump: government elite + liberal/left-wing elites = the problem
+- Populism election plan: appeal to the most people &rarr; get more votes
+    - Even if polices are no populist, they still want the votes of everyone
