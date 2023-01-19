@@ -5798,3 +5798,34 @@ A lot of the arguments for it being a Populist tale seem a little stretched to m
 - Donald Trump: government elite + liberal/left-wing elites = the problem
 - Populism election plan: appeal to the most people &rarr; get more votes
     - Even if polices are no populist, they still want the votes of everyone
+
+## The Segregated South
+
+### The Redeemers in Power
+
+- Failure of populism in the South &rarr; new racial order
+- Redeemers: merchants, planters, buisnes entrepreneurs (white elites)
+    - Wanted to undo the gains of Reconstruction
+        - Main target public education (created gap between next generation of whites/blacks)
+        - Made it easier to arrest people (for minor crimes, harsher punishments)
+            - States could rent out prisoners to private companies
+            - Cheap labor, bad conditions, many died
+
+### The Failure of the New South Dream
+
+- 1880s: Atlanta editor Henry Grady promoted idea of **New South**
+    - Industrial expansion
+- Instead. the top became richer while the rest became poorer
+- Some improvements
+    - Upcountry cotton factories for poor whites
+        - Jobs for whole family
+        - But abused the low wages and low taxes in the South
+- Other than Birmingham (Alabama), no major industrial cities
+    - Birmingham: steel, iron
+    - Rest: cotton, tobacco, rice, etc
+        - Little industry or skilled labor
+        - Dependent on the North
+
+### Black Life in the South
+
+
