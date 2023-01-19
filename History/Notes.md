@@ -5826,6 +5826,60 @@ A lot of the arguments for it being a Populist tale seem a little stretched to m
         - Little industry or skilled labor
         - Dependent on the North
 
-### Black Life in the South
+## Class Notes - 1/19: Post-Reconstruction South/Lynching
 
+- Racial heirarchy
+    - One race is superior to another
+- Once the Reconstruction ends, the majority of whites in the South worked to rebuild the racial heirarchy
+    - Added barriers to voting
+        - Targeted against blacks
+        - Had to pass tests to vote
+            - Scored by a white person
+        - Grandfather clause: don't have to get the test if your grandfather could vote
+            - Only whites people had this (pre-civil war)
+        - Poll tax/literacry test
+        - 1940: 3-4% of black adults could vote
+            - No representation
+    - Jim Crow/"seperate but equal"
+        - Segragation
+        - Not actually equal
+            - Less resources, materials, funding, etc
+        - 7-1 passed in Supreme Court
+            - Likely knew the effects, but still harbored racist ideas
+                - Only 1 generation from slavery
+    - Racial terror
+        - "Terror": instill fear, politically motivated
+        - "Upity": blacks trying to go against the racial heirachy
+            - Target for racial terror
+        - Lynching
+            - Extra judicial killing of an individual by a mob
+                - Out side of the actual legal system
+            - Common in the South, against African Americans
+                - Or "sympathizers"
+        - Pogroms
+            - Organized violence against a minority group
+            - Backed/supported by the government
+            - Goal: fear them enough to leave
+- Share cropping
+    - Replaced slavery
+        - Basically slavery (no rights, basically no pay)
 
+### Lynching
+
+- Lynchings were public/celebrated crimes
+    - Send a message
+        - Instill fear
+        - If try to upset the racial heirachy -> publically murdered
+    - The lynchings were advertised in the news
+        - People would come to watch
+            - Childern too
+            - Viewed like a spectacle/event
+        - Spread the message to all
+- Killed acused blacks before trial
+    - Often acused of harassing white women or murder
+    - Usually false/no evidence acusations
+- Not just adult men were lynched
+    - If they could not find the man, they would lynch his wife/children/family
+- Lynching reinforced the evolution of slavery
+    - Lasting effects
+        - Unequal judicary represenation
