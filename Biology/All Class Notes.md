@@ -2130,3 +2130,76 @@ result: basically infinite possible combinations
     - If your # < critical value = ACCEPT null hypothesis 
     - If your # > critical value = REJECT null hypothesis
         - There is something going on (ex: linkage)
+
+# 1/20
+
+## Biotech
+
+### The DNA Toolbox
+
+- Restriction Enzymes (molecular scissors)
+- Complementary Base Pairing and DNA ligase (glue)
+- Gel Electrophoresis (separate pieces of DNA)
+- Polymerase Chain Reaction (PCR – make many copies of a piece DNA)
+- DNA Sequencing (give up the sequence of base pairs)
+
+#### Restriction Enzymes
+
+- Restriction Enzymes cut DNA as specific sequences called **restriction sites**
+    - Doesn't cut straight across
+        - Often leaves single stranded overhanging “sticky ends”
+- Matches a specific sequence of 6-8 bases
+    - The restriction site is a palindrome/flipped:
+    - ![Restriction Enzymes](./Photos/RestrictionEnzyme3.png)
+- ![Restriction Enzymes](./Photos/RestrictionEnzyme1.png)
+- ![Restriction Enzymes](./Photos/RestrictionEnzyme2.png)
+    - Two different pieces of DNA cut with the same enzyme can come together
+    - Can glue different pieces of DNA with ligase
+- Recombinant DNA: combining DNA from two different sources into the same DNA molecule.
+    - ![Recombinant DNA](./Photos/RecombinantDNA.png)
+
+
+### DNA Analysis Methods
+
+#### Polymerase Chain Reaction (PCR) 
+
+- Make millions of copies of a specific DNA region *in vitro*
+- ![PCR](./Photos/PCR.png)
+
+### Gel Electrophoresis
+
+- Technique used to separate DNA fragments according to their size
+- Visual representation of DNA fragments
+
+### DNA Sequencing
+
+- Determine the sequence of nucleotides (A, T, C, and Gs) in a piece of DNA
+
+### Polymerase Chain Reaction (PCR)
+
+- ![PCR-Reaction](./Photos/PCR-Reaction.png)
+- Similar to DNA replication
+- Extra notes:
+    - Because of high heat for denaturing, a heat resistant polymerase is used
+        - Taq polymerase
+- Three Repeating Steps:
+    1. Denaturation (96˚C) to separate DNA double helix
+    2. Annealing (~60˚C) of primers to complementary DNA
+    3. Extension (72˚C) of heat stable DNA polymerase
+    - ![PCR-Steps](./Photos/PCR-Steps.jpg)
+
+#### PCR in forensic science
+
+- DNA ladder: a set of known DNA fragments of known sizes
+    - Used to compare the size of the DNA fragments in a sample
+- ![PCR-crime](./Photos/PCR-crime.png)
+- ![PCR-crime2](./Photos/PCR-crime2.png)
+    - Guilt only has marker 2 &rarr; only matches suspect 3
+
+### Gel Electrophoresis
+
+1. DNA samples loaded into well at top of gel 
+2. Electrical current is  applied 
+3. (-) DNA fragments move toward positive electrode
+4. Large DNA is slower than small DNA 
+5. Gel stained with DNA-binding dye to analyze results
