@@ -2148,6 +2148,7 @@ result: basically infinite possible combinations
 - Restriction Enzymes cut DNA as specific sequences called **restriction sites**
     - Doesn't cut straight across
         - Often leaves single stranded overhanging “sticky ends”
+    - "Blunt" ends: cut straight across
 - Matches a specific sequence of 6-8 bases
     - The restriction site is a palindrome/flipped:
     - ![Restriction Enzymes](./Photos/RestrictionEnzyme3.png)
@@ -2155,7 +2156,7 @@ result: basically infinite possible combinations
 - ![Restriction Enzymes](./Photos/RestrictionEnzyme2.png)
     - Two different pieces of DNA cut with the same enzyme can come together
     - Can glue different pieces of DNA with ligase
-- Recombinant DNA: combining DNA from two different sources into the same DNA molecule.
+- Recombinant DNA: combining DNA from two different sources into the same DNA molecule
     - ![Recombinant DNA](./Photos/RecombinantDNA.png)
 
 
@@ -2164,7 +2165,7 @@ result: basically infinite possible combinations
 #### Polymerase Chain Reaction (PCR) 
 
 - Make millions of copies of a specific DNA region *in vitro*
-- ![PCR](./Photos/PCR.png)
+- ![PCR](./Photos/PCR.jpg)
 
 ### Gel Electrophoresis
 
@@ -2203,3 +2204,35 @@ result: basically infinite possible combinations
 3. (-) DNA fragments move toward positive electrode
 4. Large DNA is slower than small DNA 
 5. Gel stained with DNA-binding dye to analyze results
+
+# 1/23
+
+## What is a bacterial plasmid?
+
+- Plasmid: small round DNA
+    - Extra DNA to helpt bacteria survive
+    - Plasmids are passed from one generation to the next
+        - And can be shared between bacteria
+- ![Plasmid](./Photos/Plasmid.png)
+
+### Elements of a plasmid: 
+
+- Origin of replication (S-phase)
+- Promoter 
+- Target gene 
+- Antibiotic resistance (selection)
+- ![Plasmid](./Photos/Plasmid2.png)
+
+## Bacterial Transformation and Selection
+
+- ![Transformation](./Photos/PlasmidTransformation.png)
+- Heat shock: allows the bacteria to take up the plasmid (weakens the membrane)
+
+## Gene Cloning
+
+- ![Gene Cloning](./Photos/GeneCloning.png)
+- ![Gene Cloning](./Photos/GeneCloning2.png)
+1. Cut “gene of interest” out of one organism & cut your plasmid
+2. Put it into a plasmid
+3. Transform bacteria (get plasmid inside)
+4. Bacteria grows and copies plasmid (makes “clones” of your gene)
