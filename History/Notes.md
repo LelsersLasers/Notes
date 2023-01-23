@@ -5883,3 +5883,17 @@ A lot of the arguments for it being a Populist tale seem a little stretched to m
 - Lynching reinforced the evolution of slavery
     - Lasting effects
         - Unequal judicary represenation
+
+
+## Homework Question - 1/23: American Interventionism
+
+3. Would you have voted to go to war with Spain in consideration of President McKinley’s reasons, what else you know about the historical context, and your criteria for when intervention is justified?
+Why or why not?
+
+President McKinley’s Declaration of War gives many reasons supporting the war, including many that would still fit "modern" ideals.
+To me, the first and second reasons "sound the best" (fit in with the ideals the best) as they argue for intervention to help Cuba and the people in Cuba, rather than promote the US. 
+President McKinley also argues that intervention will help the US, both by helping protect its citizens (4) but also economically (3).
+In addition, he uses the recent destruction of a US battleship as an example of the danger of letting the situation continue without US intervention.
+However, I despite the reasons listed, the textbooks implies that the US was more interested in the economic and nationalistic benefits of the war than the humanitarian reasons.
+After the war, the US did not do a good job of helping the people of the lands they "conquered" or sticking to their ideals of freedom/equality,
+instead becoming more like the European powers they orginally rebelled against.
