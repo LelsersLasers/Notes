@@ -5897,3 +5897,19 @@ In addition, he uses the recent destruction of a US battleship as an example of 
 However, I despite the reasons listed, the textbooks implies that the US was more interested in the economic and nationalistic benefits of the war than the humanitarian reasons.
 After the war, the US did not do a good job of helping the people of the lands they "conquered" or sticking to their ideals of freedom/equality,
 instead becoming more like the European powers they orginally rebelled against.
+
+# Chapter 18 - The Progressive Era
+
+## Homework Questions - 1/26: The Bishop's School History
+
+1. Briefly describe the circumstances surrounding Bishop's founding and why it was founded.
+
+Bishop's was founded as a college preparatory school for girls.
+Its founders saw an oppertunity to make a lasting contribution to eduation and provide a learning environment that would help students develop academically, socially, physically, and spiritually.
+In addition, its founders believed that education led not only to a career, but also to a life of public service in the Christian tradition.
+
+2. What part of the Bishop's story did you find most interesting, intriguing, surprising or scandalous and why?
+
+I thought it was intresting that the religious motives for creating Bishop's were very strong.
+While we have a chapel on campus, there is little relgious influence at the school.
+Even the chapel meetings are more focused on general ideas or personal lessons, rather than religious teachings.
