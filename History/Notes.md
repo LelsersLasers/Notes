@@ -5913,3 +5913,14 @@ In addition, its founders believed that education led not only to a career, but 
 I thought it was intresting that the religious motives for creating Bishop's were very strong.
 While we have a chapel on campus, there is little relgious influence at the school.
 Even the chapel meetings are more focused on general ideas or personal lessons, rather than religious teachings.
+
+# Chapter 19 - Safe for Democracy: The United States and World War I
+
+## Homework Questions - 2/6: Russia/Ukraine Reflection
+
+The main problem (that I see) is that the US can not not get involved in the conflict.
+While the point of this reflection is to compare the current situation to WWI, I think there are many similairites with WWII.
+Everone knows that appeasement did not work in WWII and I see litte reason to believe that it will work in this situation.
+However, if the US gets involved, the scope of the war will only increase leading to more deaths and destruction.
+But the US has some stake in the result of the war (natural resources, lasting dislike of Russia, etc).
+I am not sure what I would advise the US to do, but I think that the precedent should be set that war is bad and should be avoided for all parties.
