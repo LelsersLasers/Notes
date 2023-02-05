@@ -5924,3 +5924,18 @@ Everone knows that appeasement did not work in WWII and I see litte reason to be
 However, if the US gets involved, the scope of the war will only increase leading to more deaths and destruction.
 But the US has some stake in the result of the war (natural resources, lasting dislike of Russia, etc).
 I am not sure what I would advise the US to do, but I think that the precedent should be set that war is bad and should be avoided for all parties.
+
+## Homework Questions - 2/8: Woodrow Wilson
+
+1. Why, according to this article, is Woodrow Wilson's legacy being reconsidered? What specifically from this article and your textbook have you learned about Wilson that could be considered problematic?
+
+While Wilson is mostly known for his actions during WWI, his 14 points, and for trying to start the League of Nations, his legacy is being reconsidered because of his racist views and actions.
+He supported segragation and the Ku Klux Klan.
+Also while he was president of Princeton, he did not allow any black students to attend the school.
+
+2. If you were an administrator at Princeton University, would you vote to remove Wilson's name from buildings and other spaces? Why or why not?
+
+I agree most with Ms. Tanjong from the article.
+There is a difference between being worshipped and having your name on a building.
+Despite his racist ideas, Wilson did many good things for the school such as expanding it into a full-scale university, lifting educational standards, creating academic majors, and introducing the small-group classes.
+I would not remove his name from the buildings, but I would spend more effort on educating students about Wilson rather than just the good parts of his legacy.
