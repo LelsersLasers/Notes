@@ -5939,3 +5939,42 @@ I agree most with Ms. Tanjong from the article.
 There is a difference between being worshipped and having your name on a building.
 Despite his racist ideas, Wilson did many good things for the school such as expanding it into a full-scale university, lifting educational standards, creating academic majors, and introducing the small-group classes.
 I would not remove his name from the buildings, but I would spend more effort on educating students about Wilson rather than just the good parts of his legacy.
+
+## Class Notes - 2/6: Eugenics
+
+- Natural selection
+    - Survival of the fittest
+    - Pressure from the environment
+- Artifical selection
+    - Pressure from humans
+    - Selecting for certain traits
+        - Ex: dogs
+        - Ex: plants
+            - Humans have been doing this for thousands of years with farming
+- Eugenics:
+    - The practice or advocacy of controlled selective breeding of humans populations (as by sterilization) to improve the populations genetic composition
+    - Positive eugenics
+        - Selecting for certain traits (ex: encouraging people with "good genes" to have more children)
+    - Negative eugenics
+        - Selecting against certain traits (ex: sterilizing people with "bad genes")
+        - "Snuff them out"
+            - Nazi Germany
+- Social Darwinism
+    - The idea that human societies/institutions/people are subject to the same laws of natural selection as biological organisms
+    - Not a leap from Darwin's theory of evolution for plants and animals
+        - Humans are just another species
+    - Against the welfare/helping the lower part of the population of 19th/20th century progressive era
+        - Interfering with natural selection so now the "weak" are surviving and propgating genes instead of dying off
+- Potential "undesirable" characteristics:
+    - Criminality
+    - "Feeblemindedness"
+    - Physical or mental deformities
+    - Nationality
+    - "Race"
+    - Having kids with any of the traits
+- Eugenics was popular for educated individuals
+    - Supreme Court progressive chief justice Holmes supported it
+- In part to stop/check immigrants
+    - Americans worried that they would be outnumbered/overtaken
+    - Would destroy the American gene pool, American ideals/values would be lost
+- Sterilzed without their consent
