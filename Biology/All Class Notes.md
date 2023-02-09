@@ -2236,3 +2236,162 @@ result: basically infinite possible combinations
 2. Put it into a plasmid
 3. Transform bacteria (get plasmid inside)
 4. Bacteria grows and copies plasmid (makes “clones” of your gene)
+
+# 2/9
+
+- Evolution: change over time
+    - In bio: all the changes that have happened to life on earth since the first cell
+- Descent with modification: all living things are related
+    - All living things have parents
+    - Next generation is slightly different from parents
+    - Mutation creates the modification
+    - = evolution
+- Niche: unique role in the environment
+    - Ex: prey, pollinator, predator, decomposer, etc
+- Natural selection: organisms that are best suited to their environment survive and reproduce
+    - Survival of the fittest/strongest
+    - Fittest = best suited to the environment
+    - If a modification is beneficial, it will be passed on to the  offspring
+    - Mechanism of evolution
+- Adaptation: inherited trait that increases an organism’s chance of survival
+    - Ex: camouflage, mimicry, etc
+- Transitional fossils: fossils that show the change from one species to another
+    - Evidence of an "in-between" forms/species
+        - Land mammal -> transitional -> whale
+- Homologous structures: similar structures that have different function
+    - Ex: human arm and whale flipper/cat leg/bat wing
+- Vestigial structures: structures that have no current function
+    - Ex: appendix, wisdom teeth, etc
+- Convergent evolution: similar traits in unrelated species
+    - Ex: wings on birds and bats
+    - Similar selection pressures
+- Analogous structures: similar structures that have the same function
+    - Similar features found in different lineages.
+    - Ex: wings on birds and bats
+    - Shows convergence of function
+- Embryology: study of embryos
+    - Similarities in embryos of different species
+
+## Darwin and finches/turtles/fossils
+
+- Darwin traveled to the Galapagos Islands (and other places)
+- Darwin noticed that the finches on the Galapagos Islands were different but similar
+- Adaptation to their environment
+    - Traits/features match the environment
+- Noticed similarites between fossils and current living things
+
+## Darwin influences
+
+- Jean-Baptiste Lamarck (1744-1829)
+    - Organisms on Earth have changed over time and that they are suited to particular environments
+    - Use and disuse: use a body part and it will grow, don’t use it and it will shrink
+        - Wrong
+- Charles Lyell: Earth is really old
+    - Bible might not be right on this one
+- Georges Cuvier: Paleontology
+- Thomas Malthus: exponential population growth
+- Alfred Wallace: similar idea to Darwin, but Darwin published first
+
+## Artificial Selection/Selective Breeding
+
+- Humans select for traits that they want
+    - Ex: dogs, plants, farming, etc
+
+## Mutation
+
+- Mutation: change in the DNA sequence
+    - Can be beneficial, neutral, or harmful
+    - Can be passed on to offspring
+- Mutations are random
+    - Not directed
+    - *Tested* by natural selection to see if it is beneficial
+
+## Evidence for evolution
+
+### Biogeography
+
+- Geographic distribution of species – plants and animals are similar in same geographic region
+- Pangea breaks apart 200mya
+- Continents as of today 20mya
+- Similar species occur nearby in space because descended from common ancestor
+
+### Paleontology
+
+- The study of extinct lifeforms and their fossils
+- Can find fossil's time period
+    - Radioactive dating
+    - Location of fossils in rock layers
+- Fossils can be persrved if covered by fine dust
+
+### Transitional fossils
+
+- The identification of transitional fossils in particular is considered strong evidence for evolution
+- *Tiktaalik*:
+    - Lived approximately 375 mya (fossils discovered in 2004 in Canada)
+    - Is believed to be the intermediate form between certain fish (380 mya) fish and early tetrapods (365 mya)
+    - Transitional fossil between fish and land animals
+
+### Homologous structures
+
+- Similar structures that have different functions
+- Same ingredients, different recipe
+- **Law of Used Parts**
+    - Same bones (STRUCTURE), different uses (FUNCTION)
+- Divergence of Structure and Function
+    - Present structure/function derived from common ancestor
+
+### Vestigial structures
+
+- Structures that have no current function but are remnants of structures that had a function in an ancestor
+
+### Convergent Evolution
+
+- Not all organisms that appear similar are related by recent descent
+- Ex: Sugar glider and flying squirrel
+    - Both have similar adaptations to flying
+    - But they are not related, no recent common ancestor
+        - Sugar glider is a marsupial
+        - Flying squirrel is a rodent
+- Similar selection pressures can lead to similar adaptations
+- Different geographic areas have populations or groups of plants and animals that exhibit similar appearance… even thought distantly related
+    - Best example: marsupials and placentals
+- ![Convergent Evolution](./Photos/ConvergentEvolution.jpg)
+
+### Embryology
+
+- Embryology: the study of embryos and development
+- Embryos of different species look similar in early stages of development
+- ![Embryology](./Photos/Embryology.jpg)
+
+### Molecular Record
+
+- Genes, DNA
+- Hemoglobin
+    - Can be compared to corresponding respiratory transport molecule in other species
+    - Closely related organisms will exhibit fewer differences in the structure of this protein
+- ![Molecular Record](./Photos/MolecularRecord.jpg)
+
+## Direct examplea
+
+- New fruit introduced into Florida
+    - With thinner skin
+    - The beak length of the native insect became shorter
+    - The selection pressure for longer beaks was removed
+
+## Evolutionary Arms Race
+
+- ![DDT](./Photos/DDT.jpg)
+    - The mosquitos that were resistant to DDT survived and reproduced and passed on their genes to their offspring
+    - Added DDT as a selection pressure
+- Same for bacteria and antibiotics
+- Some traits have costs
+    - Ex: snake speed vs poison resistance
+
+## Gene Variation
+
+- Microevolution: “Adaptation by Natural Selection” 
+	- Evolutionary changes in gene frequency
+	- Leads to microevolution within a species
+- Macroevolution: ”Accumulation of These Changes”
+	- Creation of new species
+	- Extinction of old ones
