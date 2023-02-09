@@ -5978,3 +5978,14 @@ I would not remove his name from the buildings, but I would spend more effort on
     - Americans worried that they would be outnumbered/overtaken
     - Would destroy the American gene pool, American ideals/values would be lost
 - Sterilzed without their consent
+
+## Homework Question - 2/10: Flappers
+
+How did flappers challenge the preconcieved notions about the "proper" role, behavior, and appearence of women in society?
+
+Flappers challenged the traditional "Victorian" ideas of gender roles.
+They worked outside the home and were much more active.
+They drove cars, smoked, drank (which was illegal at the time), and danced in new ways, all of which were outside of the view of how a women should act.
+In may ways, they tried to remain childlike in their ideas about truth, risk, and recklessness.
+They also dressed differently and treated sex in a casual manner.
+While all people did not see them this way, flappers could be seen as the next step in the feminist movement and as a progressition of the freedom the suffragettes fought for.
