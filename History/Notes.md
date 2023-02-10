@@ -6010,3 +6010,34 @@ The culture wars and concerns related to tolerance and immigration in both the 1
 4. Political polarization: Political polarization has been a hallmark of both the 1910s and 1920s and the 2010s and 2020s, with people becoming increasingly entrenched in their beliefs and political affiliations. This has led to a further divide on cultural and immigration issues, making it difficult to find common ground and reach a consensus.
 
 Overall, the similarities between the two eras suggest that cultural and immigration concerns are ongoing and persistent in American society and that the challenges faced in both eras are still relevant today.
+
+## Class Notes - 2/10: Prohibition
+
+- Prohibition
+    - The banning of the manufacture, sale, and transportation of alcoholic beverages
+    - 18th Amendment - Prohibition
+    - 21st Amendment - Repealed the 18th Amendment
+- Temperence -> prohibition
+    - Temperence: drink less to none
+        - Early 1800s
+        - Started off as a personal moral choice
+        - Drink less -> better social moral improvement
+    - Belived (fairly rightfully) that alcohol was a major factor for social ills
+- Prohibition had lasting affects
+    - 30% of Americans don't drink today
+    - 10-20% of Americans are alcoholics, rest are 0-2 drinks a week
+- Anti-Saloon League of America; Women's Christan Temperance Union
+    - Led the movement for prohibition
+    - Much "propaganda" to get support
+    - Led to local laws for prohibition
+- Volstead Act
+    - The law that enforced prohibition
+    - Led to federal officals "busting" people for drinking, selling, or transporting alcohol
+- Some exceptions:
+    - Wine for religious purposes
+        - Protestant churches more likely to support
+        - Led to churches selling wine to non-members
+    - Wine for medical purposes
+        - Doctors could prescribe medicine with alcohol
+- Lots of people still tried to drink
+    - Getting alcohol was harder, but still possible
