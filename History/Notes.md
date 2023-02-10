@@ -5989,3 +5989,24 @@ They drove cars, smoked, drank (which was illegal at the time), and danced in ne
 In may ways, they tried to remain childlike in their ideas about truth, risk, and recklessness.
 They also dressed differently and treated sex in a casual manner.
 While all people did not see them this way, flappers could be seen as the next step in the feminist movement and as a progressition of the freedom the suffragettes fought for.
+
+## Homework Question - 2/13: 621-635 and Response
+
+What specific parallels do you see between the "culture wars" and concerns related to tolerance and immigration in the 1910s and 1920s and similar issues in the 2010s and 2020s?
+
+A reoccuring political theme is controversy over change.
+For example the conflict between the fundamentalists and the modernists/progressives over ideas in science such as Darwin's Theory of Evolution.
+Another reoccuring problem (for America) is immigration.
+Compared to the founding of European countries, America is a relatively new country and is mostly made of people whose ancestors immigrated to the country.
+However, the US has a history of being xenophobic and racist, such as the Chinese Exclusion Act, immigration quotas, or the Ku Klux Klan.
+Fears over immigration are still common in the US, with a large part of Donald Trump's campagin focused on building a wall between the US and Mexico.
+
+### CHAT GTP
+
+The culture wars and concerns related to tolerance and immigration in both the 1910s and 1920s and the 2010s and 2020s share several parallels:
+1. Tension between traditional and progressive values: In both eras, there was a tension between traditional and progressive values regarding cultural norms, social practices, and beliefs. This led to conflicts and debates over issues such as women's rights, LGBTQ rights, religious freedoms, and immigration policies.
+2. Controversial immigration policies: Both the 1910s and 1920s and the 2010s and 2020s saw controversy over immigration policies, with debates over border security, illegal immigration, and the treatment of immigrants.
+3. Xenophobia and racism: In both eras, xenophobia and racism have played a role in shaping public opinion and political discourse around immigration and cultural issues. There have been instances of anti-immigrant sentiment and efforts to restrict immigration based on race or ethnicity.
+4. Political polarization: Political polarization has been a hallmark of both the 1910s and 1920s and the 2010s and 2020s, with people becoming increasingly entrenched in their beliefs and political affiliations. This has led to a further divide on cultural and immigration issues, making it difficult to find common ground and reach a consensus.
+
+Overall, the similarities between the two eras suggest that cultural and immigration concerns are ongoing and persistent in American society and that the challenges faced in both eras are still relevant today.
