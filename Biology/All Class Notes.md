@@ -2395,3 +2395,127 @@ result: basically infinite possible combinations
 - Macroevolution: ”Accumulation of These Changes”
 	- Creation of new species
 	- Extinction of old ones
+
+# 2/10
+
+## Evolution of Populations
+
+- Natural selection acts on individuals, and as a result, populations evolve over time
+- For populations to evolve (change) over time, individuals in the population must exhibit variability
+- Mutation is the ultimate source of new alleles in a population, but meiosis and sex generate variability in population by creating unique combinations of alleles.
+
+## Genetic Structure of a Population
+
+- **SPECIES**
+	- A group of individuals who can breed & produce viable, fertile offspring
+- **POPULATION**
+	- Localized group of individuals of the same sp.
+	- May be isolated from other pops. of the same sp.
+- **GENE POOL**
+	- All the alleles in a pop. at any time
+	- Remember for diploids, you have 2 copies of every gene
+	- For multiple alleles, each has a relative frequency in the population
+
+## Determining Whether or Not a Population is Evolving: quantifying changes in genetic variability
+
+- A population’s genetic make-up is typically described by measuring allele frequencies in its gene pool
+    - If allele frequencies change over time, the population is evolving
+- Frequency of an allele: (# of copies of an allele) / (# of copies of all alleles at the locus)
+- For a locus with 2 alleles:
+    - P = frequency of one allele (usually the dominant allele)
+    - Q = frequency of the other allele (usually the recessive allele)
+    - P + Q = 1
+- ![Allele Frequency](./Photos/AlleleFrequency.png)
+
+### Hardy-Weinberg
+
+- Populations that are NOT evolving are in **Hardy-Weinberg equilibrium**
+    - The frequencies of alleles and genotypes in a population will remain constant from generation to generation in the absence of any disturbing forces
+- ![Hardy-Weinberg Equilibrium](./Photos/HardyWeinbergEquilibrium.png)
+- Hardy-Weinberg Equation: p2 (AA) + 2pq (Aa) + q2 (aa) = 1 
+- The Hardy-Weinberg equation can also be used to determine the percentage of carriers of recessive disease alleles in a population
+    - 2pq = % of carriers
+- Conditions for Hardy-Weinberg equilibrium (the absence of disturbing forces):
+    - No mutation – alters gene pool
+    - Random mating – no inbreeding
+    - No natural selection – every individual can reproduce
+    - Extremely large population size – rules out sampling error
+    - No gene flow – no genes moving in and out of population
+
+## Causes of Microevolution
+
+1. Genetic Drift	
+	- Small population
+	- Bottleneck effect
+2. Gene Flow
+	- Migrating individuals
+3. Genetic Mutations
+	- Only way to get new alleles
+4. Selective Mating
+	- May lead to sexual dimorphism
+5. Natural Selection
+    - Generally adapts a pop to its environment
+    - Pressure from the environment on an individual
+
+### Founder effect
+
+- New sub group of population is randomly created
+- ![Founder Effect](./Photos/FounderEffect.jpg)
+
+### Bottleneck effect
+
+- Population is reduced to a small number of individuals
+- ![Bottleneck Effect](./Photos/BottleneckEffect.png)
+
+## Natural Selection
+
+### Directional Selection
+
+- One extreme of the phenotypic range is favored
+- ![Directional Selection](./Photos/DirectionalSelection.jpg)
+
+### Disruptive Selection
+
+- Both extremes of the phenotypic range are favored
+
+### Stabilizing Selection
+
+- The intermediate phenotype is favored
+
+### Sexual Selection
+
+#### Intrasexual selection
+
+- Typically male-male competition
+- Ex: fighting between male elephant seals (the loser will not mate, while the winner will mate with a “harem” of 30-100 females)
+
+#### Intersexual selection
+
+- Intersexual selection (mate choice) can lead to sexual dimorphism (marked phenotypic differences between the sexes)
+- Some sexually dimorphic traits may actually decrease survival.
+- Why should a female prefer a “showier” male (i.e. why would female preference evolve)?
+    - One hypothesis:
+        - Honest advertisement: male display indicates they are high quality mates (have “good genes” or are better able to provide for their mate/ offspring) 
+
+### Perfection?
+
+- Natural selection cannot fashion perfect organisms
+    - Better than before overall, not perfect
+    - No perfect end goal
+1. Evolution is limited by historical constraints 
+    - Law of Used Parts
+2. Adaptations are often compromises
+    - Newt/garter snake example
+3. Not all evolution is adaptive
+    - “The early bird isn’t always the best bird, he was just first”
+    - Chance events affect gene pool.
+4. Selection can only edit existing variations
+    - No on-demand alleles
+
+## Hetereozygote Advantage
+
+- Heterozygote advantage: heterozygotes have higher fitness than homozygotes
+- Sickle cell anemia
+    - Heterozygotes are resistant to malaria, but its not deadly
+    - Homozygote positive is deadly, but more resistant to malaria
+    - Homozygote negative (normal) is not resistant to malaria, but no harmful effects
