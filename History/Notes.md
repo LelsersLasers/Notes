@@ -6041,3 +6041,227 @@ Overall, the similarities between the two eras suggest that cultural and immigra
         - Doctors could prescribe medicine with alcohol
 - Lots of people still tried to drink
     - Getting alcohol was harder, but still possible
+
+## Class Notes - 2/13: The 20s
+
+### Election of 1920:
+
+- Warren G. Harding
+    - Republican
+- James M. Cox
+    - Democratic
+- Eugene V. Debs
+    - Socialist
+    - Jailed from not supporting the war
+- Republicans win fairly easily
+
+#### Harding - president: 1921-1923
+
+- "Return to normalcy"
+- Republican
+    - Big business
+    - Anti-immigration
+- Emergency Quota Act (1921)
+    - Limited immigration
+- Fordney-McCumber Tariff (1922)
+    - Raised tariffs
+    - Supports American industry
+    - Bad for American consumers
+- Washington Naval Conference (1921-1922)
+    - Limited naval power
+        - Cheaper for US
+        - Just came from WWI
+    - Example of arms limitation treaty
+        - Decreases chance of military arms race
+- Teapot Dome Scandal (1921-1922)
+    - Bribery scandal - Secretary of the Interior (Albert Fall) involved with oil
+    - Hurt the Harding administration
+- Died in office
+    - Calvin Coolidge became president
+
+### Election of 1924:
+
+- Calvin Coolidge
+    - Republican
+- Democratics split the vote:
+    - John W. Davis - Democratic, conservative
+    - James M. Cox - Progressive, liberal
+- Coolidge won by a landslide
+
+#### Coolidge - president: 1923-1929
+
+- Republican
+- "The business of the American people is business"
+    - Pro big business
+- National Origins Act (1924)
+    - Further reduced immigration
+        - 80% reduced since WW1
+    - In place until 1965
+- Kellogg-Briand Pact (1928)
+    - Agreement to resolve disputes without war
+        - War is not a national policy
+    - Basis for Nuremberg Tribunal and Tokyo Tribunal after WWII
+        - Germany and Japan signed the pact, but violated it in WWII
+    - Even now, US hasn't declared war since WWII
+    
+### Election of 1928
+- Herbert Hoover
+    - Republican
+- Al Smith
+    - Democratic
+    - First Catholic to run for president
+- Popular vote was close, but electoral college was not
+
+#### Hoover - president: 1929-1933
+
+- Republican
+    - Belived that the republican party policies would eradicate poverty
+- Great Depression
+    - Started over years (not overnight)
+    - Hoover only hurt it
+    - Voluntarism
+        - Non-governmental relief
+            - Churches and charities would help
+        - Hoover policy as the Great Depression started
+    - Stock Market Crash of 1929
+        - Everyone hurt:
+            - Unemployment rose
+                - Lower class lose jobs
+            - Middle and upper classes lose a lot of money
+        - No backup plans
+            - No unemployment
+            - Often, only the husband worked
+                - No money for the family if he lost his job
+    - Smoot-Hawley Tariff (1930)
+        - Protectionist legislation
+        - Raised prices, killed international trade
+            - 2/3 of US import/exports were lost
+    - Reconstruction Finance Corporation (1932)
+        - Government loaned money to banks
+        - Not enough
+            - Too little, too late
+    - Bonus Army (1932)
+        - Formed by WWI veterans
+            - Wanted their pensions early
+        - They marched at Washington and got shot at
+    - "Hoovervilles"
+        - Shanty towns
+            - People who lost their homes
+
+### American consumer society
+
+- Welfare Capitalism
+    - Real income increase
+        - For middle class
+        - Mimimal for lower class/unskilled labor/working class
+    - Insurance, profit-sharing, worker safety
+        - Some of the goals of the labor movement, even if their wages didn't increase
+    - Decreased influence of unions
+- Mass Production
+    - Wide variety of availability if consumer products at affordable prices
+    - Model T
+        - First mass produced car that middle class could afford
+    - Domestic appliances/home appliances
+        - Washing machines, refrigerators, dishwashers, etc.
+        - Oven, stove, etc.
+    - Cheaper to make, easier to make: cheaper
+- Installment plans
+    - Pay for items over time
+    - Didn't have to save for the item (get it instantly)
+        - Pay for it late
+    - Lower on the socioeconomic ladder: more likely to use
+        - Rich can straight out buy a car, but poor can't
+- Impact of the automobile
+    - Easier to buy stuff (can drive the new items back home)
+- Ads
+    - Targeted at normal people/consumers
+    - Ads for consumer products
+        - "Buy this, it's great"
+    - Usually staring generic white people
+
+### 1920s: Black Americans
+
+- Racial terror
+    - Lynchings increased, espically in the South
+    - More than a million fled north and west as part of Great Migration
+        - Internally displaced refugees
+        - Still racist society, but less lynchings and less restrictive laws
+- Universal Negro Improvement Association
+    - Marcus Garvey
+    - Economic solidarity and advancement for Blank people
+        - Buy at black-owned businesses, etc
+    - Failed attempt of mass migration of Africa
+        - We aren't welcome in America, so let's go to Africa
+        - Not very popular
+    - Inspired blank pride and nationalism
+        - People identified as a larger group, black identity
+        - In response to the racial terror
+
+### 1920s: Immigrants
+
+- First red scare and nativism
+    - Russia just "fell" to the communists
+    - Worried about communist uprising in the US
+- Quota laws
+    - Emergency Quota Act (1912)
+        - 3% of 1910 census
+            - Decrease non Northern European immigrants
+    - National Origins Act (1924)
+        - 2% of 1890 census
+- Sacco and Vanzetti trial (1920-1927)
+    - Italians were not considered on the "same level of white" as "Americans"
+        - Southern European
+        - Italians associated with organized crime (from Prohibation)
+    - Executed for murder despite little evidence
+
+### 1920s: Women
+
+- 19th amendment and voting
+    - Usually voted same as husbands
+        - But not always
+    - Politicians catered to female-friendly legislation and programs
+    - Reform movements get a little boost
+- Employment
+    - Clerical, teachers, nurses, domestic servants
+    - Lower wages
+    - No menagerial positions
+    - No way to climb social ladders
+- Margaret Sanger
+    - American Birth Control League
+        - Social welfare/health
+        - But also as an economic tool
+            - Can't work if have to take care of kids, etc
+    - Established Planned Parenthood
+- Flapper Girl
+    - Young women of the Jazz Age
+    - See flapper reading questions
+
+### 1920s: Ku Klux Klan
+
+- ~1 of every 10-12 adults was a member
+- A propaganda movie was shown to the president
+- Main targets:
+    - Black people
+    - Jews, Catholics
+    - Immigrants
+
+### 1920s: Religion
+
+- Fundamentalism
+    - Literal view of the Bible - Creationism
+    - Attacked urban lifestyle and culture
+    - Revivalists
+        - Billy Sunday
+        - Aimee Semple McPherson
+- Modernism
+    - Liberal view of religion
+    - Acceptance and coordination of science and context with faith
+- Scopes Monkey Trial (1925)
+    - Law against teaching evolution in Tennessee public school
+    - Creationism
+        - William Jennings Bryan
+
+## Homework Question - 2/15: "Fireside Chat"
+
+What does Roosevelt mean by the difference between the definition of liberty that has existed in the past and his own "broader definition of liberty"?
+How do feel about these definitions and how they may apply in the 21st century?
