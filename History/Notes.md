@@ -6265,3 +6265,10 @@ Overall, the similarities between the two eras suggest that cultural and immigra
 
 What does Roosevelt mean by the difference between the definition of liberty that has existed in the past and his own "broader definition of liberty"?
 How do feel about these definitions and how they may apply in the 21st century?
+
+Roosevelt is an example of the changing definition of "liberalism."
+Before, liberalism was associated with limited/small governement and laissez-faire capitalism/the free market (absence of government interference).
+However, Roosevelt's definition of liberalism is much closer to the modern definition, instead meaning a government that is active in the economy and society.
+The government should play a role in ensuring the economic well-being of all its citizens.
+I think it is important that there is a balance, that the government is not "all powerful."
+For example, I think the government should promote education, healthcare, and employment, but maintain the American values like freedom of speech and privacy.
