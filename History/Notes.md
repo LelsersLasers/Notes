@@ -6042,7 +6042,7 @@ Overall, the similarities between the two eras suggest that cultural and immigra
 - Lots of people still tried to drink
     - Getting alcohol was harder, but still possible
 
-## Class Notes - 2/13: The 20s
+## Class Notes - 2/13 and 2/15: The 20s
 
 ### Election of 1920:
 
@@ -6239,6 +6239,7 @@ Overall, the similarities between the two eras suggest that cultural and immigra
 ### 1920s: Ku Klux Klan
 
 - ~1 of every 10-12 adults was a member
+    - 5 million members
 - A propaganda movie was shown to the president
 - Main targets:
     - Black people
@@ -6258,8 +6259,145 @@ Overall, the similarities between the two eras suggest that cultural and immigra
     - Acceptance and coordination of science and context with faith
 - Scopes Monkey Trial (1925)
     - Law against teaching evolution in Tennessee public school
+        - Debate over should teach evolution in schools
+    - Connection: Florida
     - Creationism
         - William Jennings Bryan
+    - Evolution
+        - Clarence Darrow
+
+### 1920s: Hero Worship
+
+- Athletes, celebrities, innovators famed for individual accomplishments
+- A personification of Amercian individualism
+    - Babe Ruth
+    - Charles Lindbergh
+        - First person to fly solo across the Atlantic
+- Fueled tabloid and gossip columns in newspapers and magazines
+
+### 1920s: The Jazz Age
+
+- Inspiration of rebellious youth and liberal reaction to conservatism and fundamentalism
+- Song and dance
+    - Jazz
+        - Louis Armstrong
+        - George Gershwin
+    - Speakeasies
+    - Dance clubs
+        - WaltzWaltz to FoxtrotWaltz to Foxtrot to Charleston
+        - Josephine Baker
+    - Flappers
+- Radio
+    - Mainstream medium
+    - Networks: NBC, CBS
+- Cinema
+    - Takies
+        - *The Jazz Singer*
+    - Nickelodeons
+        - Silent movies
+    - Charlie Chaplin
+- Contained voices/influence from African Americans for the first time in America
+    - Sometimes whites stole the music, or sometimes portayed them in blackface
+        - Sometimes more of a blend
+- Teenage life in the 1920s is similar to now
+    - Mass media culture
+
+### 1920s: Literature
+
+- The Lost Generation
+    - Disillusioned by WWI, consumerism, and modernism
+        - Lead to a crisis of meaning
+        - Effects US and Europe
+    - Ernest Hemingway
+        - *The Sun Also Rises*
+        - *A Farewell to Arms*
+    - Sinclair Lewis
+        - *Babbitt*
+            - Satirical novel which critiqued middle class life
+    - F. Scott Fitzgerald
+        - *The Great Gatsby*
+
+### 1920s: Harlem Renaissance
+
+- Fueled by the Great Migration and inspired by black pride
+    - Fled the South
+- Themes challenged racial stereotypes
+- "Black is beautiful"
+    - What does it mean to be black in America
+- Langston Hughes
+- Zora Neale Hurston
+- *The New Negro: An Interpretation* (1925)
+- Clear proof that African Americans were not "inferior" to whites
+    - They were just as smart, creative, and talented
+    - They were just (intentionally) limited
+
+### Crash Course - The New Deal
+
+- FDR's response to the Great Depression
+- Redefines the role of the federal government
+- Government's responsibility to make sure everyone could make a comfortable living
+- Ended prohibition
+- The New Deal was a series of programs, agencies, and regulations
+    - The goal was to restore the economy and put people back to work
+    - Passed by Congress (not enacted by FDR)
+- 3 R's
+    - Relief
+        - Immediate help for the unemployed
+        - Immediate help for the poor
+    - Recovery
+        - Short-term recovery of the economy
+    - Reform
+        - Changes to prevent another depression
+- First New Deal
+    - First 100 days as president - got most of these passed
+    - Worried about people become dependant on welfare handouts
+        - Focused on creating tempory jobs
+            - Build dams, buildings, etc
+    - Agricultural Adjustment Act
+        - Less food during the depression??
+        - Tried to rise prices by reducing production
+            - Benefited the landowners (usually the white)
+    - Supreme Court strikes down many of the New Deal programs
+        - FDR tries to "pack the court"
+            - Put supporters on the court
+            - Gets significant backlash
+    - Wagner Act
+        - National Labor Relations Act
+        - Guaranteed workers the right to organize and bargain collectively
+        - Unions and strikes regain power
+    - Congress of Industrial Organizations
+        - Unions for industrial workers
+        - Sit down strikes
+            - Workers would sit down and refuse to work
+            - Would not leave until demands were met
+- Underspending caused the great depression
+    - Wages should raise
+    - Welfare spending should increase so individuals can spend more money in the economy
+- Set the precedent for the role of the federal government in the economy and society
+    - Okay if the government goes into debt to help the economy
+- Change to politics
+    - FDR policies expanded the democratic party and gained support from everyone
+        - Including, white Southern democrats
+            - Who insisted on white overseers for New Deal programs
+            - Lead to inequality in the effects of the New Deal
+- The New Deal helped the depression
+    - But it did not end it
+    - WWII spending ended the depression
+- Liberty = securty; liberty != lack of government influence
+- FDR make the president the face of the government again (instead of Congress)
+
+### Positive vs Negative Liberty
+
+- Negative Freedoms
+    - Individual free to make choices
+    - Equality of opportunity
+    - 'Freedom from' government interference
+    - Pre-FDR style view
+- Positive Freedoms
+    - 'Freedom to' make choices - Progressives
+    - Government provides supports to help ensure equality of outcome, not just opportunity (welfare)
+    - FDR style view
+
 
 ## Homework Question - 2/15: "Fireside Chat"
 
