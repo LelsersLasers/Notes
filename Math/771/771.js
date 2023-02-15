@@ -33,12 +33,12 @@ async function moveBug(b, depth) {
         finalPositions.push(b);
 
         drawBug(b, "X");
-        await delay(400);
+        await delay(200);
 
         return;
     } else {
         drawBug(b, "x");
-        await delay(250);
+        await delay(150);
     }
     
     let newPositions = [
