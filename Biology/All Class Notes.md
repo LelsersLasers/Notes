@@ -2519,3 +2519,131 @@ result: basically infinite possible combinations
     - Heterozygotes are resistant to malaria, but its not deadly
     - Homozygote positive is deadly, but more resistant to malaria
     - Homozygote negative (normal) is not resistant to malaria, but no harmful effects
+
+# 2/16
+
+- Barriers to reproduction between species
+- Modes of speciation: allopatric, sympatric, parapatric
+- Hybrid zones
+- Genetics of speciation
+
+## Macroevolution
+
+- The origin of new taxonomic groups (new sp., genera, families, kingdoms)
+- Speciation
+	1. Anagenesis
+		- Transformation of a species into another
+        - Much less common
+	2. Cladogenesis
+		- Branching evolution
+- ![Speciation](./Photos/Speciation.png)
+
+## What is a species?
+
+- Compare:
+    - Morphology
+        - How they look
+    - Physiology
+        - How they work
+    - Biochemistry
+    - DNA
+- > "The biological species concept defines species as **members of populations that actually or potentially interbreed in nature and produce viable offspring**. (But do not produce viable, fertile offspring with members of other groups.)
+- Not exactly perfect
+    - Lions and tigers can have childern together in captivity
+
+## Formation of new species
+
+- The formation of new species requires Reproductive Isolation
+    - Reproductive isolation: biological barriers that impede production of viable, fertile offspring
+- Reproductive isolation blocks gene flow between different species
+- ISOLATE THE GENE POOL!
+
+## Types of barriers to gene flow
+
+### Prezygotic (block fertilization)
+
+- Function by:
+    - Impeding mating
+    - Preventing the successful completion of an attempted mating
+    - Hindering fertilization if mating is successful
+- Habitat isolation
+    - Live in different areas
+- Temporal isolation
+    - Different mating seasons
+- Behavioral isolation
+    - Different mating rituals
+- Mechanical isolation
+- Gametic isolation
+    - Sperm and egg don’t work together
+
+### Postzygotic (reduce success of hybrid)
+
+- Reduced hybrid viability
+    - Hybrid offspring are less likely to survive to reproductive age
+- Reduced hybrid fertility
+    - Hybrid can not reproduce
+- Hybrid breakdown
+    - As generations goes, the hybrid becomes less and less viable
+
+## How do blocks to gene flow arise, leading to speciation?
+
+- Allopatric speciation
+    - Subpopulations are isolated geographically
+    - Gene pools diverge (mutation, natural selection, genetic drift - allele frequencies change)
+- Sympatric speciation
+    - Less common
+    - Gene flow reduced by polyploidy, habitat, differentiation, sexual selection
+- Examples of geographic barriers in allopatric speciation
+    - Geographic remodeling:
+        - Canyons, rivers, mountains, changing water levels, etc
+        - Ex: snapping shrimp on either side of the isthmus of Panama
+    - Distance alone may be a significant geographic barrier to gene flow
+    - Some populations become isolated when descendents are unable to rejoin ancestral population
+        - Ex: Flightless cormorants on the Galapagos Islands cannot return to South America to interbreed with flying cormorant populations
+- REMEMBER: Genetic variation must exist or arise between separated populations for speciation to occur  
+
+## Adaptive Radiation
+
+- A result of allopatric speciation
+
+### Sympatric speciation 
+
+- Several mechanisms can lead to sympatric speciation (speciation without geographic isolation):
+    - Polyploidy (extra set of chromosomes)
+        - Errors in meiosis
+    - Autopolyploidy – more than 2 chromosome sets all derived from same species
+- ![PolyPloidy](./Photos/PolyPloidy.png)
+    - Self-pollinate or mate with other tetraploids – reproductive isolation without geographic separation
+- Allopolyploidy:
+    - Fertile with each other, but cannot mate with either parent
+    - More common in plants
+- Sexual selection
+    - The other species don't mate with them
+
+### Hybrid zone
+
+- ![Hybrid Zone](./Photos/HybridZone.jpg)
+- Often says in a very defined band/zone between the two species
+- The hybrids might have poszygotic barriers which keeps them from spreading
+
+#### Hybrid zone outcomes
+
+- Reinforcement: strengthen barriers, fewer hybrids
+    - Hybrid zone shrinks
+    - Can be caused by:
+        - Mate preference is much stronger in sympatric vs. allopatric species of flycatcher to reduce the production of unfit hybrids
+- Fusion: weakening of barriers
+    - Species become one
+    - Can be caused by:
+        - Pollution may be reducing sexual selection in the cichlids of Lake Victoria
+- Stability: continue to produce hybrids
+    - Hybrid zone remains stable
+
+### Punctuated equilibrium
+
+- ![Punctuated Equilibrium](./Photos/PunctuatedEquilibrium.png)
+
+### The basis of speciation is changes in genes
+
+- The genetics of speciation must be considered on a case-by-case basis, but some examples have been found in which a single gene mutation is responsible
+    - 2 species of monkeyflower have 1 gene that is different
