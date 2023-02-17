@@ -6410,3 +6410,29 @@ However, Roosevelt's definition of liberalism is much closer to the modern defin
 The government should play a role in ensuring the economic well-being of all its citizens.
 I think it is important that there is a balance, that the government is not "all powerful."
 For example, I think the government should promote education, healthcare, and employment, but maintain the American values like freedom of speech and privacy.
+
+## Homework Questions - 2/21: Four Freedoms
+
+### A
+
+Briefly analyze one of the "Four Freedoms" paintings.
+How is this particular freedom being depicted?
+What are some of the central elements of the painting that convey or represent this freedom?
+What does this depiction say about America or American values at this time?
+
+Freedom from Want:
+These paintings were created during/after the Great Depression.
+This painting in particular shows a large family sitting down to eat a nice meal.
+This would indicate that they are well off, that they have enough food to eat, and their basic needs are meet.
+This reflects the shift in American values from negative to positive liberty, as the family has the freedom to eat without worrying about where their next meal will come from.
+
+### B
+
+![Freedom of Thought](https://sebastianhetman.com/wp-content/uploads/2019/10/Standard-16.jpg)
+
+Freedom of Thought:
+While it would seem obvious that we have freedom of thought, espically if we have freedom of speech, but that is not always the case.
+This is the most evident with the rise of social media.
+Social media "feeds" (instresting word...) are designed and shaped by and for our time and engagement.
+Yet despite this, we still engage with social media "willingly."
+I think that this picture illustrates the idea that we may not know were are thoughts or ideas come from, or that they come from an external source.
