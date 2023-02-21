@@ -6411,6 +6411,8 @@ The government should play a role in ensuring the economic well-being of all its
 I think it is important that there is a balance, that the government is not "all powerful."
 For example, I think the government should promote education, healthcare, and employment, but maintain the American values like freedom of speech and privacy.
 
+# Chatper 22 - ??
+
 ## Homework Questions - 2/21: Four Freedoms
 
 ### A
@@ -6436,3 +6438,112 @@ This is the most evident with the rise of social media.
 Social media "feeds" (instresting word...) are designed and shaped by and for our time and engagement.
 Yet despite this, we still engage with social media "willingly."
 I think that this picture illustrates the idea that we may not know were are thoughts or ideas come from, or that they come from an external source.
+
+## Class Notes - 2/21: Atomic Bomb
+
+- The atomic bomb ushered in the atomic age
+    - Atomic age 1940s-1980/present
+- Nuclear power is more eco friendly than fossil fuels
+    - Almost limitless energy
+        - Smaller amount of the same fuel can produce more energy than fossil fuels
+        - Example of humanity's growing access to energy
+            - From human muscle power to wood to fossil fuels to nuclear power
+            - More stuff, less work
+- Nuclear weapons
+    - Everyone including US has many atomic weapons
+
+### How it works
+
+- `E = mc^2`
+    - Energy = mass * speed of light ^ 2
+    - `c^2` = a lot of energy
+        - A lot of energy is released when mass is converted to energy
+    - Einstein - mass and energy are 2 different forms of the same thing
+        - Went against Newton's laws
+- Chemical energy vs nuclear energy
+    - Chemical energy
+        - Energy stored in the bonds of atoms
+            - (Or position of electrons)
+        - Can be released by breaking/changing the bonds
+            - Burning fossil fuels
+    - Nuclear energy
+        - Energy stored in the nucleus of an atom
+        - Can be released by splitting or fusing atoms
+            - Releases a lot more energy than chemical energy
+- Splitting an atom
+    - Neutron: neutral particle
+    - Get a big a unstable atom isotope (ex: Uranim 235/92)
+        - Isotope: atom with a different number of neutrons
+        - Hit the atom with a neutron
+            - Breaks the atom into 2 smaller atoms
+            - Releases 3 extra neutrons
+                - These 3 neutrons can hit other atoms and split them
+                    - Creates a chain reaction
+                        - Only need a starter
+                    - Releases a lot of energy
+        - Happens naturally
+            - Carbon dating
+    - Immediately after learning about the chain reaction, they realized they could make a bomb
+- Fusion reaction
+    - Nuclear fission: splitting atoms to release energy from the nucleus
+    - Nuclear fusion: directly transforms mass into energy
+        - A little bit of mass from 2 atoms is converted into a lot of energy, helium, and a neutron
+        - The (sun = star) is a giant fusion reaction
+            - Heat and pressure from the gravity field of the sun compresses hydrogen atoms to form helium
+            - Releases a lot of energy
+- Fusion bomb
+    - Tsar Bomb
+        - 50 megatons of TNT
+        - 3,000 times more powerful than the bomb dropped on Hiroshima
+- The Manhattan Project
+    - Code name for the secret project to build an atomic bomb in the US
+    - Massive decentralized project headquartered in Los Alamos, new Mexico
+        - If it goes wrong, not all eggs in the same basket
+        - More groups working on the same problem, more creative solutions
+    - Only possible due to the industrial might and relative safety of the US homeland
+        - Expensive, etc
+        - Wouldn't hurt the war effort, US could spare industrial resources
+        - Also wouldn't get blown up
+    - Key players: Leo Szilard, Albert Einstein, Enrico Fermi, Robert Oppenhiemer
+        - US (as an immigrant country) accepted a lot of immigrant scientists
+        - 3 of the 4 fleeing facism, 4th is a child of immigrants
+            - Many were Jewish
+                - (In Germany, nuclear physics was seen as a "Jewish field")
+    - Successful test at Trinity, New Mexico (July 16, 1945)
+    - Letter from Einstein to FDR
+        - Urged FDR to build an atomic bomb before the Germans
+        - Einstein regretted building the bomb once he saw the effects and realized Germany could not make one
+- Only 5 countries trying to make atomic weapons
+    - US, UK, USSR, Germany, Japan
+    - Only US succeeded in WWII
+        - Used to defeat Japan, Germany was already defeated before the success of the Manhattan Project
+
+### Hiroshima and Nagasaki (August 6 and 9, 1945)
+
+- A list of possible targets was created
+    - Targets were chosen based on military value, population, and industrial value
+    - But also weather and personal opinions
+        - Ex: don't bomb X because it was nice when I vacationed there
+        - Ex: don't bomb Y because it is already destroyed so we can't get a full test of the damage
+- Bombs were relativly small and air exploded
+    - Can go Japan RN (not too bad nuclear radiation)
+- Hiroshima
+    - Bombed first
+        - Total war: all targets are fair game
+        - Hoped to get Japan to surrender
+    - 90k-140k dead
+    - 1 bomb - Little Boy
+    - 15 kilotons TNT
+- Nagasaki
+    - Bombed second
+        - Japan did not surrender after Hiroshima
+    - 39k-80k dead
+    - 1 bomb - Fat Man
+    - 21 kilotons of TNT
+
+### Modern day
+
+- Electricity from nuclear power
+    - Potential for "clean" power, but very high risk
+- High deaths from nuclear power (happen all at once, meltdown, etc)
+    - But a lot less than coal plants
