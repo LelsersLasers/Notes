@@ -6547,3 +6547,63 @@ I think that this picture illustrates the idea that we may not know were are tho
     - Potential for "clean" power, but very high risk
 - High deaths from nuclear power (happen all at once, meltdown, etc)
     - But a lot less than coal plants
+
+## Class Notes - 2/23: Japanese Internment
+
+- 2/3 of Japanese Americans were US citizens
+- Basically concentration camps
+
+### "Japanese Relocation" (government videom from 1942)
+
+- West Coast became a war front when Japan bombed Pearl Harbor
+- Worried about an invasion of the West Coast
+    - West Coast was important to the US war effort
+        - Industry, ports, airfields, etc
+- Could not trust every single Japanese, so had to round them up and move them inland
+- "Japanese were happy to do the paperwork to migrate"
+- "Government helped in 100 ways" and "provided plenty of nurishing food for all"
+- Left behind shops/homes/etc
+- The Japanese tried to continue life as normal
+- Americanization classes
+- Small self government in camps
+    - But the outside was guarded by the military
+- "They immediately wanted to go to work"
+- Camps were in the desert
+- Acknowledged that they were taking away civil liberties but it was *for America*
+
+### "Japanese Interment" (modern video)
+
+- No hearings, no trials, no due process
+    - Unprecendented power
+- Congress passed the bill
+- Suppress *anyone* deemed dangerous, but targeted and used against the Japanese
+- Not voluntary
+    - Even before they left, violence, discrimination
+- Had to carry everything
+    - So they had to leave behind everything they couldn't carry
+    - Shops/houses/etc had to be rapidly sold
+        - Often given bad deals
+            - Couldn't buy it back after the war
+        - Neighbors were exicted for this, because then they could get the land for cheap
+- Assembly centers
+    - Bad conditions
+    - Setup in fair grounds
+    - Lived in horse stalls
+    - Very temporary
+- The Japanese tried to "go quietly" to show their dedication to America
+- Often the "permenant" camps were not ready yet
+    - The Japanese had to built them themselves
+    - In bad conditions, bad weather, etc
+- Couldn't leave the camps
+- Fred Korematsu
+    - Japanese American
+    - Tried to fight the internment
+    - It was illegal to ignore the internment order
+    - Appealed his arrest to the Supreme Court
+        - Against the 5th amendment and 14th amendment
+        - Lost in the Supreme Court
+            - 6-3 decision
+            - In a time of war, it is nessisary to do things that are "wrong" in the time of peace
+            - Also, we must trust the government and the military
+            - Frank Murphy
+                - Used word "racism" for the first time in the Supreme Court
