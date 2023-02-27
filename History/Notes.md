@@ -6607,3 +6607,72 @@ I think that this picture illustrates the idea that we may not know were are tho
             - Also, we must trust the government and the military
             - Frank Murphy
                 - Used word "racism" for the first time in the Supreme Court
+
+## Class Notes - 2/27: The Holocaust
+
+- Holocaust = Burnt offering (greek)
+- Shoah = hebrew word
+- Half the Jews of German fled before 1939
+    - More would have if they were able to
+        - Ex: Albert Eistein was easily able to get Visa
+- MS St. Louis
+    - May 1939
+        - 3 months before the war started
+    - Jews fleeing Germany
+        - Could not take anything with them
+        - 900 people
+    - Tried to go to Cuba
+        - Cuba has less restrictive immigration policies
+        - Cubans said no
+    - Tried to go to the US
+        - Became a national story
+        - General US consensus was: wow this is bad, but we shouldn't let them in
+            - Bystander
+        - Only a couple were admitted
+            - But US Jewish organizations were able to help most get Visas for other western european countries
+                - But western europe gets taken by Nazi German
+                    - Safe heavens disappeared
+    - 1/4 of the people on the boat were eventually executed in concentration camps
+        - Effected US, we sent them back to die
+- Did the US do enough to help the Jews
+    - 1930s
+        - Germans increasingly persecuted Jews
+    - Great Depression: increase in antisemtism and xenophobia
+        - US government tried to restrict immigrants
+            - With quotas: Jews fleeing Germany = German
+                - Low Germany quota because US did not want Nazis
+    - Most US citizens were against Nazi regime
+        - But did not want to take in more Jews as a solution
+    - 1941: State Department stopped all imigration if people had relatives in an axis-controlled areas
+        - Did not want to risk spies, etc, but very unjustified
+    - 1942: US gets full info on Nazi treatment of Jews/Holocaust
+        - "Fog of war", propaganda, etc -> hard to know what was actually happening
+        - Late 1942: known to be true
+    - US takes partial blame for the exermination
+        - US should have done more to help
+        - FDR pressured by Treasury Department to help refugees
+        - War refugee board created by FDR to bring over and support refugees
+            - Mostly for the Jews, but also for other groups (not for LGBTQ+)
+            - Earliest large effort by the US to help refugees
+    - "Late and little"
+        - 1944: Germany takes over its ally, Hungary
+            - Hungary used its alliance to temporarly protect its Jews
+        - War refugee board saves "200,000" (likely a bit lower)
+            - But nothing compared to the 6 million killed
+- US does not help in other genocides
+    - Rwanda genocide - 1994
+        - Belgium was the colonizer
+            - Played 2 native groups against eachother
+        - When Belgium left, power vaccum
+            - The 2 groups fought
+        - In 100 days, 800k people were killed
+        - Troops to extract the white people
+            - Left the other groups to fight
+- Why did the US not do more?
+    - > Roosevelt’s policies of speaking out against Hitler’s atrocities, but yet doing nothing to facilitate more Jews to enter the United States as refugees, reflected the complexities of Americans’ opinions about Jews here and abroad but led to failure to provide a safe haven for those thousands of Jewish refugees who might have fled before the war.
+    - > Many members of Congress expressed strong isolationist views and wanted nothing to do with Europe’s conflicts. Massive unemployment during the De- pression and then later fear of spies and saboteurs partly shaped anti-immigrant views. Some elected officials and other public officials held anti-British or pro- German sentiments, but many expressed anti-Semitic views. Some prominent figures, like Charles Lindbergh and Joseph P. Kennedy, accused American Jews of pushing the United States toward war. These views ensured that quotas for German immigrants, mostly used by Jews escaping from increased terrorism there, would not be raised.
+    - NOT RISK AMERICAN LIVES
+        - "America first"
+            - Isolationism, neutrality
+            - A touch racist, xenophobic
+                - Which only increase as crises (wars) happen
