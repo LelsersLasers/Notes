@@ -1,0 +1,2 @@
+- ça = cela = ce (it/that)
+- sa = his/her/its
