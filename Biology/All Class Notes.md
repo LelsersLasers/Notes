@@ -2647,3 +2647,98 @@ result: basically infinite possible combinations
 
 - The genetics of speciation must be considered on a case-by-case basis, but some examples have been found in which a single gene mutation is responsible
     - 2 species of monkeyflower have 1 gene that is different
+
+# 2/27
+
+## Taxonomy: Methods of Classification
+
+### Purpose:
+To put an organism into a category that reflects its evolutionary history (phylogeny) to others
+
+### Types of Data Used 
+
+- Structural/biochemical characteristics
+    - What is most used now
+- Life cycles
+- Fossils
+- Embryonic patterns of development
+- *Amino acid sequencing
+- *DNA analysis
+
+## Geological Time Scale
+
+- ![Geological Time Scale](./Photos/GeologicTimeScale.png)
+- Things only fossil in certain conditions and states
+
+## BIOLOGICAL CLASSIFICATION
+
+- **D**omain **K**ingdom **P**hylum **C**lass **O**rder **F**amily **G**enus **S**pecies **S**ubspecies
+    - “(D) King Philip Came Over From Greece Singing (Songs)”
+    - ![Classification](./Photos/Classification.jpg)
+- 3 domain system
+    - 2 prokaryotic
+    - 1 eukaryotic
+- Binomial Nomenclature
+    - Two-part names for species (a binomial)
+        - The first part of the name is the genus 
+        - The second part, called the specific epithet, is unique for each species within the genus 
+        - The first letter of the genus is capitalized, and the entire species name is italicized
+        - Both parts together name the species (not the specific epithet alone)
+    - Hierarchical classification
+- Classification of Man: *Homo sapiens sapiens*
+    - Kingdom:      Animalia:   multicellular; food ingested (heterotroph)
+    - Phylum:       Chordata:   notochord, dorsal hollow nerve cord, gills
+    - Subphylum:    Vertebrata: vertebrae; segmentation
+    - Superclass:   Tetrapoda:  terrestrial; four limbs
+    - Class:        Mammalia:   hair; mlik glands; diaphragm
+    - Order:        Primates:   tree-dwellers; decreased smell
+    - Family:       Homididae:  flat face; eyes forward; bipedal; color vision
+    - Genus:        *Homo*:     large brain; speech; long childhood
+    - Species:      *sapiens*:  chin; high forehead; sparse body hair
+    - Subspecies:   *sapiens*:  "modern man"
+
+## What We Can and Cannot Learn from Phylogenetic Trees
+
+- Phylogenetic trees show patterns of descent, not phenotypic similarity
+- Phylogenetic trees do not indicate when species evolved or how much change occurred in a lineage
+- It should not be assumed that a taxon evolved from the taxon next to it
+
+### Phylogenies are inferred from morphological and molecular data
+
+- To infer phylogenies, systematists gather information about morphologies, genes, and biochemistry of living organisms
+
+### Morphological and Molecular Homologies
+
+- Phenotypic and genetic similarities due to shared ancestry are called homologies
+- Organisms with similar morphologies or DNA sequences are likely to be more closely related than organisms with different structures or sequences
+
+## Sorting Homology from Analogy
+
+- When constructing a phylogeny, systematists need to distinguish whether a similarity is the result of homology or analogy
+- Homology is similarity due to shared ancestry
+- Analogy is similarity due to convergent evolution
+- Convergent evolution occurs when similar environmental pressures and natural selection produce similar (analogous) adaptations in organisms from different evolutionary lineages
+- Bat and bird wings are homologous as forelimbs, but analogous as functional wings
+- Analogous structures or molecular sequences that evolved independently are also called homoplasies
+- Homology can be distinguished from analogy by comparing fossil evidence and the degree of complexity
+- The more complex two similar structures are, the more likely it is that they are homologous
+
+## Molecular Clocks
+
+- A molecular clock uses constant rates of evolution in some genes to estimate the absolute time of evolutionary change
+- Molecular clocks are calibrated against branches whose dates are known from the fossil record
+Individual genes vary in how clocklike they are
+
+### Problems with Molecular Clocks
+
+- The molecular clock does not run as smoothly as neutral theory predicts
+- Irregularities result from natural selection in which some DNA changes are favored over others
+- Estimates of evolutionary divergences older than the fossil record have a high degree of uncertainty
+- The use of multiple genes may improve estimates
+
+### Applying a Molecular Clock: The Origin of HIV
+
+- Phylogenetic analysis shows that HIV is descended from viruses that infect chimpanzees and other primates
+- HIV spread to humans more than once
+- Comparison of HIV samples shows that the virus evolved in a very clocklike way
+- Application of a molecular clock to one strain of HIV suggests that that strain spread to humans during the 1930s
