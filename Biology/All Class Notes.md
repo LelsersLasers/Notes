@@ -2742,3 +2742,139 @@ Individual genes vary in how clocklike they are
 - HIV spread to humans more than once
 - Comparison of HIV samples shows that the virus evolved in a very clocklike way
 - Application of a molecular clock to one strain of HIV suggests that that strain spread to humans during the 1930s
+
+# 3/1
+
+## Origin of Life KEY Points
+
+- Life arose from nonliving matter in the early earth environment
+    - Falls within general laws of the universe…no supernatural event was necessary
+- All life descended from these beginnings
+- There was no abrupt transition from “nonliving” to “living” and characteristics of life were acquired gradually
+- Living organisms, once they evolved, changed the environment thereby changing the original conditions
+
+## Gradual Chemical Evolution Hypothesis
+
+- ![Gradual Chemical Evolution Hypothesis](./Photos/GradualEvolution.png)
+
+## The Early Earth
+
+- The earth formed ~4.6 billion years ago 
+- Earliest evidence of life are stromatolites (fossils of early prokaryotic cells)
+- 75% of Earth’s history only microscopic/ unicellular organisms 
+- Archaea share more similarities to Eukarya than Bacteria
+    - Bacteria branch off earlier in history
+- ![Early Earth](./Photos/EarlyEarth.png)
+- Chloryphyll evolved because the purple light was not used (only the green)
+    - They could uses the unused light
+    - Oxygen as a byproduct of photosynthesis
+- First extintion
+    - Oxygen posioning
+    - Killed anaerobic organisms
+- Endosymbiotic theory
+    - Cell kind of engulfed a mitochondria or chloroplast
+    - Evidence:
+        - Mitochondria and chloroplasts have their own DNA and their own double cell walls
+- 90% of Earth’s existence life was aquatic
+- Trying to look for life outside of the earth
+    - Most of earth's life did not look like it does not
+
+## Bacteria
+
+- Unicellular
+- Very small: 1-5 um
+- 3 main shapes
+    - Spherical (cocci)
+    - Rod-shaped (bacilli)
+    - Spiral (spirilla)
+- Binary Fission for reproduction
+    - No mitosis
+    - Duplicate DNA then split
+    - No nucleus, no organelles
+- Move with flagella
+    - Analogous structure
+- Prokaryote = bateria | eukaryotes
+    - Eukaryote = true + nucleus
+
+## Prokaryote DNA
+
+- Circular DNA
+- Have ribosomes, DNA, cell membrane, cytoplasm
+- Prokaryotes were the only life on earth for ~2 billion years
+- Found almost everywhere on earth
+- Out number all eukaryotes combined
+- Only a small number are pathogenic (harmful to humans)
+    - There is no pathogenic Archaea
+
+### Bacteria vs Archea
+
+- Both
+    - Unicellular
+- Bacteria
+    - Cell wall is made of peptidoglycans (target of many antibiotics)
+    - Lives everywhere
+    - One RNA polymerase
+    - NO histones
+    - NO introns
+- Archaea
+    - Cell wall is NOT made of peptidoglycans
+    - Mostly Extremophiles (live in extreme environments)
+    - Many RNA polymerases
+    - DNA has histones
+    - DNA has some introns
+
+## Gram Stain to classify bacteria
+
+- Peptidoglycans: a polymer of sugars and amino acids that form the cell wall of bacteria
+    - Target of many antibiotics.  
+- ![Gram Stain](./Photos/GramStain.tif)
+- Gram Negative
+    - Dye did not work on the bacteria
+    - Has outer membrane
+- Gram Positive
+    - Dye worked on the bacteria
+    - No outer
+
+## Prokaryotes are extraordinarily successful group of organisms 
+
+- The most successful organisms on earth
+- Metabolic versatility (organic and inorganic)
+- Enormous reproductive potential
+    - E coli can divide every 20 minutes
+- They can evolve quickly (but why?)
+    - Mutate more per offspring + more offspring
+- Survive in a huge variety of habitats
+
+## Horizontal gene transfer
+
+- Bacteria can transfer genes/DNA without having to reproduce
+- 1 bacteria shares it to another
+    - When they split, now 4 bacteria have it instead of 2
+- **Transformation**: free floating DNA is incorporated into bacterial genome
+- **Configuation**: DNA exchanged by direct cell to cell contact. DNA is then incorporated into the bacterial genome (or is a plasmid)
+- **Transduction**: bacteriophage (viral) DNA is incorporated into bacterial genome
+    - Bacteriophage is a virus that infects bacteria
+
+## Prokaryotes have diverse metabolism
+
+- Photoautotrophs: photosynthetic (like cyanobacteria)
+- Photoheterotrophs: light + organic compounds (not only CO2)
+- Chemoautotrophs: use CO2 + inorganic compounds (mostly  extremophiles)
+- Chemoheterotrophs: consume organic compounds 
+    - Humans
+
+## Many prokaryotes are symbiotic
+
+- Symbiosis “living together”: ecological relationship between organisms of different species in direc contact 
+- Bacteria live in communities: biofilms
+    - Surface-coasting colony of prokaryotes living in metabolic cooperation
+    - Bacteria work together to resist antibotics
+- Types of symbiosis
+    - Mutualism (+/+): mutually benefits both organisms
+    - Commensalism (+/0): one benefits and the other is not affected
+    - Parasitism (+/-): one organism benefits and the other is hurt
+
+## Microbiomes - The ultimate bacterial community
+
+- Mirobiome: bacteria community
+- Exist everywhere
