@@ -2878,3 +2878,190 @@ Individual genes vary in how clocklike they are
 
 - Mirobiome: bacteria community
 - Exist everywhere
+
+# 3/2
+
+## Domains of life
+
+- All
+    - DNA
+    - Cell membrane
+    - Ribosomes
+    - Cytoplasm
+- Archea + Eukarya
+    - Histones
+    - Introns
+    - Multiple RNA polymerases
+- Bacteria
+    - Just one RNA polymerase
+    - Peptidoglycan cell walls
+        - Target of many antibiotics without harming other cells in our body
+        - Gram positive: thick layer
+            - Dye can stain directly
+        - Gram negative: outer membrane
+            - Dye can't stain directly
+- Eukarya
+    - Nucleus
+    - Membrane bound organelles
+
+## Protist: Introduction to Eukaryotes
+
+- Protists represent a “grab bag” of eukaryotic cells
+    - Protist = any eukaryote that isn’t not a plantae, aminmalia, or fungi
+- Mostly unicellular
+    - But can be multicellular
+- Most live in moist or aquatic environments
+- Categorized into photosynthesizers (algae) or not
+
+### Remember the Endosymbiont Theory?
+
+- Mitochondria and chloroplasts originated as prokaryotic cells engulfed by an ancestral eukaryotic cell &rarr; evolved into a single organism
+- Evidence:
+    - Membranes: some organelles have double membranes
+    - Antibiotics: susceptiblbe to antibiotics
+    - Division: reproduce occurs via a fission-like process
+    - DNA: have their own DNA (circular)
+    - Ribosomes: have their own ribosomes
+- Protist have engulfed other cells than mitochondria and chloroplasts
+
+### Protists play key roles in ecological communities
+
+- Photosynthetic protists
+    - Very important in aquatic communities
+    - Base of the food chain
+    - Can have hold fasts which work a bit like roots to anchor the plant
+    - Can have blades (like a leaf)
+- Protists form wide range of mutualistic (+/+) and parasitic (+/-) relationships that affect their communities
+
+#### Malaria
+
+- Protist
+    - No peptidoglycan cell wall to make it easy to target
+- Lives in a misquito
+    - Misquito spreads it to a human
+- Very small, bacteria like
+    - Reproduces quickly and exlodes into a blood stream
+
+### Three major groups of Protists
+
+- Animal-like
+    - Ingestive “eaters”
+    - Protozoans
+    - Some are ciliates
+- Plant-like (algae)
+    - Photosynthetic
+    - Chlorophyll and  chloroplasts
+    - Ancestors to land plants
+- Fungus-like
+    - Absorb nutrients from decaying matter
+    - Lack chitin
+    - Can have flagella
+
+#### Diatoms
+
+- Phytoplankton (microalgae)
+- Cell wall of silica (glass)
+- Diatomaceous earth
+
+#### Dictyostellium
+
+- Fungus-like protist
+- Amazing aggregation behavior
+
+#### Trypanosomes
+
+- Parasitic protozoan
+- Flagellated
+- Cause sleeping-sickness from tsetse fly
+
+#### Acetabularia
+
+- Single-celled green alga
+- Giant single-cell (0.5-10 cm!!)
+
+## Kingdom Fungi (not plants)
+
+- There was a time where there were fungi as tall as trees
+- Multicellular Eukaryotic
+    - Mostly unicellular but can be multicellular
+- Cell walls made of chitin
+- Asexual and sexual reproduction (spores)
+- Fungi that you see are mostly haploid
+- Extracellular digestion and absorption
+- Heterotrophic decomposers
+    - Not from the sun
+- Mostly made of **hyphae**
+
+### Fungi Structure: chitin cell wall
+
+- Hyphae: microscopic thin strands of cells that make up fungi
+- Mycelium: mass of interwoven feeding web of hyphae
+    - Can make up a symbiotic relationship with a plant
+        - Can bring nutrients to the plant
+- Fruiting Body: reproductive structure that makes spores
+- ![Fungi](./Photos/Fungi.tif)
+
+### Fungi Life Cycle: asexual or sexual
+
+- Plasmogamy: fusion of the cytoplasm of two parent mycelia
+- Heterokaryotic: result of two haploid hyphae (n + n) fusing
+- ![Fungi Life Cycle](./Photos/FungiLifeCycle.png)
+    - Do asexual reproduction when life is good
+        - Least amount of work
+    - When times are bad, do sexual reproduction
+        - Mixing DNA might have offspring a better chance of surviving
+
+### Generalized life cycle
+
+- Sexual Reproduction
+    - Fusion of hyphae cytoplasm
+    - Fusion of hyphae nuclei 
+    - Release haploid spores
+- Asexual Reproduction
+    - Haploid hyphae make spores
+    - Spores grow
+
+### What are “spores” and where do they come from?
+
+- Spore: tiny one-celled reproductive (haploid) unit capable of giving rise to a new individual 
+- Spore producing cells: asci and basidia
+    - In asci, spores fully contained with an outer covering
+    - In basidia, spores produced externally
+
+### Three major groups of Fungi
+
+- Zygomycetes
+    - Mostly asexual
+    - Molds 
+    - Bread molds
+- Ascomycetes
+    - Sac Fungi & yeast
+    - Spores made in “asci” 
+- Basidiomycetes
+    - Club Fungi
+    - Mushrooms 
+    - Spores made in “basidia”
+
+#### Honey Mushroom
+
+- Parasitic fungi 
+- Long-lived
+- Some of the largest living organisms 
+
+#### Saccaromyces cerevisiae
+
+- "Baker's yeast"
+- Used to make bread, beer, wine, etc.
+- Causes bread to rise
+
+#### Lion’s Mane Mushroom
+
+- Edible
+- Medicinal: studies have shown extracts inhibit cancer cell metastasis
+
+### Fungi often live in symbiosis
+
+- Lichens: mutualistic relationship photosynthetic green algae or cyanobacteria + fungi
+- Mycorrhizae: mutualistic relationship between fungi and plant roots
+    - More than 90% of plants
+- Parasitic:  fungi with specialized hyphae to feed on living organisms
