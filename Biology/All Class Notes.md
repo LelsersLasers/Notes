@@ -3065,3 +3065,132 @@ Individual genes vary in how clocklike they are
 - Mycorrhizae: mutualistic relationship between fungi and plant roots
     - More than 90% of plants
 - Parasitic:  fungi with specialized hyphae to feed on living organisms
+
+# 3/3
+
+## Earth- ~470 million years ago
+
+- Know plants existed because of their spores
+- Cyanobacteria living on the rocks (we think)
+- Earliest plants didn’t have leaves
+- Symbiotic relationship with fungi for nutrients
+
+## Adaptations for land colonization
+
+- Xylem: water and nutrients from roots &rarr; leaves
+- Phloem: transports food from leaves &rarr; rest of plant 
+- Stomata (exchange of CO2 & O2)
+- Cuticle (prevents H2O loss)
+- Lignin (woody part of plants)
+- Reproduction changed to protect embryophytes
+
+## Introduction to land plants
+
+- Multicellular photoautotrophs
+- Primarily terrestrial 
+- Have tissues, roots, leaves
+- Sexual reproduction: simple to highly evolved 
+    - Alternation of generations: pattern of reproduction altering between haploid and diploid states
+- Differentiate plants based on their:
+    - Tissues
+        - How do they move nutrients around in their bodies
+    - Reproductive strategies
+- Within vascular plants is the phloem, the vessel that transports food, and the xylem, which transports water. Nonvascular plants are small, simple plants without a vascular system. They do not have a phloem or xylem.
+- Rhizoid: a filamentous outgrowth or root hair on the underside of the thallus in some lower plants, especially mosses and liverworts, serving both to anchor the plant and (in terrestrial forms) to conduct water.
+
+## Alternation of Generations
+
+- Haploid (n) Phase = Gametophyte
+    - Spores &rarr; gametophyte
+    - Produces gametes (sperm and egg)
+    - Gametes fuse &rarr; Zygote (2n)
+- Diploid (2n) Phase = Sporophyte
+    - Zygote &rarr; embryo (attached to the mother)
+    - Undergoes meiosis &rarr; spores (n)
+- Spores grow into a multicellular gametophyte through mitosis.
+- Some cells of the gametophyte develop into gametes (egg and sperm)
+- Egg and sperm fuse (2n) and grow through mitosis into the sporophyte
+- Sporophyte produces haploid spores…
+
+### The old way
+
+- Plant is either male or female
+    - Haploid, gametophyte is the "stem"
+- Have sporophyte (diploid) that produces spores at the stop
+
+## Four Major Land Plant Groups
+
+- Bryophytes: non-vascular
+    - No tissues
+    - Small
+    - Ancient
+- Pteropytes (Ferns): vascular, seed-less
+- Gymnosperms: woody plants (pines)
+- Angiosperms: flowering plants
+
+### Bryophytes
+
+- General Characteristics
+    - Earliest evolved land plants 
+    - Spores instead of seeds
+        - Have egg and sperm and they have to find each other
+    - Flagellated sperm &rarr; strong ties to water
+    - NO TISSUES
+    - Non-vascular tissue (rely on diffusion)
+    - Haploid-dominated life cycle (gametophyte)
+    - Rhizoids (primitive roots)
+- Examples: Hornworts, Liverworts, Mosses
+- Needs H2O in order to reproduce
+    - Life orginated from water (and these were the first plants)
+
+### Seedless vascular plants
+
+- Pteropytes and Lycophytes
+- General Characteristics 
+    - Spores instead of seeds
+    - Vascular tissue (xylem & phloem)
+    - Woody lignin tissue for support (taller)
+    - Diploid-dominant (sporophyte) life cycle 
+    - Flagellated sperm; less dependent on water
+    - Roots
+- Examples: Ferns and their relatives
+- Needs H2O in order to reproduce
+
+### Vascular Tissues
+
+- Xylem: transport water and minerals from roots to other parts of the plant (up)
+- Phloem: transports sugars and other nutrients around the plant (up/down)
+
+### Gymnosperms “naked sperm”
+
+- General Characteristics 
+    - First seed plants (replaces spores)
+    - Evolution of pollen (replaces swimming sperm)
+        - Doesn't need water to reproduce
+        - "Swims" through the air instead of water
+    - Developed vascular tissue
+    - Evolved to prevent water loss (diverse habitats)
+    - Diploid-dominant (sporophyte) life cycle
+        - Seed is fertilized and ready to become a plant
+    - Microscopic, reduced gametophyte
+- Examples: Conifers, Ginkgos, Cycads
+
+### Angiosperms “covered sperm”
+
+- General Characteristics 
+    - Evolved ~125 mya (Cretaceous, as dino phase), possibly earlier
+    - Huge diversity in numbers and distribution
+        - About 260,000 species, most of all types
+    - Only plants to make flowers and fruit
+    - Coevolved with animal pollinators
+    - Diploid-dominant (sporophyte) life cycle
+    - Microscopic, reduced gametophyte
+- Examples: Flowering plants, Fruits, Grasses
+
+#### Angiosperm Life Cycle
+
+- Pollen lands on stigma
+- Pollen tube grows down through style and carries pollen (sperm) to ovary
+- Sperm fertilizes egg in ovule. 
+- Ovule develops into a seed that contains the embryo
+- Ovary develops into fruit
