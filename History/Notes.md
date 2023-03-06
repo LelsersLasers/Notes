@@ -6676,3 +6676,87 @@ I think that this picture illustrates the idea that we may not know were are tho
             - Isolationism, neutrality
             - A touch racist, xenophobic
                 - Which only increase as crises (wars) happen
+
+- # Chapter 23
+
+## Class Notes - 3/6: Rise of Suburbia
+
+- Post WWII: US came out strong
+    - Everyone else destroyed (other than USSR)
+    - Strong industrialization
+    - Spheres of influence
+- Led to a housing boom
+    - Government Bonds
+    - GI Bill
+        - Veterans could get loans to buy houses
+        - Or education
+        - Veterans could now get middle/upper class education/money
+    - INcreased manufacturing
+    - US relatively unscathed in the war
+    - Cities very crowded
+        - During wartime and from great migration
+        - Lots of temporary housing
+    - Lots of vets coming home and building families
+- Huge demand for new housing
+    - Suburbs!
+        - Planned communities
+        - For the first time, people would buy houses
+            - Instead of buying land and building a house on it
+        - Happens everywere in the country
+    - Levittown
+        - William Levitt was the first to turn farmland into suburbs
+        - Use military building method to build houses for people to live in
+        - Sell for very very cheap
+        - Racist
+            - Levittown was only for whites
+            - (Even though he was Jewish)
+    - Lessons from mass production applied to housing
+- Suburbia was really only for whites at the time
+    - Redlining: mapped which neighborhoods were "good" or "bad"
+        - Based on the "race" of the neighborhood
+        - Basically segregation
+    - Part of the New Deal where racist polices chose who got the benefits
+        - Sort of continues today
+    - Wealth was past down through generations
+        - Compounded
+- Housing restrictions
+    - Deed restrictions
+        - Past from owner to owner
+        - Can be edited by owners
+    - Discriminatiory housing covenants
+    - Associational policies
+        - HOAs
+            - Legal organization for a neighborhood
+                - Not a government agency
+            - Could enforce racist ideas/segregation
+                - Some resistance to it (ACLU)
+        - Real Estate associations
+    - "White Flight"
+        - Whites fleeing diversity from the Great Migration
+- Banking restrictions
+    - Racist approval and interest rates
+    - Redlining
+- Ramifications
+    - De facto geographic segregation
+    - Disparities in building of generational wealth
+    - Continuing gap in house apprisals
+    - Education segregation as bad or worse now than as it was in 1970s
+        - Schools funded from property taxes
+            - Worse houses -> worse education
+        - Tried to offset by bussing people in from other neighborhoods
+            - But they had a worse education before and couldn't match the level of the wealthier white kids
+    - Overpolicing of primarily Blank and Hispanic communities
+        - Creates feedback loop
+    - Environmental justice
+        - The poor neighborhoods are near freeways or industrial areas
+        - Nearer to facilites that produce toxins
+    - Transit and infrastructure justice
+        - Priority is given to middle/uppercase area
+- La Jolaa
+    - Black Quarters/Ghetto
+    - No Jews
+    - UCSD
+    - Beach and Tennis Club + Golf Club
+        - Requires a lot of money to join
+        - But also recommendation from already existing members
+            - Who vouched for who was public information
