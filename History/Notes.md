@@ -6752,7 +6752,7 @@ I think that this picture illustrates the idea that we may not know were are tho
         - Nearer to facilites that produce toxins
     - Transit and infrastructure justice
         - Priority is given to middle/uppercase area
-- La Jolaa
+- La Jolla
     - Black Quarters/Ghetto
     - No Jews
     - UCSD
@@ -6760,3 +6760,27 @@ I think that this picture illustrates the idea that we may not know were are tho
         - Requires a lot of money to join
         - But also recommendation from already existing members
             - Who vouched for who was public information
+
+## Homework Questions - 3/8: The Rosenberg Trial
+
+1. Who were the Rosenbergs?
+
+Julius and Ethel Rosenberg were accused of conspiring to steal designs for America's atomic bomb and delivering them to Soviet secret agents.
+
+2. What evidence was brought against them (list the various pieces of evidence, how they were acquired and by whom)?
+
+The main evidence was Greenglass's confession which incriminated himself, his wife, and the Rosenberg's.
+In addition, Ruth claimed that Ethel had typed David's secret notes (which David confirmed at the time, but later acknowledged that he was just not contradicting his wife and suspected his wife did the typing).
+However, it wasn't until 1995 that relevations from intercepted Soviet spy communications were made public, confirming that Julis was a spy. 
+And in 2008, a co-defefendant addmitted that he and Julius were Soviet agents.
+
+3. How would you have ruled in this case?
+
+I think all of the evidence they had at the time was very not convincing and the death was more than too extreme.
+Even if I had the additional evidence that came out later, I think the death penalty would have been too harsh.
+Knowning what they knew at the time of the trial, I would have likely given a relatively short sentence in jail to show that espionage is bad, but we don't want to kill possibly innocent people.
+
+4. Finally, were the Rosenbergs victims of the Red Scare? Explain.
+
+I think that if the trial was not taking place during the Cold War, the result would have been very different.
+Because of the threat and hystria surrounding the Cold War and the USSR/communism, the public was very extreme/polar in their views about "us" vs "them" and the Rosenbergs were seen as "them".
