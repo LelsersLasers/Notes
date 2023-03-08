@@ -3138,6 +3138,7 @@ Individual genes vary in how clocklike they are
     - NO TISSUES
     - Non-vascular tissue (rely on diffusion)
     - Haploid-dominated life cycle (gametophyte)
+        - Top diplod part: sporophyte
     - Rhizoids (primitive roots)
 - Examples: Hornworts, Liverworts, Mosses
 - Needs H2O in order to reproduce
@@ -3146,17 +3147,19 @@ Individual genes vary in how clocklike they are
 ### Seedless vascular plants
 
 - Pteropytes and Lycophytes
-- General Characteristics 
+- General Characteristics (ferns)
     - Spores instead of seeds
+        - Spores are haploid (sporophyte)
     - Vascular tissue (xylem & phloem)
     - Woody lignin tissue for support (taller)
     - Diploid-dominant (sporophyte) life cycle 
     - Flagellated sperm; less dependent on water
     - Roots
+        - Need to take water and nutrients from the ground (can live further away from water than bryophytes)
 - Examples: Ferns and their relatives
 - Needs H2O in order to reproduce
 
-### Vascular Tissues
+#### Vascular Tissues
 
 - Xylem: transport water and minerals from roots to other parts of the plant (up)
 - Phloem: transports sugars and other nutrients around the plant (up/down)
@@ -3172,6 +3175,7 @@ Individual genes vary in how clocklike they are
     - Evolved to prevent water loss (diverse habitats)
     - Diploid-dominant (sporophyte) life cycle
         - Seed is fertilized and ready to become a plant
+            - Needs a male and a female seed/pinecone/etc
     - Microscopic, reduced gametophyte
 - Examples: Conifers, Ginkgos, Cycads
 
@@ -3183,6 +3187,9 @@ Individual genes vary in how clocklike they are
         - About 260,000 species, most of all types
     - Only plants to make flowers and fruit
     - Coevolved with animal pollinators
+        - Allow baby trees/grasses/etc to be spread further from the parent tree
+            - So they don't end up competing with each other
+        - Takes out the randomness of the wind
     - Diploid-dominant (sporophyte) life cycle
     - Microscopic, reduced gametophyte
 - Examples: Flowering plants, Fruits, Grasses
@@ -3194,3 +3201,128 @@ Individual genes vary in how clocklike they are
 - Sperm fertilizes egg in ovule. 
 - Ovule develops into a seed that contains the embryo
 - Ovary develops into fruit
+
+# 3/7
+
+## Evolution from algae &rarr; land plants
+
+- Development of shoots (increased photosynthesis) and roots (absorb water/minerals)
+    - Ferns &rarr; vascular tissue (roots/xylem/phloem)
+    - Gymnosperms &rarr; seeds
+    - Angiosperms &rarr; flowers and fruits (co-evolution) 
+- ![Evolution Of Land Plants](./Photos/EvolutionOfLandPlants.png)
+
+## Angiosperms: Monocots & Dicots
+
+- Cotyledon: embryonic leaf in seed-bearing plants (one or more of which are the first leaves to appear from a germinating seed)
+- Monocot: One seed leaf (cotyledon)
+- Dicot: 2 seed leaves (cotyledons)
+- ![Monocots and Dicots](./Photos/MonocotsAndDicots.png)
+
+## 3 Basic Plant Organs (shoots & roots)
+
+- Stems
+    - Transport system
+    - Connects leaves
+- Leaves
+    - Sites of photosynthesis
+- Roots
+    - Anchor plant in soil
+    - Absorbs water, minerals
+    - Stores food
+- ![Roots And Shoots](./Photos/RootsAndShoots.png)
+
+## Three Basic Plant Tissue Types
+
+- Dermal Tissue
+    - Outermost layer
+    - Single layer
+    - “skin” of plant (cuticle)
+        - Changes based on environment
+            - Ex: dry/desert - waxy
+                - Hold in the water
+- Vascular Tissue
+    - Transport tissue
+        - Circulatory system of the plant
+    - Xylem (water up)
+    - Phloem (sugar up & down)
+- Ground Tissue
+    - Metabolism
+    - Photosynthesis, storage and support
+- ![Plant Tissue](./Photos/PlantTissue.png)
+
+## Introduction to Plant Growth
+
+- Growth: increase in mass by mitosis
+- Development: progressive specialization
+- Lifetimes:
+    - Annual Plants: Complete their life cycle in 1 year
+        - Annual plants complete their life cycle from germination (the development of a plant from a seed or spore) to the production of seeds within one year and then dies.
+        - Shorter life cycle: more offspring, more mutations/adaptations/evolution, seasonal growth
+    - Biennial Plants: Complete their life cycle in 2 years
+    - Perennial Plants: Live for many years
+
+## Indeterminate Plant Growth
+
+- Growth that is NOT terminated (unlike determinate growth)
+- Due to embryonic-like tissue called meristem tissue:
+    - Shoot apical meristem (SAM)
+    - Root apical meristem (RAM)
+- Determinate growth stops once a genetically pre-determined structure has completely formed
+- Meristem is the tissue in most plants containing undifferentiated cells found in zones of the plant where growth can take place
+
+## Primary vs. Secondary Growth
+
+- Primary Growth
+    - Increase in length of shoots and roots
+    - From apical meristem tissue
+    - ![Primary Growth](./Photos/PrimaryGrowth.png)
+- Secondary Growth
+    - Increase in the thickness of a plant
+    - From lateral meristem tissue
+    - ![Secondary Growth](./Photos/SecondaryGrowth.png)
+
+## Vascular Tissue: Xylem and Phloem
+
+- Xylem (water/minerals): Water and dissolved minerals up from roots to shoots
+- Phloem (food): Sugars from photosynthesis to roots and shoots
+- ![Vascular Tissue](./Photos/VascularTissue.png)
+
+## Translocation of water by transpiration
+
+- Bad:
+    - Loss of water vapor from leaves (90% through stomata)
+    - Large amounts of water vapor are lost by transpiration 
+        - 450 liters/day in some trees!
+- Good:
+    - Driving force of movement of water up xylem to leaves
+    - Allows plant to cool itself
+- ![Transpiration](./Photos/Transpiration.png)
+
+## Forces of in xylem (TACT)
+
+- **T: Transpiration** (water loss through stomata, depends on temperature, humidity)
+- **A: Adhesion** (attraction of water molecules to surfaces)
+- **C: Cohesion** (attraction of water molecules to other water molecules)
+- **T: Tension** (in water column due to transpirational pull)
+- ![TACT](./Photos/TACT.png)
+
+## Water goes does down its water potential gradient
+
+- ![Water Potential](./Photos/WaterPotential.png)
+
+## Stomata and Guard Cells
+
+- Gas exchange
+- Water vapor and O2 diffuse out
+- CO2 diffuses in
+- When guard cells fill with water they open stomata
+- Trade off: need CO2 but don’t want to  lose too much water
+- CAM and C4 plants: change the use of CO2 either temporally (open stomata only at night) or spatially (do part of metabolism in the cells near the veins rather than in the leaves)
+
+## Water movement at the cellular level
+
+- Water moves down its concentration (water potential) gradient into the central vacuole providing turgidity
+- ![Vacuole](./Photos/Vacuole.png)
+- ![Tonic](./Photos/Tonic2.png)
+- ![Cell Water Potential](./Photos/CellWaterPotential.png)
