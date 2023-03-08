@@ -6784,3 +6784,51 @@ Knowning what they knew at the time of the trial, I would have likely given a re
 
 I think that if the trial was not taking place during the Cold War, the result would have been very different.
 Because of the threat and hystria surrounding the Cold War and the USSR/communism, the public was very extreme/polar in their views about "us" vs "them" and the Rosenbergs were seen as "them".
+
+## Class Notes - 3/8: Postwar to Cold War
+
+- Yalta: Roosevelt, Churchill, Stalin
+    - 3 guys carving up the world
+- Friendly division of the world was not possible
+    - For example: Germany
+        - Carved into 4 zones
+            - Eastern Germany given to Poland
+                - Germans were kicked out (and ethnically cleansed)
+            - US, UK, France, USSR
+                - US, UK, France combine into West Germany
+            - Berlin was also cut into 4
+        - Checkpoint Charlie
+            - Boarder crossing between East and West Berlin
+    - Kalinigrad
+        - Russia's Hawaii
+        - Surrounded by NATO
+    - West vs East
+        - West: NATO
+            - Most powerfully military alliance in the world
+            - NATO formed to contain the USSR
+            - West worried that the USSR's communist army would just keep rolling West
+        - East: Warsaw Pact
+            - USSR and its allies
+            - Response to NATO
+- Iron Curtain
+    - The Berlin wall was a small part of the Iron Curtain
+- The Cold War
+    - The Cold War was defined by the hardening and relations between NATO and the Warsaw Pact
+        - Little actual combat between NATO and Warsaw Pact soldiers hence the name - “Cold War”
+            - Mutually Assured Destruction
+        - Proxy wars between the US and the USSR were numerous
+            - Korea, Suez, Cuba, Vietnam, Afghanistan, Iran...
+        - Destabilization and decolonization of the rest of the world
+            - UK and France lost considerable power following WWII
+- Spheres of influence
+    - The US and the USSR had spheres of influence
+        - During the Cold Warm the US and the USSR competed for political military, and economic blocs that would embrace their political institutions, economic systems, and foreign policies
+- The US provided money/aid to help rebuild Europe after WWII
+    - The Marshall Plan
+        - The U.S. provided money to help rebuild Europe (over $13 billion) in an effort to deter Soviet influence in devastated nations.
+    - Convince countries to choose the US over the USSR
+        - Proof that captialism is working
+- Nuclear arms race between the US and the USSR
+    - The most expensive thing these countries did
+    - Eventually limited
+- 
