@@ -3326,3 +3326,281 @@ Individual genes vary in how clocklike they are
 - ![Vacuole](./Photos/Vacuole.png)
 - ![Tonic](./Photos/Tonic2.png)
 - ![Cell Water Potential](./Photos/CellWaterPotential.png)
+
+# 3/16
+
+## Features of Kingdom Animalia
+
+- Eukaryotic
+- Multicellular
+- Motile - They move around at some phase of their lives
+    - (Sessile = non-motile)
+- Heterotrophs - must eat their food
+- No cell wall - cellulose, chitin, silica
+- Blastula - during development starts as a hollow ball of cells
+
+## When animals?
+
+- Ediacaran period
+    - Animals from this time are all extinct
+- Cambrian explosions
+    - 530 million years ago
+    - All animal ancestry can be traced to this period
+
+## Two Major Groups of Animals
+
+- With or without a spinal cord
+
+### Invertebrates
+
+- Sponges
+- Cnidarians
+- Flatworms
+- Nematods
+- Molluscs
+- Annelids
+- Arthropods
+- Echinoderms
+
+### Vertebrates
+
+- Tunicates
+- Lancelets
+- Lampreys
+- Cartilage fish
+- Bony fish
+- Lobe-finned fish
+- Amphibians
+- Reptiles
+- Mammals 
+
+## Animal Development
+
+- Blastula: Hallow ball of cells
+- Gastrula: Blastula folds in on itself to give layers of cells:
+    - Endo, meso, and ectoderm
+- Ectoderm - outer skin/layer of the folded blastula
+    - Skin, brain, nervous tissue
+- Endoderm - inner layer of folded blastula
+    - Lining of the gut and other internal organs
+- ![Blastula](./Photos/Blastula.png)
+- Diloplastic - 2 layers
+    - Some animals stop developing after this stage
+    - Anus and mouth are the same opening
+    - Ex: jellyfish
+
+## Animal Development (cont.)
+
+- Mesoderm - middle layer
+    - Muscles, bone, circulatory system
+- Triploblastic - 3 layers
+    - All non-diloplastic animals are triploblastic
+- Protostomes: Mouth develops first
+    - Anthropods
+- Deuterostomes: Anus develops first
+    - Vertebrates are deuterostomes
+- ![Triploblastic](./Photos/triploblastic.png)
+
+## Animal Development - body cavities
+
+- Coelom: body cavity lined with mesoderm
+    - Mesoderm: middle layer/will become muscles, bone, circulatory system
+- Types of Body Cavities:
+    - Acoelomate: flatworms
+        - Not specialized cells
+        - Densly packed
+        - Not organized
+    - Pseduocoelomate: nematodes
+        - No muscle around digesestion
+            - Not attached
+    - Coelomate: Molluscs, annelids, arthropods, echinoderms, chordates (everything else)
+        - Muscle around digestion
+            - Attached
+- ![Body Cavities](./Photos/BodyCavities.png)
+
+
+## Animal Classification
+
+- Diloplastic vs Triploblastic
+- Protostomes vs Deuterostomes
+- Acoelomate vs Pseudocoelomate vs Coelomate
+
+### 2 types
+
+- Both types of classification agree that: 
+- All animals share a common ancestor
+- Sponges are basal (simplest animals)
+- Most animals have bilateral symmetry
+- Chordates are all deuterostomes
+
+#### Morphological Classification
+
+- Based on body structure
+- ![Morphological Classification](./Photos/AnimalClassification1.png)
+
+#### Genetic Classification
+
+- Based on evolutionary relationships/DNA sequences
+- ![Phylogenetic Classification](./Photos/AnimalClassification2.png)
+
+## Nine animal phyla to know
+
+### Phylum Porifera
+
+- Earliest form of animal life
+- Filter feeder
+- Asymmetry
+- No tissues
+- Covered in pores
+- Swimming larva, sessile (non-moving) adult 
+- The sponges
+
+### Phylum Cnidaria
+
+- Radial symmetry
+- Diploblastic
+- Tentacles 
+- Nematocysts (stinging cells to eat prey)
+- The jellies, anemones, corals, hydra
+
+### Phylum Platyhelminthes
+
+- First bilateral symmetry
+    - (Everything after this has bilateral symmetry)
+- Flat Worms
+- Acoelomates
+- Hermaphrodites (both male / female)
+- Many parasitic
+- Planaria, tapeworms
+
+### Phylum Nematoda
+
+- Round worms
+- Pseudocoelomate
+- Live everywhere
+- C.elegans, some parasites
+    - C.elegans: model organism for genetics
+
+### Phylum Annelida
+
+- Segmented Worms
+    - (Very first with segments, pieces)
+- Coelomates
+    - (Everything after this is a coelomate)
+- Complex nervous system
+- Earthworm, leech, tube-worms
+
+### Phylum Mollusca
+
+- Muscular foot
+- Soft body
+- Shell secreted from “mantle”
+- Chiton, snails, clams, octopus, squid, nautilus
+
+### Phylum Arthropoda
+
+- Exoskeleton - chitin
+- Jointed appendages
+- Segmented body
+- Terrestrial / aquatic
+- Spiders, insects, crab, shrimp, barnacle (1 mil sp.)
+
+### Phylum Echinodermata
+
+- First deuterostomes
+    - (Everything after this is a deuterostome)
+- Spines, spicules, and plates
+- Regeneration
+- Hydrostatic skeleton
+- Tube-feet
+- Urchins, sand dollars, sea stars, sea cucumbers
+
+### Phylum Chordata (the verts)
+
+- Characteristics 
+    - (some only present during development)
+    - Notochord (vertebrate)
+    - Dorsal nerve cord
+    - Pharyngeal slits 
+        - For suspension feeding in many invertebrate chordates, gas exchange in vertebrates, develop into parts of the ear, head, and neck in verts with limbs. 
+    - Post-anal tail
+- ![Chordata](./Photos/Chordata.png)
+
+#### Chordates: tunicates and lancelets
+
+- ![TunicatesAndLancelets.png](./Photos/TunicatesAndLancelets.png)
+
+##### Tunicates (sea squirts)
+
+- Motile larva with chordate features
+- Sessile adult
+
+###### Lancelet
+
+- Resembles a fish but lacks jaws and obvious head and sensory organs 
+
+#### Chordates: the fishes
+
+##### Jawless
+
+- Cylindrical body plan
+- No jaws
+- Cartilage skeleton
+- Hagfish, lampreys
+
+##### Cartilaginous
+
+- Streamlined body plan
+- Cartilage skeleton
+- Sharks, skates, rays
+
+##### Bony Fish
+
+- Scales & bony skeleton
+- Diverse body plans
+- Swim bladder
+- Eels, tuna, rockfish
+
+##### Lobe-finned
+
+- Fins with many bones and muscles
+- Close to amphibians
+    - Ancestral to land vertebrates
+- Lungfish
+
+#### Chordates: amphibians
+
+- Characteristics
+    - Aquatic & terrestrial
+    - Cold-blooded
+    - External fertilization
+    - Soft shell-less eggs
+    - Moist skin
+    - Eggs need moisture
+
+#### Chordates: reptiles
+
+- Dry, scaly skin
+- Internal fertilization
+- 4-chambered heart
+- Shelled amniotic eggs (membranes for protection)
+
+#### Chordates: birds are reptiles!
+
+- Warm-blooded
+- Most can fly (not all)
+- Feathers 
+- Beaks, scaly legs
+- Lightweight bones
+
+#### Chordates: mammals
+
+- Characteristics
+    - Warm-blooded
+    - Mammary glands
+    - Hair or fur
+    - Large brains
+    - Live birth (except for a few)
+- Monotremes: lay eggs
+- Marsupials: have pouches
+- Placentas: uterus & placenta
