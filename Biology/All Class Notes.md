@@ -3604,3 +3604,8 @@ Individual genes vary in how clocklike they are
 - Monotremes: lay eggs
 - Marsupials: have pouches
 - Placentas: uterus & placenta
+
+## Moving onto land
+
+- Having to get around, sun, drying out, etc.
+- Bones became stronger, lungs to breath air, limbs to walk on land, internal fertilization for flagellated sperm, shelled egg, carrying round with them 
