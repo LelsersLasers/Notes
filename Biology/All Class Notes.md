@@ -3609,3 +3609,138 @@ Individual genes vary in how clocklike they are
 
 - Having to get around, sun, drying out, etc.
 - Bones became stronger, lungs to breath air, limbs to walk on land, internal fertilization for flagellated sperm, shelled egg, carrying round with them 
+
+# 3/20
+
+## The Endocrine System
+
+- Endocrine system: glands that secrete hormones
+    - Endocrine glands: Hormone-secreting organs
+- Hormones:
+    - Chemical signal secreted & carried by circulatory system to regulate physiology or behavior
+    - Regulate long-term responses
+- ![Endocrine System](./Photos/EndocrineSystem.png)
+- ![Hormone](./Photos/Hormone.png)
+
+## Types of hormonal signaling
+
+- Autocrine Signaling: signal to self 
+- Paracrine Signaling: to nearby cells
+- Endocrine Signaling: into blood
+- Neurocrine Signaling: neurons release neuro-hormones into blood stream
+- Only cells with receptors respond
+    - Receptor can be inside or outside the cell
+
+## Simple Endocrine Pathway
+
+- Stimulus &rarr; Hormone Release &rarr; Receptor Binding on Target cell &rarr; Response
+- Negative Feedback: stimulus decreased
+    - Examples: insulin
+    - Can turn itself off
+- ![EndocrinePathway](./Photos/EndocrinePathway.png)
+
+## Simple Neurocrine Pathway
+
+- Stimulus &rarr; Neuron induces release of neuro-hormone &rarr; Receptor binding on target cell &rarr; Response
+- Positive Feedback: stimulus increased
+- ![NeurocrinePathway](./Photos/NeurocrinePathway.png)
+
+## Two main types of hormones
+
+- Water-soluble hormones
+    - Ex: proteins, peptides (polar molecules), insulin
+    - Receptors on plasma membrane &rarr; signal transduction &rarr; cell response
+        - Can't go through plasma membrane
+- Lipid-soluble hormones
+    - Ex: steroids (nonpolar molecules), estrogen
+    - Internal receptors &rarr; usually goes to nucleus &rarr; stimulate transcriptional change
+        - Can go through plasma membrane
+   
+## Homeostasis and Feedback Loops
+
+- Maintaining homeostasis
+    - Nervous system responds to external environment 
+    - Endocrine system communicates messages
+- ![Homeostasis](./Photos/Homeostasis.png)
+
+## Hormones in your brain
+
+### Hypothalamus-Pituitary Complex
+
+- "Command center” of endocrine system
+- Hypothalamus sends neurocrine signals to the pituitary
+- Pituitary Gland
+    - At base of hypothalamus
+    - Size of lima bean
+    - Two regions
+        - Anterior Pituitary
+        - Posterior Pituitary
+    - Regulates the function of other endocrine glands
+- Examples: seasons and availability of mate triggers reproductive hormones for breeding
+- ![Hypothalamus-Pituitary](./Photos/Hypothalamus-Pituitary.png)
+
+#### Anterior and Posterior Pituitary Gland
+
+- Anterior Pituitary Hormones
+    - Growth hormone: regulates growth and metabolism in all cells
+    - Adrenocorticotrophic hormone (ACTH): triggers adrenals to release cortisol (stress!)
+- Posterior Pituitary Hormones
+    - Antidiuretic hormone (ADH): ⬆ water retention and ⬇︎urine
+    - Oxytocin: targets contractions in the cells of the uterus and mammary glands
+- ![AnteriorAndPosteriorPituitaryGland](./Photos/AnteriorAndPosteriorPituitaryGland.png)
+
+#### Posterior Pituitary Gland Example
+
+- Posterior Pituitary & ADH
+    - Water homeostasis
+    - Too little water: ⬆ADH = ⬆thirst, ⬇︎urine 
+    - Too much water: ⬇︎ADH = ⬇︎thirst, ⬆urine
+- When ADH levels drop, the kidneys do not reabsorb as much water thus kidneys produce more urine and you get dehydrated!
+
+### Pineal Gland (pinecone shaped)
+
+- Near center of brain
+- In nearly all vertebrates
+- Secretes melatonin to modulate sleep patterns in both circadian and seasonal cycles
+    - Darkness = ⬆melatonin
+    - Light = ⬇melatonin
+
+## Thymus Gland
+
+- Above heart of vertebrates
+- Produces thymosin which stimulates T-cell production
+- More active when kid
+
+## Thyroid Gland
+
+- In the neck of vertebrates
+- Hypothalamus triggers release of thyroid hormone and calcitonin
+- Regulate metabolism and calcium homeostasis
+
+## Adrenal Glands
+
+- Response to stress
+- “Fight or flight” mechanism stimulated by release of hormones:
+    - Epinephrine (adrelaline)
+    - Norepinephrine
+- Adrenaline = rapid boost of energy, increase glucose released by liver cells and fatty acids from fat cells, faster stronger heartbeat, dilated bronchioles in lungs for faster breathing (more oxygen), takes blood away from skin and toward brain, heart, and muscles
+- ![FightOrFlight](./Photos/FightOrFlight.png)
+    - Left: Epinephrine & norepinephrine
+    - Right: cortisol
+
+## Pancreas
+
+- Islets of Langerhans
+    - Alpha cells: secrete glucagon, causes liver to breakdown glycogen and release glucose
+    - Beta cells: secrete insulin, causes liver to take up glucose and store it as glycogen 
+
+## Diabetes: Type 1 and Type 2
+
+- Too much glucose in blood:
+    - Excrete glucose
+    - Excrete too much water
+    - Very thirsty
+    - High volumes of urine
+- ![Diabetes](./Photos/Diabetes.png)
+- Type 1 (5% of diabetics): failure to produce insulin
+- Type 2 (95% of diabetics): cells do not respond to insulin
