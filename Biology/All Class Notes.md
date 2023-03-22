@@ -3744,3 +3744,265 @@ Individual genes vary in how clocklike they are
 - ![Diabetes](./Photos/Diabetes.png)
 - Type 1 (5% of diabetics): failure to produce insulin
 - Type 2 (95% of diabetics): cells do not respond to insulin
+
+# 3/21
+
+## The Immune System
+
+- What is the Immune System?
+- Big Overview of Immune System
+- Innate Immune System
+    - First Line of Defense
+    - Inflammatory Response
+    - Macrophages
+    - Antigen presenting cells
+- Adaptive Immune System
+    - Initial response
+    - Secondary response
+
+## What is the Immune System?
+
+- A complex network of cells, tissues, organs, and the substances they make that helps the body fight infections and other diseases
+- Two Parts: Innate and Adaptive
+
+## Cells of the immune system- Who are the players? 
+
+- All cells of the immune system have the same origin: hematopoietic stem cells
+
+## Innate vs. Adaptive Immunity
+
+- Innate Immunity (non-specific)
+    - First line of defense 
+    - Non-specific immune system
+        - Responds to all invaders
+    - Physical barriers & inflammation
+- Adaptive Immunity (specific)
+    - Highly specialized, with special cells and processes
+    - Antigen-specific response
+    - Only in vertebrates
+- ![InnateVsAdaptiveImmunity](./Photos/InnateVsAdaptiveImmunity.png)
+
+## Three Levels of Defense
+
+1. Skin and membranes
+2. The inflammatory response (phagocytotic cells) 
+3. Acquired (adaptive) immunity – only in vertebrates!
+- ![LevelsOfDefense](./Photos/LevelsOfDefense.jpg)
+
+## Innate Immune System
+
+- In this scenario, something has moved pass the first layer of defense (skin/mucous/etc)
+
+### The Inflammatory Response
+
+1. Increased blood flow: 
+    - Blood vessels dilate
+    - "Hot, red", feeling
+        - Increase temperature: try to denature the invader
+2. Leaky capillaries:
+    - Swelling, pain
+3. White blood cells:
+    - Clean up crew
+        - Remove demaged/dead tissue and pathogens from the area
+        - Macrophages
+            - Phagocytosis
+                - Engulf into vacuoles and digest with lysosomes
+            - "Strattle" innate and adaptive immune system
+- ![InflammatoryResponse](./Photos/InflammatoryResponse.jpg)
+
+## Antigen Presenting Cells:
+
+- All pathogens have antigens
+    - Antigens are like an ID tag for the pathogen
+- Messengers between innate and adaptive immune systems 
+- Take up antigens &rarr; dreak them up &rarr; display pieces of them
+
+## Adaptive Immune System
+
+### Adaptive Immunity using B and T cells
+
+- Humoral Immunity (B cells)
+    - Secretion of antibodies
+    - Targets extracellular pathogens
+- Cell-mediated Immunity (T cells)
+    - Activation of cytotoxic T cells
+    - Targets intracellular pathogens (infected cells)
+    - Causes apoptosis (cell death)
+- ![Adaptive Immunity](./Photos/AdaptiveImmunity.png)
+
+### Cells of the Adaptive Immune System: 
+
+- Two types of lymphocytes (B and T cells)
+
+#### B cells
+
+- Form in **B**one marrow
+- Express antibodies on surface
+- Bind antigen and secrete antibodies or 🡪 memory B cells
+- **Humoral Response**
+    - 
+- ![BCells](./Photos/Bcells.png)
+
+#### T cells
+
+- Form in bone marrow &rarr; **T**hymus
+- Express T cell receptors
+- Recognize antigens expressed by antigen-presenting cells
+- **Cell-mediated Response**
+    - Cell to cell warfare
+- ![TCells](./Photos/Tcells.png)
+
+### Antigens and Antibodies
+
+- Antigen
+    - Foreign molecule that can illicit an immune response
+    - Disease-causing
+    - Ex: pollen, bacteria, viruses…
+- Antibodies
+    - Proteins that bind specifically to antigens
+    - Try to inhibit or destroy the antigen
+    - Made in B cells
+    - Carried in blood plasma
+- Self vs. non-self:
+    - Immune system needs to be able to identify which particles are foreign and which are part of your body. 
+- 4 amino acid chains: 2 heavy, 2 light come together at variable region (antigen-binding domain)
+- ![AntigensAntibodies1](./Photos/AntigensAntibodies1.png)
+- ![AntigensAntibodies2](./Photos/AntigensAntibodies2.png)
+
+## Humoral vs. Cell-mediated Immunity
+
+- Helper T cells: bind to antigen presenting cells and stimulate both humoral and cell-mediated responses
+- Humoral: anti-body mediated &rarr; by macromolecules found in extracellular fluids.
+- Cell-mediated: does NOT involve antibodies but rather activation of T cells
+- ![HumoralVsCell-MediatedImmunity](./Photos/HumoralVsCell-MediatedImmunity.png)
+
+## Primary vs. Secondary Response
+
+- Initial immune response produces memory B and T cells
+- Primary response: first time you encounter an antigen
+    - Takes time to make antibodies
+    - Takes time to make memory cells
+- Secondary response: second time you encounter an antigen
+    - Memory cells are already there
+    - Antibodies are already there
+    - Faster, longer, stronger response response
+- ![Primary and Secondary Response](./Photos/PrimaryAndSecondaryResponse.png)
+
+## Bone Marrow: makes blood cells
+
+- ![BoneMarrow](./Photos/BoneMarrow.png)
+- Leukemia: overproduction of abnormal white blood cells
+
+## Abnormal Immune Responses
+
+- Cancer: T cells don't activate against cancer cells
+- Allergies: hypersensitivity to environmental antigens
+- Autoimmune Diseases: multiple sclerosis, lupus, rheumatoid arthritis
+    - Cells attack self
+- Immunodeficiency Diseases: SCIDS (bubble-boy) with no B/T cells and AIDS (attacks T cells)
+
+# 3/21
+
+## The Nervous System
+
+### Central vs. Peripheral Nervous System
+
+- Central vs. Peripheral Nervous System
+    - Central nervous system (CNS)
+        - Brain and spinal cord
+    - Peripheral nervous system (PNS)
+        - All other neurons
+- The nervous system is made of two types of cells: glia and neurons
+
+### Classes of neurons
+
+- Sensory (afferent) neurons:
+    - PNS sensing &rarr; CNS
+- Interneurons:
+    - Only in CNS, connect one neuron to another
+- Motor neurons (efferent):
+    - CNS &rarr; stimulates muscles, organs, glands
+    - Somatic nervous system
+        - Voluntary control
+    - Autonomic nervous system
+        - Involuntary control
+            - Happens automatically
+        - Ex: digestion, heart rate
+        - Sympathetic vs parasympathetic
+            - Sympathetic: fight or flight
+            - Parasympathetic: rest and digest
+
+### Sympathetic vs. Parasympathetic 
+
+- Sympathetic
+    - Stimulates body
+    - Stress
+    - Prepares body for fight or flight response
+        - Prepare for action
+- Parasympathetic
+    - Relaxes body
+    - Opposite effects of sympathetic 
+- ![SympatheticVsParasympathetic](./Photos/SympatheticVsParasympathetic.png)
+
+### The knee-jerk reflex
+
+- Neuronal circuit 
+    1. Sensory neurons send excitatory signal
+    2. Interneurons connect neurons in CNS
+    3. Motor neurons stimulate muscles
+- No brain involvement so super fast
+- ![TheKnee-JerkReflex](./Photos/TheKnee-JerkReflex.png)
+
+### The nerve cell (neuron)
+
+- Dendrites: on cell body to receive info
+- Synaptic terminals: send info out
+- Cell body: Typical eukaryotic cell 
+- Axon: transmits info
+- Myelin sheath (glia): wrap axons to help neuron fire
+- Node of ranvier: gaps in axon without myelin
+
+### Glial cells (neuron support cells)
+
+- Microglia
+    - Like macrophages (scavengers to remove dead cells and debris)
+- Oligodendrocytes
+    - Produce myelin in CNS
+- Schwann cells
+    - Produce myelin in PNS
+- Create blood-brain barrier
+    - Protects brain from toxins
+- ![Glial](./Photos/Glial.png)
+
+### The nerve synapse
+
+- Neuron to neuron connections (neuron to muscle/glands/organs)
+- Most synapses are chemical using proteins called neurotransmitters
+- ![Synapse](./Photos/Synapse1.png)
+- ![Synapse](./Photos/Synapse2.png)
+- Excitatory Neurotransmitters 
+    - Cause an action potential in the receiving neuron
+- Inhibitory Neurotransmitters 
+    - Suppress an action potential (making it harder for a neuron to fire)
+
+### Resting Membrane Potential = -70mV
+
+- Resting potential 
+    - Difference in charge across plasma membrane
+    - Inside more negative than outside by -70 mV
+
+### Gated Ion Channels
+
+- Voltage-gated ion channels
+    - Open if membrane potential changes
+- Ligand-gated ion channels
+    - Open if chemical binds
+
+### Action Potential
+
+1. Stimulation of neuron
+2. Na+ channels open and flow in
+3. At the peak, Na+ channels close and K+ channels open and K+ flows out
+4. K+ continues to leave
+5. K+ channels close and  Na+/K+ pump restores cell
+- ![ActionPotential](./Photos/ActionPotential.png)
