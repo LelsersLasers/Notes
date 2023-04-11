@@ -6831,4 +6831,26 @@ Because of the threat and hystria surrounding the Cold War and the USSR/communis
 - Nuclear arms race between the US and the USSR
     - The most expensive thing these countries did
     - Eventually limited
-- 
+
+# Chapter ?
+
+## Class Notes - 4/11: Pentagon Papers
+
+- National Security vs Freedom of the Press
+- At the beginning of the Vietnam War, most people supported the war
+    - Changed over time
+- The Pentagon Papers
+    - A secret report on the Vietnam War
+    - The report was leaked to the New York Times
+- Leaked by Daniel Ellsberg
+    - He had found that the government was lying about the war and had been involved in the war for a long time (since Truman)
+        - Presidents had been involved without the consent of the people
+    - Disillusioned with the war
+- Government tried to stop the leak for national security
+    - Ellsberg was charged with espionage
+        - Charges dropped after government misconduct was revealed ("plumbers")
+    - Eventually the government lost the case on the basis of freedom of the press
+- "Plumbers"
+    - Nixon's people who broken into Ellsberg's psychiatrist's office
+        - To get information on Ellsberg
+    - Unsuccessful
