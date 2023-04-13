@@ -4006,3 +4006,93 @@ Individual genes vary in how clocklike they are
 4. K+ continues to leave
 5. K+ channels close and  Na+/K+ pump restores cell
 - ![ActionPotential](./Photos/ActionPotential.png)
+
+# 4/13
+
+## Ecology
+
+- Ecology: the scientific study of the interactions between organisms and the environment
+- How were break up the environment: biosphere > biome > ecosystem > community > population > individual
+    - Population: same species, how they interact with each other
+    - Community: different species, how different species interact with each other (competition, predation, mutualism, etc.)
+    - Ecosystem: community + abiotic factors
+        - Abiotic factors: non-living factors
+    - Biome: large area with similar climate and organisms (ocean, etc)
+    - Biosphere: all ecosystems on earth
+
+## Ecological Research
+
+- Poses challenges for ecologists:
+    - Complexity of questions
+    - Diversity of subjects
+    - Large expanse of space & time
+    - Multidisciplinary nature 
+- Ecology provides a scientific context for evaluating environmental issues.
+
+## Abiotic Factors that Affect Ecosystems
+
+- Abiotic factors = non living factors
+- Includes:
+    - Sunlight
+    - Temperature
+    - Precipitation
+    - Salinity
+    - Soil Composition
+    - Humidity
+    - Weather
+    - Salinity
+    - Oxygen
+
+## Climate on Ecosystems
+
+- Ecosystems on Earth are affected by Earth’s climate
+    - Local climates
+    - Global climate patterns
+    - Local & seasonal effects on climate
+- ![Climate 1](./Photos/Climate1.png)
+- ![Climate 2](./Photos/Climate2.png)
+- ![Climate 3](./Photos/Climate3.png)
+
+## Terrestrial Ecosystems
+
+- Mostly affected by Abiotic Factors such as:
+    - Temperature
+    - Precipitation
+- Include:
+    - Tropical forests, savanna, deserts, 
+    - Polar & high mountain ice, chaparral, 
+    - Temperate grassland, temperate deciduous forest, 
+    - Coniferous forest, tundra
+    - Chaparral (San Diego)
+- ![Terrestrial](./Photos/Terrestrial.png)
+
+## Ecology - Aquatic Factors
+
+- Photic zone: 0-200m
+- Aphotic zone:
+    - Mesopelagic ("twilight"): 200-1000m
+    - Abyssopelagic (no light): 1000m and below
+- Abiotic factors = sunlight, temperature, precipitation
+- ![EcologyAquatic](./Photos/EcologyAquatic.png)
+
+## Aquatic Biomes
+
+- Open oceans, deep sea, coral reefs, intertidal, estuaries, wetlands, lakes, rivers
+- Salt percent: Freshwater (<1%) vs. Saltwater (3.5%)
+- Oceans cover ~71% of Earth
+- Evaporation contributes to precipitation
+- Ocean temps. affect world’s climate & winds
+- Marine photoautotrophs create most O2 & consume CO2
+- Many different vertical “layers” of ocean
+- Freshwater biomes link terrestrial & oceanic
+
+## 4 Levels of Ecological Interactions
+
+- Organismal Ecology
+	- Behavioral, physiological, & morphological ways individuals deal with abiotic factors
+- Population Ecology
+	- Concentrates mainly on factors that affect population size & composition
+- Community Ecology
+	- Concentrates on interactions among organisms such as predation, competition, disease & how this affects community structure
+- Ecosystems
+	- Concentrates on abiotic & biotic factors of a specific habitat; focuses on recycling of chemicals & energy flow
