@@ -6854,3 +6854,75 @@ Because of the threat and hystria surrounding the Cold War and the USSR/communis
     - Nixon's people who broken into Ellsberg's psychiatrist's office
         - To get information on Ellsberg
     - Unsuccessful
+
+# Chapter 27
+
+## Class Notes - 4/13: Reagan Revolution
+
+### Crash Course
+
+- Straight forward
+- Not very hands on in government
+- 1980 election won
+    - Nobody wanted Jimmy Carter
+- Pulled together different groups of conservatives
+- Appealed to white backlash
+- Reaganomics
+    - Supply side ("trickle down") economics 
+        - Lower taxes to increase economic growth
+        - Lowered it on the top wealthy
+        - High intrest rates to combat inflation
+    - Deregulation
+        - Less government regulation
+- Sent more on the military and cut social programs
+    - But did not cut the most expensive social programs
+    - Cut aid to mentally ill
+- Curtail unions
+    - Fired striking air traffic controllers
+- Reaganomics initially did not work
+    - High intrest rates led to recession
+    - But lowered unemployment
+- Rising economic inequality
+    - The richest were richer
+    - The poorest were poorer
+    - The middle class stagnated
+- Appointed the first women to the Supreme Court
+    - Sandra Day O'Connor
+- Reagan led to the end of the Cold War
+    - High military spending -> USSR spent a lot of money on military
+    - Started out as a hard line against the USSR
+        - Aggressive nuclear policy
+        - "Star Wars":
+            - A space based missile defense system
+            - Expensive and not technically possible
+    - Anti-nukes
+    - 2nd term: more conciliatory with the USSR
+- Iran Contra
+    - Contra: rebels in Nicaragua
+        - Rebelling against communist government (so supported by the US)
+    - Reagan sold arms to Iran
+        - Used the money to fund the Contras
+        - Illegal
+
+### Liberalism vs Conservatism: late 20th century
+
+- Liberalism
+    - Big federal government
+    - Economic equity/support
+    - Social justice
+    - Progressive
+        - Things can be and are being improved
+    - Social welfare programs
+    - Minority/community rights
+    - Protectionism + unions
+        - Protects middle class
+- Conservatism
+    - Smaller federal government
+    - Individual economic liberty
+    - "Moral Majority"
+    - Traditional
+        - Return to the way things were
+    - Private support
+        - Churches, charities, private organizations should support the poor
+    - Law + order
+    - Free market
