@@ -4096,3 +4096,144 @@ Individual genes vary in how clocklike they are
 	- Concentrates on interactions among organisms such as predation, competition, disease & how this affects community structure
 - Ecosystems
 	- Concentrates on abiotic & biotic factors of a specific habitat; focuses on recycling of chemicals & energy flow
+
+# 4/15 - Bio review 1
+
+## Cellular Respiration
+
+- OIL RIG: Oxidation is Loss, Reduction is Gain [of electrons]
+- C6H12O6 + 6O2 &rarr; 6CO2 + 6H2O + Energy
+
+### Overview
+
+- Sugar in blood stream
+    - Insulin: brings glucose into cell
+- Glycolysis: takes place in cytoplasm
+- Glucose &rarr; 2 pyruvate
+- Pyruvate &rarr; Krebs Cycle
+    - In mitochondria
+    - Creates ATP, CO2
+    - Gets energy from electrons
+- Electron Transport Chain
+    - Inter membrane space
+    - Oxidative phosphorylation
+        - Losing electrons, adding phosphates to things
+        - Get the energy from the electrons to make ATP
+        - A) ETC, B) ATP synthase
+
+| | What | Where | Creates |
+| --- | --- | --- | --- |
+| 1 | Glycolysis | Cytoplasm (no O2 required, all cells) | 2 ATP, 2 NADH, 2 pyruvate |
+| 1.5 | Pyruvate oxidation | Into mitocondria (if O2) | 2 NADH, 2 CO2 |
+| 2 | Krebs Cycle | Mitochondria matrix/inner part (if O2) | 2 ATP, 6 NADH, 2 FADH2, 4 CO2 |
+| 3 | Oxidative Phosphorylation | Mitocondria cristae/inner membrane space (if O2) | About 30-34 ATP |
+| Overall | if O2 (aerobic) | Cytoplasm &rarr; mitocondria | About 30-38 ATP |
+| 2 | Fermentation | Cytoplasm (no O2) | 2 NAD+, [2 lactic acid, 2 ethanol + 2 CO2] |
+
+### Glycolysis
+
+- Insulin brings glucose into cell (cytoplasm)
+    - Glucose can't get into the mitocondria
+- Intermediary step: G3P
+- Overall: 6 carbon glucose &rarr; 2 pyruvate (3 carbons each)
+- 2 ATP in, 2 NADH out, 4 ATP out
+    - Net: 2 ATP out, 2 NADH out
+
+### Pyruvate Oxidation
+
+- Pyruvate needs to get into the mitocondria
+- Only happens if there is oxygen (aerobic respiration)
+- Pyruvated gets oxidized (loses electrons to NAD+)
+- Pyruvate &rarr; Acetyl CoA (2 carbons)
+    - Other carbon goes to CO2
+    - Creates an NADH
+- Runs twice for each glucose
+    - 2x (NADH, CO2) = 2 NADH, 2 CO2
+
+### Krebs Cycle
+
+- Acetyl CoA &rarr; CO2s, NADHs, FADH2s, ATPs
+- Carbons of glucose are recycled
+- Runs twice for each glucose
+- Energy released from bonds
+    - Electron carriers (NADH, FADH2) &rarr; ETC
+
+### Oxidative Phosphorylation
+
+- ETC + ATP synthase
+- Electron carriers are oxidized
+- ADP &rarr; ATP (phosphorylation)
+- Electrons from NADH & FADH2 are passed down the ETC
+- In:
+    - 10 NADH: 2 glycolysis, 2 pyruvate oxidation, 6 Krebs
+    - 2 FADH2: 2 Krebs
+- Electron Transport Chain
+    - Uses electrons from energy carriers (NADH, FADH2) to pump H+ ions into the intermembrane space
+    - Creates an electrochemical gradient of H+ ions in between the inner and outer membrane
+    - The "used" electrons are eventually passed to oxygen to form water
+        - Final electron acceptor (will take electrons in any form)
+    - Cat C: move electrons from III to IV
+- ATP synthase
+    - Chemiosmosis: uses energy from H+ gradient to make ATP
+- Out:
+    - NADH -> ~2.5/3 ATP
+    - FADH2 -> ~1.5/2 ATP
+    - 30-34 ATP
+        - Most of the ATP is made here
+
+### No O2 (Anaerobic Respiration)
+
+- Glycolysis still happens
+- Pyruvate oxidation, Krebs, ETC don't happen
+- Stays in cytoplasm
+- 2 types: lactic acid fermentation & alcoholic fermentation
+    - Different in different organisms
+    - Lactic acid: animal cells
+        - Makes you sore (ex: when you run)
+        - Goes to liver, gets converted back to glucose
+    - Alcoholic: yeast/bacteria
+        - Pyruvate + NADH &rarr; Acetalhyde (2 carbons) + CO2 + NADH &rarr; Ethanol (2 carbons) + CO2 + NAD+
+            - O2 for CO2 comes from the pyruvate (which has Os that are just not mentioned)
+- Main purpose: regenerate NAD+ so glycolysis can continue
+    - Gycolysis is not great in comparison to with O2, but better than nothing
+- 2x (pyruvate, NADH) = 2x ([lactic aic + NAD+] or [ethanol + CO2 + NAD+])
+
+## Photosynthesis
+
+- 6CO2 + 6H2O (+ light) &rarr; C6H12O6 + 6O2
+
+### Overview
+
+- Location: chloroplast
+    - Stack of thylakoids: granum
+    - Inside of thylakoid: lumen
+    - Stroma: finside of chloroplast
+    - Green because of chlorophyll
+- 2 parts: light reactions & Calvin cycle
+
+### Light Reactions
+
+- In thylakoids
+- H2O &rarr; O2
+- ATP & NADPH &rarr; Calvin cycle
+- Light energy hits chlorophyll &rarr; electrons get excited and bounce around
+    - Get electrons from H20
+        - H2O &rarr; (1/2)O2 + 2e- + 2H+ (split by PS II)
+- PS II (P680) &rarr; ETC II &rarr; PS I (P700) &rarr; ETC I
+    - Creates H+ gradient in the lumen
+    - H+ goes through ATP synthase to make ATP
+- PS I "recharges" the electrons to be used to pump more H+ ions into the lumen
+- NADP+ = final electron acceptor
+    - 2NADP+ + 2e- &rarr; 2NADPH
+
+### Calvin/Citric Acid Cycle
+
+- In stroma
+- CO2 &rarr; C6H12O6 (glucose)
+- ADP & NADP+ &rarr; light reactions
+- Cycle:
+    - Rubisco: 5 carbon molecule
+    - CO2 in
+    - ATP, NADPH used
+    - Bottom of cycle = G3P
+        - Either continues in the cycle or get pulled out to make glucose
