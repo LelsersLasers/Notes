@@ -4237,3 +4237,93 @@ Individual genes vary in how clocklike they are
     - ATP, NADPH used
     - Bottom of cycle = G3P
         - Either continues in the cycle or get pulled out to make glucose
+
+# 4/17
+
+- Trophic cascade: changing top of food chain changes/propagates to bottom of food chain
+    - Ex: wolves reintroduced to Yellowstone
+        - Some deer were eaten
+        - But deer learned to avoid areas
+            - Led to increasing plant growth and diversity
+
+## Population Ecology
+
+- Population Ecology Definition:
+    - Concentrates mainly on factors affecting population size & composition
+- Ecologists study:
+    - Genetic make-up
+        - If population is lower, then genetic diversity is lower
+    - Reproduction & behaviors
+    - Demographics (size, age structure)
+    - Density (number per area)
+    - Dispersion/distribution 
+        - Clumped, random, uniform
+
+## How do populations change size?
+
+- Population Growth:
+    - Births
+    - Immigrations
+- Population Decline:
+    - Deaths
+    - Emigration
+
+### Calculating Population Growth...
+
+- Birth Rate (BR) or fecundity
+    - Number of births/total number of individuals
+    - 100/2000 = 0.05
+- Death Rate (DR)
+    - Number of deaths/total number of individuals
+    - 200/2000 = 0.1
+- Net Reproduction (r)
+    - BR-DR= r
+    - 0.05 - 0.1 = -0. 05
+- Population Growth
+    - G = r N
+        - N = number of individuals
+    - G = (-0.05)(2000) = -100
+- G + N = new population size
+    - so . . .  -100 + 2000 = 1900
+
+### Population Growth
+
+- Exponential Growth (J-curve)
+- Doubling Time
+- Biotic Potential
+
+#### Limits on the Growth of Populations
+
+- Limiting Factors
+- Carrying Capacity
+- Logistic Growth
+    - (S-curve)
+- Environment can only support so many individuals
+    - Ex: if there are too many deer, then there will be too much vegetation and not enough for the deer to eat
+        - So the deer population will decrease
+        - Then the vegetation will increase
+        - Then the deer population will increase
+        - And so on
+
+## Predator-Prey Relationships
+
+- Carrying capacity is also dependent on who is eating who
+- Prey increase -> delayed increase in predator population -> delayed decrease in prey population -> delayed decrease in predator population
+    - Slightly offset oscillation in graph
+
+## Life History Strategies
+
+- r-selected or opportunistic populations (reproductive selective – density independent)
+    - Maximize the rate of increase – occurs in environments in which population densities fluctuate well below carrying capacity
+- k-selected or equilibrium populations (density dependent)
+    - Maximize population size – operates in pop’s living at a density near carrying capacity
+- Percentage of individuals that make it to life span
+
+## Human population growth
+
+- Decreased Growth
+    - More people that are older
+- Rapid Growth
+    - More people that are younger
+- Slow Growth
+    - Slightly more younger people than older people
