@@ -4327,3 +4327,129 @@ Individual genes vary in how clocklike they are
     - More people that are younger
 - Slow Growth
     - Slightly more younger people than older people
+
+# 4/18
+
+## Energy within an Ecosystem
+
+- ![Ecology Energy](./Photos/EcologyEnergy.png)
+- Level = trophic level
+    - 0th level = sun
+    - 1st level = primary producers
+    - 2nd level = primary consumers
+    - 3rd level = secondary consumers
+    - 4th level = tertiary consumers
+    - Ex: sun &rarr; plants &rarr; herbivores &rarr; carnivores &rarr; carnivores
+- Heat always lost as energy
+- More energy at the bottom of the food chain
+    - Lower level has to have at least more than the level above it to have enough food
+- Energy flows up the food chain
+    - 10% of energy is kept at each level
+        - 90% is lost at each level
+    - ![Ecology Pyramid](./Photos/EcologyPyramid.jpg)
+- Biomass Pyramid
+    - ![Biomass Pyramid](./Photos/BiomassPyramid.jpg)
+    - More biomass at the bottom of the food chain
+
+## Energy Budgets of an Ecosystem
+
+-  Depends on primary production 
+    - 99%: Primary production = light energy → chemical energy (photosynthesis)
+    - 1%: hydrothermal vents = hydrogen sulfide (inorganic compounds) → chemical energy
+    - Light is either reflected or absorbed
+- Only ~1% of light is converted into chemical energy
+- ~170 billion tons of organic material/yr.
+- GPP (gross primary production) vs. NPP (net primary production)
+    - NPP = GPP - R (respiration)
+    - Gross primary production = total amount of energy that is converted into organic matter (photosynthesis)
+    - Respiration = plant uses in cellular respiration
+- Primary production = total biomass of autotrophs
+- Ecosystems differ in their amounts of primary production
+
+## Efficiency of Energy Transfers
+
+- Production efficiency varies b/n individuals
+- Energy lost at each trophic level (90%)
+- Trophic efficiency: the percent of production transfer from one trophic levels to the next (average ~10%)
+- Production pyramids show loss of energy from a food chain
+- Biomass pyramids show ecological consequences of low trophic efficiencies
+
+## Trophic Structure 
+
+- 1st Trophic Level: Primary Producers
+- 2nd Trophic Level: Primary Consumers
+- 3rd Trophic Level: Secondary Consumers
+- 4th Trophic Level: Third Level Consumers
+- 5th Trophic Level: Top Carnivores
+- Bottom up control vs top down control
+    - Bottom up: drought &rarr; less grass &rarr; less deer
+    - Top down control: more wolves &rarr; less deer
+
+## Food Chains and Food Webs
+
+- Who eats whom?
+- Determined through feeding relationships
+- Transfer of energy - ”food chain” (not realistic)
+    - Collectively - ”food webs”
+- Organisms can have multiple food web roles
+- Transfer of energy limits food chains
+- ![Food Web](./Photos/FoodWeb.png)
+
+## Aquatic primary producers
+
+- Photic zone (limited light penetration)
+    - Deeper &rarr; less light
+- Lower primary producers in tropical/polar regions than expected
+- Limiting factors play a huge role
+    - Pollution or eutrophication
+    - Nitrogen & phosphorus levels low in open ocean
+    - Iron availability limited in regions (ex: Antarctica)
+
+## Keystone and Dominant Species
+
+- Dominant Species (urchins)
+- Keystone Species (sea otters)
+    - Without them, the entire ecosystem would collapse
+    - Plays a crictial role in maintaining the diversity of the ecosystem
+    - Keystone implies one species
+        - But many/all species are important
+        - Ex: QB is keystone - if you have no QB you can't do anything
+    - Ex: no sea otters &rarr; too many urchins &rarr; no kelp
+- ![Keystone](./Photos/Keystone.png)
+- ![Sea Otter](./Photos/SeaOtter.png)
+
+## Terrestrial Primary Producers
+
+- Limits on P.P.
+- Temperature/Weather 
+- Moisture
+- Availability of nutrients
+- “Secondary production”: energy converted by consumers
+
+## Chemical Recycling
+
+- Hydrological Cycle
+- Carbon Cycle
+- Nitrogen Cycle
+- Phosphorus Cycle
+- ![Recycling](./Photos/Recycling.png)
+
+### Hydrological Cycle (water cycle)
+
+- ![Hydrological](./Photos/Hydrological.png)
+
+### Carbon Cycle
+
+- ![CarbonCycle](./Photos/CarbonCycle.png)
+- Deposing things also release carbon dioxide
+
+### Nitrogen Cycle
+
+- ![NitrogenCycle](./Photos/NitrogenCycle.png)
+- 60% of atmosphere is nitrogen
+    - Bacteria would "fix" nitrogen into a usable form (into soil)
+- Plants need nitrogen
+
+### Phosphorus Cycle
+
+- ![PhosphorusCycle](./Photos/PhosphorusCycle.png)
