@@ -6926,3 +6926,100 @@ Because of the threat and hystria surrounding the Cold War and the USSR/communis
         - Churches, charities, private organizations should support the poor
     - Law + order
     - Free market
+
+# Reviews
+
+## Day 1
+
+- AP test more focused on the middle of the content
+- How was Spanish, French, and English colonization different or same?
+    - Spain (and P)
+        - Intermingling
+        - God, Glory, Gold
+    - France
+        - Trade
+    - English
+        - Settled, people looking for freedom
+        - Economic, gold, etc
+- Colonial regions
+    - New England
+        - Religious persucation, looking for freedom (puritans)
+        - Came as families
+        - More equalitarian, education, democracy
+    - Chesapeake/Southern
+        - Headwright
+            - Indentured servants
+        - Slaves
+        - Racism, regid family structure
+    - Middle Atlanic
+- Early presidents
+    - Trying to avoid war with Europe
+- Jefferson
+    - Madbury v. Madison
+        - Established judicial review
+- Madison
+    - Can't stay neutral
+    - War of 1812
+        - DC burns
+        - Hartford Convention: Federalists, wanted 2/3 vote to go to war and embargos, mad that South always won presidency, end of Federalist party
+        - Jackson
+            - Battle of New Orleans
+                - Didn't get the notice that the war was over
+                - Made him popular
+- Monroe
+    - Era of Good Feelings
+        - Didn't solve all the problems
+    - Missouri Compromise
+        - Missouri slave state, Maine free state
+        - 36 30 line
+        - Postponed the slavery issue to be more problematic later
+    - Panic of 1819
+    - Monroe Doctrine
+        - Europe stay out of the Western Hemisphere
+- John Quincy Adams
+    - Corrupt bargin
+        - Clay helps Adams win presidency, Clay becomes secretary of state
+        - Jackson angry, JQA doesn't get much done
+    - American System
+        - Tariffs, internal improvements, national bank (Henry Clay)
+    - Erie Canal
+        - NY center of economy
+    - Second Great Awakening
+    - Eventually becomes an abolitionist
+- Andrew Jackson
+    - Bank Wars
+    - Nullification crisis
+    - Indian Removal Act
+    - Spoils system
+    - Mass democracy
+        - All white men can vote (no property requirements, etc)
+- Van Buren
+    - Inherited that Jackson did
+    - Had to deal with Panic of 1837 from Jackson's Bank Wars
+    - Trail of Tears from Indian Removal Act
+    - Morromism
+- John Tyler
+    - Became a Whig because he did not like Jackson/his party
+    - Only picked to be a VP, but became president when Harrison died
+    - Vetoed a lot of things
+    - Annexed Texas
+- Polk
+    - Manifest Destiny
+    - Starts the Mexican-American War
+        - US wins, but leads to issues over slavery
+    - Steven Douglas
+        - Kansas-Nebraaka Act
+            - Popular sovereignty
+            - Bleeding Kansas, mini civil war
+            - Against Missouri Compromise
+- James Buchanan
+    - Dred Scott v. Sanford
+        - Slaves are property, not citizens
+        - No slaves in the territories
+        - No slaves in the US
+    - Watches states secede from the union
+- Lincoln
+    - President during the Civil War
+    - Emancipation Proclamation
+        - Freed slaves in the Confederacy
+        - Not all slaves
