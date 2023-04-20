@@ -6927,6 +6927,26 @@ Because of the threat and hystria surrounding the Cold War and the USSR/communis
     - Law + order
     - Free market
 
+## Class Notes - 4/20: Patriot Act
+
+- Patriot Act
+    - Passed rigght after 9/11
+    - Expanded the government's ability to spy on people
+        - Wiretapping, internet surveillance, no warrant needed
+    - Always renewed by congress
+- Justified?
+    - Cost/benefit?
+    - Successful?
+    - Morally right?
+    - Good intentions?
+    - Violate liberty?
+    - Constitutional?
+    - Does it give the government too much power?
+    - Has it kept us safe?
+- Department of Justice
+    - Part of the executive branch
+    - Basically the government's lawyer
+
 # Reviews
 
 ## Day 1
