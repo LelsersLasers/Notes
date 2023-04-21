@@ -4453,3 +4453,41 @@ Individual genes vary in how clocklike they are
 ### Phosphorus Cycle
 
 - ![PhosphorusCycle](./Photos/PhosphorusCycle.png)
+
+# 4/21
+
+## Cell Cyle
+
+- Interphase:
+    - G0:
+        - Muscle cells and nerve cells don't divide
+        - Muscle cells grow bigger instead of dividing
+    - G1: gap 1, cell growth
+        - Check point 1:
+            - Check for DNA damage, enough growth factors and nutrients (fit for DNA replication)
+    - S: DNA replication
+    - G2: gap 2, cell growth + prep for mitosis
+        - Check point 2:
+            - Check for cell size and DNA replication went okay (fit for mitosis)
+- M: mitosis (nuclear division, diploid to diploid)
+    - Prophase
+        - Nuclear envelope begins to break down down
+        - Can begin to see chromosomes
+        - Centrioles move to opposite poles
+    - Prometaphase
+        - Nuclear envelope completely breaks down
+        - Spindles invade
+    - Metaphase
+        - Chromosomes line up in the middle (metaphase plate)
+        - Spindles attach to kinetochores
+        - Check point 3:
+            - Checking spindle attachment (fit for separation during anaphase)
+    - Anaphase
+        - Chromosomes separate
+        - Spindles shorten (pulling chromosomes apart)
+    - Telophase
+        - Nucleus begins to reform
+        - Chromosomes begin to uncoil
+- C: cytokinesis (cytoplasmic division, diploid to diploid)
+    - Cleavage furrow (in animals)
+    - Cell plate (in plants)
