@@ -6947,13 +6947,86 @@ Because of the threat and hystria surrounding the Cold War and the USSR/communis
     - Part of the executive branch
     - Basically the government's lawyer
 
+## Class Notes - 4/24: President Obama
+
+- 2008 finical crisis
+    - Low interest rates
+        - Stayed low after 2000 ressession
+        - People borrowed a lot of money
+    - Housing bubble
+        - People bought houses they couldn't afford
+        - And would just sell it if they couldn't pay
+            - Because housing prices were rising (but they fell)
+    - Ninja loans
+        - No income, no job, no assets
+        - People who couldn't afford loans were given loans
+        - Doomed to fail
+    - Credit freeze
+        - Banks stopped lending money (overreacted)
+        - People couldn't get loans, businesses couldn't function
+    - More women then men held jobs
+        - Men's jobs were more affected by the crisis/lay offs
+    - Bush response
+        - Bail out the banks
+            - Give them money so they can lend money
+            - Very unpopular as they only directly helped the banks
+- Obama
+    - Mobilized many voters
+        - Young people, minorities, African Americans
+    - Broke republican hold on the south
+    - Promised:
+        - Change
+        - Green energy
+        - End partisan squabbling
+        - Curb greed and 
+        - End Bush tax cuts
+        - End Iraq war
+- In what ways was Preisdent Obama successful?
+    - Lilybelly Fair Act
+    - Killed Osama Bin Laden
+    - Appointed 2 women to the Supreme Court
+        - First Hispanic (Sonia Sotomayor)
+    - Started to stop recession
+        - Stimulus package
+    - Affordable Care Act
+        - Obamacare
+        - Easier to get health care
+            - Still get it from private companies
+        - But you must have health care (or pay a fine)
+        - Heavily opposed by republicans
+    - First term: democratic congress
+    - "restructuring health care and the financial sector, immigration reform, environmental protections, labor policy and LGBT rights"
+    - "stability to the economy, to the job market, to the housing market, to the auto industry and to the banks"
+    - "dignity, grace, and the lack of scandal"
+    - "ended combat in Iraq and Afghanistan"
+    - "climate change agreement in Paris"
+    - "opening to Cuba"
+    - "strengthened and broadened the social safety net"
+    - "the Iran nuclear deal"
+- In what ways was his presidency a failure or a missed opportunity?
+    - Didn't close Guantanamo Bay
+    - Kept Bush war on terror
+        - Extra legal drone strikes
+    - Federal debt increased
+    - Tea party
+        - TEA: Taxed Enough Already + Boston Tea Party
+        - Anti-tax, anti-government
+        - Opposed Obama
+    - Republicans took over congress
+    - Partisan gridlock
+    - Lots of executive orders
+    - "drone warfare, deportations and domestic surveillance"
+    - Power transistion to republican afterwards
+        - Democrats weaker after his presidency
+    - "Obama made only marginal, even negligible gains, and did not achieve the progressive, political breakthrough he promised"
+
 # Reviews
 
 ## Day 1
 
 - AP test more focused on the middle of the content
 - How was Spanish, French, and English colonization different or same?
-    - Spain (and P)
+    - Spain (and Portugal)
         - Intermingling
         - God, Glory, Gold
     - France
