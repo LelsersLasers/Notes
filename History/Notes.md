@@ -7116,3 +7116,18 @@ Because of the threat and hystria surrounding the Cold War and the USSR/communis
     - Emancipation Proclamation
         - Freed slaves in the Confederacy
         - Not all slaves
+
+## Day 3
+
+- Not graded on English ability
+- DBQ
+    - Contextualization
+    - Thesis
+        - Argument, can't be a restatement of the prompt
+        - Nuanced = good
+    - Documents
+        - Use all 7 (if you use 1 incorrectly, you can still get the point)
+        - 
+- Intro:
+    - Contextualization
+    - Thesis
