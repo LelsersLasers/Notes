@@ -1,2 +1,2 @@
 # Notes
-Personal notes for 11th grade at The Bishop's School
+Personal notes for 11th and 12th grade at The Bishop's School
