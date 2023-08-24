@@ -1,0 +1,33 @@
+# 8/23 - Day 2
+
+- Matter
+	- How much stuff
+	- Has inertia
+		- Change in motion/velocity
+		- Harder to accelerate
+		- Double mass = double inertia
+- Weight = force of gravity
+	- 9.8 m/s^2 (acceleration)
+- Motion
+	- Is relative to a reference point
+- Mass has gravity
+	- Mass attracts mass
+	- Takes a lot of mass to create little gravity
+		- Weak
+	- Double mass = double gravity
+		- Cancels out the double inertia -> same acceleration
+- Air resistance
+	- Low mass = easier to accelerate = more effected by air resistance
+	- The air molecules have mass and inertia
+		- As the object moves, it hits the air molecules and they transfer some of their inertia to the object
+	- If 0 air resistance, all objects fall at the same rate
+		- 9.8 m/s^2
+- Velocity
+	- Change in position over time
+	- Vector: magnitude and direction
+	- Speed: magnitude only
+	- V = delta x / delta t
+- Acceleration
+	- Change in velocity over time
+	- Vector: magnitude and direction
+	- A = delta v / delta t
